@@ -1,0 +1,924 @@
+enquiry_id,enquiry_date,campaign_id,source_channel,enquiry_type,postcode_area,became_account
+2952,2024-07-22,32.0,Paid Search,Trade account application,CV,False
+7513,2025-07-05,93.0,Social,Quote request,PR,False
+4086,2024-10-05,,,Trade account application,M,False
+8038,2025-09-27,,,Price list request,LE,False
+6675,2025-05-17,83.0,Social,Quote request,WV,False
+3785,2024-09-14,,,Product question,CV,True
+4468,2024-11-13,52.0,Paid Search,Product question,NG,False
+3965,2024-09-07,44.0,Trade Events,Quote request,WV,False
+2984,2024-07-27,33.0,Social,Trade account application,S,True
+1818,2024-05-04,,,Product question,LS,False
+8903,2025-11-18,113.0,Social,Trade account application,WV,False
+6126,2025-04-25,77.0,Paid Search,Product question,S,False
+4314,2024-10-22,49.0,Trade Events,Product question,S,False
+1034,2024-03-03,12.0,Paid Search,Trade account application,S,False
+3082,2024-07-09,34.0,Trade Events,Trade account application,LE,True
+1749,2024-05-28,,,Quote request,DN,False
+5287,2025-01-13,,,Quote request,ST,False
+5184,2025-01-24,62.0,Paid Search,Price list request,PR,False
+5969,2025-03-12,74.0,Trade Events,Trade account application,ST,False
+169,2024-01-05,2.0,Paid Search,Product question,S,False
+7595,2025-07-19,94.0,Trade Events,Quote request,ST,False
+7107,2025-06-14,88.0,Social,Trade account application,ST,True
+4407,2024-11-19,51.0,Email,Product question,CV,False
+3046,2024-07-02,34.0,Trade Events,Trade account application,NG,False
+5428,2025-02-02,67.0,Paid Search,Trade account application,PR,False
+6915,2025-06-02,,,Quote request,LS,False
+2297,2024-06-18,27.0,Paid Search,Trade account application,DN,True
+7363,2025-07-08,92.0,Paid Search,Quote request,S,False
+525,2024-02-07,7.0,Paid Search,Trade account application,DN,False
+4372,2024-10-09,50.0,Print & Radio,Trade account application,BD,False
+4946,2024-12-19,58.0,Social,Price list request,M,False
+7098,2025-06-23,,,Product question,S,False
+8022,2025-09-28,,,Trade account application,S,False
+7276,2025-07-16,,,Quote request,CV,False
+6605,2025-05-05,,,Product question,M,False
+1937,2024-05-15,22.0,Paid Search,Product question,DE,False
+4790,2024-12-13,57.0,Paid Search,Quote request,WV,True
+7270,2025-07-27,91.0,Email,Product question,DE,False
+5710,2025-03-14,71.0,Email,Quote request,BD,False
+6444,2025-05-22,81.0,Email,Quote request,S,False
+6528,2025-05-14,82.0,Paid Search,Product question,BD,False
+6855,2025-06-07,86.0,Email,Trade account application,BD,True
+8066,2025-09-06,102.0,Paid Search,Price list request,WV,False
+6311,2025-04-03,,,Quote request,DE,False
+1169,2024-03-03,14.0,Trade Events,Trade account application,CV,False
+5671,2025-02-04,,,Quote request,CV,False
+4627,2024-11-11,,,Quote request,BD,False
+4373,2024-10-27,50.0,Print & Radio,Quote request,NG,False
+2948,2024-07-22,32.0,Paid Search,Price list request,DN,False
+7835,2025-08-02,97.0,Paid Search,Trade account application,DE,True
+1789,2024-05-01,21.0,Email,Quote request,DE,False
+7805,2025-08-08,97.0,Paid Search,Trade account application,DN,True
+5678,2025-03-10,71.0,Email,Trade account application,NG,False
+7819,2025-08-07,,,Quote request,WV,False
+523,2024-02-05,7.0,Paid Search,Quote request,PR,False
+3080,2024-07-17,34.0,Trade Events,Quote request,NG,False
+1537,2024-04-25,18.0,Social,Quote request,DE,False
+2661,2024-06-03,30.0,Print & Radio,Product question,M,False
+4809,2024-12-01,,,Price list request,WV,False
+3465,2024-08-09,38.0,Social,Product question,NG,False
+1913,2024-05-21,22.0,Paid Search,Price list request,BD,False
+7746,2025-08-05,,,Trade account application,S,False
+6431,2025-05-27,81.0,Email,Product question,WV,False
+4192,2024-10-20,47.0,Paid Search,Trade account application,LS,True
+760,2024-02-18,,,Trade account application,S,False
+1925,2024-05-15,,,Quote request,NG,False
+4040,2024-10-06,46.0,Email,Product question,WV,False
+2898,2024-07-05,32.0,Paid Search,Quote request,WV,False
+5546,2025-02-24,68.0,Social,Trade account application,M,False
+1351,2024-04-16,,,Trade account application,PR,False
+2933,2024-07-13,,,Trade account application,CV,True
+4351,2024-10-27,49.0,Trade Events,Product question,S,False
+5780,2025-03-27,,,Trade account application,LS,True
+3866,2024-09-20,43.0,Social,Price list request,DE,False
+6210,2025-04-11,,,Trade account application,DE,False
+8809,2025-11-27,112.0,Paid Search,Trade account application,DN,True
+5773,2025-03-13,72.0,Paid Search,Product question,WV,False
+1553,2024-04-02,18.0,Social,Product question,CV,False
+6343,2025-04-23,79.0,Trade Events,Quote request,M,False
+6354,2025-04-07,,,Trade account application,WV,False
+8307,2025-09-22,104.0,Trade Events,Trade account application,NG,False
+3213,2024-08-06,37.0,Paid Search,Quote request,BD,False
+7518,2025-07-03,,,Product question,DN,False
+3403,2024-08-01,37.0,Paid Search,Quote request,CV,False
+4180,2024-10-01,47.0,Paid Search,Quote request,NG,True
+8147,2025-09-27,,,Quote request,LS,False
+7148,2025-06-14,88.0,Social,Price list request,ST,False
+323,2024-01-01,4.0,Trade Events,Trade account application,LS,False
+3595,2024-09-06,41.0,Email,Product question,DN,False
+2399,2024-06-06,27.0,Paid Search,Trade account application,S,False
+8191,2025-09-20,102.0,Paid Search,Trade account application,ST,False
+4972,2024-12-22,,,Price list request,LE,False
+4744,2024-12-27,56.0,Email,Price list request,WV,True
+3112,2024-07-23,35.0,Print & Radio,Quote request,WV,False
+3732,2024-09-15,,,Quote request,DE,False
+3538,2024-08-16,39.0,Trade Events,Product question,CV,False
+6970,2025-06-15,87.0,Paid Search,Trade account application,M,False
+7982,2025-09-15,,,Product question,LS,False
+1597,2024-04-24,18.0,Social,Price list request,NG,True
+3504,2024-08-15,39.0,Trade Events,Quote request,DE,True
+8091,2025-09-25,102.0,Paid Search,Product question,BD,True
+1023,2024-03-16,12.0,Paid Search,Product question,S,True
+3460,2024-08-25,,,Quote request,WV,False
+4133,2024-10-15,,,Quote request,ST,False
+6087,2025-04-20,76.0,Email,Product question,BD,False
+8275,2025-09-12,104.0,Trade Events,Trade account application,PR,True
+809,2024-03-04,11.0,Email,Quote request,NG,False
+8142,2025-09-22,102.0,Paid Search,Quote request,LS,False
+2640,2024-06-11,,,Quote request,DN,False
+792,2024-02-07,10.0,Print & Radio,Trade account application,M,True
+2474,2024-06-11,,,Product question,BD,False
+5285,2025-01-13,64.0,Trade Events,Trade account application,M,False
+8444,2025-10-10,107.0,Paid Search,Product question,DN,False
+5484,2025-02-07,67.0,Paid Search,Price list request,S,False
+5156,2025-01-23,62.0,Paid Search,Trade account application,LS,True
+9180,2025-12-27,119.0,Trade Events,Price list request,LE,False
+4031,2024-10-17,46.0,Email,Quote request,WV,False
+5803,2025-03-24,72.0,Paid Search,Price list request,CV,False
+93,2024-01-04,,,Trade account application,LS,False
+4609,2024-11-18,,,Quote request,NG,False
+4292,2024-10-15,49.0,Trade Events,Product question,LS,False
+2970,2024-07-02,,,Quote request,CV,True
+4823,2024-12-23,57.0,Paid Search,Trade account application,WV,False
+4395,2024-11-28,51.0,Email,Quote request,ST,False
+8746,2025-11-23,112.0,Paid Search,Price list request,WV,False
+7613,2025-07-26,95.0,Print & Radio,Price list request,S,True
+1161,2024-03-09,,,Quote request,M,False
+6830,2025-05-28,85.0,Print & Radio,Trade account application,S,False
+2303,2024-06-03,27.0,Paid Search,Product question,ST,False
+606,2024-02-12,7.0,Paid Search,Product question,M,False
+3326,2024-08-06,37.0,Paid Search,Price list request,LS,False
+5395,2025-02-20,66.0,Email,Product question,WV,False
+5503,2025-02-05,67.0,Paid Search,Product question,NG,False
+7359,2025-07-08,92.0,Paid Search,Quote request,PR,False
+5836,2025-03-04,,,Trade account application,LE,False
+612,2024-02-16,7.0,Paid Search,Quote request,LE,False
+2850,2024-07-13,32.0,Paid Search,Price list request,PR,False
+4189,2024-10-08,47.0,Paid Search,Product question,M,False
+8431,2025-10-15,107.0,Paid Search,Trade account application,CV,False
+3216,2024-08-03,,,Trade account application,M,False
+7508,2025-07-26,93.0,Social,Price list request,M,True
+6788,2025-05-22,,,Quote request,NG,False
+2271,2024-06-18,27.0,Paid Search,Trade account application,S,True
+1036,2024-03-09,12.0,Paid Search,Price list request,NG,False
+6620,2025-05-07,82.0,Paid Search,Quote request,BD,False
+8639,2025-10-14,109.0,Trade Events,Quote request,PR,True
+1171,2024-03-24,14.0,Trade Events,Trade account application,ST,True
+5398,2025-02-15,66.0,Email,Trade account application,BD,True
+8152,2025-09-14,102.0,Paid Search,Quote request,S,False
+2146,2024-05-18,,,Quote request,LS,False
+3114,2024-07-04,,,Product question,LE,False
+848,2024-03-15,,,Trade account application,PR,False
+7218,2025-06-06,90.0,Print & Radio,Quote request,LS,True
+9003,2025-12-24,116.0,Email,Quote request,ST,False
+8630,2025-10-10,109.0,Trade Events,Quote request,NG,False
+5504,2025-02-26,67.0,Paid Search,Quote request,BD,False
+4203,2024-10-25,,,Price list request,CV,False
+2897,2024-07-26,32.0,Paid Search,Product question,ST,False
+1275,2024-04-07,16.0,Email,Price list request,LS,True
+53,2024-01-04,1.0,Email,Quote request,BD,False
+2373,2024-06-10,27.0,Paid Search,Price list request,DE,False
+8341,2025-09-01,105.0,Print & Radio,Trade account application,LS,True
+9058,2025-12-05,117.0,Paid Search,Price list request,LS,False
+116,2024-01-07,2.0,Paid Search,Trade account application,WV,True
+1310,2024-04-21,16.0,Email,Product question,M,False
+3280,2024-08-19,37.0,Paid Search,Trade account application,ST,False
+5916,2025-03-21,73.0,Social,Quote request,WV,False
+8909,2025-11-25,113.0,Social,Quote request,S,False
+204,2024-01-23,2.0,Paid Search,Trade account application,M,False
+4894,2024-12-11,57.0,Paid Search,Quote request,ST,False
+6109,2025-04-09,76.0,Email,Trade account application,LS,True
+1214,2024-03-16,,,Product question,NG,False
+2816,2024-07-25,32.0,Paid Search,Price list request,ST,False
+894,2024-03-15,12.0,Paid Search,Quote request,PR,False
+939,2024-03-18,12.0,Paid Search,Trade account application,BD,True
+1695,2024-04-24,,,Quote request,DE,False
+3009,2024-07-12,33.0,Social,Trade account application,BD,False
+2732,2024-07-25,31.0,Email,Quote request,LE,False
+7221,2025-06-23,90.0,Print & Radio,Quote request,PR,False
+8327,2025-09-11,,,Trade account application,NG,True
+932,2024-03-20,12.0,Paid Search,Quote request,S,False
+5948,2025-03-23,73.0,Social,Quote request,NG,False
+5539,2025-02-14,,,Product question,WV,True
+6310,2025-04-12,,,Trade account application,NG,True
+497,2024-02-23,7.0,Paid Search,Trade account application,DN,True
+8473,2025-10-26,107.0,Paid Search,Quote request,NG,True
+4923,2024-12-08,58.0,Social,Trade account application,LS,False
+5697,2025-03-28,71.0,Email,Quote request,NG,False
+643,2024-02-12,8.0,Social,Trade account application,LE,True
+8584,2025-10-25,108.0,Social,Trade account application,LE,False
+2779,2024-07-22,,,Quote request,DE,False
+4836,2024-12-09,57.0,Paid Search,Trade account application,DE,False
+8049,2025-09-13,102.0,Paid Search,Price list request,PR,False
+8977,2025-11-19,,,Quote request,LS,False
+6204,2025-04-04,77.0,Paid Search,Trade account application,NG,False
+552,2024-02-16,7.0,Paid Search,Quote request,PR,False
+3816,2024-09-06,42.0,Paid Search,Quote request,WV,False
+7401,2025-07-10,92.0,Paid Search,Product question,CV,False
+9071,2025-12-01,117.0,Paid Search,Trade account application,S,False
+1645,2024-04-27,,,Trade account application,M,False
+4979,2024-12-11,59.0,Trade Events,Price list request,LS,False
+2448,2024-06-28,,,Trade account application,PR,False
+8042,2025-09-15,102.0,Paid Search,Trade account application,LE,False
+889,2024-03-13,12.0,Paid Search,Trade account application,CV,False
+2566,2024-06-22,29.0,Trade Events,Product question,ST,False
+8135,2025-09-25,102.0,Paid Search,Product question,S,True
+2896,2024-07-12,,,Trade account application,S,True
+1705,2024-04-13,20.0,Print & Radio,Trade account application,S,True
+3439,2024-08-21,38.0,Social,Trade account application,CV,False
+1802,2024-05-26,22.0,Paid Search,Product question,S,False
+6114,2025-04-14,,,Trade account application,PR,False
+4414,2024-11-06,51.0,Email,Product question,DN,False
+7209,2025-06-21,,,Trade account application,M,False
+7702,2025-08-19,96.0,Email,Trade account application,DE,False
+6876,2025-06-26,86.0,Email,Product question,LS,False
+1390,2024-04-28,,,Product question,ST,False
+4943,2024-12-24,58.0,Social,Price list request,DN,False
+6916,2025-06-28,86.0,Email,Trade account application,LE,False
+5057,2025-01-04,61.0,Email,Trade account application,ST,False
+6422,2025-04-10,80.0,Print & Radio,Quote request,DN,False
+7274,2025-07-18,,,Product question,LS,True
+900,2024-03-23,,,Trade account application,CV,False
+4759,2024-12-09,56.0,Email,Product question,NG,False
+4990,2024-12-07,59.0,Trade Events,Quote request,ST,False
+3503,2024-08-15,39.0,Trade Events,Quote request,S,False
+4985,2024-12-15,59.0,Trade Events,Trade account application,LE,False
+1782,2024-05-24,,,Trade account application,S,False
+4936,2024-12-24,58.0,Social,Quote request,ST,False
+6659,2025-05-10,82.0,Paid Search,Trade account application,M,True
+3949,2024-09-01,44.0,Trade Events,Quote request,DN,False
+3753,2024-09-12,,,Quote request,LE,False
+8704,2025-11-11,,,Quote request,CV,False
+7487,2025-07-16,,,Trade account application,BD,True
+8900,2025-11-06,113.0,Social,Quote request,M,False
+1866,2024-05-28,22.0,Paid Search,Quote request,NG,False
+7428,2025-07-22,,,Price list request,S,True
+8350,2025-10-06,,,Trade account application,CV,False
+6525,2025-05-20,,,Price list request,LE,False
+1623,2024-04-18,19.0,Trade Events,Trade account application,WV,False
+2237,2024-06-17,,,Trade account application,DN,False
+7846,2025-08-14,98.0,Social,Trade account application,WV,True
+3214,2024-08-14,37.0,Paid Search,Price list request,NG,False
+8371,2025-10-24,106.0,Email,Quote request,LS,False
+7583,2025-07-12,,,Quote request,LS,False
+7565,2025-07-19,94.0,Trade Events,Trade account application,ST,False
+7741,2025-08-09,,,Quote request,LE,False
+7955,2025-08-07,100.0,Print & Radio,Trade account application,PR,True
+1140,2024-03-11,13.0,Social,Trade account application,M,False
+8125,2025-09-09,102.0,Paid Search,Quote request,DN,False
+3353,2024-08-28,,,Price list request,CV,False
+8083,2025-09-15,102.0,Paid Search,Product question,DN,False
+8926,2025-11-19,,,Price list request,S,False
+7368,2025-07-17,,,Quote request,S,False
+8446,2025-10-11,107.0,Paid Search,Trade account application,DE,True
+4393,2024-11-27,51.0,Email,Product question,M,False
+6209,2025-04-04,77.0,Paid Search,Trade account application,NG,False
+7549,2025-07-08,,,Quote request,LS,False
+4708,2024-11-23,55.0,Print & Radio,Quote request,CV,False
+3257,2024-08-27,,,Price list request,LE,False
+5884,2025-03-12,,,Price list request,M,False
+8960,2025-11-18,114.0,Trade Events,Product question,DN,False
+3090,2024-07-06,35.0,Print & Radio,Trade account application,S,True
+7858,2025-08-21,98.0,Social,Trade account application,DN,False
+3428,2024-08-09,38.0,Social,Price list request,WV,False
+3828,2024-09-10,43.0,Social,Product question,LS,False
+8531,2025-10-22,107.0,Paid Search,Product question,ST,False
+8258,2025-09-22,,,Product question,DN,False
+1951,2024-05-11,22.0,Paid Search,Trade account application,BD,True
+6051,2025-04-01,,,Price list request,BD,False
+3237,2024-08-05,,,Trade account application,ST,False
+4870,2024-12-23,57.0,Paid Search,Product question,CV,False
+1683,2024-04-09,,,Quote request,DE,False
+1987,2024-05-21,,,Quote request,LS,False
+4497,2024-11-03,52.0,Paid Search,Trade account application,S,False
+132,2024-01-11,,,Trade account application,PR,False
+1007,2024-03-21,12.0,Paid Search,Product question,BD,False
+4406,2024-11-17,,,Product question,LE,False
+8828,2025-11-27,,,Trade account application,LE,False
+8561,2025-10-13,,,Product question,NG,False
+4450,2024-11-05,,,Quote request,M,False
+5211,2025-01-04,,,Quote request,M,False
+4783,2024-12-04,,,Trade account application,DE,False
+3970,2024-09-24,45.0,Print & Radio,Trade account application,M,False
+2005,2024-05-02,23.0,Social,Trade account application,WV,True
+4269,2024-10-21,48.0,Social,Product question,ST,False
+100,2024-01-17,2.0,Paid Search,Trade account application,LE,False
+8459,2025-10-26,,,Price list request,ST,False
+5115,2025-01-18,62.0,Paid Search,Product question,S,True
+6961,2025-06-03,,,Quote request,DN,False
+8234,2025-09-13,,,Product question,PR,False
+8070,2025-09-27,102.0,Paid Search,Trade account application,LE,False
+5809,2025-03-15,72.0,Paid Search,Quote request,M,False
+130,2024-01-20,2.0,Paid Search,Price list request,NG,False
+7748,2025-08-21,97.0,Paid Search,Trade account application,PR,True
+4761,2024-12-15,56.0,Email,Trade account application,CV,True
+7918,2025-08-16,,,Quote request,BD,False
+3810,2024-09-07,,,Quote request,BD,False
+9208,2025-12-13,120.0,Print & Radio,Trade account application,LS,False
+7604,2025-07-23,95.0,Print & Radio,Trade account application,WV,False
+112,2024-01-02,,,Product question,ST,False
+6727,2025-05-11,83.0,Social,Trade account application,ST,False
+4577,2024-11-10,52.0,Paid Search,Trade account application,LE,False
+5567,2025-02-20,,,Trade account application,NG,False
+2104,2024-05-13,24.0,Trade Events,Product question,WV,True
+8690,2025-10-16,110.0,Print & Radio,Product question,DN,False
+1587,2024-04-05,,,Trade account application,NG,False
+7983,2025-09-26,,,Quote request,LS,False
+7086,2025-06-02,87.0,Paid Search,Product question,DN,False
+7419,2025-07-07,92.0,Paid Search,Price list request,DE,False
+3875,2024-09-12,43.0,Social,Trade account application,PR,True
+1840,2024-05-09,22.0,Paid Search,Trade account application,BD,False
+704,2024-02-01,,,Product question,CV,False
+2527,2024-06-20,29.0,Trade Events,Product question,DE,False
+2444,2024-06-20,28.0,Social,Quote request,BD,False
+591,2024-02-03,7.0,Paid Search,Quote request,DN,True
+4183,2024-10-14,47.0,Paid Search,Trade account application,LS,False
+5519,2025-02-22,67.0,Paid Search,Trade account application,BD,True
+8214,2025-09-12,103.0,Social,Quote request,DE,False
+5865,2025-03-02,,,Quote request,LE,False
+3541,2024-08-28,,,Quote request,LS,True
+3262,2024-08-10,37.0,Paid Search,Trade account application,BD,True
+6988,2025-06-25,,,Trade account application,DE,True
+7859,2025-08-15,98.0,Social,Trade account application,LS,True
+3550,2024-08-12,,,Price list request,M,False
+3388,2024-08-17,37.0,Paid Search,Trade account application,ST,True
+7033,2025-06-25,87.0,Paid Search,Product question,LE,False
+2208,2024-06-18,26.0,Email,Quote request,LE,True
+2964,2024-07-05,32.0,Paid Search,Product question,ST,False
+404,2024-02-05,6.0,Email,Product question,DE,False
+3516,2024-08-20,39.0,Trade Events,Product question,NG,False
+8150,2025-09-02,,,Trade account application,M,False
+3404,2024-08-16,,,Price list request,WV,False
+8633,2025-10-25,,,Quote request,BD,False
+8529,2025-10-21,107.0,Paid Search,Quote request,CV,True
+1234,2024-03-10,15.0,Print & Radio,Quote request,CV,False
+8534,2025-10-28,107.0,Paid Search,Quote request,DN,False
+6355,2025-04-03,79.0,Trade Events,Trade account application,CV,True
+2852,2024-07-04,32.0,Paid Search,Product question,BD,False
+6710,2025-05-04,83.0,Social,Trade account application,LS,False
+1614,2024-04-28,,,Quote request,LS,True
+5337,2025-01-13,65.0,Print & Radio,Quote request,CV,False
+396,2024-02-19,6.0,Email,Trade account application,PR,False
+3610,2024-09-07,41.0,Email,Quote request,LE,False
+5349,2025-01-26,,,Product question,S,False
+6766,2025-05-24,84.0,Trade Events,Trade account application,S,False
+7058,2025-06-09,87.0,Paid Search,Trade account application,LS,False
+9032,2025-12-24,117.0,Paid Search,Product question,CV,False
+6803,2025-05-26,,,Price list request,BD,False
+4503,2024-11-02,52.0,Paid Search,Quote request,DN,False
+6219,2025-04-25,77.0,Paid Search,Quote request,S,False
+925,2024-03-13,,,Quote request,LE,False
+8571,2025-10-09,,,Trade account application,BD,False
+5068,2025-01-17,62.0,Paid Search,Price list request,LS,False
+446,2024-02-08,6.0,Email,Trade account application,PR,True
+3960,2024-09-17,44.0,Trade Events,Quote request,NG,False
+8100,2025-09-24,102.0,Paid Search,Product question,PR,False
+8535,2025-10-10,107.0,Paid Search,Quote request,WV,False
+664,2024-02-08,,,Quote request,DN,False
+7066,2025-06-01,87.0,Paid Search,Trade account application,M,False
+6024,2025-03-25,75.0,Print & Radio,Quote request,BD,False
+8336,2025-09-06,105.0,Print & Radio,Trade account application,M,True
+5267,2025-01-04,63.0,Social,Trade account application,WV,False
+6882,2025-06-13,86.0,Email,Price list request,BD,False
+2951,2024-07-07,32.0,Paid Search,Quote request,PR,False
+5951,2025-03-18,73.0,Social,Product question,LE,False
+7624,2025-07-19,,,Quote request,PR,False
+8285,2025-09-14,,,Trade account application,DE,True
+4459,2024-11-03,52.0,Paid Search,Price list request,S,True
+4691,2024-11-22,,,Quote request,M,False
+6737,2025-05-26,83.0,Social,Quote request,BD,False
+5072,2025-01-01,62.0,Paid Search,Product question,S,False
+4433,2024-11-23,51.0,Email,Product question,PR,True
+6456,2025-05-05,,,Trade account application,S,True
+1513,2024-04-07,,,Trade account application,DE,True
+6837,2025-05-18,,,Trade account application,S,False
+287,2024-01-21,,,Product question,NG,False
+2143,2024-05-23,24.0,Trade Events,Quote request,ST,False
+8583,2025-10-07,,,Quote request,LE,False
+4295,2024-10-22,49.0,Trade Events,Trade account application,BD,False
+8020,2025-09-01,101.0,Email,Price list request,M,False
+5691,2025-03-22,71.0,Email,Quote request,LE,False
+711,2024-02-12,,,Price list request,S,False
+4440,2024-11-19,,,Trade account application,DE,True
+1076,2024-03-22,12.0,Paid Search,Quote request,NG,False
+3391,2024-08-25,37.0,Paid Search,Product question,PR,False
+5909,2025-03-26,73.0,Social,Quote request,PR,False
+9022,2025-12-20,,,Quote request,LE,False
+6175,2025-04-17,,,Quote request,PR,False
+2507,2024-06-03,,,Product question,LS,False
+2650,2024-06-05,30.0,Print & Radio,Trade account application,PR,True
+3040,2024-07-15,34.0,Trade Events,Trade account application,WV,False
+6070,2025-04-04,,,Product question,WV,False
+6911,2025-06-22,86.0,Email,Product question,LE,False
+8184,2025-09-14,102.0,Paid Search,Quote request,M,False
+617,2024-02-01,8.0,Social,Trade account application,WV,True
+7237,2025-06-14,,,Product question,DN,False
+4178,2024-10-09,47.0,Paid Search,Product question,PR,False
+2798,2024-07-01,32.0,Paid Search,Trade account application,PR,True
+4817,2024-12-27,57.0,Paid Search,Quote request,WV,False
+2415,2024-06-16,,,Product question,WV,False
+4356,2024-10-12,49.0,Trade Events,Product question,LS,False
+2588,2024-06-26,29.0,Trade Events,Quote request,BD,False
+2638,2024-06-25,30.0,Print & Radio,Product question,CV,False
+3411,2024-08-27,37.0,Paid Search,Product question,S,False
+5140,2025-01-03,,,Quote request,DE,False
+9000,2025-12-23,116.0,Email,Price list request,PR,False
+8287,2025-09-11,104.0,Trade Events,Product question,LS,False
+8741,2025-11-04,111.0,Email,Quote request,LS,False
+7251,2025-07-21,91.0,Email,Trade account application,DN,False
+950,2024-03-25,12.0,Paid Search,Price list request,ST,False
+9067,2025-12-28,,,Trade account application,M,False
+1859,2024-05-13,,,Product question,PR,True
+6503,2025-05-21,82.0,Paid Search,Price list request,BD,False
+8910,2025-11-22,113.0,Social,Trade account application,ST,True
+5487,2025-02-07,67.0,Paid Search,Quote request,WV,True
+1530,2024-04-13,18.0,Social,Product question,S,True
+4296,2024-10-22,49.0,Trade Events,Price list request,DE,False
+3945,2024-09-21,44.0,Trade Events,Trade account application,WV,False
+6298,2025-04-05,78.0,Social,Product question,DE,False
+6045,2025-03-04,,,Trade account application,ST,True
+1438,2024-04-26,,,Trade account application,BD,False
+8996,2025-12-10,116.0,Email,Trade account application,BD,True
+6174,2025-04-12,77.0,Paid Search,Product question,M,False
+806,2024-03-28,11.0,Email,Trade account application,M,False
+2802,2024-07-24,,,Product question,DE,True
+5885,2025-03-06,72.0,Paid Search,Trade account application,S,False
+5717,2025-03-28,,,Product question,DN,False
+5580,2025-02-28,68.0,Social,Trade account application,LS,False
+5182,2025-01-12,62.0,Paid Search,Quote request,ST,False
+7809,2025-08-18,97.0,Paid Search,Trade account application,DE,False
+462,2024-02-21,7.0,Paid Search,Trade account application,PR,True
+7477,2025-07-18,,,Quote request,CV,False
+6732,2025-05-04,83.0,Social,Quote request,ST,False
+235,2024-01-21,2.0,Paid Search,Product question,BD,False
+2829,2024-07-01,32.0,Paid Search,Price list request,DN,False
+7449,2025-07-14,92.0,Paid Search,Quote request,LS,False
+440,2024-02-26,,,Trade account application,CV,True
+1996,2024-05-20,23.0,Social,Trade account application,S,False
+3763,2024-09-14,42.0,Paid Search,Trade account application,DN,True
+2932,2024-07-03,32.0,Paid Search,Quote request,ST,False
+9069,2025-12-09,,,Trade account application,PR,True
+2450,2024-06-19,28.0,Social,Quote request,DN,False
+2012,2024-05-15,,,Quote request,WV,False
+6369,2025-04-04,79.0,Trade Events,Quote request,PR,False
+6124,2025-04-09,,,Quote request,DE,False
+2786,2024-07-08,32.0,Paid Search,Trade account application,PR,True
+8069,2025-09-26,,,Quote request,NG,False
+6353,2025-04-18,79.0,Trade Events,Trade account application,M,True
+3942,2024-09-28,44.0,Trade Events,Trade account application,LS,True
+3371,2024-08-23,37.0,Paid Search,Trade account application,BD,False
+6613,2025-05-23,82.0,Paid Search,Quote request,DE,False
+2217,2024-06-15,26.0,Email,Trade account application,NG,False
+839,2024-03-24,,,Trade account application,NG,False
+5945,2025-03-25,,,Quote request,DN,False
+7142,2025-06-02,88.0,Social,Trade account application,LS,False
+742,2024-02-10,9.0,Trade Events,Quote request,S,False
+8158,2025-09-23,102.0,Paid Search,Quote request,BD,False
+1031,2024-03-26,12.0,Paid Search,Quote request,BD,False
+2838,2024-07-04,,,Quote request,NG,False
+6233,2025-04-17,77.0,Paid Search,Quote request,WV,False
+1989,2024-05-06,23.0,Social,Quote request,LS,False
+8129,2025-09-08,102.0,Paid Search,Trade account application,BD,True
+487,2024-02-01,7.0,Paid Search,Price list request,DN,False
+2154,2024-05-06,25.0,Print & Radio,Quote request,M,False
+6719,2025-05-11,83.0,Social,Product question,ST,True
+8482,2025-10-01,107.0,Paid Search,Trade account application,M,True
+3637,2024-09-10,,,Trade account application,M,False
+2776,2024-07-05,,,Trade account application,S,False
+701,2024-02-15,9.0,Trade Events,Trade account application,DN,True
+672,2024-02-03,,,Quote request,WV,False
+447,2024-02-05,6.0,Email,Trade account application,DE,True
+5905,2025-03-04,73.0,Social,Trade account application,S,True
+4148,2024-10-23,47.0,Paid Search,Product question,BD,False
+8857,2025-11-12,112.0,Paid Search,Quote request,LS,False
+6272,2025-04-20,78.0,Social,Price list request,DE,True
+5419,2025-02-26,,,Trade account application,S,True
+3930,2024-09-08,44.0,Trade Events,Quote request,WV,False
+2607,2024-06-06,29.0,Trade Events,Product question,M,False
+2179,2024-05-16,,,Quote request,LS,False
+6058,2025-04-24,,,Price list request,DE,False
+6445,2025-05-22,81.0,Email,Price list request,CV,False
+5547,2025-02-14,68.0,Social,Quote request,NG,False
+1074,2024-03-16,,,Product question,S,False
+7438,2025-07-15,92.0,Paid Search,Quote request,LE,False
+78,2024-01-04,2.0,Paid Search,Price list request,LS,False
+8549,2025-10-13,107.0,Paid Search,Product question,S,False
+2356,2024-06-16,27.0,Paid Search,Product question,S,False
+8185,2025-09-21,102.0,Paid Search,Price list request,M,False
+8019,2025-09-15,101.0,Email,Product question,WV,False
+3524,2024-08-02,,,Price list request,NG,False
+1229,2024-03-21,15.0,Print & Radio,Quote request,LE,False
+6603,2025-05-01,82.0,Paid Search,Product question,DE,False
+7647,2025-08-03,96.0,Email,Quote request,WV,False
+7482,2025-07-21,92.0,Paid Search,Trade account application,WV,True
+6269,2025-04-04,77.0,Paid Search,Trade account application,ST,False
+4520,2024-11-23,52.0,Paid Search,Price list request,CV,False
+7853,2025-08-20,98.0,Social,Quote request,PR,True
+7570,2025-07-12,94.0,Trade Events,Trade account application,WV,False
+6,2024-01-03,1.0,Email,Trade account application,PR,False
+3264,2024-08-22,,,Quote request,M,False
+2255,2024-06-03,26.0,Email,Product question,NG,False
+7826,2025-08-24,97.0,Paid Search,Price list request,PR,False
+5012,2025-01-22,61.0,Email,Quote request,LS,False
+1762,2024-05-02,21.0,Email,Trade account application,LE,True
+5783,2025-03-25,72.0,Paid Search,Quote request,DE,False
+6668,2025-05-23,83.0,Social,Quote request,S,False
+528,2024-02-20,7.0,Paid Search,Price list request,LS,False
+1693,2024-04-12,19.0,Trade Events,Trade account application,M,False
+8706,2025-11-03,111.0,Email,Product question,M,False
+76,2024-01-23,2.0,Paid Search,Trade account application,CV,True
+8825,2025-11-05,,,Product question,BD,False
+1855,2024-05-13,22.0,Paid Search,Price list request,LE,False
+3804,2024-09-15,42.0,Paid Search,Trade account application,CV,True
+7557,2025-07-02,94.0,Trade Events,Product question,ST,False
+5229,2025-01-25,62.0,Paid Search,Product question,CV,False
+208,2024-01-02,,,Quote request,ST,False
+2455,2024-06-22,28.0,Social,Quote request,NG,False
+4749,2024-12-21,,,Quote request,BD,False
+3220,2024-08-03,37.0,Paid Search,Price list request,LS,False
+1807,2024-05-25,,,Quote request,S,False
+4968,2024-12-19,,,Quote request,CV,False
+4890,2024-12-10,,,Quote request,DE,False
+2071,2024-05-20,24.0,Trade Events,Product question,M,False
+1218,2024-03-17,,,Quote request,PR,False
+2292,2024-06-06,27.0,Paid Search,Trade account application,LE,False
+2161,2024-05-13,25.0,Print & Radio,Product question,WV,False
+641,2024-02-03,8.0,Social,Product question,BD,False
+4993,2024-12-19,60.0,Print & Radio,Price list request,S,False
+6301,2025-04-24,78.0,Social,Quote request,DE,False
+7265,2025-07-19,,,Quote request,NG,False
+387,2024-02-01,6.0,Email,Trade account application,DE,False
+6733,2025-05-24,,,Quote request,S,False
+5662,2025-02-10,70.0,Print & Radio,Price list request,S,False
+2815,2024-07-06,,,Trade account application,ST,False
+2048,2024-05-23,23.0,Social,Quote request,ST,False
+2705,2024-07-11,31.0,Email,Price list request,S,False
+8845,2025-11-09,112.0,Paid Search,Price list request,NG,False
+7984,2025-09-14,,,Product question,CV,False
+598,2024-02-26,7.0,Paid Search,Price list request,DN,False
+6285,2025-04-16,78.0,Social,Price list request,CV,False
+7073,2025-06-14,87.0,Paid Search,Price list request,BD,False
+902,2024-03-10,12.0,Paid Search,Price list request,DE,False
+3116,2024-07-12,35.0,Print & Radio,Quote request,DN,True
+4280,2024-10-17,48.0,Social,Product question,BD,False
+4844,2024-12-26,57.0,Paid Search,Price list request,LE,False
+2624,2024-06-06,,,Quote request,ST,False
+4724,2024-11-24,,,Price list request,CV,False
+588,2024-02-21,7.0,Paid Search,Trade account application,BD,True
+7242,2025-06-28,,,Price list request,BD,False
+4054,2024-10-01,47.0,Paid Search,Price list request,CV,False
+9103,2025-12-06,117.0,Paid Search,Price list request,LE,True
+2358,2024-06-27,,,Quote request,LE,False
+4301,2024-10-04,49.0,Trade Events,Quote request,BD,False
+7940,2025-08-15,99.0,Trade Events,Trade account application,S,False
+2947,2024-07-12,,,Price list request,BD,False
+4117,2024-10-22,47.0,Paid Search,Quote request,S,False
+4078,2024-10-22,47.0,Paid Search,Trade account application,LE,True
+8109,2025-09-25,102.0,Paid Search,Quote request,WV,False
+7330,2025-07-07,,,Trade account application,DE,False
+4650,2024-11-24,,,Trade account application,DN,False
+7202,2025-06-11,89.0,Trade Events,Price list request,PR,False
+5219,2025-01-10,,,Trade account application,PR,True
+5686,2025-03-01,71.0,Email,Trade account application,ST,True
+65,2024-01-01,2.0,Paid Search,Quote request,DN,True
+859,2024-03-19,11.0,Email,Product question,M,False
+5926,2025-03-19,,,Trade account application,M,False
+4916,2024-12-17,,,Price list request,ST,False
+2139,2024-05-18,,,Trade account application,M,True
+7505,2025-07-19,,,Price list request,PR,False
+1797,2024-05-23,21.0,Email,Product question,DN,False
+105,2024-01-07,2.0,Paid Search,Trade account application,M,False
+7317,2025-07-22,,,Trade account application,PR,False
+1815,2024-05-25,22.0,Paid Search,Quote request,DE,False
+6910,2025-06-08,,,Quote request,S,True
+8159,2025-09-08,,,Quote request,CV,False
+4883,2024-12-25,57.0,Paid Search,Trade account application,LS,False
+7302,2025-07-07,91.0,Email,Trade account application,LS,False
+6658,2025-05-25,,,Price list request,BD,False
+6648,2025-05-04,82.0,Paid Search,Quote request,CV,False
+7852,2025-08-10,,,Quote request,LE,False
+499,2024-02-28,7.0,Paid Search,Price list request,LE,False
+2258,2024-06-23,,,Quote request,CV,True
+4235,2024-10-27,48.0,Social,Trade account application,M,False
+3226,2024-08-17,37.0,Paid Search,Trade account application,DE,True
+3148,2024-08-23,36.0,Email,Quote request,DE,False
+2623,2024-06-01,29.0,Trade Events,Quote request,LS,False
+2771,2024-07-26,32.0,Paid Search,Price list request,M,False
+4768,2024-12-08,56.0,Email,Quote request,LS,False
+3258,2024-08-18,,,Trade account application,LS,False
+9217,2025-12-06,120.0,Print & Radio,Product question,PR,False
+4565,2024-11-14,52.0,Paid Search,Trade account application,WV,False
+6933,2025-06-23,,,Trade account application,ST,False
+383,2024-02-20,6.0,Email,Price list request,PR,False
+7212,2025-06-22,89.0,Trade Events,Quote request,ST,False
+6941,2025-06-14,87.0,Paid Search,Trade account application,DN,False
+2242,2024-06-24,26.0,Email,Price list request,LE,False
+3900,2024-09-09,44.0,Trade Events,Quote request,DN,False
+779,2024-02-24,10.0,Print & Radio,Product question,ST,False
+5138,2025-01-14,62.0,Paid Search,Product question,NG,False
+8929,2025-11-14,114.0,Trade Events,Quote request,LE,False
+2913,2024-07-24,32.0,Paid Search,Product question,M,False
+3814,2024-09-23,42.0,Paid Search,Product question,S,False
+517,2024-02-05,7.0,Paid Search,Quote request,S,False
+4843,2024-12-24,,,Trade account application,CV,False
+4247,2024-10-25,48.0,Social,Trade account application,LS,False
+82,2024-01-10,2.0,Paid Search,Quote request,PR,True
+7538,2025-07-25,,,Trade account application,BD,False
+8387,2025-10-11,106.0,Email,Trade account application,S,True
+7739,2025-08-24,97.0,Paid Search,Price list request,M,False
+4781,2024-12-09,56.0,Email,Trade account application,PR,True
+1309,2024-04-01,16.0,Email,Price list request,BD,False
+737,2024-02-06,9.0,Trade Events,Price list request,DN,False
+5986,2025-03-28,74.0,Trade Events,Price list request,NG,False
+7090,2025-06-15,87.0,Paid Search,Quote request,BD,False
+7210,2025-06-08,,,Price list request,S,False
+2453,2024-06-26,,,Quote request,M,False
+6644,2025-05-21,,,Trade account application,LS,True
+4359,2024-10-06,,,Trade account application,LS,False
+4242,2024-10-02,,,Trade account application,PR,True
+7987,2025-09-04,101.0,Email,Quote request,S,True
+8480,2025-10-02,,,Product question,CV,False
+6974,2025-06-24,,,Quote request,ST,True
+5506,2025-02-10,,,Product question,DE,False
+6158,2025-04-27,,,Product question,DE,False
+2529,2024-06-12,29.0,Trade Events,Price list request,ST,False
+8550,2025-10-18,,,Quote request,NG,False
+5587,2025-02-12,69.0,Trade Events,Quote request,NG,False
+5557,2025-02-19,68.0,Social,Product question,ST,False
+7714,2025-08-04,97.0,Paid Search,Quote request,CV,True
+7139,2025-06-27,,,Trade account application,LS,False
+2021,2024-05-20,23.0,Social,Quote request,BD,False
+8039,2025-09-15,,,Price list request,S,False
+1837,2024-05-28,22.0,Paid Search,Trade account application,S,True
+6050,2025-04-05,76.0,Email,Trade account application,LS,False
+6271,2025-04-17,77.0,Paid Search,Product question,NG,True
+1477,2024-04-21,17.0,Paid Search,Trade account application,BD,True
+2454,2024-06-11,28.0,Social,Quote request,DE,False
+7386,2025-07-05,92.0,Paid Search,Product question,WV,False
+4107,2024-10-05,47.0,Paid Search,Quote request,WV,False
+8923,2025-11-27,114.0,Trade Events,Quote request,M,False
+5403,2025-02-21,,,Trade account application,M,True
+3374,2024-08-12,37.0,Paid Search,Product question,WV,False
+1622,2024-04-14,,,Quote request,S,False
+8721,2025-11-10,,,Product question,NG,False
+8749,2025-11-16,112.0,Paid Search,Quote request,DN,False
+4830,2024-12-01,,,Quote request,PR,True
+5704,2025-03-01,71.0,Email,Quote request,NG,False
+8940,2025-11-08,,,Trade account application,LE,False
+8716,2025-11-24,,,Trade account application,DN,False
+1948,2024-05-24,,,Trade account application,ST,True
+7849,2025-08-18,98.0,Social,Quote request,NG,False
+1528,2024-04-23,,,Trade account application,S,False
+1058,2024-03-02,12.0,Paid Search,Quote request,DE,False
+4071,2024-10-10,47.0,Paid Search,Product question,DN,False
+2065,2024-05-04,24.0,Trade Events,Price list request,LS,False
+2039,2024-05-11,23.0,Social,Quote request,LS,False
+341,2024-01-08,,,Quote request,ST,False
+4697,2024-11-17,,,Quote request,NG,False
+2946,2024-07-21,,,Trade account application,NG,False
+6820,2025-05-13,85.0,Print & Radio,Trade account application,NG,False
+2534,2024-06-28,29.0,Trade Events,Trade account application,PR,False
+413,2024-02-20,,,Quote request,CV,False
+8278,2025-09-24,,,Quote request,S,False
+2497,2024-06-19,28.0,Social,Product question,LE,False
+680,2024-02-28,,,Trade account application,M,True
+3339,2024-08-22,,,Product question,LE,False
+1111,2024-03-09,,,Product question,ST,False
+7432,2025-07-13,,,Trade account application,LS,False
+2552,2024-06-03,29.0,Trade Events,Product question,LS,False
+7331,2025-07-05,,,Product question,M,True
+7860,2025-08-20,98.0,Social,Quote request,S,False
+6822,2025-05-19,85.0,Print & Radio,Quote request,ST,False
+5166,2025-01-18,62.0,Paid Search,Quote request,NG,False
+2863,2024-07-17,32.0,Paid Search,Trade account application,DE,False
+5044,2025-01-04,61.0,Email,Trade account application,M,True
+7168,2025-06-03,89.0,Trade Events,Trade account application,M,True
+2856,2024-07-06,32.0,Paid Search,Product question,CV,False
+185,2024-01-16,,,Quote request,CV,False
+3142,2024-08-06,,,Product question,S,False
+8220,2025-09-06,103.0,Social,Trade account application,CV,True
+6816,2025-05-21,84.0,Trade Events,Trade account application,DE,False
+2054,2024-05-08,23.0,Social,Trade account application,ST,False
+8266,2025-09-26,,,Price list request,CV,False
+1469,2024-04-13,17.0,Paid Search,Trade account application,M,True
+3657,2024-09-18,,,Quote request,PR,False
+7248,2025-06-09,90.0,Print & Radio,Quote request,WV,False
+2861,2024-07-17,,,Trade account application,CV,False
+5073,2025-01-08,,,Quote request,S,False
+8140,2025-09-20,,,Quote request,BD,False
+5536,2025-02-15,,,Quote request,WV,False
+6510,2025-05-01,82.0,Paid Search,Product question,ST,False
+5709,2025-03-02,71.0,Email,Trade account application,LS,False
+5204,2025-01-22,62.0,Paid Search,Product question,LS,True
+2528,2024-06-24,29.0,Trade Events,Trade account application,ST,False
+6115,2025-04-28,,,Trade account application,PR,True
+5463,2025-02-18,,,Product question,LS,False
+3472,2024-08-06,39.0,Trade Events,Product question,LE,False
+6643,2025-05-28,,,Trade account application,LS,False
+4473,2024-11-20,52.0,Paid Search,Price list request,LS,False
+4197,2024-10-25,47.0,Paid Search,Quote request,CV,False
+5940,2025-03-25,73.0,Social,Trade account application,BD,False
+5374,2025-02-03,,,Trade account application,M,False
+5959,2025-03-01,74.0,Trade Events,Product question,CV,False
+7291,2025-07-28,91.0,Email,Trade account application,DE,False
+6843,2025-05-22,,,Trade account application,PR,False
+4877,2024-12-03,57.0,Paid Search,Quote request,PR,True
+6067,2025-04-15,,,Quote request,DN,False
+689,2024-02-20,9.0,Trade Events,Price list request,WV,False
+7636,2025-08-11,,,Price list request,NG,False
+8368,2025-10-05,,,Price list request,BD,False
+5699,2025-03-22,71.0,Email,Trade account application,NG,False
+916,2024-03-06,,,Product question,NG,False
+273,2024-01-25,3.0,Social,Quote request,CV,False
+7721,2025-08-24,97.0,Paid Search,Trade account application,LE,False
+7129,2025-06-10,88.0,Social,Trade account application,CV,True
+8722,2025-11-25,111.0,Email,Product question,BD,False
+3790,2024-09-17,42.0,Paid Search,Product question,M,True
+901,2024-03-23,,,Quote request,LS,False
+923,2024-03-18,12.0,Paid Search,Trade account application,WV,True
+6554,2025-05-04,,,Trade account application,LE,False
+5245,2025-01-07,63.0,Social,Quote request,LS,False
+8947,2025-11-19,,,Trade account application,NG,True
+6885,2025-06-16,86.0,Email,Quote request,DE,False
+1581,2024-04-14,18.0,Social,Price list request,S,False
+1929,2024-05-25,,,Product question,S,False
+1820,2024-05-25,22.0,Paid Search,Trade account application,PR,True
+5900,2025-03-16,72.0,Paid Search,Price list request,WV,False
+7817,2025-08-03,,,Quote request,ST,True
+7913,2025-08-03,99.0,Trade Events,Price list request,PR,False
+2626,2024-06-09,29.0,Trade Events,Price list request,WV,False
+7928,2025-08-03,,,Trade account application,BD,False
+4596,2024-11-06,,,Trade account application,LS,True
+6536,2025-05-16,82.0,Paid Search,Trade account application,BD,True
+1339,2024-04-12,17.0,Paid Search,Quote request,BD,False
+8071,2025-09-27,,,Quote request,NG,False
+3283,2024-08-16,,,Price list request,LE,False
+3344,2024-08-26,,,Trade account application,BD,False
+91,2024-01-16,2.0,Paid Search,Trade account application,LE,True
+8763,2025-11-05,112.0,Paid Search,Trade account application,M,False
+5549,2025-02-25,68.0,Social,Price list request,CV,False
+7882,2025-08-17,98.0,Social,Trade account application,PR,True
+6255,2025-04-17,77.0,Paid Search,Quote request,DN,False
+5628,2025-02-08,69.0,Trade Events,Price list request,S,False
+3395,2024-08-27,37.0,Paid Search,Quote request,WV,False
+8786,2025-11-06,112.0,Paid Search,Trade account application,DE,True
+5526,2025-02-21,67.0,Paid Search,Quote request,M,False
+29,2024-01-14,,,Trade account application,CV,False
+5145,2025-01-20,,,Product question,S,False
+125,2024-01-01,2.0,Paid Search,Quote request,DE,False
+4485,2024-11-06,,,Quote request,DN,False
+8737,2025-11-02,111.0,Email,Trade account application,NG,True
+1210,2024-03-22,14.0,Trade Events,Product question,BD,False
+4297,2024-10-17,49.0,Trade Events,Quote request,LE,False
+6949,2025-06-17,87.0,Paid Search,Product question,DE,False
+1501,2024-04-18,17.0,Paid Search,Trade account application,CV,False
+5781,2025-03-10,,,Quote request,LS,False
+7512,2025-07-11,93.0,Social,Product question,LS,False
+1413,2024-04-20,17.0,Paid Search,Product question,ST,False
+8013,2025-09-11,101.0,Email,Trade account application,S,False
+2712,2024-07-26,31.0,Email,Price list request,CV,False
+5497,2025-02-27,67.0,Paid Search,Trade account application,ST,False
+6654,2025-05-27,82.0,Paid Search,Product question,NG,False
+4432,2024-11-09,51.0,Email,Product question,PR,False
+2295,2024-06-16,27.0,Paid Search,Price list request,M,False
+5410,2025-02-01,,,Trade account application,ST,False
+3594,2024-09-10,41.0,Email,Trade account application,PR,True
+4080,2024-10-04,,,Quote request,PR,False
+2858,2024-07-05,32.0,Paid Search,Quote request,DN,True
+2731,2024-07-25,,,Trade account application,BD,True
+3923,2024-09-08,44.0,Trade Events,Trade account application,PR,True
+7485,2025-07-10,92.0,Paid Search,Product question,LS,False
+2686,2024-07-22,31.0,Email,Quote request,LE,False
+4780,2024-12-11,56.0,Email,Quote request,LE,False
+9002,2025-12-17,,,Price list request,DN,False
+7204,2025-06-18,89.0,Trade Events,Quote request,CV,False
+8802,2025-11-10,,,Quote request,LS,False
+498,2024-02-20,7.0,Paid Search,Price list request,LE,False
+8864,2025-11-02,112.0,Paid Search,Quote request,LS,False
+6438,2025-05-16,,,Quote request,S,False
+1352,2024-04-02,17.0,Paid Search,Trade account application,DN,True
+7326,2025-07-13,,,Trade account application,S,False
+85,2024-01-14,,,Product question,DN,False
+575,2024-02-15,,,Quote request,WV,True
+6614,2025-05-03,82.0,Paid Search,Quote request,CV,False
+7238,2025-06-10,,,Trade account application,PR,True
+417,2024-02-07,6.0,Email,Quote request,M,False
+4483,2024-11-24,52.0,Paid Search,Trade account application,BD,False
+4667,2024-11-13,,,Quote request,WV,False
+3171,2024-08-21,36.0,Email,Product question,M,False
+6973,2025-06-04,,,Product question,CV,False
+6104,2025-04-11,76.0,Email,Quote request,S,False
+8260,2025-09-28,,,Price list request,WV,False
+2499,2024-06-22,28.0,Social,Product question,WV,False
+3261,2024-08-17,,,Product question,M,False
+8642,2025-10-21,109.0,Trade Events,Quote request,PR,False
+2702,2024-07-12,31.0,Email,Trade account application,S,False
+7327,2025-07-28,92.0,Paid Search,Quote request,CV,False
+6079,2025-04-22,76.0,Email,Trade account application,LE,False
+2212,2024-06-12,26.0,Email,Product question,LS,False
+8990,2025-11-17,,,Price list request,M,False
+2811,2024-07-04,,,Quote request,M,False
+1165,2024-03-14,14.0,Trade Events,Trade account application,LS,True
+1549,2024-04-05,,,Trade account application,M,False
+5801,2025-03-01,72.0,Paid Search,Quote request,BD,False
+1602,2024-04-22,18.0,Social,Quote request,LS,False
+6186,2025-04-24,77.0,Paid Search,Quote request,WV,False
+6027,2025-03-06,75.0,Print & Radio,Price list request,DN,False
+1422,2024-04-03,17.0,Paid Search,Trade account application,M,True
+3963,2024-09-11,,,Trade account application,LE,False
+8994,2025-12-07,116.0,Email,Product question,PR,False
+3898,2024-09-15,44.0,Trade Events,Trade account application,LS,False
+403,2024-02-08,,,Trade account application,DN,False
+4160,2024-10-07,,,Trade account application,LE,True
+271,2024-01-09,3.0,Social,Trade account application,M,True
+2929,2024-07-22,,,Quote request,WV,True
+6691,2025-05-08,83.0,Social,Quote request,CV,False
+8692,2025-11-23,111.0,Email,Quote request,PR,False
+1864,2024-05-27,22.0,Paid Search,Quote request,S,False
+117,2024-01-22,2.0,Paid Search,Trade account application,WV,True
+6099,2025-04-27,,,Trade account application,S,True
+6296,2025-04-19,,,Trade account application,M,True
+7047,2025-06-01,87.0,Paid Search,Price list request,DN,False
+8517,2025-10-11,,,Quote request,NG,False
+6279,2025-04-15,78.0,Social,Trade account application,M,True
+3485,2024-08-11,39.0,Trade Events,Trade account application,PR,False
+8475,2025-10-23,107.0,Paid Search,Price list request,S,False
+7516,2025-07-01,93.0,Social,Quote request,NG,False
+2563,2024-06-07,29.0,Trade Events,Product question,BD,False
+2906,2024-07-03,,,Trade account application,ST,True
+751,2024-02-19,9.0,Trade Events,Trade account application,CV,False
+317,2024-01-20,,,Quote request,DE,False
+3563,2024-08-24,40.0,Print & Radio,Price list request,LE,False
+8578,2025-10-20,108.0,Social,Product question,WV,True
+5735,2025-03-03,71.0,Email,Trade account application,M,False
+2153,2024-05-03,25.0,Print & Radio,Trade account application,CV,True
+527,2024-02-02,7.0,Paid Search,Product question,WV,False
+120,2024-01-20,2.0,Paid Search,Quote request,LE,False
+7158,2025-06-06,88.0,Social,Quote request,M,False
+3914,2024-09-21,44.0,Trade Events,Quote request,DN,False
+8694,2025-11-10,,,Quote request,BD,False
+2589,2024-06-18,,,Product question,DN,False
+699,2024-02-18,,,Product question,NG,False
+8547,2025-10-08,107.0,Paid Search,Trade account application,LS,False
+1611,2024-04-02,19.0,Trade Events,Product question,NG,False
+6226,2025-04-26,77.0,Paid Search,Price list request,CV,False
+952,2024-03-19,12.0,Paid Search,Quote request,LS,False
+444,2024-02-11,6.0,Email,Trade account application,S,True
+5031,2025-01-13,61.0,Email,Product question,NG,False
+2009,2024-05-15,,,Trade account application,CV,True
+2905,2024-07-24,32.0,Paid Search,Product question,PR,False
+1344,2024-04-23,,,Price list request,S,False
+669,2024-02-25,8.0,Social,Trade account application,CV,True
+6552,2025-05-19,82.0,Paid Search,Quote request,DN,False
+9215,2025-12-26,120.0,Print & Radio,Product question,S,False
+929,2024-03-26,12.0,Paid Search,Trade account application,ST,False
+1851,2024-05-11,,,Trade account application,DN,False
+1434,2024-04-09,17.0,Paid Search,Trade account application,ST,False
+77,2024-01-26,2.0,Paid Search,Quote request,BD,False
+6953,2025-06-04,87.0,Paid Search,Product question,M,False
+2777,2024-07-11,,,Quote request,LE,False
+3998,2024-09-12,45.0,Print & Radio,Quote request,CV,False
+4137,2024-10-26,47.0,Paid Search,Trade account application,WV,False
+3986,2024-09-05,,,Product question,S,False
+3673,2024-09-12,,,Product question,S,True
+1912,2024-05-04,22.0,Paid Search,Product question,M,False
+9097,2025-12-24,,,Quote request,DE,False
+6622,2025-05-05,,,Trade account application,NG,False
+8937,2025-11-18,114.0,Trade Events,Product question,DE,True
+7896,2025-08-20,99.0,Trade Events,Quote request,WV,False
+8199,2025-09-12,,,Product question,ST,False
+8609,2025-10-03,109.0,Trade Events,Trade account application,S,True
+8843,2025-11-06,112.0,Paid Search,Trade account application,DE,False
+1391,2024-04-15,,,Price list request,CV,False
+5364,2025-02-07,,,Trade account application,ST,False
+9199,2025-12-09,119.0,Trade Events,Product question,ST,False
+7531,2025-07-09,,,Quote request,NG,False
+8558,2025-10-08,,,Price list request,WV,False
+4259,2024-10-02,48.0,Social,Quote request,LS,False
+1005,2024-03-15,12.0,Paid Search,Trade account application,CV,False
+4806,2024-12-15,,,Price list request,LE,False
+9125,2025-12-04,117.0,Paid Search,Price list request,CV,False
+402,2024-02-08,,,Trade account application,WV,True
+8472,2025-10-11,107.0,Paid Search,Price list request,BD,False
+5051,2025-01-11,,,Trade account application,NG,False
+4338,2024-10-19,49.0,Trade Events,Trade account application,NG,False
+6550,2025-05-19,82.0,Paid Search,Product question,M,False
+9015,2025-12-16,,,Product question,LE,False
+1567,2024-04-15,18.0,Social,Price list request,S,False
+2687,2024-07-19,31.0,Email,Trade account application,LS,True
+4217,2024-10-21,,,Trade account application,WV,False
+248,2024-01-10,3.0,Social,Product question,PR,False
+3509,2024-08-25,39.0,Trade Events,Quote request,BD,False
+7445,2025-07-16,,,Trade account application,ST,True
+8136,2025-09-07,102.0,Paid Search,Quote request,PR,False
+2227,2024-06-06,26.0,Email,Product question,BD,False
+1138,2024-03-02,13.0,Social,Product question,M,False
+7468,2025-07-02,92.0,Paid Search,Product question,LS,False
+6390,2025-04-24,,,Trade account application,WV,True
+5834,2025-03-18,,,Quote request,NG,False
+7779,2025-08-23,,,Quote request,CV,False
+5719,2025-03-16,71.0,Email,Trade account application,CV,True
+6199,2025-04-09,77.0,Paid Search,Quote request,LE,False
+7369,2025-07-03,92.0,Paid Search,Trade account application,NG,True
+1885,2024-05-22,,,Quote request,ST,True
+1593,2024-04-23,18.0,Social,Trade account application,LS,False
+8241,2025-09-17,103.0,Social,Trade account application,S,True
+8445,2025-10-15,,,Quote request,ST,False
+8767,2025-11-24,112.0,Paid Search,Product question,M,False
+7738,2025-08-02,97.0,Paid Search,Quote request,S,False
+6777,2025-05-10,84.0,Trade Events,Quote request,CV,False
+7190,2025-06-26,,,Product question,NG,False
+6920,2025-06-13,,,Price list request,LS,False
+7744,2025-08-10,,,Quote request,NG,False
+259,2024-01-27,3.0,Social,Product question,LE,False
+695,2024-02-18,9.0,Trade Events,Trade account application,LS,False
+6709,2025-05-05,83.0,Social,Product question,WV,False
+8043,2025-09-22,,,Trade account application,DE,False
+439,2024-02-22,6.0,Email,Price list request,NG,True
+5897,2025-03-18,,,Trade account application,DE,True
+1905,2024-05-24,,,Quote request,PR,False
+6152,2025-04-18,77.0,Paid Search,Product question,LE,False
+3201,2024-08-25,37.0,Paid Search,Trade account application,WV,False
+3776,2024-09-06,42.0,Paid Search,Price list request,NG,False

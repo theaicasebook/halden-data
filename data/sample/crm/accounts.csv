@@ -1,0 +1,914 @@
+crm_account_id,account_name,erp_account_no,industry,postcode,phone,owner_staff_id,created_date,source
+ACC-9A718,Riley Property Developments and Sons Ltd,H205861,Other,M14 7RL,07700 900546,1164,2022-06-26,Trade event
+ACC-6C1E6,S Brookes Joinery & Building & Son,H207123,builders,,07700 900691,1061,2023-04-14,Trade event
+ACC-3BF1A,Lowe & Rowe (do not use),H207845,Builder,le239sd,07700 900888,,2025-07-16,Migrated from ERP
+ACC-6C416,L Shah Kitchens & Sons Ltd,H201653,Kitchen & Bathroom Fitter,BD17 5GP,07700 900311,1140,2024-01-11,Manual
+ACC-75841,Hill Kitchens Limited,,kitchen & bathroom fitter,m254pg,07700 900885,1114,2022-04-19,Import (spreadsheet)
+ACC-52D05,Robinson Building Services & Son,H200615,General Builder,,07700 900655,1113,2024-04-07,Migrated from ERP
+ACC-844F8,Lee & Parker Ltd,,Builder,CV28 7FX,07700 900808,1243,2023-06-12,Manual
+ACC-E4DDD,K Lewis Building Services & Son,,Other,NG28 7EG,07700 900282,1163,2023-02-23,Import (spreadsheet)
+ACC-964BC,J Brookes Civils Ltd,,Groundworks,,07700 900007,,2025-11-20,Migrated from ERP
+ACC-C6C94,Parker Construction Ltd,,Other,s105gu,07700 900725,1165,2022-04-15,Manual
+ACC-15011,clark plumbing & heating ltd,H200076,Plumbing & Heating,S23 3YU,07700 900310,1166,2025-10-15,Trade event
+ACC-A8BAD,B Hargreaves Property Services & Sons Ltd,H204090,Property Maintenance,DE17 9NJ,07700 900633,1059,2025-02-02,Manual
+ACC-40010,GDES,H205619,Other,NG9 7EA,07700 900516,1112,2024-12-17,Import (spreadsheet)
+ACC-7219E,S Dixon Roofing Services Ltd,H201122,Roofing,NG19 4NJ,07700 900660,1270,2025-07-05,Migrated from ERP
+ACC-680C1,Khan Building,H201049,Trade,LS23 7FY,07700 900725,,2022-02-20,Manual
+ACC-9CE78,Kowalski Building Services & Sons Ltd,H200948,General Builder,,07700 900481,1060,2025-10-19,Manual
+ACC-EFA47,Booth Developments Ltd,H207612,Developer,DE7 6BE,07700 900517,,2024-10-08,Manual
+ACC-EE325,Green Roofing & Building Ltd,H205030,Roofing,DE4 7LT,07700 900673,1034,2022-03-26,Migrated from ERP
+ACC-EED7C,Sharma Plumbing & Heating,H200559,Plumbing & Heating,NG10 5RU,07700 900812,1111,2024-10-15,Trade event
+ACC-DD824,Sharma Building,H207686,builders,LE18 3EX,07700 900641,1320,2024-06-21,Web enquiry
+ACC-D9053,S Atkinson Roofing Services Ltd,H201786,Roofing,LS17 6SH,07700 900961,1218,2023-08-09,Import (spreadsheet)
+ACC-F9D63,Trent Joinery Ltd,,Joinery & Carpentry,BD23 7EN,07700 900224,1085,2023-08-19,Web enquiry
+ACC-A5F0A,K Barker Roofing & Building Ltd,,Roofing,,07700 900173,,2023-05-22,Manual
+ACC-AD484,I Rowe Joinery Limited,,Joinery & Carpentry,NG4 3UW,07700 900873,1137,2022-11-29,Migrated from ERP
+ACC-B0AB5,Bennett Builders Ltd,,,ng286dp,07700 900806,1240,2024-03-27,Import (spreadsheet)
+ACC-37A4D,M Sutcliffe Kitchens & Bathrooms & Sons Ltd,,Kitchen & Bathroom Fitter,LE7 8JQ,07700 900459,1138,2025-10-22,Manual
+ACC-CB544,B Mitchell Groundworks Ltd,H205880,Other,CV2 3LF,07700 900071,1166,2025-02-03,Manual
+ACC-BF648,Carter & Pearce Ltd,H205195,General Builder,S24 2WL,07700 900950,1215,2022-09-09,Web enquiry
+ACC-4369C,Wright Landscaping Ltd,H202508,Landscaping,,07700 900003,1139,2022-06-24,Manual
+ACC-C454A,Ribble Joinery Ltd,H201293,Joinery,,07700 900826,1266,2021-10-10,Migrated from ERP
+ACC-51540,MCBS,H206296,General,,07700 900163,1244,2022-12-13,Migrated from ERP
+ACC-6A298,F Marshall Building & Sons Ltd,,General Builder,WV20 6UZ,07700 900305,1010,2025-01-26,Manual
+ACC-24E87,Ellis & Robinson Ltd,H203600,Trade,cv179rz,07700 900349,1292,2021-12-07,Web enquiry
+ACC-1141B,Gallagher Construction Limited,,Builder,ST4 8RX,07700 900584,1268,2025-04-13,Web enquiry
+ACC-F4074,Clarke & Bennett Limited,H204101,plumbing & heating,BD29 1AA,07700 900236,1163,2025-04-03,Migrated from ERP
+ACC-344AC,Green & Turner Ltd,,,CV1 3GZ,07700 900205,,2024-04-23,Manual
+ACC-27F09,M Ward Roofing Services & Son,,Roofing,NG8 1SN,07700 900978,1240,2025-07-28,Manual
+ACC-8941D,Butterworth Heating Ltd,H203403,builders,ng246xa,07700 900091,1293,2025-11-28,Import (spreadsheet)
+ACC-D6AF1,A Mitchell Building Services & Sons Ltd,H201390,General Builder,,07700 900995,1241,2023-08-30,Trade event
+ACC-41A47,L White Property Maintenance Ltd,H201430,?,,07700 900197,1240,2025-07-06,Manual
+ACC-D436D,M Clarke Building & Son,,General Builder,m66ed,07700 900162,1058,2024-07-31,Import (spreadsheet)
+ACC-1C054,AHMED GARDEN SERVICES LTD,,Landscaping,ls57ah,07700 900995,1268,2023-01-31,Import (spreadsheet)
+ACC-38019,Webb Construction & Sons Ltd,,general builder,DN12 9LL,07700 900632,1321,2025-06-20,Migrated from ERP
+ACC-4F4E0,MASON GROUNDWORKS LTD,,Other,,07700 900698,1191,2024-12-16,Migrated from ERP
+ACC-21D03,Singh Roofing Services Ltd,H201126,Roofing,WV4 8AQ,07700 900021,1319,2025-07-04,Import (spreadsheet)
+ACC-58107,Iqbal Electrical Limited,H206990,Electrical,BD24 5BY,07700 900076,1294,2022-11-07,Migrated from ERP
+ACC-22D19,Jackson Plumbing Ltd,H202394,Plumbing & Heating,CV5 6ZS,07700 900814,1268,2024-10-30,Manual
+ACC-4C9DF,L Hargreaves Groundworks Ltd,,Builder,S16 9DF,07700 900048,1243,2022-05-06,Web enquiry
+ACC-F93CF,Ellis Building & Son,H203398,General Builder,NG24 8BJ,07700 900601,1136,2024-07-24,Import (spreadsheet)
+ACC-F2D27,Jones Gas Services & Son,H204623,Plumbing & Heating,,07700 900020,1059,2024-05-30,Web enquiry
+ACC-AFED8,H Lewis Landscapes Ltd,H207930,Landscaping,PR24 8PY,07700 900240,1165,2024-01-05,Import (spreadsheet)
+ACC-5CBAC,C Taylor Landscaping & Son,H200395,Trade,CV17 3RN,07700 900036,1217,2024-04-15,Import (spreadsheet)
+ACC-8A208,Z Fletcher Plumbing,H202202,Plumbing & Heating,NG13 3QP,07700 900980,1217,2022-05-13,Migrated from ERP
+ACC-B82BB,L Mitchell Landscapes & Sons Ltd,,Trade,BD18 7XR,07700 900947,1293,2025-11-21,Manual
+ACC-E3A95,Evans & Chapman & Son (do not use),H207708,Trade,,07700 900884,1190,2023-04-17,Manual
+ACC-87BDF,Cooper & Chapman & Sons Ltd,H204941,General Builder,WV12 3AR,07700 900891,1137,2023-04-03,Import (spreadsheet)
+ACC-C472E,PRSS,H202897,Roofing,PR17 8FD,07700 900999,1241,2022-11-11,Trade event
+ACC-97464,O Pearce Builders&Sons Ltd,H200382,?,LE29 9TF,07700 900044,,2022-02-04,Import (spreadsheet)
+ACC-47870,Butterworth,,Builder,NG24 6XA,07700 900535,,2023-04-01,Manual
+ACC-F339C,Lee & Ward Limited,H205434,General Builder,st273er,07700 900661,1033,2025-05-06,Manual
+ACC-D872E,Sharma Building Services,H200715,General Builder,le287jq,07700 900308,,2023-12-28,Web enquiry
+ACC-15F58,shaw & shaw ltd,,general builder,,07700 900995,1088,2022-04-19,Web enquiry
+ACC-52B75,Ionescu Maintenance Ltd,H207208,Property Maintenance,WV23 3DH,07700 900422,1010,2025-10-08,Manual
+ACC-132C7,DRH,,plumbing & heating,,07700 900969,1036,2025-06-01,Migrated from ERP
+ACC-617AA,O Atkinson Electrics & Son,,,BD26 5UR,07700 900908,1293,2022-03-22,Migrated from ERP
+ACC-CB949,A. Murphy Electrics Ltd,H203362,Electrical,BD21 9TS,07700 900240,1268,2022-11-04,Manual
+ACC-951B6,B. Civils Ltd,,,S24 7WB,07700 900366,1242,2021-09-29,Web enquiry
+ACC-EEF38,L Patel Building Ltd,,Other,ST14 3JG,07700 900071,1191,2022-03-16,Trade event
+ACC-5409E,I Riley Building Services & Sons Ltd,H204816,General Builder,,07700 900475,1166,2022-06-30,Trade event
+ACC-3B7DB,K Green Maintenance,,Property Maintenance,NG20 5AN,07700 900166,1085,2024-06-30,Import (spreadsheet)
+ACC-DDBF1,Lowe & Smith Ltd,H203859,General Builder,LE3 2ST,07700 900687,1110,2024-05-27,Web enquiry
+ACC-944C9,Ribble Heating Ltd,H207321,Plumbing & Heating,PR6 7WB,07700 900870,1267,2024-04-01,Import (spreadsheet)
+ACC-45D16,Bennett Landscapes Limited,,Landscaping,NG24 6DL,07700 900297,1191,2023-08-15,Manual
+ACC-1260F,Rowe Joinery & Building Ltd,,Joinery & Carpentry,PR13 9GA,07700 900833,,2023-07-13,Manual
+ACC-FAE9D,D Lewis Roofing Services Limited,,,LE21 1BB,07700 900055,1243,2021-12-25,Trade event
+ACC-DA20D,Brookes & King Ltd,,General Builder,BD12 8UA,07700 900595,,2022-05-07,Migrated from ERP
+ACC-B35E3,Chapman Joinery & Building Ltd,H202921,Joinery & Carpentry,BD13 3GB,07700 900430,1139,2023-09-21,Web enquiry
+ACC-E8369,Ward & Gill Limited,,Roofing,,07700 900051,1088,2023-07-29,Manual
+ACC-2C910,King & Allen  &Son,H206057,builders,NG26 5JY,07700 900566,1061,2023-02-12,Trade event
+ACC-974E1,wisniewski building,,Trade,,07700 900868,1296,2024-10-05,Migrated from ERP
+ACC-309FB,Gill Garden Services Ltd,H204762,Trade,,07700 900425,1084,2023-08-01,Import (spreadsheet)
+ACC-41FCF,Wood & Atkinson Ltd,H200878,property maintenance,,07700 900561,,2025-02-07,Web enquiry
+ACC-4CA5C,S Pearc eElectrics & Sons Ltd,H201287,Electrical,,07700 900035,1321,2023-01-02,Manual
+ACC-C6043,Singh Groundworks Limited,,Trade,WV19 9XH,07700 900234,1215,2021-09-01,Migrated from ERP
+ACC-CB593,Atkinson Civils Ltd,,Builder,ls62hr,07700 900926,1189,2024-11-14,Manual
+ACC-C7B06,Robinson & Clark,H205937,Builder,LS24 9SU,07700 900562,1165,2023-01-16,Migrated from ERP
+ACC-87DD2,M Khan Bathrooms Limited,,Kitchen & Bathroom Fitter,LE5 2HS,07700 900396,,2025-07-30,Web enquiry
+ACC-C9A11,KAUR BUILDING SERVICES & SON,H204864,General Builder,NG4 6AS,07700 900246,1241,2025-04-12,Migrated from ERP
+ACC-270CC,D. Ionescu Plumbing Ltd,H203932,Plumbing & Heating,,07700 900017,1059,2022-12-26,Import (spreadsheet)
+ACC-39ED3,E Carter Gas Services & Son,,Plumbing & Heating,DN19 4LB,07700 900182,1114,2024-02-10,Import (spreadsheet)
+ACC-E0710,S Pearce Electrics & Sons Ltd,,Electrical,s292lw,07700 900030,1112,2024-10-16,Web enquiry
+ACC-5A8DC,Green Plumbing & Heating Ltd,H207067,Plumbing & Heating,,07700 900305,,2023-01-21,Web enquiry
+ACC-A6DAC,D Ionescu Building,,General Builder,,07700 900376,1139,2025-10-05,Manual
+ACC-6479B,Hall,,Landscaping,NG17 5FW,07700 900743,1112,2024-03-18,Manual
+ACC-45AA2,Ribble Plumbing & Son,H207822,Plumbing & Heating,S7 6FR,07700 900386,1192,2023-08-03,Manual
+ACC-F9412,Johnson,H206146,General Builder,CV27 3EN,07700 900264,1318,2023-02-17,Trade event
+ACC-7C90C,Marshall,H204573,Trade,,07700 900003,,2021-10-23,Web enquiry
+ACC-BCE08,Wood Gas Services Ltd,H205041,Other,DE8 6RD,07700 900739,,2025-06-05,Trade event
+ACC-2B892,Dove Garden Services,,Trade,PR4 3QG,07700 900250,1165,2025-12-16,Migrated from ERP
+ACC-6AD59,Akhtar Property Developments,H200888,Developer,ls268yp,07700 900028,1010,2025-02-11,Import (spreadsheet)
+ACC-F70BA,Webb Electrics & Sons Ltd,H200116,electrical,ls53bn,07700 900026,,2025-12-05,Trade event
+ACC-6D16D,C Roberts Plumbing Ltd,,Plumbing & Heating,le24yj,07700 900737,1140,2025-06-11,Web enquiry
+ACC-84AF4,Fletcher Maintenance Limited,H200885,Property Maintenance,S8 7EW,07700 900804,,2021-12-05,Import (spreadsheet)
+ACC-8AA1B,Jackson Building Services & Son,H205373,?,bd272yn,07700 900255,1321,2021-11-12,Manual
+ACC-61A2F,Hart Builders,H206789,General Builder,,07700 900698,,2022-10-01,Migrated from ERP
+ACC-DDB21,Fox & Dixon & Sons Ltd,,Other,LS22 6GG,07700 900992,1061,2024-10-25,Manual
+ACC-280FF,S Mason Carpentry Ltd,H203582,Builder,,07700 900657,,2023-03-26,Manual
+ACC-C2844,King Property Developments Ltd,H202815,Builder,S27 4NT,07700 900873,1270,2023-10-20,Manual
+ACC-837C7,M Gallagher Electrics Ltd,,Electrical,LS27 4UX,07700 900363,1189,2025-11-01,Migrated from ERP
+ACC-13E43,M Hart Bathrooms,,Kitchen & Bathroom Fitter,,07700 900668,1294,2022-03-26,Trade event
+ACC-ABD7F,Baker Builders Limited,H201079,General Builder,,07700 900404,1190,2022-04-18,Trade event
+ACC-B4EFD,Butterworth Landscaping,,Landscaping,st109rw,07700 900636,1166,2023-11-18,Web enquiry
+ACC-644CF,MIDLAND ROOFING,H207450,Roofing,S13 3DA,07700 900385,1032,2024-07-29,Web enquiry
+ACC-18A9F,A Nowak Plumbing & Sons Ltd,H202719,builders,LS10 4RZ,07700 900848,1059,2022-12-07,Web enquiry
+ACC-A78FB,Ali & Bennett & Sons Ltd,H201041,General Builder,de39qf,07700 900027,1215,2023-10-19,Manual
+ACC-23F70,Midland Carpentry Limited,H206104,Trade,PR17 8QU,07700 900387,1192,2023-12-09,Web enquiry
+ACC-5A6F4,Moore & Pearce & Son,H204586,,DE17 7XZ,07700 900180,,2024-11-01,Manual
+ACC-A901E,Begum Bathrooms Ltd,,Kitchen & Bathroom Fitter,DN11 9EA,07700 900297,1217,2025-03-28,Migrated from ERP
+ACC-989A2,S Smith Garden Services Ltd,H202225,Landscaping,LE21 3SB,07700 900290,1085,2023-07-09,Trade event
+ACC-A957A,L Shaw Landscapes & Sons Ltd,H204942,Landscaping,CV17 3YE,07700 900752,1190,2022-08-26,Manual
+ACC-AC62E,Ahmed&Wisniewski Ltd,,Roofing,bd89xl,07700 900273,1088,2022-06-03,Web enquiry
+ACC-7733B,Hart Builders Limited,H200668,General Builder,CV13 6GH,07700 900873,1266,2025-08-21,Import (spreadsheet)
+ACC-207E8,D Cooper Roofing & Building Ltd,H200986,Roofing,WV13 8SZ,07700 900027,1035,2021-11-30,Import (spreadsheet)
+ACC-D1906,Shah & Turner & Son,H205346,General Builder,NG1 7EB,07700 900852,1189,2025-04-20,Manual
+ACC-4481F,Pearce Garden Services Ltd,H202023,Landscaping,LS25 4YY,07700 900710,,2022-01-16,Manual
+ACC-21168,C Roberts Roofing Services Limited,,Roofing,LS6 9LX,07700 900043,1163,2025-12-07,Migrated from ERP
+ACC-608BF,Pennine Drainage Ltd,H206713,Groundworks,LE28 6YB,07700 900704,1267,2025-04-19,Trade event
+ACC-E4208,Soar Groundworks Limited,,?,NG3 3UB,07700 900634,1137,2022-10-10,Manual
+ACC-F39EE,Morris & Morris Limited,,Groundworks,PR29 3EY,07700 900708,,2023-10-11,Web enquiry
+ACC-82B6D,Cooper Property Services Limited,H201965,Property Maintenance,,07700 900755,1061,2024-12-10,Manual
+ACC-437D6,W Wood Civils Ltd,H203994,Groundworks,CV27 6NE,07700 900617,1058,2023-02-11,Trade event
+ACC-4B9F0,H Sharma Maintenance Ltd,,?,st53pl,07700 900252,1216,2023-09-27,Trade event
+ACC-70B2A,Hudson & Roberts & Son,,landscaping,DN12 5RJ,07700 900074,1085,2025-09-08,Manual
+ACC-D438F,A Smith Groundworks & Sons Ltd,,Groundworks,PR12 8JS,07700 900085,1162,2025-11-16,Manual
+ACC-61D13,H Lee Roofing Services Ltd,,builders,S13 6RT,07700 900727,1112,2025-12-07,Manual
+ACC-EAD32,Ribble Joinery & Sons LTD.,H200111,Joinery & Carpentry,NG16 4XH,07700 900828,1295,2023-08-11,Manual
+ACC-DEA72,Robinson Roofing & Building Ltd,H201585,Roofing,,07700 900724,1266,2023-12-13,Trade event
+ACC-E0F13,F Davies Builders Ltd,,General Builder,,07700 900242,,2022-09-04,Manual
+ACC-AC3C7,B Carter Building Ltd,H204503,builders,M17 1UQ,07700 900066,1164,2025-01-31,Migrated from ERP
+ACC-2267C,Allen Maintenance Ltd,H204419,Property Maintenance,BD23 9UU,07700 900550,1321,2025-04-13,Migrated from ERP
+ACC-40D6A,Evans & Murphy Limited,,General Builder,ng112wj,07700 900958,1294,2022-08-24,Migrated from ERP
+ACC-5B919,Burton Building Services Ltd,,General,BD28 4DF,07700 900272,1035,2024-03-21,Manual
+ACC-A526F,Burton & Kaur Ltd,,builders,ST4 6BR,07700 900459,1192,2023-04-22,Import (spreadsheet)
+ACC-D319D,HP,,Plumbing & Heating,CV1 2ZU,07700 900208,1086,2023-01-07,Manual
+ACC-48D7F,Mason & Nowak Ltd,,Electrical,ng48pr,07700 900549,1266,2022-10-19,Migrated from ERP
+ACC-4F181,Patel Maintenance Limited,,?,cv271yw,07700 900467,1191,2025-07-03,Migrated from ERP
+ACC-D3D12,Robinson Kitchens & Bathrooms Limited,H205218,Other,DE9 3XA,07700 900110,1036,2023-06-01,Manual
+ACC-9D971,Northern Building Ltd,H201050,General Builder,,07700 900735,1085,2025-02-03,Import (spreadsheet)
+ACC-52F54,Hill Maintenance Limited,,Property Maintenance,PR10 6YS,07700 900572,1036,2022-08-21,Web enquiry
+ACC-EF061,L Parker Builders LTD.,H205770,General,,07700 900749,1110,2024-09-08,Trade event
+ACC-4AA13,R Thompson Property Services Limited (do not use),H207522,builders,LE7 2SY,07700 900805,,2022-12-10,Trade event
+ACC-D2813,M King Landscaping & Sons LTD.,H201677,builders,st79es,07700 900972,1215,2022-11-16,Migrated from ERP
+ACC-CB376,Rowe & Mahmood Ltd,,General Builder,CV27 6AP,07700 900964,1240,2024-03-22,Web enquiry
+ACC-11AA1,Hart Drainage Ltd,H207212,builders,LE11 3FJ,07700 900596,1321,2023-05-04,Web enquiry
+ACC-1A8AF,Turner Construction,H206086,Builder,DE14 9XA,07700 900311,1163,2022-04-18,Manual
+ACC-B79AB,E Kaur Builders Ltd,,General Builder,LE2 8BW,07700 900439,1244,2021-09-14,Manual
+ACC-CC6AC,S Booth Property Services & Son,H207249,Trade,S27 9RU,07700 900624,1010,2023-01-12,Migrated from ERP
+ACC-D8C65,Peak Electrical Contractors Ltd,,electrical,ST12 9QQ,07700 900261,1061,2024-04-06,Import (spreadsheet)
+ACC-E17DC,Kowalski Gas Services Ltd,H200277,Plumbing & Heating,,07700 900086,1215,2024-02-11,Trade event
+ACC-47FE1,Ahmed & Wisniewski Ltd,H200613,Roofing,bd89xl,07700 900368,1111,2024-12-17,Migrated from ERP
+ACC-A289D,Sutcliffe Kitchens LTD.,H204645,Kitchen & Bathroom Fitter,DN14 6YG,07700 900974,1269,2024-07-17,Web enquiry
+ACC-ED2C5,Pickering & Harris & Son,,Roofing,wv82fr,07700 900629,1294,2022-01-15,Web enquiry
+ACC-E4E4F,Wisniewski Building,H207284,General Builder,LE23 3LR,07700 900041,1140,2025-09-30,Manual
+ACC-309CF,Dixon Property Maintenance Ltd,H201437,builders,DN14 8ER,07700 900717,1190,2023-04-27,Web enquiry
+ACC-95A6C,Burton Building Ltd,,General Builder,LE29 8RU,07700 900094,1321,2024-05-28,Import (spreadsheet)
+ACC-4B85D,Northern Plumbing & Heating (do not use),,Plumbing & Heating,PR5 1SE,07700 900152,1136,2025-06-07,Manual
+ACC-C3AC5,Kelly Builders Limited,,General Builder,LS8 8BS,07700 900421,,2023-02-04,Manual
+ACC-1210E,Ali Electrical Ltd,,Electrical,LE13 6BL,07700 900282,1241,2025-06-27,Manual
+ACC-F3F2F,L Bennett Property Services & Sons Ltd,H206359,Property Maintenance,,07700 900780,1241,2021-11-10,Import (spreadsheet)
+ACC-304EE,R Morris Builders Ltd,H203583,General Builder,CV2 3YS,07700 900100,1136,2025-11-22,Trade event
+ACC-9C94F,F Morris Building Services & Son,H207716,general builder,M16 1PP,07700 900476,1318,2022-09-10,Manual
+ACC-BE9D6,Wilson Builders & Son,H202183,General Builder,LE18 7RL,07700 900945,1058,2023-02-07,Import (spreadsheet)
+ACC-232CE,Popescu,H206522,Groundworks,LE23 1SA,07700 900232,1035,2024-09-11,Web enquiry
+ACC-A89F2,Riley Civils & Sons Ltd,,Trade,pr121xg,07700 900763,1140,2022-04-27,Web enquiry
+ACC-B1834,Evans & Lowe Ltd,H204381,,LE8 7EF,07700 900902,,2022-06-21,Manual
+ACC-B2531,Hill Gas Sevrices Limited,H201351,Plumbing & Heating,NG6 8AZ,07700 900277,,2021-11-06,Trade event
+ACC-FFEF7,Jackson Kitchens & Bathrooms Limited,H204619,Kitchen & Bathroom Fitter,PR21 6DE,07700 900341,,2024-02-04,Web enquiry
+ACC-59871,Lee Electrical & Son,H200092,Electrical,CV13 8SA,07700 900082,1010,2025-01-15,Manual
+ACC-66796,Khan & Harris Ltd,H206341,Trade,CV5 7JU,07700 900721,1087,2025-10-07,Manual
+ACC-49624,Wood Landscapes & Son,,?,NG29 8SW,07700 900637,1321,2025-04-28,Trade event
+ACC-3D9D8,Wisniewski Kitchens Ltd,H204571,Kitchen & Bathroom Fitter,BD20 7JJ,07700 900422,1321,2023-10-29,Web enquiry
+ACC-AAA4D,O Hughes Roofing & Building & Sons Ltd,H206089,Roofing,,07700 900487,1293,2022-07-08,Trade event
+ACC-68C82,Bennet tLandscapes Limited,H202662,Landscaping,NG24 6DL,07700 900571,1243,2022-02-12,Import (spreadsheet)
+ACC-64F00,Dove Bathrooms Limited,H200145,Kitchen & Bathroom Fitter,LE1 6LU,07700 900529,1139,2025-03-10,Import (spreadsheet)
+ACC-6D0E3,R Nowak Gas Services Limited,H203722,plumbing & heating,,07700 900761,1062,2021-10-20,Manual
+ACC-FA4AD,Soar Roofing & Building,,Other,ST12 3GH,07700 900914,1058,2023-09-10,Import (spreadsheet)
+ACC-1B826,Kaur Bathrooms Ltd,,kitchen & bathroom fitter,,07700 900394,,2022-11-05,Import (spreadsheet)
+ACC-F46D2,S King Heating Limited,H203605,Plumbing & Heating,,07700 900514,1010,2022-12-15,Manual
+ACC-33881,DKGS,H201052,Landscaping,s72sf,07700 900787,,2022-08-08,Manual
+ACC-9BAE4,K Riley Carpentry Ltd,,joinery & carpentry,LS12 3BD,07700 900684,1241,2022-02-05,Trade event
+ACC-35EF2,Aire Joinery Ltd,H205760,,,07700 900533,1266,2025-07-20,Trade event
+ACC-F4113,Hill & Harrison & Sons Ltd,H202456,General Builder,BD15 5PJ,07700 900597,1319,2024-09-11,Import (spreadsheet)
+ACC-A0CFB,Mersey Electrical Contractors Ltd,,builders,WV2 7GH,07700 900695,1088,2024-06-22,Import (spreadsheet)
+ACC-959BE,Webb Electrical,H204829,Electrical,s237nh,07700 900142,,2025-03-18,Import (spreadsheet)
+ACC-F1F43,W Turner Property Developments Ltd,,Developer,WV21 2UU,07700 900415,1191,2025-04-05,Import (spreadsheet)
+ACC-21BA8,NBC,H205156,Trade,,07700 900688,,2022-05-17,Web enquiry
+ACC-5BBE7,Patel Building & Sons Ltd,,General Builder,,07700 900689,1110,2025-05-01,Manual
+ACC-E03E8,A,,Builder,,07700 900469,1241,2024-08-24,Manual
+ACC-800FE,Sharma Kitchens & Bathrooms,H202760,Kitchen & Bathroom Fitter,ng225ed,07700 900154,1162,2025-09-28,Web enquiry
+ACC-C27DE,Williams Son,H200805,Groundworks,LS13 6GE,07700 900306,1137,2025-08-03,Web enquiry
+ACC-7DBFD,P Robinson Civils Limited,,Groundworks,,07700 900824,1113,2025-02-18,Migrated from ERP
+ACC-83C57,Sharma Civils Ltd,H205534,Groundworks,LS21 8UU,07700 900480,,2022-04-22,Web enquiry
+ACC-F13E6,Hargreaves Heating & Sons Ltd (do not use),H204106,?,DN5 2BH,07700 900776,1140,2025-02-15,Web enquiry
+ACC-5F6B6,Harrison Joinery & Building,H201910,Joinery & Carpentry,LS24 3LH,07700 900129,,2024-04-04,Web enquiry
+ACC-D2708,K Moore Roofing & Building Ltd,H202003,Roofing,NG13 8GG,07700 900227,1166,2022-08-23,Trade event
+ACC-F0E28,Wilson Homes & Son,,Developer,,07700 900081,1165,2022-04-19,Web enquiry
+ACC-49DE2,Davies Drainage & Sons Ltd,,?,le254ty,07700 900388,1062,2024-01-04,Trade event
+ACC-7CA7D,Ribble Roofing Limited,,Roofing,WV9 8NR,07700 900189,1242,2023-12-31,Manual
+ACC-22065,Ribble Maintenance,,?,S13 6GZ,07700 900739,,2024-03-14,Migrated from ERP
+ACC-32FE1,Dove Joinery LTD.,H205353,Joinery & Carpentry,DN1 5NL,07700 900932,,2021-09-18,Manual
+ACC-B8906,Fletcher Building Ltd,,General Builder,M27 5PW,07700 900573,1036,2023-05-31,Import (spreadsheet)
+ACC-E9134,R Pickering Construction Ltd,H202939,General Builder,ST5 1HP,07700 900618,1084,2022-03-23,Migrated from ERP
+ACC-E024C,Iqbal Building Limited,,General Builder,NG4 9HU,07700 900630,1033,2022-06-30,Trade event
+ACC-991C2,Walker Construction & Sons Ltd,H207174,General Builder,,07700 900424,1319,2024-08-01,Migrated from ERP
+ACC-12A06,C Lewis Bathrooms,H200587,Kitchen & Bathroom Fitter,,07700 900695,1189,2022-07-27,Import (spreadsheet)
+ACC-F58D5,Clarke & Nowak Limited,H207895,Builder,NG4 9JY,07700 900751,,2025-09-05,Manual
+ACC-43F51,Thompson Plumbing Ltd,,Plumbing & Heating,dn258be,07700 900650,1191,2024-01-28,Import (spreadsheet)
+ACC-F5AEC,Ionescu Roofing Services & Sons Ltd,H202918,,PR21 4GE,07700 900183,1114,2024-08-16,Web enquiry
+ACC-B944F,Shaw Builders & Son,H202961,General Builder,WV28 1YL,07700 900135,1111,2022-07-22,Migrated from ERP
+ACC-EAA9B,S eParce Plumbing Ltd,H205589,plumbing & heating,PR22 1DG,07700 900913,1162,2024-02-12,Import (spreadsheet)
+ACC-26208,S Kowalski Electrical Contractors Ltd (do not use),H203841,,,07700 900646,1110,2024-03-14,Manual
+ACC-429FD,C Brookes Building Ltd,H207109,General Builder,DE24 9TJ,07700 900792,1164,2025-01-08,Manual
+ACC-5012F,Lee Building Services Limited,,General Builder,ST9 2PP,07700 900410,,2023-08-24,Trade event
+ACC-54D3A,I Popescu Landcsapes & Sons Ltd,H207026,Landscaping,LE27 2LW,07700 900761,,2023-12-20,Migrated from ERP
+ACC-6CCF2,I Lowe Bathrooms Ltd,H205316,Kitchen & Bathroom Fitter,LS10 9UE,07700 900533,1242,2022-10-25,Manual
+ACC-CD873,T Doyle Bathrooms Ltd,H207568,Kitchen & Bathroom Fitter,DN15 1PN,07700 900311,1137,2024-12-31,Manual
+ACC-3A4C1,Thompson & Pickering Ltd,H200925,Landscaping,M5 2WE,07700 900276,1244,2025-09-03,Manual
+ACC-527BF,allen carpentry ltd,,Builder,S3 7TL,07700 900126,1111,2025-08-24,Trade event
+ACC-6B8A9,J. Carter Landscapes,H207800,Landscaping,le271yj,07700 900669,1189,2023-09-06,Migrated from ERP
+ACC-E1B3B,Brown Construction,H207413,General Builder,S20 8PB,07700 900409,1114,2022-06-14,Manual
+ACC-EFA66,L Hudson Kitchens Ltd,H202486,kitchen & bathroom fitter,S3 9ZL,07700 900770,1113,2022-06-10,Manual
+ACC-43DE1,Fletcher Building,,General Builder,S22 3SH,07700 900695,1268,2023-10-29,Import (spreadsheet)
+ACC-C9290,Sharma & Green & Son,H202191,?,ls121ys,07700 900819,1321,2024-09-18,Web enquiry
+ACC-1A2B1,Allen Electrical Ltd,H202635,Electrical,LE7 6ZZ,07700 900287,,2023-07-19,Manual
+ACC-546C0,I Hughes Construction & Sons Ltd,,General Builder,ST13 4WB,07700 900075,1214,2025-02-06,Manual
+ACC-9F570,Murphy Builders Ltd,H206411,Builder,LS1 8DT,07700 900860,1140,2024-11-10,Migrated from ERP
+ACC-98F74,Chapman Carpentry Ltd,H205202,?,DN21 5UH,07700 900116,1216,2021-09-28,Manual
+ACC-A1316,P Ali Building Services & Sons Ltd,H202241,General Builder,CV27 2PA,07700 900789,1214,2025-09-07,Trade event
+ACC-9BB90,peak electrical contractors & sons ltd,H200696,Electrical,PR14 4SR,07700 900710,1084,2023-07-06,Import (spreadsheet)
+ACC-D7A14,Peak Drainage & Sons Ltd,,Groundworks,dn118lu,07700 900612,1084,2025-05-31,Manual
+ACC-EEBDA,Murphy Landscapes,H204373,Other,CV25 1EE,07700 900942,1163,2025-06-29,Migrated from ERP
+ACC-2FC52,W Parker Groundworks Ltd,H204553,Builder,CV12 1HT,07700 900573,1162,2023-10-05,Manual
+ACC-1D658,E. & Robinson Ltd,H207399,Roofing,CV17 9RZ,07700 900394,1294,2022-09-14,Import (spreadsheet)
+ACC-2D597,P Hart Kitchens Ltd,H202477,Other,NG18 9DF,07700 900577,1036,2024-03-03,Manual
+ACC-67FAC,Patel Electrical Contractors & Sons Ltd,H206114,builders,LS25 6SN,07700 900250,1270,2025-04-22,Migrated from ERP
+ACC-E3321,Robinson and Ahmed Ltd,,Plumbing & Heating,s251rf,07700 900093,1110,2023-03-04,Manual
+ACC-2C27C,Morris Property Maintenance & Son,H207484,Property Maintenance,CV29 6LB,07700 900925,1166,2024-01-11,Migrated from ERP
+ACC-D2E34,Wright Builders & Son,H206658,General Builder,,07700 900725,1140,2022-01-20,Manual
+ACC-3A523,K Kowalski Landscaping LTD.,H206092,Other,,07700 900085,1033,2023-02-14,Migrated from ERP
+ACC-53FCC,Byrne Garden Services Limited,H205259,Landscaping,CV17 5XT,07700 900061,,2024-04-11,Trade event
+ACC-B37FA,A Harrison Building Services & Son,,Other,DN21 1HY,07700 900077,1240,2023-03-26,Manual
+ACC-F82F9,Walker Electrics & Sons Ltd,H202905,Electrical,S11 8QH,07700 900643,1139,2022-08-01,Manual
+ACC-CDAB2,Peak Landscapes LTD.,H201308,Landscaping,CV4 6BH,07700 900122,1214,2023-11-11,Trade event
+ACC-3E01F,Booth Builders Ltd,H200516,Builder,LE28 8RF,07700 900260,1240,2025-07-12,Manual
+ACC-BA8BD,M Brown Developments Limited,,builders,M11 9GW,07700 900517,1137,2023-10-23,Import (spreadsheet)
+ACC-2ADF1,CHARNWOOD LANDSCAPING LTD,,landscaping,NG3 3XZ,07700 900901,1032,2024-12-09,Manual
+ACC-400A1,Aire Builders,H206122,General,LE7 1HL,07700 900250,1086,2021-10-28,Web enquiry
+ACC-CD451,Ahmed Builders,,,DE19 5AX,07700 900803,1032,2023-07-05,Manual
+ACC-B37EE,O Marshall Property Maintenance & Sons Ltd (do not use),H207938,Property Maintenance,LE19 8EP,07700 900643,1321,2022-06-09,Manual
+ACC-36CC4,Doyle Landscaping & Sons Ltd,,Landscaping,NG20 9NL,07700 900422,1192,2021-11-27,Web enquiry
+ACC-241C7,Popescu Electrical Contractors & Sons Ltd,H200274,Electrical,,07700 900708,1243,2025-07-04,Trade event
+ACC-594BC,Charnwood Developments & Son,H200081,?,NG24 3PD,07700 900160,1061,2025-04-11,Trade event
+ACC-E3B0E,Dixon Roofing & Building,H207934,Roofing,,07700 900749,1166,2025-04-20,Manual
+ACC-BA634,IPLS,H201323,Landscaping,LE27 2LW,07700 900071,1086,2023-03-20,Web enquiry
+ACC-2C0E0,Gallagher Civils Ltd,H202105,Groundworks,CV6 8PG,07700 900153,1296,2022-04-26,Trade event
+ACC-1E351,Hudson & White & Son,H207523,?,,07700 900965,1060,2024-02-13,Manual
+ACC-7E711,Byrne Building Limited,,General Builder,LS25 6TB,07700 900993,1165,2022-05-10,Import (spreadsheet)
+ACC-95B92,Lewis Gas Services&Sons Ltd,H203639,Plumbing & Heating,PR16 1DF,07700 900160,1293,2023-08-07,Import (spreadsheet)
+ACC-978B5,Rowe Electrics Ltd,H206821,,S18 1UD,07700 900719,1243,2025-08-01,Manual
+ACC-A89C0,Barker Building Limited,H204996,General Builder,S25 4LL,07700 900072,1111,2022-07-14,Migrated from ERP
+ACC-5BC41,Allen Carpentry Ltd,,Joinery & Carpentry,S3 7TL,07700 900357,1318,2022-03-30,Web enquiry
+ACC-F3188,Moore Maintenance Ltd (do not use),H200838,?,S16 9DN,07700 900146,1244,2023-04-13,Manual
+ACC-5B8A3,Aire Construction Limited,H200200,General Builder,,07700 900087,1240,2024-04-07,Manual
+ACC-79D06,Mahmood Maintenance & Sons Ltd,H204817,Property Maintenance,DE8 5XG,07700 900809,1243,2025-11-21,Trade event
+ACC-FA720,Murphy Construction Ltd,H201450,,DE4 5TP,07700 900225,,2023-02-12,Migrated from ERP
+ACC-DAB51,Brookes,H206653,General Builder,ST7 2QE,07700 900967,1293,2024-03-26,Trade event
+ACC-FD3A5,Shaw Homes Limited,H203653,Developer,CV4 7AN,07700 900710,1320,2022-09-19,Migrated from ERP
+ACC-1B911,Patel Joinery Ltd,H206305,Joinery & Carpentry,DN24 5GR,07700 900684,1242,2022-07-17,Import (spreadsheet)
+ACC-497F1,Hargreaves Electrical Contractors Ltd,H204567,builders,BD23 3SG,07700 900171,1165,2022-07-08,Manual
+ACC-5FD53,PICKERING ROOFING SERVICES LIMITED,,Roofing,S25 5YY,07700 900773,1270,2023-04-18,Migrated from ERP
+ACC-C74C5,Ellis,,Trade,,07700 900374,1296,2022-12-23,Migrated from ERP
+ACC-52C7E,Hussain,,Groundworks,S3 4WB,07700 900972,1321,2025-01-26,Manual
+ACC-ECA12,White Civils Ltd,H200258,Groundworks,cv143nr,07700 900569,,2023-12-22,Migrated from ERP
+ACC-F04A0,Jones Building Services Ltd,,Other,PR9 6YZ,07700 900432,1032,2025-02-25,Import (spreadsheet)
+ACC-45834,S Pearce Electrics & Sons LTD.,,Electrical,S29 2LW,07700 900446,,2025-12-04,Manual
+ACC-9510D,O Robinson Builders Ltd,,General,PR9 7XX,07700 900743,1269,2025-11-18,Manual
+ACC-DFA25,Akhtar Gas Services & Son,H205734,Plumbing & Heating,S5 6XH,07700 900379,,2024-06-11,Migrated from ERP
+ACC-61336,Hill Maintenance Ltd,,Trade,PR10 6YS,07700 900385,,2025-04-06,Manual
+ACC-53B54,Singh Construction Ltd,H202701,builders,NG27 5PL,07700 900499,1188,2023-11-11,Migrated from ERP
+ACC-DEA4B,J Hughes Electrical Contractors,,Trade,LS1 2YL,07700 900177,1164,2021-09-17,Web enquiry
+ACC-8ABED,Calder Building Services Ltd (do not use),,General Builder,LE5 2TR,07700 900152,,2023-09-18,Import (spreadsheet)
+ACC-ACBA7,Webb Building & Sons Ltd,,General Builder,DE9 4XN,07700 900441,1192,2025-10-14,Web enquiry
+ACC-35201,M Sharma Electrical Contractors,,Trade,M18 9JW,07700 900217,1164,2024-12-18,Trade event
+ACC-FF06A,Sharma Landscapes Ltd,,Landscaping,M20 2RP,07700 900834,1113,2021-09-10,Import (spreadsheet)
+ACC-BC9EF,KING PROPERTY DEVELOPMENTS LTD,H202815,Trade,,07700 900950,1216,2022-11-07,Import (spreadsheet)
+ACC-41D3D,Clarke Property Developments Ltd,H201610,Developer,CV20 4SP,07700 900321,1140,2025-08-18,Import (spreadsheet)
+ACC-F21A3,Kelly Maintenance Ltd,H204477,Property Maintenance,DE26 9LG,07700 900801,1137,2023-01-06,Manual
+ACC-D80AF,Mitchell Construction & Sons Ltd,H204460,General Builder,,07700 900011,1191,2021-11-15,Manual
+ACC-8CCC4,Robinson & Ahmed Ltd,,Plumbing & Heating,S25 1RF,07700 900000,1270,2025-01-16,Web enquiry
+ACC-999E0,Kaur Roofing,H201986,Roofing,,07700 900640,1243,2023-07-04,Trade event
+ACC-79C0F,Morris Building & Son,,General Builder,pr147fe,07700 900540,1268,2024-02-09,Web enquiry
+ACC-1B854,Roberts Electrics & Son,,Electrical,LS9 9FF,07700 900665,1292,2021-10-28,Migrated from ERP
+ACC-38CBF,C Hussain Roofing & Building,H203050,Roofing,S5 4NT,07700 900556,,2024-05-05,Migrated from ERP
+ACC-4093F,D Taylor Maintenance & Sons Ltd,H207128,Property,CV23 3SZ,07700 900756,1321,2025-04-21,Trade event
+ACC-1BDE1,Barker Building Ltd,H202414,general builder,DN26 4PB,07700 900744,1086,2024-05-21,Web enquiry
+ACC-C4EA7,D Kelly Developments Limited,,Developer,LS14 6XA,07700 900068,1138,2025-08-18,Trade event
+ACC-6C660,Harrison & Carter Ltd,H204759,Builder,,07700 900285,1192,2022-01-02,Manual
+ACC-B34D9,Atkinson Building Services & Sons Ltd,H205870,,S16 7BF,07700 900847,1244,2023-06-16,Trade event
+ACC-A0DF0,Ahmed Kitchens & Son,H206647,builders,ls129fp,07700 900276,1139,2021-09-20,Import (spreadsheet)
+ACC-A1B35,Pickering Plumbing & Heating Ltd,H200123,Builder,,07700 900555,1318,2022-01-12,Manual
+ACC-9183F,N Butterworth Plumbing & Son,,Plumbing & Heating,CV19 7SA,07700 900373,1190,2023-01-21,Web enquiry
+ACC-E659D,P Nowak Carpentry Ltd,H207855,Joinery & Carpentry,ST16 9YX,07700 900223,1270,2021-12-29,Manual
+ACC-16C3B,K Holmes Building Services & Son,H205368,builders,S2 6LS,07700 900496,1241,2022-07-03,Manual
+ACC-3369B,Soar Property Services Limited,,Property Maintenance,M18 1AE,07700 900580,1244,2021-10-21,Web enquiry
+ACC-A6160,Ward & Parker Ltd,H200133,Electrical,S13 3WW,07700 900147,1242,2022-08-05,Trade event
+ACC-AADA8,A Ward Electrics Ltd,,?,,07700 900627,,2025-01-28,Web enquiry
+ACC-27BF3,G Thompson Plumbing & Heating & Sons Ltd,H200496,Plumbing & Heating,LE2 4GW,07700 900422,1319,2024-02-13,Manual
+ACC-FCB58,G Doyle Electrics&Son,H205619,Electrical,NG9 7EA,07700 900103,1293,2022-05-12,Manual
+ACC-71BA4,Hart Plumbing Ltd,,Other,PR4 5PD,07700 900743,1294,2021-09-22,Trade event
+ACC-FD15F,Peak Electrical,H206585,Electrical,ST22 9LX,07700 900824,1218,2022-09-20,Migrated from ERP
+ACC-CD4AA,Harrison Garden Services & Son,H204022,Landscaping,S10 1NP,07700 900621,1319,2023-03-16,Trade event
+ACC-3DAF1,Chapman & Parker Ltd,H202372,general builder,,07700 900344,1214,2023-09-03,Trade event
+ACC-1741F,Calder Garden Services & Son,,Landscaping,,07700 900636,1217,2022-12-22,Migrated from ERP
+ACC-8D8C1,A Roberts Carpentry & Son,H203552,Joinery & Carpentry,S11 4ZL,07700 900163,1162,2025-02-05,Web enquiry
+ACC-6B458,Rowe Electrical Ltd,H205859,Electrical,NG27 7LE,07700 900589,1243,2023-12-16,Migrated from ERP
+ACC-75AD1,Trent Homes & Son,H206450,Developer,PR8 3JD,07700 900472,1190,2022-08-11,Manual
+ACC-BE1BA,A. Civils Ltd,,groundworks,LS6 2HR,07700 900816,1215,2024-01-31,Import (spreadsheet)
+ACC-C50F7,Ionescu Building Ltd,H201814,?,,07700 900189,1294,2023-04-14,Import (spreadsheet)
+ACC-6C5D6,M Khan Gas Services,,Plumbing & Heating,DN19 7SP,07700 900766,1241,2022-04-19,Manual
+ACC-34DE8,Kaur Gas Services & Sons Ltd,,Plumbing & Heating,M6 9FP,07700 900630,1292,2025-09-04,Manual
+ACC-B891E,J Hudson Construction & Sons Ltd,,General Builder,PR11 2HT,07700 900864,1318,2024-01-08,Manual
+ACC-DC518,Gill & Pearce Ltd,H201338,Landscaping,LE11 1YH,07700 900127,1061,2024-02-19,Trade event
+ACC-2667F,Hussain Civils Limited,H205463,Groundworks,,07700 900740,1319,2024-01-25,Trade event
+ACC-4035F,Brookes Groundworks & Sons Ltd,,?,pr128yr,07700 900854,1240,2024-12-18,Web enquiry
+ACC-B8964,Midland Building & Sons Ltd,H205031,builders,bd18jf,07700 900784,1058,2024-12-25,Migrated from ERP
+ACC-B7F9D,Roberts Carpentry and Son,,Joinery & Carpentry,CV11 9PQ,07700 900338,1034,2023-01-24,Import (spreadsheet)
+ACC-DD242,H Barker Roofing Services Ltd,H200028,Roofing,ST18 2FZ,07700 900501,1166,2022-03-06,Import (spreadsheet)
+ACC-D4D50,Calder Drainage Limited,,Groundworks,S29 6QU,07700 900117,,2023-05-15,Migrated from ERP
+ACC-63712,Brown Carpentry Limited,,Joinery & Carpentry,LE11 3RS,07700 900992,1058,2025-10-07,Manual
+ACC-10062,Walker &P earce & Sons Ltd,H200169,Groundworks,M11 9PP,07700 900026,1217,2024-09-05,Import (spreadsheet)
+ACC-CC044,Clarke & Nowak Ltd,H207895,Other,NG4 9JY,07700 900520,1190,2025-05-16,Import (spreadsheet)
+ACC-74462,Roberts & Ashworth Ltd,,General Builder,,07700 900602,1294,2025-08-14,Import (spreadsheet)
+ACC-EC98F,Sutcliffe Groundworks Ltd,H205895,Groundworks,PR22 4YD,07700 900598,1320,2022-02-16,Import (spreadsheet)
+ACC-7754F,B. Heating Ltd,H200039,,NG24 6XA,07700 900503,1114,2024-08-01,Web enquiry
+ACC-AF43E,Harris & Gallagher Ltd,H204688,Roofing,S16 7HX,07700 900130,1035,2024-05-28,Manual
+ACC-34984,Riley Property Developments,H203750,Developer,de36sx,07700 900926,1214,2023-06-17,Manual
+ACC-BBEBC,Charnwood Drainage Ltd,,Groundworks,M25 9FL,07700 900736,1216,2021-12-29,Migrated from ERP
+ACC-515EB,A Smith Builders Ltd,H205084,General Builder,CV6 4FB,07700 900436,1034,2025-01-11,Web enquiry
+ACC-7EB0A,N Hussain Groundworks,H200524,Groundworks,BD8 4RD,07700 900261,,2024-07-09,Manual
+ACC-94519,W Pearce Roofing & Building & Son,H201270,Roofing,ST13 9WS,07700 900139,,2024-12-06,Manual
+ACC-B0251,Cooper Building Services & Sons Ltd,H201087,,DE4 2FR,07700 900280,1242,2025-03-02,Trade event
+ACC-94F75,Pennine Landscaping Ltd,,Landscaping,,07700 900535,1218,2025-01-15,Trade event
+ACC-91B47,Hussain Building Ltd,H200254,General Builder,S28 1XL,07700 900108,1244,2025-08-06,Import (spreadsheet)
+ACC-C4809,AHMED CIVILS & SON,,Groundworks,cv58lp,07700 900449,1137,2025-04-07,Manual
+ACC-EE483,Charnwood Building Services Limited,H206246,builders,PR8 2GN,07700 900906,1136,2022-04-16,Import (spreadsheet)
+ACC-98E47,S Lowe Builders & Son,,General Builder,NG25 3QD,07700 900940,1139,2024-12-18,Manual
+ACC-7BDC4,HILL GAS SERVICES LIMITED,,?,NG6 8AZ,07700 900629,1293,2023-03-10,Manual
+ACC-83E5A,Mersey Kitchens & Bathrooms Ltd,,Kitchen & Bathroom Fitter,S8 6AG,07700 900224,1164,2025-09-22,Migrated from ERP
+ACC-244E5,Booth Construction Ltd,,General Builder,CV25 5GH,07700 900051,1112,2025-11-29,Web enquiry
+ACC-34CFA,Ribble Civils Limited,H200263,groundworks,DE6 4WN,07700 900705,1112,2022-08-18,Manual
+ACC-2B989,Midland Plumbing & Heating,,?,dn154nd,07700 900729,1321,2025-05-24,Manual
+ACC-259D8,Singh Building,H201539,General Builder,le125tx,07700 900420,1218,2023-01-29,Trade event
+ACC-A2F3E,WISNIEWSKI & BEGUM LTD,H201340,Joinery & Carpentry,wv262zn,07700 900745,1320,2025-10-31,Manual
+ACC-1BE76,Fox & Wright Ltd,,general builder,LE22 9SS,07700 900792,,2025-07-22,Web enquiry
+ACC-BFED8,Lee Roofing & Building Ltd,H205817,Roofing,LS6 8PN,07700 900251,1191,2024-10-01,Web enquiry
+ACC-6C701,R Lewis Developments Ltd,,Developer,CV16 9SR,07700 900715,1087,2023-04-25,Manual
+ACC-78DDF,Doyle Plumbing Limited,H204803,Plumbing & Heating,,07700 900567,1191,2025-11-07,Manual
+ACC-E0FDA,Aire Maintenance Ltd,H204670,Builder,NG8 9GY,07700 900223,1140,2023-07-20,Manual
+ACC-7D1F4,Bennett Heating Ltd,,Plumbing & Heating,LE26 4WQ,07700 900041,1268,2023-04-10,Import (spreadsheet)
+ACC-C70CE,Fletcher Civils & Son,,?,,07700 900016,1060,2023-04-01,Manual
+ACC-8BCD9,Booth Electrical Contractors Ltd,H203807,Electrical,DE28 1HN,07700 900040,1217,2021-11-08,Manual
+ACC-2CB6E,Calder Building Services Ltd,,General Builder,LE5 2TR,07700 900199,1086,2023-02-09,Manual
+ACC-872A4,C Shah Builders Ltd,,General Builder,,07700 900852,1084,2024-11-24,Migrated from ERP
+ACC-D664E,Roberts Carpentry & Son,,Joinery & Carpentry,CV11 9PQ,07700 900760,1112,2025-01-12,Import (spreadsheet)
+ACC-29721,N Brookes Construction Ltd,H205156,General Builder,DE23 3ZY,07700 900182,1214,2025-12-14,Manual
+ACC-A08C0,KLBSS,H207264,General Builder,ng287eg,07700 900995,1086,2024-08-23,Web enquiry
+ACC-F65F1,Cooper & Burton Limited,H205033,Builder,WV18 3RS,07700 900680,1139,2025-02-17,Migrated from ERP
+ACC-8213F,Hudson and White and Son,H204986,Electrical,NG18 7AS,07700 900792,1166,2023-06-05,Web enquiry
+ACC-D1FD8,Murphy & Gallagher & Sons Ltd,H205897,Plumbing & Heating,S24 1QE,07700 900605,1242,2024-11-21,Migrated from ERP
+ACC-9F1F2,F Taylor Building Services Ltd  ,H200514,General Builder,PR27 4BQ,07700 900028,1216,2024-01-27,Import (spreadsheet)
+ACC-7C1EF,R Lewis Groundworks,,Groundworks,,07700 900632,1218,2025-03-24,Migrated from ERP
+ACC-5404A,Burton Building Services Limited,H204040,General Builder,BD28 4DF,07700 900655,1010,2025-03-08,Trade event
+ACC-E455C,Evans & Chapman & Son,H207708,Plumbing & Heating,S24 2RG,07700 900656,1087,2023-05-18,Manual
+ACC-C5620,Bennett & Ashworth Ltd,,Other,,07700 900237,1112,2025-06-21,Migrated from ERP
+ACC-95E97,Lowe & Rowe,,General Builder,le239sd,07700 900808,1058,2022-11-27,Migrated from ERP
+ACC-9C9DA,Pearce Electrical Ltd,H201490,Electrical,LS11 5PT,07700 900001,1035,2022-06-08,Migrated from ERP
+ACC-21A2B,Green & Kershaw & Son,H203782,General Builder,ng298uf,07700 900354,1218,2025-07-29,Web enquiry
+ACC-20852,A Morris Electrical Ltd,H204538,Electrical,LE23 4ZJ,07700 900155,1032,2021-09-25,Migrated from ERP
+ACC-3AA7C,Moore Building Services & Sons Ltd,H206243,General Builder,NG1 3AU,07700 900690,1036,2024-07-30,Migrated from ERP
+ACC-9647C,Ahmed & Wisniewski Limited,H200613,Roofing,BD8 9XL,07700 900819,1266,2022-11-17,Manual
+ACC-8B968,Wisniewski & Begum Ltd,,Joinery & Carpentry,WV26 2ZN,07700 900504,,2023-06-18,Migrated from ERP
+ACC-AE275,Lee Drainage & Son,,Trade,S27 1QE,07700 900987,1032,2024-08-26,Import (spreadsheet)
+ACC-4665F,D Kershaw Garden Services & Son,H201642,,,07700 900820,1166,2025-09-23,Web enquiry
+ACC-F5EB2,Hill Property Maintenance Ltd,H206752,Property,DN11 6XJ,07700 900714,1058,2025-02-23,Migrated from ERP
+ACC-F55ED,White Builders Ltd,H200316,General Builder,de164pg,07700 900115,,2024-02-23,Migrated from ERP
+ACC-13AF1,A Gill Builders Ltd,H207448,General,WV24 9WA,07700 900594,1293,2025-10-29,Web enquiry
+ACC-9D188,Fox Landscapes Ltd,,Landscaping,,07700 900634,1319,2022-12-09,Manual
+ACC-ABC67,S. Developments Limited,H205372,Developer,ST5 4UH,07700 900800,1062,2025-05-02,Web enquiry
+ACC-89735,K Kershaw Electrical & Sons Ltd,H206135,Builder,,07700 900805,1060,2022-03-05,Manual
+ACC-45D9F,Pennine Builders Limited,,General Builder,LE18 7RD,07700 900307,1242,2024-05-14,Import (spreadsheet)
+ACC-58D95,Calder Homes Ltd,,,S26 1QR,07700 900865,1162,2025-04-23,Import (spreadsheet)
+ACC-7B3EC,Charnwood Roofing,H206347,?,BD15 2YH,07700 900185,1270,2024-06-23,Migrated from ERP
+ACC-BA85D,L Walker Heating Ltd,,Plumbing & Heating,dn222sd,07700 900600,,2025-08-17,Import (spreadsheet)
+ACC-E2A3D,Evans Electrics & Sons Ltd,H203392,Electrical,LE26 1BU,07700 900502,1318,2022-11-22,Import (spreadsheet)
+ACC-6EB51,Morris Electrical Contractors & Son,H202365,Electrical,s57jl,07700 900658,1218,2025-02-05,Manual
+ACC-1D174,Evans Construction Limited,,General Builder,LS22 9YU,07700 900147,1188,2024-01-05,Manual
+ACC-8A9CA,Fox Garden Services & Son (do not use),,landscaping,PR16 9AG,07700 900535,1242,2024-04-23,Import (spreadsheet)
+ACC-36D50,C Wisniewski Construction Limited,H203791,general builder,PR15 8HS,07700 900013,1294,2022-05-26,Manual
+ACC-2352A,Smith Builders Ltd,H204478,builders,LS1 3SY,07700 900406,1243,2023-03-07,Web enquiry
+ACC-C304F,Peak Kitchens Ltd,,Kitchen & Bathroom Fitter,,07700 900582,1110,2023-05-28,Import (spreadsheet)
+ACC-28376,Brookes Building & Son,H205286,General Builder,,07700 900378,1087,2024-11-08,Manual
+ACC-17350,Dove Electrical Ltd,,Electrical,,07700 900428,1085,2024-03-06,Manual
+ACC-B8481,Sutcliffe Kitchens Ltd,,Kitchen & Bathroom Fitter,dn146yg,07700 900097,1058,2023-09-13,Manual
+ACC-184F9,A Mitchell Maintenance & Son,H203542,Property Maintenance,LS25 9HL,07700 900475,1138,2025-11-26,Migrated from ERP
+ACC-6BDAC,Mahmood Landscapes,,Builder,,07700 900039,1112,2023-01-09,Trade event
+ACC-37E5A,Rowe Building Services Limited,,General Builder,PR16 6XP,07700 900248,1270,2022-11-30,Manual
+ACC-E7FD5,I Popescu Landscapes & Sons Ltd,,Landscaping,LE27 2LW,07700 900800,1114,2025-12-03,Trade event
+ACC-C785D,Riley Property Developments & Sons Ltd,H205861,Developer,M14 7RL,07700 900748,,2024-03-25,Manual
+ACC-F08BA,Mitchell & Shah Ltd,H204374,general builder,,07700 900447,1269,2023-07-14,Manual
+ACC-3CBAF,Harris Heating Ltd,,Plumbing & Heating,,07700 900373,1321,2023-03-25,Web enquiry
+ACC-45861,Gill & Hussain Ltd,,Kitchen & Bathroom Fitter,,07700 900744,1293,2022-07-30,Manual
+ACC-84644,Smith & Wright Ltd,H205492,Electrical,BD1 1GN,07700 900257,1191,2021-10-22,Web enquiry
+ACC-16F9E,Brookes Carpentry Ltd,,Joinery,M19 1HS,07700 900704,1164,2024-03-17,Manual
+ACC-40BD3,Holmes Plumbing Ltd,H200196,Plumbing & Heating,cv12zu,07700 900218,1292,2025-02-25,Migrated from ERP
+ACC-2F527,Brown & Shah Ltd,,Joinery & Carpentry,CV15 3FG,07700 900590,1295,2022-07-20,Manual
+ACC-41180,Atkinson & Brookes,H206064,Electrical,,07700 900868,1244,2022-04-17,Web enquiry
+ACC-1DEF0,Burton Plumbing & Heating Ltd,H205879,Plumbing & Heating,,07700 900294,1217,2023-09-11,Trade event
+ACC-E2DE4,Williams Drainage Ltd,H205597,Groundworks,DE14 7PG,07700 900624,1191,2023-03-27,Migrated from ERP
+ACC-E91C8,C Turner Heating Ltd,H207788,Plumbing & Heating,M5 4FT,07700 900856,1162,2022-05-04,Manual
+ACC-52422,Clarke Roofing Services Ltd,H206412,,s39xt,07700 900767,1085,2022-01-03,Manual
+ACC-C7419,Roberts&Chapman Ltd,H202314,Trade,dn26jt,07700 900720,1217,2024-07-24,Trade event
+ACC-38BF1,D ROBINSON HEATING LTD,H206117,Plumbing & Heating,,07700 900306,1136,2022-03-06,Manual
+ACC-E2502,Riley & Johnson Ltd,H205605,General Builder,LS29 5WS,07700 900768,,2025-01-17,Import (spreadsheet)
+ACC-C3CDE,Dove Joinery Ltd,H205353,Joinery & Carpentry,DN1 5NL,07700 900856,1320,2024-05-16,Manual
+ACC-71896,Khan Homes Ltd,H201580,developer,,07700 900135,1189,2024-05-08,Trade event
+ACC-2B45D,N Patel Building Services Ltd,,General,S2 6WH,07700 900211,1059,2021-10-13,Trade event
+ACC-DDC10,D Barker Construction,,Other,ST5 3ND,07700 900046,1191,2023-07-04,Migrated from ERP
+ACC-73E8C,Aire Builders  ,,,LE7 1HL,07700 900459,1244,2025-03-02,Migrated from ERP
+ACC-9A3AE,Harrison Building Services & Sons Ltd,H201370,General Builder,BD15 9FL,07700 900864,1139,2023-12-25,Manual
+ACC-DEB30,Davies Landscapes & Sons Ltd,H201928,Landscaping,LS22 6EH,07700 900129,1320,2022-10-12,Manual
+ACC-CDAF1,Hall Draingae Ltd,H205547,Groundworks,,07700 900039,1166,2024-07-27,Trade event
+ACC-CFFBE,Ali and Bennett and Sons Ltd,,Trade,DE3 9QF,07700 900708,,2022-04-30,Web enquiry
+ACC-6676F,M Hart Bathrooms (do not use),,Kitchen & Bathroom Fitter,CV29 3HN,07700 900361,1241,2023-07-14,Import (spreadsheet)
+ACC-AB5FB,Jackson Building Limited,H200160,General Builder,st292qe,07700 900588,1058,2024-10-09,Import (spreadsheet)
+ACC-6279C,S Gill Plumbing Ltd,H204258,Plumbing & Heating,,07700 900045,1137,2022-04-24,Manual
+ACC-8027B,Baker Joinery & Sons Ltd,H202198,joinery & carpentry,ls261ty,07700 900375,1241,2022-03-24,Migrated from ERP
+ACC-C23B4,C Harris Building Ltd,H204896,Trade,LS11 2HE,07700 900873,1321,2023-01-28,Manual
+ACC-2A25C,Mason Construction & Sons Ltd,H202139,General Builder,,07700 900525,1269,2022-05-06,Manual
+ACC-687AE,Fox Garden Services & Son,,Builder,PR16 9AG,07700 900822,1111,2022-10-24,Web enquiry
+ACC-807C9,Gill Electrical Contractors,H200919,builders,DE5 4QZ,07700 900945,1295,2023-01-26,Migrated from ERP
+ACC-F3615,Doyle & Sutcliffe,H207642,Landscaping,DN11 2HG,07700 900266,1088,2024-11-19,Web enquiry
+ACC-361F9,Gill & Wisniewski Ltd,,Roofing,CV26 4FB,07700 900387,1241,2022-07-30,Migrated from ERP
+ACC-9A586,Rowe & Iqbal Limited,H203973,General Builder,BD7 4DH,07700 900210,1192,2024-10-01,Web enquiry
+ACC-2029F,Mersey Kitchens & Bathrooms Ltd  ,,Kitchen & Bathroom Fitter,,07700 900025,1163,2021-12-18,Web enquiry
+ACC-22C42,Kelly Building Limited,,Builder,PR9 2BX,07700 900519,1035,2024-06-09,Migrated from ERP
+ACC-4E6DD,S Begum Building Ltd,,General Builder,WV7 7BB,07700 900180,,2022-08-05,Migrated from ERP
+ACC-F96C1,J Ionescu Electrical Contractors Limited,H201751,electrical,CV13 7ZL,07700 900733,,2023-01-21,Web enquiry
+ACC-9276F,L Clarke Joinery & Building Ltd,,Joinery & Carpentry,m77pr,07700 900367,1166,2023-03-27,Web enquiry
+ACC-AF34E,B Sutcliffe Builders & Sons Ltd,H207535,General Builder,LE5 7XN,07700 900288,1240,2025-06-16,Manual
+ACC-4E1C5,A Bennett Building Ltd,H203381,General Builder,LS11 5NR,07700 900229,1086,2023-08-30,Trade event
+ACC-12C89,Riley Construction Ltd,H204544,General,M28 3AT,07700 900406,1087,2022-12-29,Web enquiry
+ACC-A7C5D,Sharma & Wood LTD.,H202998,General Builder,LE10 3UE,07700 900175,,2022-10-07,Import (spreadsheet)
+ACC-F5F6B,J Allen Garden Services Ltd,H204486,Landscaping,CV6 5QL,07700 900699,1060,2022-07-26,Manual
+ACC-E9C0C,Hart Joinery Ltd,,Other,,07700 900732,1268,2023-02-24,Manual
+ACC-62AF1,Ashworth Building Services Ltd,,General Builder,PR25 9DQ,07700 900611,1243,2023-06-17,Trade event
+ACC-A28C5,King Bathrooms Ltd,H206144,builders,CV18 6XY,07700 900083,1036,2025-01-03,Trade event
+ACC-27488,Nowak Plumbing & Heating Limited,H207648,Plumbing & Heating,DN15 7ZD,07700 900482,1084,2025-04-17,Trade event
+ACC-CC8DF,Patel Garden Services & Sons Ltd,,Landscaping,LE4 4YB,07700 900833,1293,2022-06-28,Manual
+ACC-15A2D,Baker Electrical Contractors Ltd,H204348,Electrical,le37xt,07700 900467,1032,2025-02-05,Migrated from ERP
+ACC-E0365,Jones Gas Services&Son,H204623,Plumbing & Heating,LE13 1RU,07700 900070,1087,2023-04-08,Trade event
+ACC-A4C63,D Dixon Groundworks Ltd,H205791,Groundworks,,07700 900538,1138,2023-07-06,Manual
+ACC-BBCE3,D Shah Gas Services Ltd,H204369,Plumbing & Heating,LS2 5EZ,07700 900721,1033,2022-12-01,Manual
+ACC-3BB7E,sutcliffe groundworks ltd,,Groundworks,PR22 4YD,07700 900511,1295,2023-04-03,Migrated from ERP
+ACC-DDFB9,M Wisniewski Garden Services & Son,H200309,,WV14 2UF,07700 900383,1084,2022-09-19,Trade event
+ACC-675B6,C Brookes Plumbing & Heating & Son,H205623,Plumbing & Heating,S12 1ZL,07700 900247,1036,2024-02-26,Trade event
+ACC-3A786,Davies Construction Ltd,,Builder,m28af,07700 900808,1111,2023-03-15,Web enquiry
+ACC-73B06,Calder Landscapes Limited,,Landscaping,BD11 1ZX,07700 900404,1036,2023-01-08,Manual
+ACC-89ED5,Allen Maintenance LTD.,,Property Maintenance,BD23 9UU,07700 900212,1319,2024-07-31,Manual
+ACC-1508A,P Turner Plumbing Ltd,,builders,NG12 5GN,07700 900632,1140,2023-03-06,Migrated from ERP
+ACC-C0B85,Wilson Builders Limited,,General Builder,CV21 6RP,07700 900844,1114,2023-03-02,Web enquiry
+ACC-4B8B1,O,,General Builder,LE29 9TF,07700 900113,1058,2025-02-12,Manual
+ACC-E7212,I Davies Plumbing & Heating Limited,H206191,Plumbing,NG24 5HY,07700 900810,1190,2025-11-06,Trade event
+ACC-E0CA5,Kershaw Landscapes,H200405,Landscaping,DE4 9YP,07700 900668,1188,2024-05-02,Web enquiry
+ACC-852A9,Fletcher Gas Services,,Builder,,07700 900335,1036,2025-08-13,Web enquiry
+ACC-8DE54,E Clarke Builders & Sons Ltd,H207278,builders,LE23 4RA,07700 900578,,2023-09-02,Manual
+ACC-34A27,Moore Property Maintenance Ltd,H207441,builders,,07700 900059,,2022-01-24,Migrated from ERP
+ACC-5C08C,I Marshall Plumbing Ltd,,Plumbing & Heating,LS17 6NG,07700 900233,1086,2022-01-04,Web enquiry
+ACC-F4185,Soar Property Developments Ltd,H207376,Developer,DN15 7PQ,07700 900293,,2021-09-14,Manual
+ACC-9C08D,Midland Property Maintenance Limited,H207778,builders,cv226wj,07700 900049,1216,2023-03-11,Manual
+ACC-5D8CF,Allen Heating & Son,H201883,,S21 9LA,07700 900204,1113,2024-04-07,Web enquiry
+ACC-8CDA0,Peak Kitchens LTD.,,Kitchen & Bathroom Fitter,DE16 5RF,07700 900792,,2023-10-04,Manual
+ACC-CDE0A,Ahmed Civils & Son,,Builder,cv58lp,07700 900009,1192,2025-06-10,Import (spreadsheet)
+ACC-A1F8D,Lee Construction & Sons Ltd,,builders,DN25 6PG,07700 900849,1032,2025-11-06,Trade event
+ACC-3B908,Akhtar & Popescu Limited,,Developer,LE20 9DZ,07700 900265,1138,2025-05-16,Import (spreadsheet)
+ACC-A8BF0,Clark Construction,H202581,General Builder,,07700 900153,1218,2025-02-19,Manual
+ACC-57441,Baker Civils & Son,H202741,Trade,S7 5WD,07700 900015,1216,2024-11-01,Web enquiry
+ACC-93816,KAUR ROOFING,H201986,Other,M19 6UX,07700 900027,1112,2022-07-25,Migrated from ERP
+ACC-D7EE8,Holmes Property Maintenance & Son,H203688,,M7 9GT,07700 900813,1243,2024-09-21,Migrated from ERP
+ACC-9B2FE,F Butterworth Builders Ltd,H203199,builders,dn89zw,07700 900769,1243,2024-04-27,Manual
+ACC-76765,Mitchell Electrical Ltd,H204440,Electrical,NG16 6LU,07700 900731,1033,2023-02-13,Migrated from ERP
+ACC-26556,B Gill Electrical Contractors Ltd,,,,07700 900936,1061,2021-11-27,Manual
+ACC-A48E5,Bennett Joinery Ltd,H200949,Joinery & Carpentry,DN6 1DY,07700 900737,1163,2023-03-07,Migrated from ERP
+ACC-6819E,Roberts Building Services,H204456,General Builder,,07700 900654,1321,2022-03-06,Web enquiry
+ACC-BFEA1,Brookes & Lewis Ltd,H206653,General Builder,,07700 900614,1293,2023-05-11,Manual
+ACC-2F07B,Hargreaves Heating & Sons Ltd,H204106,Other,,07700 900893,,2024-07-07,Import (spreadsheet)
+ACC-48F38,Calder Construction Ltd,H200412,General Builder,,07700 900099,1218,2022-01-29,Trade event
+ACC-CB89D,Lee & Ward Ltd,,general builder,ST27 3ER,07700 900158,1268,2022-12-02,Import (spreadsheet)
+ACC-C473B,E. & Chapman & Son,,Plumbing & Heating,s242rg,07700 900934,1190,2025-07-25,Manual
+ACC-7BABE,I Webb Building & Son,,General Builder,DN17 7QB,07700 900030,1192,2021-10-23,Trade event
+ACC-85E0D,M Murphy Civils Limited,,Groundworks,CV23 6HF,07700 900597,1241,2022-01-01,Trade event
+ACC-41A7C,Riley Maintenance & Son,H204533,Property Maintenance,ST5 2TJ,07700 900835,1062,2025-02-01,Migrated from ERP
+ACC-E7856,Barker Roofing Services & Sons Ltd,H207801,Roofing,LS19 4TR,07700 900124,1140,2023-12-07,Migrated from ERP
+ACC-151A8,Sharam Building,H207686,,le183ex,07700 900143,1113,2023-06-19,Web enquiry
+ACC-F171C,Burton & Mahmood Ltd,H206938,General Builder,,07700 900975,1113,2024-04-02,Manual
+ACC-F24A7,Brookes & Hussain Ltd,,Other,M5 1SN,07700 900821,1165,2024-10-24,Web enquiry
+ACC-42E28,Kershaw Roofing Ltd,,Roofing,NG4 6BX,07700 900813,1061,2024-11-18,Manual
+ACC-BBE83,Baker & Lewis & Sons Ltd,,builders,,07700 900177,1034,2021-09-06,Import (spreadsheet)
+ACC-B5048,Johnson Builders Limited,H206146,,CV27 3EN,07700 900533,1110,2025-08-06,Import (spreadsheet)
+ACC-B8F2B,Webb Construction Ltd,H204450,General Builder,LS15 7EP,07700 900110,1188,2023-04-19,Migrated from ERP
+ACC-C8C6A,B. Civils Ltd,,?,LE2 2DG,07700 900786,1140,2023-06-04,Manual
+ACC-5F1D8,A Begum Heating Ltd,H200590,Plumbing & Heating,BD16 1PY,07700 900502,1062,2025-06-17,Web enquiry
+ACC-4CD17,Sharma & Wood Ltd,H202998,General Builder,,07700 900138,,2022-02-09,Web enquiry
+ACC-28AB6,Popescu Landscaping Ltd,,Landscaping,,07700 900026,1032,2022-07-16,Manual
+ACC-F12DB,M Bennett Builders,H205845,General Builder,ST8 9YX,07700 900863,1217,2023-05-17,Manual
+ACC-64031,Roberts Groundworks & Sons Ltd,H207631,Trade,DE12 6WA,07700 900845,1059,2022-09-23,Manual
+ACC-A0AC5,Moore Roofing & Building Ltd,H201048,Roofing,S17 3FR,07700 900074,1188,2021-11-01,Trade event
+ACC-422B9,Doyle & Sutcliffe  ,H207642,Landscaping,,07700 900575,1268,2025-12-08,Web enquiry
+ACC-91496,Smith Groundworks Limited,H202810,Groundworks,NG13 2YL,07700 900748,1165,2023-06-19,Import (spreadsheet)
+ACC-DA6C1,N Sutcliffe Heating Ltd,H206096,Plumbing & Heating,,07700 900871,1165,2022-03-15,Migrated from ERP
+ACC-993E3,Harrison Roofing Services Ltd,H204261,Roofing,,07700 900266,1269,2024-10-30,Import (spreadsheet)
+ACC-5C221,S Webb Gas Services Limited,,Plumbing & Heating,,07700 900030,1085,2024-08-22,Import (spreadsheet)
+ACC-ABBAD,Ribble Plumbing and Son,H207822,Plumbing & Heating,s76fr,07700 900900,1060,2023-04-10,Web enquiry
+ACC-241B6,Atkinson & Parker Ltd,,General Builder,BD24 6QQ,07700 900287,1163,2023-09-06,Trade event
+ACC-FB53A,E Akhtar Property Services & Sons Ltd,H206947,Trade,,07700 900609,1268,2023-09-20,Manual
+ACC-A68A2,Lewis & Wisniewski Ltd,H206173,Property Maintenance,m65jl,07700 900391,1084,2022-07-08,Web enquiry
+ACC-A2462,Hudson Homes Ltd,H207727,Developer,NG23 8HX,07700 900471,,2022-06-26,Import (spreadsheet)
+ACC-3BBD6,King Joinery,,joinery & carpentry,NG19 2BZ,07700 900815,1035,2025-02-27,Trade event
+ACC-A58DA,L Harrison Construction Ltd,,,le282qg,07700 900488,1163,2024-08-10,Import (spreadsheet)
+ACC-80F8B,Taylor Developments Ltd,H200598,Developer,LE2 9WB,07700 900573,,2025-11-01,Manual
+ACC-BF4C9,Pickering & Jackson Ltd,H205094,plumbing & heating,m212ar,07700 900639,1241,2025-02-18,Manual
+ACC-73497,Brookes Carpentry,H205324,Joinery & Carpentry,,07700 900072,1293,2023-04-08,Manual
+ACC-52696,Wilson Kitchens & Bathrooms,H204539,Kitchen & Bathroom Fitter,LE7 3HB,07700 900592,1114,2022-07-22,Manual
+ACC-9E4CA,Riley & Mahmood & Son,H206397,Other,PR11 9QS,07700 900518,1084,2024-11-14,Web enquiry
+ACC-57D54,Davies Building Ltd,H200193,General Builder,LS22 4WW,07700 900994,1137,2025-02-06,Manual
+ACC-C3EE4,H Clark Drainage Ltd,H207197,Groundworks,LE26 4YX,07700 900379,1218,2022-02-01,Import (spreadsheet)
+ACC-B865B,Fox Plumbing & Heating & Son,H200244,Plumbing & Heating,ng197tl,07700 900366,1165,2021-09-08,Web enquiry
+ACC-3BF62,Sutcliffe Kitchens Ltd (do not use),H202383,Kitchen & Bathroom Fitter,,07700 900949,1085,2024-08-18,Manual
+ACC-A09BD,A Ashworth Plumbing & Son,,Plumbing & Heating,PR24 2UH,07700 900884,1243,2024-01-21,Manual
+ACC-68008,P Taylor Kitchens Ltd,H205701,?,PR7 2PH,07700 900642,1087,2025-08-23,Web enquiry
+ACC-4B319,Kelly & Kowalski & Son (do not use),H206161,Groundworks,S24 3NL,07700 900756,1269,2023-07-08,Import (spreadsheet)
+ACC-D747F,L Chapman Garden Services,,Landscaping,S12 6YU,07700 900686,1191,2023-12-30,Manual
+ACC-CC65D,J Byrne Builders & Sons Ltd,H203600,General Builder,,07700 900460,1242,2024-06-02,Import (spreadsheet)
+ACC-C1751,Cooper Kitchens & Sons Ltd,H204006,Kitchen & Bathroom Fitter,,07700 900159,1295,2022-09-03,Migrated from ERP
+ACC-C1BB1,L Thompson Landscaping Ltd,H201953,Builder,,07700 900989,1086,2023-07-29,Manual
+ACC-5D5BA,Jackson Building Services,H200168,Other,WV28 1WL,07700 900377,1139,2023-07-01,Trade event
+ACC-14C8C,Khan Property Services Limited,H204216,Property Maintenance,,07700 900019,1191,2022-07-04,Manual
+ACC-C574E,Smith Joinery & Building Ltd,H202891,Trade,CV7 6ZG,07700 900770,1241,2024-09-14,Import (spreadsheet)
+ACC-8C54B,Johnson & Ashworth & Son,H202195,General Builder,ST5 2ZD,07700 900479,1033,2023-08-29,Manual
+ACC-361C4,Kowalski & Pearce Ltd,,General Builder,NG13 6DL,07700 900168,1062,2023-03-05,Trade event
+ACC-E620D,G Mahmood Roofing,,Roofing,bd218dy,07700 900247,1191,2024-08-19,Manual
+ACC-F150D,I Davies Plumbing & Heating Limited (do not use),H206191,?,NG24 5HY,07700 900618,1165,2023-04-02,Import (spreadsheet)
+ACC-9195B,H Robinson Gas Services,H205685,Other,S15 6YA,07700 900141,1190,2024-11-04,Manual
+ACC-55710,D Doyle Groundworks & Son,,Groundworks,LS12 5JS,07700 900233,,2023-06-03,Trade event
+ACC-37766,W White Building & Son,H202577,Other,,07700 900737,1318,2024-05-11,Manual
+ACC-7CA7B,Hill & Johnson Limited,H205109,Developer,,07700 900177,1061,2024-06-17,Trade event
+ACC-23B2D,B Marshall Building Ltd,H207083,General Builder,NG21 1GJ,07700 900186,,2024-06-01,Trade event
+ACC-44791,Northern Plumbing & Heating,,builders,PR5 1SE,07700 900178,1294,2022-08-15,Web enquiry
+ACC-803A2,Hart & Harrison,H201976,Roofing,,07700 900645,1085,2023-11-27,Manual
+ACC-39E73,Pearce Electrics Ltd,H206096,Electrical,,07700 900731,1190,2022-01-11,Web enquiry
+ACC-B3071,Gallagher Carpentry,H207349,Joinery & Carpentry,S11 9NN,07700 900850,,2022-06-29,Trade event
+ACC-E7A41,Brown Construction Ltd,H207339,General,PR25 9QX,07700 900256,1215,2024-10-03,Trade event
+ACC-7B3D2,Roberts & Riley Limited,H202873,Electrical,,07700 900780,1136,2024-03-17,Manual
+ACC-9F13B,D Hudson Roofing,H201244,Roofing,NG23 5RE,07700 900253,1111,2025-04-03,Manual
+ACC-61A69,Wright Roofing Services Ltd,H203257,Builder,PR15 1UU,07700 900909,1084,2022-05-27,Import (spreadsheet)
+ACC-82084,BH,H203403,Plumbing & Heating,NG24 6XA,07700 900760,1218,2025-05-15,Web enquiry
+ACC-9107A,S Kowalski Landscapes&Sons Ltd,H206625,Landscaping,le262xh,07700 900437,1190,2021-12-28,Web enquiry
+ACC-A45AE,B Marshall Landscaping Limited,,landscaping,S19 1PW,07700 900760,1243,2025-06-12,Trade event
+ACC-BD746,Booth Builders & Sons Ltd,H204935,Trade,CV7 4HP,07700 900150,,2022-04-02,Manual
+ACC-3E299,Kershaw Homes Ltd,H206451,Developer,NG10 2FT,07700 900130,1241,2023-11-17,Manual
+ACC-1FC7D,A Morris Electrical & Son,H206866,Electrical,ST15 2AU,07700 900731,1269,2022-01-03,Manual
+ACC-6745C,D Hussain Builders & Sons Ltd,H204167,General Builder,,07700 900158,1321,2024-02-18,Web enquiry
+ACC-F7334,Hill Gas Services Limited  ,H201351,Plumbing & Heating,,07700 900917,1266,2025-11-25,Import (spreadsheet)
+ACC-6F889,Johnson Building & Sons Ltd,H207545,builders,S13 1SP,07700 900059,1010,2025-02-06,Web enquiry
+ACC-6EDDA,Sharma Builders & Sons Limited,H207796,General Builder,cv106ga,07700 900924,1086,2022-08-01,Manual
+ACC-202FC,Shaw Gas Services & Sons Ltd,,Plumbing,LE3 5AY,07700 900711,1062,2024-12-05,Import (spreadsheet)
+ACC-A9CD5,S Kowalski Building,,Other,WV20 8QW,07700 900301,1214,2025-03-14,Manual
+ACC-80080,Hughes Civils Ltd,H207361,,NG15 6WP,07700 900059,1059,2025-03-28,Manual
+ACC-FC08E,Soar Civils Ltd,,Groundworks,le63tf,07700 900560,1088,2024-11-16,Import (spreadsheet)
+ACC-9C2FE,D Lewis Rofoing Services Limited,,Roofing,LE21 1BB,07700 900808,1137,2024-07-18,Trade event
+ACC-CF5EF,King Builders & Son,,General Builder,DN17 4EU,07700 900003,1318,2025-04-21,Migrated from ERP
+ACC-D05AD,Bennett Civils Ltd,H205595,Builder,le22dg,07700 900398,1114,2022-10-01,Web enquiry
+ACC-6BB91,Northern Plumbing & Sons Ltd,,Plumbing & Heating,M22 4QD,07700 900091,1217,2025-10-25,Manual
+ACC-AB0F3,Rowe Electrical,,Electrical,NG27 7LE,07700 900862,1269,2022-09-07,Trade event
+ACC-1AFF2,B Kershaw Bathrooms & Son,,Trade,,07700 900297,1295,2024-11-26,Import (spreadsheet)
+ACC-32B94,Walker & Pearce & Sons Ltd,,Groundworks,,07700 900582,1058,2024-02-26,Import (spreadsheet)
+ACC-4B6E4,Trent Plumbing,H200469,Plumbing & Heating,ST15 8RD,07700 900275,1218,2025-12-26,Web enquiry
+ACC-50FB8,Atkinson & Thompson,H204632,Property Maintenance,BD19 1RG,07700 900902,1270,2024-06-13,Manual
+ACC-3D0D8,Wilson & Clark & Son,,Electrical,bd201lw,07700 900948,1244,2022-04-03,Manual
+ACC-343ED,M King Landscaping & Sons Ltd,,Landscaping,ST7 9ES,07700 900904,,2024-10-21,Manual
+ACC-D30D1,H Riley Building & Sons Ltd,H204714,Trade,le216pl,07700 900645,1321,2024-03-22,Migrated from ERP
+ACC-3A6A9,Patel Electrical Contractors&Sons Ltd,H206114,Electrical,LS25 6SN,07700 900186,1190,2024-11-20,Manual
+ACC-D81CA,Calder Kitchens Limited,H200740,kitchen & bathroom fitter,BD12 3TW,07700 900368,1032,2022-01-02,Trade event
+ACC-DD287,Taylor Builders & Son,H203289,Builder,NG15 4EA,07700 900758,1138,2023-04-19,Web enquiry
+ACC-3EB62,Doyle Carpentry & Son,H202157,Other,DN1 3DW,07700 900065,1138,2025-05-08,Trade event
+ACC-AF6E8,S Green Developments,H202723,Developer,LE19 1DA,07700 900348,1084,2022-11-29,Manual
+ACC-7EEC5,J Shah Civils Ltd,,Groundworks,PR16 4HR,07700 900572,1190,2024-03-03,Web enquiry
+ACC-D4326,A Kaur Builders Ltd,H201800,Builder,st26ew,07700 900122,1214,2022-02-24,Manual
+ACC-65695,Smith Developments Limited,H205372,,ST5 4UH,07700 900348,1088,2023-12-12,Migrated from ERP
+ACC-C4FD9,D Robinson Heating Ltd,H206117,Trade,LS15 2GW,07700 900489,1191,2025-12-16,Trade event
+ACC-BC923,Pennine Kitchens & Bathrooms Ltd,,,ls269zn,07700 900338,1268,2022-09-09,Manual
+ACC-6A614,Clark & Burton & Son,,Joinery & Carpentry,PR4 5EU,07700 900365,,2025-11-13,Trade event
+ACC-96D8E,Nowak Building,H205199,general builder,M16 6PE,07700 900933,,2023-06-22,Trade event
+ACC-615C6,G Begum Building Services Ltd,,General Builder,LS20 3GN,07700 900738,1162,2025-09-18,Web enquiry
+ACC-7B188,Wilson Gas Services Limited,H206300,Plumbing & Heating,NG23 9TT,07700 900334,1192,2022-02-13,Trade event
+ACC-4F44D,Barker Heating,,Plumbing & Heating,,07700 900924,1110,2021-11-27,Manual
+ACC-52C68,L Parker Builders Ltd,H205770,Builder,S26 1GE,07700 900960,1033,2022-06-26,Manual
+ACC-5D62A,LA,H202135,Trade,,07700 900572,1188,2022-12-21,Migrated from ERP
+ACC-FA3EE,Kowalski Plumbing & Son,,builders,,07700 900721,1321,2024-11-04,Import (spreadsheet)
+ACC-CFD9F,Smith Electrics & Son,,Electrical,WV21 3JN,07700 900742,1319,2023-03-13,Manual
+ACC-EA967,K. Joinery,,Joinery & Carpentry,ng192bz,07700 900077,1240,2021-09-10,Import (spreadsheet)
+ACC-CF9D2,Hall Joinery & Son,H207301,joinery & carpentry,M12 2ZH,07700 900879,1034,2024-05-26,Trade event
+ACC-5722E,L Wisniewski Construction,H207740,General Builder,BD5 8GS,07700 900402,1088,2025-05-22,Trade event
+ACC-6CFB3,Gallagher Electrical Limited,H201565,Electrical,S9 1BP,07700 900269,1217,2023-10-03,Trade event
+ACC-418BB,King & Patel & Sons Ltd,H206832,General Builder,S12 1TZ,07700 900344,1010,2024-11-13,Trade event
+ACC-8DD00,Akhtar & Akhtar & Son,H202368,General Builder,,07700 900864,1292,2025-07-12,Import (spreadsheet)
+ACC-1CE43,Charnwood Landscaping Ltd (do not use),H204326,Builder,,07700 900400,1088,2025-10-23,Import (spreadsheet)
+ACC-A86EF,Hall & Sutcliffe,,,DN21 5GX,07700 900576,1088,2023-05-03,Trade event
+ACC-E6CB3,Smith,H205120,Groundworks,NG13 2YL,07700 900204,1242,2024-03-02,Trade event
+ACC-18922,O Marshall Property Maintenance & Sons Ltd,H207938,Property Maintenance,le198ep,07700 900398,,2022-02-16,Import (spreadsheet)
+ACC-175C4,Kaur Joinery Ltd,H202234,Joinery & Carpentry,PR9 3NT,07700 900611,1162,2023-11-25,Import (spreadsheet)
+ACC-3FD7D,Hudson Building Services Ltd,H204196,general builder,PR21 7HQ,07700 900267,1242,2023-05-21,Migrated from ERP
+ACC-322CD,Hargreaves Gas Services Ltd,,,M6 3RT,07700 900073,1111,2022-06-03,Manual
+ACC-FD786,I Marshall Property Services Ltd,H202203,,BD24 2RG,07700 900034,1191,2024-02-22,Manual
+ACC-C3783,King & Allen & Son,,Joinery & Carpentry,NG26 5JY,07700 900461,1215,2023-08-25,Web enquiry
+ACC-6EDBC,HILL KITCHENS LIMITED,,Kitchen & Bathroom Fitter,M25 4PG,07700 900172,1267,2024-02-28,Manual
+ACC-C4AF3,Northern Property Maintenance Limited,H202020,Property Maintenance,CV28 9UX,07700 900860,1189,2024-07-11,Migrated from ERP
+ACC-6956F,Lowe & Ashworth Limited,,,,07700 900649,1036,2024-07-10,Manual
+ACC-A8B14,Charnwood Landscaping & Sons Ltd,H205917,Landscaping,WV28 5FP,07700 900147,,2023-02-24,Web enquiry
+ACC-2E55A,Popescu Groundworks Ltd,H206522,groundworks,LE23 1SA,07700 900528,1164,2024-07-15,Import (spreadsheet)
+ACC-D90D3,Lewis Gas Services & Sons Ltd,H203639,?,PR16 1DF,07700 900580,1241,2024-05-16,Manual
+ACC-13421,J Kowalski Builders & Sons Ltd,H201682,General Builder,WV18 1JB,07700 900443,1241,2021-10-19,Migrated from ERP
+ACC-AB9E3,Cooper Developments Ltd,H207564,Other,LS8 6WB,07700 900392,1163,2025-10-05,Migrated from ERP
+ACC-9CA50,A Fletcher Electrics Ltd,,Electrical,CV10 8HN,07700 900003,1010,2023-01-25,Manual
+ACC-835C6,ellis & robinson ltd,,roofing,,07700 900932,1086,2023-07-03,Migrated from ERP
+ACC-8DB5C,W Doyle Drainage Ltd,H200118,Groundworks,DN27 5JF,07700 900012,,2024-11-28,Import (spreadsheet)
+ACC-57975,Carter Plumbing & Heating,,Plumbing & Heating,,07700 900987,1270,2025-05-18,Import (spreadsheet)
+ACC-C9CEF,Midland Roofing,H207450,Roofing,s133da,07700 900660,1296,2025-11-15,Web enquiry
+ACC-4DEE7,Moore & Nowak Ltd,,Groundworks,ng141ye,07700 900982,1162,2024-01-25,Migrated from ERP
+ACC-FE2F3,N. Popescu Electrical Contractors & Sons Ltd,H207510,Builder,,07700 900642,1166,2023-12-05,Trade event
+ACC-1FC0D,Hill Gas Services Limited,,Plumbing & Heating,NG6 8AZ,07700 900986,1060,2022-10-25,Migrated from ERP
+ACC-A78BB,T Williams Builders Ltd,,Builder,S27 4PW,07700 900747,1244,2024-10-22,Trade event
+ACC-B77CE,Hughes Groundworks Ltd,H200266,Groundworks,,07700 900148,1243,2023-02-16,Manual
+ACC-7D5F0,Shaw Homes Limited  ,H203653,Developer,,07700 900579,1035,2024-04-02,Web enquiry
+ACC-E9F36,P Davies Building Ltd,,Builder,DE5 1SW,07700 900384,1321,2023-03-24,Migrated from ERP
+ACC-115D0,Wright Roofing Services Limited,H203257,?,PR15 1UU,07700 900873,1062,2023-08-02,Web enquiry
+ACC-5FC0B,Brookes Building and Son,H205286,Trade,M4 2FA,07700 900501,1318,2024-01-13,Trade event
+ACC-486EB,F Shah Building,,General Builder,wv164gn,07700 900018,1192,2023-10-15,Manual
+ACC-7DB33,B Smith Building Ltd,H204876,General Builder,NG28 5PB,07700 900280,1087,2024-07-12,Manual
+ACC-A954E,Peak Electrical Contractors Limited,,,ST12 9QQ,07700 900539,1060,2021-10-24,Migrated from ERP
+ACC-5C503,Brown Building Ltd,H205963,General Builder,DN8 5BY,07700 900345,1269,2023-02-23,Web enquiry
+ACC-88CC9,Murphy & Ahmed Limited,H207006,Groundworks,,07700 900520,1166,2023-05-24,Trade event
+ACC-682AA,Ward & Evans,,General Builder,LE15 1XQ,07700 900641,1266,2022-09-25,Manual
+ACC-EDBFC,Nowak Construction Ltd,,General Builder,LE28 4HE,07700 900908,1295,2022-02-27,Manual
+ACC-10D3D,Begum Homes Limited,H204427,Developer,BD11 3TN,07700 900600,1214,2023-02-02,Manual
+ACC-2081F,Wisniewski & Mahmood Ltd,H205048,,,07700 900968,1242,2025-09-30,Migrated from ERP
+ACC-C1579,Thompson & Barker Ltd,H206481,Roofing,LS1 3LW,07700 900642,1269,2024-01-29,Web enquiry
+ACC-77C08,K Kowalski Landscaping Ltd,,Landscaping,,07700 900953,1190,2025-02-04,Manual
+ACC-EE53C,Dixon & Carter Ltd,,?,,07700 900520,,2022-01-08,Manual
+ACC-3569A,Green & Clark Ltd,H207532,Plumbing,,07700 900742,1033,2025-01-09,Migrated from ERP
+ACC-D107D,Ward Kitchens & Bathrooms Ltd,,Kitchen & Bathroom Fitter,NG11 1LX,07700 900589,1188,2023-12-03,Import (spreadsheet)
+ACC-4817E,Harrison Roofing Services,H200913,Roofing,LE4 6UH,07700 900500,1321,2022-09-16,Manual
+ACC-72837,Pennine Drainage Ltd  ,,Groundworks,LE28 6YB,07700 900954,1058,2025-10-20,Manual
+ACC-EA636,Bennett & Marshall Ltd,,builders,NG4 4XB,07700 900642,1088,2023-01-15,Manual
+ACC-ADDD0,Roberts Developments,H203373,Developer,BD18 2AX,07700 900439,1215,2023-07-15,Manual
+ACC-B9546,Peak Plumbing Ltd,H201645,Plumbing & Heating,LE15 5XL,07700 900222,,2022-07-13,Manual
+ACC-9B9E2,Gill Construction & Sons Ltd,H204070,General Builder,BD14 6NE,07700 900938,1191,2023-06-02,Migrated from ERP
+ACC-D7998,Pearce Civils Ltd,H202551,Groundworks,M27 9US,07700 900960,1140,2023-02-11,Import (spreadsheet)
+ACC-338DA,N Booth Drainage Ltd,,Groundworks,CV7 1HZ,07700 900105,1217,2024-04-13,Manual
+ACC-CA728,K Shaw Electrical Ltd,H200005,Electrical,LE18 6XL,07700 900716,1216,2022-10-03,Trade event
+ACC-9BFB2,Charnwood Groundworks & Sons Ltd,,builders,LE27 8RT,07700 900410,1165,2022-12-03,Manual
+ACC-3AA41,Hart Building & Son,H203242,General Builder,NG1 1TY,07700 900048,1086,2022-06-11,Web enquiry
+ACC-42AEC,Carter Landscaping,,Landscaping,WV5 9BL,07700 900456,1034,2025-05-10,Import (spreadsheet)
+ACC-1EB67,Pickering Drainage Ltd,,?,de261zw,07700 900282,1061,2022-11-27,Trade event
+ACC-FAA54,Ellis & Pearce Ltd,H203456,Electrical,LS29 6XR,07700 900598,1321,2024-02-05,Migrated from ERP
+ACC-638C6,Calder Construction Ltd  ,H200412,?,ls254ss,07700 900985,1114,2024-01-21,Import (spreadsheet)
+ACC-C700B,Hughes Gas Services Ltd,H204283,Builder,WV22 5RP,07700 900035,1190,2024-04-09,Import (spreadsheet)
+ACC-4E6DE,A Parker Gas Services Ltd,H201317,plumbing & heating,LS23 9NY,07700 900826,1190,2022-11-10,Manual
+ACC-59F8A,Roberts & Chapman Ltd,,Developer,,07700 900048,1088,2025-03-29,Web enquiry
+ACC-37FC2,S Kowalski Landscapes & Sons Ltd,H206625,Landscaping,LE26 2XH,07700 900786,1032,2024-08-03,Manual
+ACC-4D014,Pickering Roofing Services Limited,H201412,,S25 5YY,07700 900648,1242,2025-07-09,Migrated from ERP
+ACC-3EC9D,H Wright Groundworks Ltd,,Trade,LE12 1AW,07700 900014,1321,2025-08-08,Web enquiry
+ACC-72972,Clark Construction Limited,H200247,Trade,,07700 900750,1137,2024-08-28,Import (spreadsheet)
+ACC-7D18E,Roberts Kitchens Limited,,Kitchen & Bathroom Fitter,CV5 5RS,07700 900657,1192,2023-04-06,Import (spreadsheet)
+ACC-8E9D9,CAPH,H203268,builders,CV28 3GW,07700 900567,1188,2025-06-29,Manual
+ACC-EF545,T Wood Maintenance & Son,,builders,st286zb,07700 900858,1296,2023-05-07,Migrated from ERP
+ACC-F9B68,Peak Electrical Contractors & Sons Ltd,H204800,Electrical,PR14 4SR,07700 900314,1192,2022-10-05,Trade event
+ACC-84A22,Nowak & Hall & Sons Ltd,,General Builder,,07700 900322,1032,2022-11-02,Import (spreadsheet)
+ACC-DF58C,Barker Kitchens Ltd,,?,,07700 900009,1242,2024-03-02,Manual
+ACC-B6FCB,White Carpentry Ltd,H202170,Builder,CV22 2BD,07700 900375,1138,2024-12-06,Trade event
+ACC-B8C2C,Pearce Roofing Services & Son,,Roofing,pr178fd,07700 900652,1035,2023-08-11,Manual
+ACC-6D384,M Evans Electrics Ltd,H201104,Builder,s269gt,07700 900845,1216,2024-09-18,Web enquiry
+ACC-67628,Atkinson Construction Ltd,H203566,General,,07700 900633,1113,2022-02-20,Web enquiry
+ACC-5406D,Dixon Kitchens,H203321,Kitchen & Bathroom Fitter,dn258pd,07700 900193,1320,2025-11-26,Manual
+ACC-977A9,Marshall & Murphy Limited,,Joinery & Carpentry,BD14 8FB,07700 900334,,2025-05-28,Migrated from ERP
+ACC-1AFE2,J Ionescu Electrical Contractors Ltd,H201751,Electrical,cv137zl,07700 900628,1214,2025-10-13,Web enquiry
+ACC-AB8F0,Williams & Roberts Ltd,,Landscaping,,07700 900976,,2022-06-13,Migrated from ERP
+ACC-70324,T Butterworth Drainage,H205562,,CV21 4ZZ,07700 900838,,2025-01-21,Manual
+ACC-D322E,K Williams Property Developments Ltd,,?,NG25 8UF,07700 900205,,2025-05-19,Web enquiry
+ACC-3D72A,A Burton Heating Ltd,,Plumbing & Heating,LS7 5HR,07700 900032,1085,2024-11-22,Web enquiry
+ACC-7988C,ROBERTS & RILEY LIMITED,H202873,Trade,LS9 4DD,07700 900839,1036,2021-10-21,Manual
+ACC-33CF5,K. Plumbing & Son,H207158,Trade,,07700 900025,1293,2022-10-14,Import (spreadsheet)
+ACC-7394E,Webb Roofing & Sons Ltd,,Roofing,,07700 900904,1216,2024-02-13,Trade event
+ACC-6A410,C Akhtar Plumbing & Heating,,Plumbing & Heating,CV28 3GW,07700 900123,1112,2024-03-25,Migrated from ERP
+ACC-952CF,Mitchell & Taylor & Son,H202349,?,LE9 6WD,07700 900680,1188,2024-11-28,Web enquiry
+ACC-9C7AF,Dove Joinery & Building,H205364,,CV4 7WW,07700 900397,1137,2024-12-05,Web enquiry
+ACC-549D9,Brookes Drainage,H205300,,BD3 8NB,07700 900819,1032,2021-10-04,Import (spreadsheet)
+ACC-CD57A,A Clarke Civils Ltd,,Groundworks,,07700 900621,1035,2023-04-07,Web enquiry
+ACC-61EA9,AB,,General,,07700 900382,1216,2025-08-26,Import (spreadsheet)
+ACC-C0A0C,Charnwood Carpentry,H200569,?,M7 8QB,07700 900541,1296,2022-07-08,Import (spreadsheet)
+ACC-ABDF6,Begum & Hall Ltd,H205617,Developer,,07700 900228,1218,2022-08-15,Web enquiry
+ACC-891B6,Cooper Electrical Contractors & Sons Ltd,H202332,Electrical,WV6 1PA,07700 900517,1240,2023-11-23,Trade event
+ACC-7EA04,a roberts carpentry & son,H203552,Trade,,07700 900729,1136,2023-11-15,Manual
+ACC-42202,Dixon Builders & Sons Ltd,,,CV27 6TH,07700 900975,1242,2025-06-25,Manual
+ACC-4B0A7,Williams & Morris Limited,,Plumbing & Heating,,07700 900962,1140,2021-09-16,Manual
+ACC-984ED,Brown & Shah Limited,,,CV15 3FG,07700 900149,1162,2023-07-24,Trade event
+ACC-E96FD,Nowak Property Services Ltd,H200791,Property Maintenance,,07700 900716,1059,2022-10-29,Web enquiry
+ACC-5C852,L Wilson Builders & Sons Ltd,H204761,General,LE15 7RZ,07700 900805,1060,2022-09-11,Import (spreadsheet)
+ACC-85803,Mahmood Electrical Contractors & Son,,Electrical,,07700 900826,1059,2021-09-05,Import (spreadsheet)
+ACC-E47E6,Akhtar Construction Limited,H207960,general builder,,07700 900971,1215,2023-02-21,Migrated from ERP
+ACC-A0AF4,Mahmood Plumbing & Heating Ltd,,Plumbing & Heating,LE19 2YN,07700 900596,1166,2022-02-21,Trade event
+ACC-EDC2B,Morris Building & Son  ,H207597,General Builder,,07700 900372,1268,2023-11-26,Manual
+ACC-9AC0B,Hudson Plumbing Ltd,H203173,Plumbing & Heating,NG20 3QN,07700 900129,1241,2022-11-21,Import (spreadsheet)
+ACC-8B556,Charnwood Landscaping Ltd,H202456,Landscaping,,07700 900101,1163,2024-03-15,Manual
+ACC-2AF03,D Akhtar Builders & Son,H202070,General Builder,,07700 900813,1087,2023-09-05,Trade event
+ACC-E8FBB,Parker & Evans Ltd,H207086,Groundworks,dn67pn,07700 900342,1242,2022-05-05,Trade event
+ACC-10840,Brown Roofing & Building Ltd,,Roofing,LS14 5RA,07700 900386,1267,2023-08-02,Migrated from ERP
+ACC-C4A5B,SOAR GROUNDWORKS LIMITED,,Groundworks,ng33ub,07700 900610,,2022-06-16,Migrated from ERP
+ACC-9D27D,A Hart Building Services & Son,H207241,General Builder,LE21 3LX,07700 900025,1088,2023-10-11,Migrated from ERP
+ACC-3BB77,S Gallagher Kitchens & Bathrooms & Sons Ltd,H204629,Kitchen & Bathroom Fitter,M6 6SW,07700 900470,1164,2025-08-05,Web enquiry
+ACC-11911,Lewis & Ashworth Ltd,H206494,General,M13 7ED,07700 900422,1192,2024-12-01,Trade event
+ACC-93F2F,Calder Plumbing Limited,H203758,Trade,DE24 9LJ,07700 900233,1110,2022-01-19,Manual
+ACC-418D4,Williams Roofing Services Limited,H206711,Builder,,07700 900253,1243,2025-02-19,Web enquiry
+ACC-E1B29,D Robinson Heating,H206117,Plumbing & Heating,,07700 900246,1216,2024-06-25,Manual
+ACC-57301,R Hart Property Maintenance Ltd,,Property Maintenance,LS1 2YG,07700 900569,1244,2023-12-03,Manual
+ACC-DB0D6,D Ionescu Plumbing Ltd,H203932,Trade,,07700 900183,1110,2024-03-19,Trade event
+ACC-59A6E,E KAUR BUILDERS LTD,H200049,General Builder,LE2 8BW,07700 900594,1111,2025-02-25,Migrated from ERP
+ACC-F1A71,Taylor & Murphy Ltd,,Electrical,WV19 3AQ,07700 900194,1270,2022-12-12,Migrated from ERP
+ACC-DCD8B,Pearce Builders,,General Builder,S23 4HH,07700 900883,1192,2022-09-03,Web enquiry
+ACC-4905A,Bennett Roofing & Building Ltd,H205394,Roofing,ls141we,07700 900209,1243,2024-03-27,Trade event
+ACC-EE57E,Doyle Construction & Sons Ltd,,General Builder,BD28 9SS,07700 900121,1084,2022-04-22,Manual
+ACC-B63CA,Burton Roofing,H206799,Roofing,le193wz,07700 900543,1140,2022-11-12,Manual
+ACC-84421,Khan Garden Services & Son,H201553,Landscaping,,07700 900259,1319,2023-06-28,Manual
+ACC-F3FA8,Trent Property Services Ltd,,builders,m233yw,07700 900544,1060,2025-06-15,Web enquiry
+ACC-EC81F,Singh Construction LTD.,H202701,General Builder,NG27 5PL,07700 900108,1191,2023-12-17,Manual
+ACC-1BE11,Dixon Builders & Son,,builders,LE25 8QZ,07700 900486,1270,2023-04-19,Web enquiry
+ACC-7300F,G Brown Builders Limited,H207981,General Builder,NG26 7YG,07700 900875,1033,2023-08-07,Web enquiry
+ACC-C3BE2,Murphy Landscapes,H203623,landscaping,CV25 1EE,07700 900254,1269,2021-10-08,Import (spreadsheet)
+ACC-F87CD,Harris Building Limited,H206279,General Builder,BD27 9BF,07700 900182,1139,2022-06-17,Migrated from ERP
+ACC-32A07,Kaur & Singh Ltd,,Joinery & Carpentry,LS28 9NR,07700 900873,1062,2022-03-02,Trade event
+ACC-1D9D3,Kaur Building Services & Son,H204864,General Builder,NG4 6AS,07700 900662,1034,2022-09-09,Trade event
+ACC-73A76,King Roofing Services Ltd,,,dn54du,07700 900934,1244,2023-10-02,Migrated from ERP
+ACC-354A4,Cooper Property Services Ltd,H201965,,LS16 4NR,07700 900918,1319,2023-06-20,Import (spreadsheet)
+ACC-831F1,Kershaw Homes Limited,H200498,Developer,LS9 3EH,07700 900285,1191,2024-12-12,Migrated from ERP
+ACC-B2739,A Thompson Civils Ltd,H202566,builders,LE13 3FY,07700 900233,1088,2022-06-18,Migrated from ERP
+ACC-57C7D,Lewis Roofing Ltd,,Roofing,,07700 900705,1165,2024-09-23,Import (spreadsheet)
+ACC-7E075,Peak Landscapes Ltd,H201308,Landscaping,CV4 6BH,07700 900410,,2022-05-26,Import (spreadsheet)
+ACC-1BAB1,Charnwood Electrical & Son,H200534,,LE29 2EF,07700 900234,,2024-09-14,Manual
+ACC-5186A,Barker Electrical Contractors Ltd,H201542,Electrical,,07700 900730,1035,2022-04-27,Manual
+ACC-E33D4,Williams Drainage & Son (do not use),H200805,groundworks,LS13 6GE,07700 900823,1188,2024-03-21,Manual
+ACC-B89D0,Carter Joinery & Sons Ltd,H205275,?,NG7 2SD,07700 900527,,2025-11-05,Migrated from ERP
+ACC-FA40A,Marshall & Shaw & Son,,Kitchen & Bathroom Fitter,ng239gx,07700 900090,1086,2023-06-18,Manual
+ACC-D5A37,Ribble Joinery & Sons Ltd,H200111,,NG16 4XH,07700 900646,1059,2022-06-11,Manual
+ACC-66CF7,Ellis & Ellis Ltd,H201994,General,LE28 8SD,07700 900875,1137,2023-02-28,Web enquiry
+ACC-C2338,N Popescu Electrical Contractors & Sons Ltd,H203069,Electrical,LE9 1NJ,07700 900153,1114,2022-12-17,Trade event
+ACC-912A8,T Ionescu Construction & Son,H202837,Builder,LS1 3TR,07700 900828,1296,2024-12-25,Web enquiry
+ACC-71105,Kershaw Building Ltd,,General Builder,,07700 900769,1216,2024-04-17,Manual
+ACC-B226D,Hall Drainage Ltd,H205547,Groundworks,LE24 1EA,07700 900048,1085,2021-10-24,Manual
+ACC-D322C,Turner & Mahmood Ltd,H201111,Property Maintenance,LS27 4LS,07700 900777,1240,2023-03-09,Manual
+ACC-7B0E9,Williams Drainage & Son,H200805,Groundworks,ls136ge,07700 900117,1214,2023-09-22,Import (spreadsheet)
+ACC-F443B,R Thompson Property Services Limited,,?,LE7 2SY,07700 900839,1060,2021-10-20,Manual
+ACC-9B571,H RILEY BUILDING & SONS LTD,H206737,builders,LE21 6PL,07700 900728,1244,2025-08-18,Manual
+ACC-81A33,A Murphy Electrics Ltd,H207412,Electrical,BD21 9TS,07700 900110,1217,2025-04-15,Manual
+ACC-5B381,Carter Building Services Limited,H203314,General Builder,DE22 6DW,07700 900285,1318,2022-05-21,Import (spreadsheet)
+ACC-6697D,Kowalski Electrics,H202623,Electrical,,07700 900346,1061,2025-02-27,Manual
+ACC-DE7B2,WilsonK itchens & Bathrooms,H204539,Kitchen & Bathroom Fitter,le73hb,07700 900902,,2024-03-26,Web enquiry
+ACC-525F5,Mahmood Building Services Ltd,H202967,general builder,,07700 900972,,2024-07-31,Manual
+ACC-9BB91,Begum & Jackson Ltd,H204596,Property,cv243wb,07700 900694,1215,2024-04-10,Trade event
+ACC-64254,H Begum Plumbing & Heating Ltd,,Plumbing & Heating,NG26 3PX,07700 900735,,2022-09-14,Trade event
+ACC-353A6,Kelly & Kowalski & Son,H206161,Groundworks,S24 3NL,07700 900175,1240,2023-03-10,Manual
+ACC-8E49D,D Lee Construction Ltd,,General Builder,LS21 3GE,07700 900957,1216,2023-01-10,Import (spreadsheet)
+ACC-AE751,SHARMA PLUMBING & HEATING,H200559,Plumbing & Heating,NG10 5RU,07700 900978,1190,2024-12-17,Manual
+ACC-EED28,Mason Drainage & Sons Ltd,H207354,Groundworks,s54yf,07700 900683,1192,2025-01-26,Manual
+ACC-3A2D5,M Kowalski Construction & Sons Ltd,H200821,,st205zz,07700 900994,,2023-08-02,Manual
+ACC-8D272,Jackson Electrical & Sons Ltd,,Electrical,NG6 4XG,07700 900584,1266,2024-11-03,Migrated from ERP
+ACC-BD4E7,Hudson & Rowe Ltd,,General Builder,NG11 7LN,07700 900860,1088,2022-07-31,Web enquiry
+ACC-A9ED9,T Riley Construction Limited,,General Builder,CV1 1EA,07700 900230,1087,2023-05-15,Migrated from ERP
+ACC-68EF7,Hughes Homes & Sons Ltd,H202877,Developer,DN20 6GB,07700 900591,1188,2022-10-31,Import (spreadsheet)
+ACC-20FEB,Doyle & Atkinson Ltd,,Joinery & Carpentry,,07700 900065,1086,2023-08-07,Web enquiry
+ACC-EF308,Cooper & Johnson Limited,H206380,Electrical,PR19 1JX,07700 900826,1110,2024-09-15,Import (spreadsheet)
+ACC-5AD6E,A Mitchell Construction Ltd,,general builder,,07700 900016,1111,2023-01-26,Trade event
+ACC-20BC0,Shamra Kitchens & Bathrooms,H202760,Kitchen,ng225ed,07700 900806,1138,2023-08-11,Trade event
+ACC-F4276,Morris & Ali Ltd,,General Builder,,07700 900986,1111,2024-10-28,Manual
+ACC-C5692,W Jones Electrical,,builders,LS16 8XB,07700 900611,1088,2024-03-30,Web enquiry
+ACC-17297,J Smith Carpentry & Sons Ltd,,?,DN15 9WU,07700 900816,1140,2021-11-05,Trade event
+ACC-5E8BD,W. & Mahmood Ltd,,Electrical,ng263ra,07700 900374,,2024-05-04,Import (spreadsheet)
+ACC-6C8E3,S Pearce Plumbing Ltd,H202441,Plumbing & Heating,PR22 1DG,07700 900901,,2023-08-21,Web enquiry
+ACC-D3186,Shah Carpentry & Sons Ltd,,Joinery & Carpentry,S24 2JS,07700 900220,1318,2024-02-17,Manual
+ACC-665F8,Burton Roofing Ltd,,Roofing,,07700 900552,1240,2023-01-07,Web enquiry
+ACC-FEBDB,Ahmed Garden Services Ltd,H203997,Landscaping,LS5 7AH,07700 900584,1032,2023-10-06,Manual
+ACC-89471,P Kaur Garden Services Limited,H201973,Landscaping,NG1 3YY,07700 900633,1110,2025-03-10,Import (spreadsheet)
+ACC-461C5,A Hudson Plumbing & Heating Limited,H205731,Plumbing & Heating,CV22 5GD,07700 900703,1139,2022-01-17,Migrated from ERP
+ACC-EF05C,Hussain & Carter & Son,,General Builder,CV9 6XQ,07700 900547,1191,2022-03-09,Trade event
+ACC-57E41,D Kershaw Garden Services Ltd,,Landscaping,S7 2SF,07700 900582,1136,2023-12-18,Migrated from ERP
+ACC-7E3C6,Harris Builders Ltd,,General Builder,,07700 900436,1060,2024-08-21,Web enquiry
+ACC-613DC,Akhtar Electrics Ltd,,Electrical,ls225ty,07700 900196,1321,2025-03-13,Import (spreadsheet)
+ACC-66F86,Johnson & Shaw Ltd,,Landscaping,M11 5ZX,07700 900033,1034,2024-10-21,Trade event
+ACC-6D2B1,N Cooper Maintenance Ltd,H201644,Property Maintenance,S24 1LT,07700 900306,1269,2022-12-03,Trade event
+ACC-968D0,O Pearce Builders & Sons Ltd,H200382,General Builder,,07700 900920,,2023-02-18,Import (spreadsheet)
+ACC-985C7,Turner,H201111,Property Maintenance,LS27 4LS,07700 900537,1140,2022-11-19,Migrated from ERP
+ACC-2926C,D Booth Construction Limited,H203672,General Builder,,07700 900515,1266,2025-11-09,Manual
+ACC-746C4,T Webb Construction & Son,,General Builder,S8 2QP,07700 900389,,2021-11-23,Trade event
+ACC-391D6,S Akhtar Building Services & Sons Ltd,,Builder,DN9 8LD,07700 900416,1188,2022-09-23,Migrated from ERP
+ACC-DA57F,Mersey Landscapes & Sons Ltd,H204517,builders,PR4 1FA,07700 900869,1295,2024-12-12,Manual
+ACC-97064,Sharma Builders & Sons Ltd,H207796,General Builder,CV10 6GA,07700 900166,1292,2025-11-16,Manual
+ACC-E15A2,A Gallagher Heating & Son,H202038,Plumbing & Heating,NG9 9EG,07700 900056,1136,2024-03-17,Web enquiry
+ACC-B977E,M Sharma Plumbing & Heating Ltd,H203476,Plumbing & Heating,ST6 1XF,07700 900652,1035,2023-07-11,Manual
+ACC-DEEE0,Sutcliffe Building Services Limited,H200089,General Builder,,07700 900877,1034,2022-11-02,Manual
+ACC-2AF50,Brookes Civils Ltd  ,H204384,Groundworks,S24 7WB,07700 900264,1084,2024-11-24,Web enquiry
+ACC-85F10,Gill & Dixon & Sons Ltd,H206540,Trade,,07700 900225,1060,2024-07-03,Trade event
+ACC-6A694,King Building Services & Sons Ltd,,builders,,07700 900733,1243,2023-05-01,Manual
+ACC-51651,Pickering Gas Services,H201057,builders,CV11 9WU,07700 900267,1244,2024-05-03,Migrated from ERP
+ACC-DFDDE,R Clark Electrical & Sons Ltd,H201157,?,S6 2NU,07700 900999,1242,2022-06-27,Trade event
+ACC-FEF69,Burton,,General Builder,LE29 8RU,07700 900826,1062,2022-07-27,Web enquiry
+ACC-F7A61,Mason Electrical & Sons Ltd,,Electrical,CV22 9ZD,07700 900869,1032,2025-08-30,Import (spreadsheet)
+ACC-495F5,J Carter Landscapes,,Landscaping,LE27 1YJ,07700 900781,1321,2024-11-17,Web enquiry
+ACC-63C48,S Khan Joinery Ltd,H202007,Joinery,LE6 5GY,07700 900539,1113,2024-08-29,Import (spreadsheet)
+ACC-171F1,Calder Homes Limited,,Builder,,07700 900812,1086,2023-09-23,Manual
+ACC-5DC22,P Hughes Construction Ltd,,General Builder,,07700 900732,1218,2024-07-15,Manual
+ACC-6E975,Shaw & Shaw Ltd,,General Builder,S2 3EL,07700 900611,1139,2025-11-01,Trade event
+ACC-92E90,Sutcliffe & Rowe Ltd,H203156,,DE15 1EA,07700 900198,1059,2024-02-12,Migrated from ERP
+ACC-F371B,Trent Heating & Sons,,builders,LS29 4TG,07700 900946,1188,2022-01-15,Web enquiry
+ACC-607C2,E Begum Gas Services Ltd,,,M4 2NR,07700 900564,1318,2023-11-18,Migrated from ERP
+ACC-FF998,Hill Drainage Ltd,H205772,Groundworks,,07700 900762,1111,2025-02-10,Import (spreadsheet)
+ACC-3EC6B,Sharma Roofing Services,H207704,Trade,LE12 9RW,07700 900763,1110,2023-10-26,Migrated from ERP
+ACC-A520C,Shah & Harris Ltd,H204710,General Builder,CV5 2TP,07700 900277,1268,2023-11-03,Manual
+ACC-11E0E,Kowalski Kitchens Ltd,H202197,Kitchen & Bathroom Fitter,,07700 900938,1192,2024-03-08,Trade event
+ACC-22D77,N Ward Roofing Services Ltd,H204234,Roofing,ST2 3NP,07700 900969,,2022-03-15,Manual
+ACC-1DAB1,Iqbal & Wood,,Landscaping,CV10 1GY,07700 900033,,2025-10-09,Manual
+ACC-82431,Hall Garden Services Ltd,H201151,Trade,ng175fw,07700 900452,1295,2023-02-10,Import (spreadsheet)
+ACC-217B8,Allen & Murphy Ltd,H204637,Developer,CV27 8ZW,07700 900563,1138,2025-10-18,Trade event
+ACC-DF34D,Hussain Electrics Limited,,Electrical,ng248zr,07700 900148,1166,2024-02-09,Manual
+ACC-9D5EA,Kaur & Evans Ltd,H202167,Property Maintenance,,07700 900500,1217,2024-09-09,Manual
+ACC-3AC58,I. Popescu Landscapes & Sons Ltd,H207026,Landscaping,LE27 2LW,07700 900496,1191,2025-01-26,Web enquiry
+ACC-6E492,J Mitchell Joinery & Sons Ltd,,builders,BD9 7TW,07700 900870,,2022-09-21,Web enquiry
+ACC-9A7F4,Williams & Hill Ltd,H205567,Landscaping,ls73hl,07700 900689,1244,2023-11-08,Web enquiry
+ACC-20937,Moore Landscapes Limited,H205903,Landscaping,,07700 900018,1295,2021-11-17,Web enquiry
+ACC-8E731,Pennine Bathrooms Ltd,H201183,?,,07700 900948,,2023-01-19,Manual
+ACC-41B9D,F Taylor Building Services Ltd,H200514,General Builder,PR27 4BQ,07700 900391,1215,2025-08-10,Trade event
+ACC-AFA43,RIBBLE JOINERY LTD,H201293,Joinery & Carpentry,,07700 900706,1137,2025-06-15,Manual
+ACC-AB882,Brookes Civils Ltd,H204384,Groundworks,s247wb,07700 900304,1242,2025-07-25,Migrated from ERP
+ACC-2450E,P Ionescu Homes & Son,H204951,,,07700 900543,1032,2023-10-10,Import (spreadsheet)
+ACC-12BC8,F,H201604,Developer,LS20 7US,07700 900423,1162,2025-02-07,Migrated from ERP
+ACC-7D56D,Byrne Heating & Sons Ltd,,Other,LS14 7TU,07700 900012,1138,2024-12-27,Manual
+ACC-BE202,S Kowalski Electrical Contractors Ltd,,Electrical,,07700 900822,1165,2025-04-08,Manual
+ACC-A66D0,Begum & Bennett Ltd,,,wv53bg,07700 900200,1165,2024-01-02,Manual
+ACC-AF0E1,Kershaw Landscaping Ltd,H203215,Landscaping,BD18 2AF,07700 900870,1138,2025-03-04,Migrated from ERP
+ACC-8AD0C,Fox & Ahmed Ltd,H206024,Plumbing & Heating,LE9 5PW,07700 900056,1216,2024-03-14,Manual
+ACC-FE60B,Moore Maintenance Ltd,H200838,property maintenance,S16 9DN,07700 900805,1292,2023-04-19,Manual
+ACC-AD268,D Kaur Building Services & Son,H205777,?,,07700 900154,1320,2021-11-28,Manual
+ACC-51296,Shah Builders Ltd,H200022,?,le147lx,07700 900385,,2023-08-01,Web enquiry
+ACC-73B2F,Webb & Nowak Ltd,H205752,General Builder,s269zg,07700 900750,1215,2023-06-07,Import (spreadsheet)
+ACC-1B1CD,O Marshall Electrical Ltd,,Electrical,BD13 9GT,07700 900181,1242,2024-06-12,Import (spreadsheet)
+ACC-240A8,A Ahmed Roofing Ltd,,Trade,LS22 6ZE,07700 900692,,2024-07-13,Import (spreadsheet)
+ACC-B5029,Dixon Electrics Ltd,,,S7 2AB,07700 900071,1293,2025-03-08,Web enquiry
+ACC-2FEEB,Booth Maintenance & Sons Ltd,H201105,Property Maintenance,DN23 8NW,07700 900409,1266,2021-12-25,Migrated from ERP
+ACC-868D8,Clark Plumbing & Heating Ltd,,Plumbing & Heating,S23 3YU,07700 900611,1164,2023-09-03,Trade event
+ACC-7A973,N Webb Maintenance Ltd,H206790,Trade,CV23 4NN,07700 900795,1036,2023-12-09,Migrated from ERP
+ACC-639B3,Kelly Roofing & Building Ltd,H201035,Roofing,S14 3AN,07700 900320,1191,2024-07-23,Trade event
+ACC-F1708,Gallagher & Barker Ltd,H204743,General Builder,bd201al,07700 900715,1267,2022-09-24,Manual
+ACC-5CBBA,C Ashworth Roofing Services Ltd,,Roofing,S12 6LB,07700 900782,1188,2022-07-01,Manual
+ACC-45FCA,Smith Construction Ltd,,General Builder,s117hf,07700 900870,1163,2022-11-10,Import (spreadsheet)
+ACC-F8606,Mason Groundworks Ltd,H204769,groundworks,bd298rp,07700 900598,1059,2024-04-16,Migrated from ERP
+ACC-8DA74,P Kaur Landscaping,,Landscaping,,07700 900674,1216,2023-01-29,Trade event
+ACC-78F2C,F Robinson Developments Ltd,H201604,Developer,LS20 7US,07700 900674,1114,2024-10-17,Trade event
+ACC-1A101,R Green Roofing Ltd,H201354,Roofing,CV29 1PN,07700 900697,1085,2024-01-20,Trade event
+ACC-A602B,F Morris Buliding Services & Son,H207716,General Builder,M16 1PP,07700 900134,1087,2021-11-16,Manual
+ACC-62473,Carter & Davies,H205237,Trade,LS16 3NB,07700 900336,,2022-04-18,Manual
+ACC-FBB56,Sharma & King Ltd,,Developer,M27 9GQ,07700 900532,1164,2024-10-07,Manual
+ACC-FDAFA,D Harris Roofing & Son,H205194,Roofing,DE21 8QH,07700 900737,1216,2024-05-16,Import (spreadsheet)
+ACC-7BC80,Jones Builders Ltd,H201866,General Builder,DE4 3ZQ,07700 900922,1190,2025-07-30,Manual
+ACC-8494A,Sutcliffe Groundworks,,Groundworks,PR22 4YD,07700 900272,,2022-11-29,Manual
+ACC-CB422,Pearce Electrical Limited,H201490,Electrical,LS11 5PT,07700 900562,,2025-03-04,Migrated from ERP
+ACC-82FE6,G Chapman Building Services & Son,H203107,general builder,LS4 3SD,07700 900228,1060,2024-06-21,Web enquiry
+ACC-3ABF5,Bennett & Bennett Limited,H200928,builders,NG18 8JA,07700 900679,1218,2021-12-26,Import (spreadsheet)
+ACC-46721,G Doyle Electrics & Son,,Electrical,NG9 7EA,07700 900403,1318,2025-03-26,Trade event
+ACC-5E9BF,Moore Property Maintenance Limited,H207441,Property Maintenance,WV9 3QT,07700 900731,1188,2022-02-22,Import (spreadsheet)
+ACC-B6237,Brown Developments Ltd,,Developer,LE5 6ZR,07700 900316,1293,2022-11-26,Manual
+ACC-12162,Lee Roofing & Building Limited,H205817,roofing,LS6 8PN,07700 900825,1192,2023-04-12,Trade event
+ACC-63EA0,Lewis & Wood & Sons Ltd,H200946,Landscaping,S8 2PP,07700 900730,1216,2024-10-04,Web enquiry
+ACC-5E2A9,Calder,,Kitchen,BD12 3TW,07700 900566,,2025-10-22,Import (spreadsheet)
+ACC-353F5,S Nowak Bathrooms Ltd,H201576,builders,DE3 6JU,07700 900864,1268,2023-05-03,Manual
+ACC-C113C,Hill Plumbing & Heating & Sons Ltd,,Builder,CV24 1QU,07700 900866,1137,2022-06-25,Manual
+ACC-32555,D Baker Roofing Services Ltd,H200922,builders,NG12 7TL,07700 900587,1241,2021-11-04,Web enquiry
+ACC-AAD87,S Atkinson Roofing Services Limited,H205298,Roofing,,07700 900930,1137,2024-12-23,Web enquiry
+ACC-92440,Ali Bathrooms Ltd,H204301,Kitchen & Bathroom Fitter,LS16 8YY,07700 900400,1137,2023-10-17,Import (spreadsheet)
+ACC-F8367,Soar Property Maintenance & Sons Ltd,H207144,Other,NG11 1TA,07700 900436,1215,2024-02-29,Web enquiry
+ACC-8E645,Trent Heating & Sons Ltd,,Plumbing & Heating,LS29 4TG,07700 900328,1136,2022-10-03,Migrated from ERP
+ACC-3A2FE,S Hughes Developments & Son,H206778,Developer,LS26 4ZS,07700 900926,1140,2023-10-06,Trade event
+ACC-86F0E,G. Chapman Building Services & Son,H203107,builders,LS4 3SD,07700 900416,,2021-09-10,Migrated from ERP
+ACC-B6DEF,Ashworth Electrics & Son,H202323,?,LE28 4PA,07700 900998,1138,2022-09-21,Migrated from ERP
+ACC-8E63C,R Popescu Maintenance Ltd,H206348,?,ST16 9SP,07700 900397,1087,2024-05-16,Web enquiry
+ACC-12638,Thompson & Shaw Ltd,,Electrical,LS23 9BW,07700 900258,,2025-12-08,Manual
+ACC-4171F,Aire Electrics Ltd,H204483,Electrical,NG20 2FW,07700 900792,,2021-12-08,Web enquiry

@@ -1,0 +1,121 @@
+campaign_id,month,channel,campaign_name,spend
+1,2024-01,Email,Jan 24 Email,2496.19
+2,2024-01,Paid Search,Jan 24 Paid Search,18708.24
+3,2024-01,Social,Jan 24 Social,6688.01
+4,2024-01,Trade Events,Jan 24 Trade Events,8043.35
+5,2024-01,Print & Radio,Jan 24 Print & Radio,11558.32
+6,2024-02,Email,Feb 24 Email,3154.2
+7,2024-02,Paid Search,Feb 24 Paid Search,16559.56
+8,2024-02,Social,Feb 24 Social,8624.51
+9,2024-02,Trade Events,Feb 24 Trade Events,11050.87
+10,2024-02,Print & Radio,Feb 24 Print & Radio,12456.14
+11,2024-03,Email,Mar 24 Email,3165.59
+12,2024-03,Paid Search,Mar 24 Paid Search,24800.41
+13,2024-03,Social,Mar 24 Social,7881.32
+14,2024-03,Trade Events,Mar 24 Trade Events,10539.31
+15,2024-03,Print & Radio,Mar 24 Print & Radio,14004.93
+16,2024-04,Email,Apr 24 Email,3880.44
+17,2024-04,Paid Search,Apr 24 Paid Search,23397.72
+18,2024-04,Social,Apr 24 Social,9352.87
+19,2024-04,Trade Events,Apr 24 Trade Events,14265.66
+20,2024-04,Print & Radio,Apr 24 Print & Radio,17022.73
+21,2024-05,Email,May 24 Email,4308.29
+22,2024-05,Paid Search,May 24 Paid Search,24246.28
+23,2024-05,Social,May 24 Social,11177.22
+24,2024-05,Trade Events,May 24 Trade Events,15349.65
+25,2024-05,Print & Radio,May 24 Print & Radio,16791.01
+26,2024-06,Email,Jun 24 Email,3713.76
+27,2024-06,Paid Search,Jun 24 Paid Search,23485.74
+28,2024-06,Social,Jun 24 Social,10661.97
+29,2024-06,Trade Events,Jun 24 Trade Events,15400.72
+30,2024-06,Print & Radio,Jun 24 Print & Radio,17449.68
+31,2024-07,Email,Jul 24 Email,4256.85
+32,2024-07,Paid Search,Jul 24 Paid Search,28123.67
+33,2024-07,Social,Jul 24 Social,10327.46
+34,2024-07,Trade Events,Jul 24 Trade Events,12885.37
+35,2024-07,Print & Radio,Jul 24 Print & Radio,13612.64
+36,2024-08,Email,Aug 24 Email,3784.85
+37,2024-08,Paid Search,Aug 24 Paid Search,24510.54
+38,2024-08,Social,Aug 24 Social,9736.1
+39,2024-08,Trade Events,Aug 24 Trade Events,13686.32
+40,2024-08,Print & Radio,Aug 24 Print & Radio,13181.62
+41,2024-09,Email,Sep 24 Email,3964.54
+42,2024-09,Paid Search,Sep 24 Paid Search,23079.56
+43,2024-09,Social,Sep 24 Social,9952.75
+44,2024-09,Trade Events,Sep 24 Trade Events,14228.28
+45,2024-09,Print & Radio,Sep 24 Print & Radio,15814.51
+46,2024-10,Email,Oct 24 Email,3436.42
+47,2024-10,Paid Search,Oct 24 Paid Search,22941.59
+48,2024-10,Social,Oct 24 Social,10858.86
+49,2024-10,Trade Events,Oct 24 Trade Events,13607.62
+50,2024-10,Print & Radio,Oct 24 Print & Radio,13846.9
+51,2024-11,Email,Nov 24 Email,3554.88
+52,2024-11,Paid Search,Nov 24 Paid Search,20310.64
+53,2024-11,Social,Nov 24 Social,9392.81
+54,2024-11,Trade Events,Nov 24 Trade Events,11295.27
+55,2024-11,Print & Radio,Nov 24 Print & Radio,12600.42
+56,2024-12,Email,Dec 24 Email,2644.96
+57,2024-12,Paid Search,Dec 24 Paid Search,16012.9
+58,2024-12,Social,Dec 24 Social,7668.03
+59,2024-12,Trade Events,Dec 24 Trade Events,9835.69
+60,2024-12,Print & Radio,Dec 24 Print & Radio,9331.44
+61,2025-01,Email,Jan 25 Email,3000.93
+62,2025-01,Paid Search,Jan 25 Paid Search,20369.45
+63,2025-01,Social,Jan 25 Social,7855.91
+64,2025-01,Trade Events,Jan 25 Trade Events,10579.19
+65,2025-01,Print & Radio,Jan 25 Print & Radio,12619.35
+66,2025-02,Email,Feb 25 Email,3026.07
+67,2025-02,Paid Search,Feb 25 Paid Search,17842.81
+68,2025-02,Social,Feb 25 Social,8965.57
+69,2025-02,Trade Events,Feb 25 Trade Events,12433.45
+70,2025-02,Print & Radio,Feb 25 Print & Radio,11115.3
+71,2025-03,Email,Mar 25 Email,4015.63
+72,2025-03,Paid Search,Mar 25 Paid Search,20761.59
+73,2025-03,Social,Mar 25 Social,10075.91
+74,2025-03,Trade Events,Mar 25 Trade Events,11557.45
+75,2025-03,Print & Radio,Mar 25 Print & Radio,16194.32
+76,2025-04,Email,Apr 25 Email,3873.07
+77,2025-04,Paid Search,Apr 25 Paid Search,25028.5
+78,2025-04,Social,Apr 25 Social,11432.83
+79,2025-04,Trade Events,Apr 25 Trade Events,13560.51
+80,2025-04,Print & Radio,Apr 25 Print & Radio,17349.78
+81,2025-05,Email,May 25 Email,3771.98
+82,2025-05,Paid Search,May 25 Paid Search,24877.82
+83,2025-05,Social,May 25 Social,11226.68
+84,2025-05,Trade Events,May 25 Trade Events,15782.9
+85,2025-05,Print & Radio,May 25 Print & Radio,18125.58
+86,2025-06,Email,Jun 25 Email,3914.9
+87,2025-06,Paid Search,Jun 25 Paid Search,27129.06
+88,2025-06,Social,Jun 25 Social,9939.08
+89,2025-06,Trade Events,Jun 25 Trade Events,12415.37
+90,2025-06,Print & Radio,Jun 25 Print & Radio,18902.26
+91,2025-07,Email,Jul 25 Email,3641.19
+92,2025-07,Paid Search,Jul 25 Paid Search,27644.61
+93,2025-07,Social,Jul 25 Social,9921.11
+94,2025-07,Trade Events,Jul 25 Trade Events,13682.31
+95,2025-07,Print & Radio,Jul 25 Print & Radio,16261.68
+96,2025-08,Email,Aug 25 Email,4286.77
+97,2025-08,Paid Search,Aug 25 Paid Search,21867.49
+98,2025-08,Social,Aug 25 Social,10182.72
+99,2025-08,Trade Events,Aug 25 Trade Events,11893.5
+100,2025-08,Print & Radio,Aug 25 Print & Radio,17390.61
+101,2025-09,Email,Sep 25 Email,4369.35
+102,2025-09,Paid Search,Sep 25 Paid Search,24126.18
+103,2025-09,Social,Sep 25 Social,10681.97
+104,2025-09,Trade Events,Sep 25 Trade Events,13261.3
+105,2025-09,Print & Radio,Sep 25 Print & Radio,18296.65
+106,2025-10,Email,Oct 25 Email,3565.64
+107,2025-10,Paid Search,Oct 25 Paid Search,24279.6
+108,2025-10,Social,Oct 25 Social,9651.8
+109,2025-10,Trade Events,Oct 25 Trade Events,13099.07
+110,2025-10,Print & Radio,Oct 25 Print & Radio,17633.44
+111,2025-11,Email,Nov 25 Email,4063.31
+112,2025-11,Paid Search,Nov 25 Paid Search,20890.35
+113,2025-11,Social,Nov 25 Social,10543.07
+114,2025-11,Trade Events,Nov 25 Trade Events,11583.19
+115,2025-11,Print & Radio,Nov 25 Print & Radio,17142.31
+116,2025-12,Email,Dec 25 Email,2562.94
+117,2025-12,Paid Search,Dec 25 Paid Search,18847.9
+118,2025-12,Social,Dec 25 Social,6585.49
+119,2025-12,Trade Events,Dec 25 Trade Events,10762.52
+120,2025-12,Print & Radio,Dec 25 Print & Radio,11294.44

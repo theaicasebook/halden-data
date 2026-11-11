@@ -1,0 +1,145 @@
+Branch,Month,Target £,Owner
+Leicester,Jan-25,541000.0,Branch Manager
+LEICESTER,Feb-25,596000.0,GL
+Leics,Mar-25,693000.0,GL
+Leicester,Apr-25,735000.0,BM
+Leicester,May-25,763000.0,Branch Manager
+Leics,Jun-25,777000.0,GL
+Leics,Jul-25,763000.0,
+LEICESTER,Aug-25,707000.0,Branch Manager
+LEICESTER,Sep-25,749000.0,
+LEICESTER,Oct-25,728000.0,Branch Manager
+Leics,Nov-25,679000.0,Branch Manager
+Leics,Dec-25,499000.0,
+Nottingham,Jan-25,517000.0,BM
+Nottingham,Feb-25,570000.0,
+Notts,Mar-25,663000.0,Branch Manager
+Nottingham,Apr-25,703000.0,BM
+Notts,May-25,730000.0,Branch Manager
+Notts,Jun-25,743000.0,
+Nottingham,Jul-25,730000.0,BM
+Nottingham,Aug-25,676000.0,GL
+Nottingham,Sep-25,716000.0,BM
+Nottingham,Oct-25,696000.0,GL
+Nottingham,Nov-25,650000.0,
+Nottingham,Dec-25,477000.0,GL
+Derby,Jan-25,447000.0,Branch Manager
+Derby,Feb-25,493000.0,
+Derby,Mar-25,573000.0,BM
+Derby,Apr-25,607000.0,Branch Manager
+Derby,May-25,630000.0,BM
+Derby,Jun-25,641000.0,BM
+Derby,Jul-25,630000.0,BM
+Derby,Aug-25,584000.0,
+Derby,Sep-25,619000.0,Branch Manager
+Derby,Oct-25,601000.0,Branch Manager
+Derby,Nov-25,561000.0,
+Derby,Dec-25,412000.0,Branch Manager
+Coventry,Jan-25,423000.0,
+Coventry,Feb-25,467000.0,GL
+Coventry,Mar-25,543000.0,BM
+Coventry,Apr-25,575000.0,BM
+Coventry,May-25,597000.0,
+Coventry,Jun-25,608000.0,GL
+Coventry,Jul-25,597000.0,
+Coventry,Aug-25,553000.0,Branch Manager
+Coventry,Sep-25,586000.0,Branch Manager
+Coventry,Oct-25,570000.0,GL
+Coventry,Nov-25,532000.0,GL
+Coventry,Dec-25,391000.0,BM
+Wolves,Jan-25,400000.0,GL
+Wolves,Feb-25,441000.0,
+Wolves,Mar-25,512000.0,GL
+Wolves,Apr-25,543000.0,Branch Manager
+Wolverhampton,May-25,564000.0,Branch Manager
+Wolverhampton,Jun-25,574000.0,
+W'hampton,Jul-25,564000.0,BM
+W'hampton,Aug-25,523000.0,GL
+W'hampton,Sep-25,553000.0,Branch Manager
+Wolves,Oct-25,538000.0,BM
+Wolves,Nov-25,502000.0,BM
+Wolverhampton,Dec-25,369000.0,Branch Manager
+Stoke,Jan-25,376000.0,GL
+Stoke-on-Trent,Feb-25,415000.0,GL
+Stoke-on-Trent,Mar-25,482000.0,Branch Manager
+Stoke on Trent,Apr-25,511000.0,
+Stoke,May-25,531000.0,GL
+Stoke-on-Trent,Jun-25,540000.0,Branch Manager
+Stoke on Trent,Jul-25,531000.0,GL
+Stoke-on-Trent,Aug-25,492000.0,GL
+Stoke-on-Trent,Sep-25,521000.0,BM
+Stoke on Trent,Oct-25,506000.0,BM
+Stoke-on-Trent,Nov-25,473000.0,
+Stoke-on-Trent,Dec-25,347000.0,GL
+Sheffield,Jan-25,517000.0,GL
+Sheffield,Feb-25,570000.0,GL
+Sheffield,Mar-25,663000.0,GL
+Sheffield,Apr-25,703000.0,BM
+Sheffield,May-25,730000.0,GL
+Sheffield,Jun-25,743000.0,GL
+Sheffield,Jul-25,730000.0,
+Sheffield,Aug-25,676000.0,GL
+Sheffield,Sep-25,716000.0,Branch Manager
+Sheffield,Oct-25,696000.0,Branch Manager
+Sheffield,Nov-25,650000.0,BM
+Sheffield,Dec-25,477000.0,GL
+Leeds,Jan-25,564000.0,
+Leeds,Feb-25,622000.0,Branch Manager
+Leeds,Mar-25,723000.0,Branch Manager
+Leeds,Apr-25,767000.0,GL
+Leeds,May-25,796000.0,GL
+Leeds,Jun-25,810000.0,GL
+Leeds,Jul-25,796000.0,
+Leeds,Aug-25,738000.0,GL
+Leeds,Sep-25,781000.0,BM
+Leeds,Oct-25,760000.0,Branch Manager
+Leeds,Nov-25,709000.0,GL
+Leeds,Dec-25,521000.0,
+Bradford,Jan-25,376000.0,BM
+Bradford,Feb-25,415000.0,GL
+Bradford,Mar-25,482000.0,BM
+Bradford,Apr-25,511000.0,
+Bradford,May-25,531000.0,GL
+Bradford,Jun-25,540000.0,
+Bradford,Jul-25,531000.0,Branch Manager
+Bradford,Aug-25,492000.0,
+Bradford,Sep-25,521000.0,Branch Manager
+Bradford,Oct-25,506000.0,BM
+Bradford,Nov-25,473000.0,Branch Manager
+Bradford,Dec-25,347000.0,BM
+Manchester (Salford),Jan-25,494000.0,
+Salford,Feb-25,544000.0,GL
+Salford,Mar-25,633000.0,BM
+Salford,Apr-25,671000.0,BM
+Salford,May-25,696000.0,BM
+Manchester (Salford),Jun-25,709000.0,BM
+Salford,Jul-25,696000.0,BM
+Salford,Aug-25,646000.0,BM
+Salford,Sep-25,684000.0,GL
+Manchester (Salford),Oct-25,665000.0,
+Salford,Nov-25,620000.0,BM
+Manchester (Salford),Dec-25,456000.0,Branch Manager
+Preston,Jan-25,353000.0,GL
+Preston,Feb-25,389000.0,BM
+Preston,Mar-25,452000.0,GL
+Preston,Apr-25,479000.0,Branch Manager
+Preston,May-25,497000.0,GL
+Preston,Jun-25,506000.0,Branch Manager
+Preston,Jul-25,497000.0,Branch Manager
+Preston,Aug-25,461000.0,GL
+Preston,Sep-25,488000.0,
+Preston,Oct-25,475000.0,BM
+Preston,Nov-25,443000.0,BM
+Preston,Dec-25,326000.0,Branch Manager
+Donny,Jan-25,400000.0,GL
+Doncaster,Feb-25,441000.0,BM
+Donny,Mar-25,512000.0,BM
+Doncaster,Apr-25,543000.0,
+Doncaster,May-25,564000.0,Branch Manager
+Donny,Jun-25,574000.0,BM
+Doncaster,Jul-25,564000.0,GL
+Doncaster,Aug-25,523000.0,
+Doncaster,Sep-25,553000.0,Branch Manager
+Doncaster,Oct-25,538000.0,BM
+Doncaster,Nov-25,502000.0,BM
+Donny,Dec-25,369000.0,BM

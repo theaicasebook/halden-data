@@ -1,0 +1,14 @@
+branch_id,branch_name,town,postcode_area,region,opened_year,uses_crm
+1,Leicester,Leicester,LE,Midlands,1990,True
+2,Nottingham,Nottingham,NG,Midlands,1992,True
+3,Derby,Derby,DE,Midlands,1994,False
+4,Coventry,Coventry,CV,Midlands,1996,True
+5,Wolverhampton,Wolverhampton,WV,Midlands,1998,False
+6,Stoke,Stoke-on-Trent,ST,Midlands,2000,False
+7,Sheffield,Sheffield,S,North,2002,True
+8,Leeds,Leeds,LS,North,2004,True
+9,Bradford,Bradford,BD,North,2006,False
+10,Salford,Salford,M,North,2008,True
+11,Preston,Preston,PR,North,2010,False
+12,Doncaster,Doncaster,DN,North,2012,False
+0,Central DC,Castle Donington,DE,Midlands,2009,False

@@ -1,0 +1,829 @@
+customer_id,account_no,customer_name,trade_type,home_branch_id,postcode,account_opened,credit_limit,payment_terms,status
+6,H200005,K Shaw Electrical Ltd,Electrical,1,LE18 6XL,1999-09-09,10300.0,60 days,Active
+16,H200015,Webb Kitchens & Bathrooms Ltd,Kitchen & Bathroom Fitter,11,PR21 8SJ,1998-04-09,1000.0,30 days EOM,Active
+23,H200022,Shah Builders Ltd,General Builder,1,LE14 7LX,2001-05-11,20800.0,30 days,Active
+29,H200028,H Barker Roofing Services Ltd,Roofing,6,ST18 2FZ,2022-07-13,3800.0,30 days EOM,Active
+30,H200029,Hill Plumbing & Heating & Sons Ltd,Plumbing & Heating,4,CV24 1QU,2007-01-12,6900.0,30 days EOM,Active
+43,H200042,Taylor & Murphy Ltd,Electrical,5,WV19 3AQ,2022-10-28,5300.0,30 days EOM,Active
+50,H200049,E Kaur Builders Ltd,General Builder,1,LE2 8BW,2015-02-04,26700.0,60 days,Active
+53,H200052,King Roofing Services Ltd,Roofing,12,DN5 4DU,2013-10-16,21100.0,30 days,Active
+77,H200076,Clark Plumbing & Heating Ltd,Plumbing & Heating,7,S23 3YU,2000-01-14,2000.0,30 days EOM,Active
+82,H200081,Charnwood Developments & Son,Developer,2,NG24 3PD,2020-02-06,6100.0,30 days EOM,Active
+90,H200089,Sutcliffe Building Services Limited,General Builder,3,DE15 7BD,2001-01-03,3000.0,Cash,Active
+93,H200092,Lee Electrical & Son,Electrical,4,CV13 8SA,1997-10-24,7100.0,30 days EOM,On Stop
+105,H200104,A Ahmed Roofing Ltd,Roofing,8,LS22 6ZE,2013-01-24,1400.0,30 days EOM,On Stop
+112,H200111,Ribble Joinery & Sons Ltd,Joinery & Carpentry,2,NG16 4XH,2001-12-25,7700.0,30 days EOM,Active
+117,H200116,Webb Electrics & Sons Ltd,Electrical,8,LS5 3BN,2015-12-07,28300.0,Cash,On Stop
+119,H200118,W Doyle Drainage Ltd,Groundworks,12,DN27 5JF,2009-09-23,5900.0,30 days,Active
+124,H200123,Pickering Plumbing & Heating Ltd,Plumbing & Heating,2,NG19 9HG,2023-08-25,6400.0,Cash,Active
+134,H200133,Ward & Parker Ltd,Electrical,7,S13 3WW,2007-04-18,1800.0,60 days,Active
+146,H200145,Dove Bathrooms Limited,Kitchen & Bathroom Fitter,1,LE1 6LU,2002-03-02,28300.0,30 days EOM,Active
+160,H200159,N Patel Plumbing Ltd,Plumbing & Heating,12,DN24 9UW,2018-04-19,2700.0,60 days,Active
+161,H200160,Jackson Building Limited,General Builder,6,ST29 2QE,2002-08-10,4600.0,30 days EOM,Active
+169,H200168,Jackson Building Services,General Builder,5,WV28 1WL,2016-04-25,40900.0,30 days EOM,Active
+170,H200169,Walker & Pearce & Sons Ltd,Groundworks,10,M11 9PP,2024-09-08,1600.0,30 days EOM,Active
+194,H200193,Davies Building Ltd,General Builder,8,LS22 4WW,2002-07-22,10400.0,30 days EOM,Active
+197,H200196,Holmes Plumbing Ltd,Plumbing & Heating,4,CV1 2ZU,2006-09-20,17700.0,30 days EOM,Active
+201,H200200,Aire Construction Limited,General Builder,4,CV13 8HN,2016-05-29,4600.0,60 days,Active
+208,H200207,Barker Kitchens Ltd,Kitchen & Bathroom Fitter,6,ST10 2ZH,1996-09-01,3400.0,30 days EOM,On Stop
+219,H200218,Begum & Bennett Ltd,Electrical,5,WV5 3BG,2000-09-11,2600.0,30 days EOM,Active
+245,H200244,Fox Plumbing & Heating & Son,Plumbing & Heating,2,NG19 7TL,2017-01-21,21500.0,30 days,Active
+248,H200247,Clark Construction Limited,General Builder,8,LS12 6GU,2003-03-21,1400.0,30 days EOM,Active
+255,H200254,Hussain Building Ltd,General Builder,7,S28 1XL,2014-03-20,15900.0,30 days,Active
+259,H200258,White Civils Ltd,Groundworks,4,CV14 3NR,1995-01-06,3700.0,30 days,Active
+264,H200263,Ribble Civils Limited,Groundworks,3,DE6 4WN,2017-11-07,5200.0,Cash,Active
+267,H200266,Hughes Groundworks Ltd,Groundworks,7,S11 6DT,2004-12-19,1100.0,30 days EOM,Active
+273,H200272,Peak Kitchens Ltd,Kitchen & Bathroom Fitter,3,DE16 5RF,2007-03-01,7300.0,30 days EOM,Active
+275,H200274,Popescu Electrical Contractors & Sons Ltd,Electrical,11,PR5 2ED,2002-11-17,12400.0,30 days,Active
+284,H200283,J Mitchell Joinery & Sons Ltd,Joinery & Carpentry,9,BD9 7TW,2023-08-13,4700.0,Cash,Active
+310,H200309,M Wisniewski Garden Services & Son,Landscaping,5,WV14 2UF,2023-05-03,5600.0,Cash,On Stop
+317,H200316,White Builders Ltd,General Builder,3,DE16 4PG,1995-07-15,800.0,30 days EOM,Active
+324,H200323,Patel Building & Sons Ltd,General Builder,6,ST27 9JY,1998-06-21,8000.0,30 days EOM,Active
+383,H200382,O Pearce Builders & Sons Ltd,General Builder,1,LE29 9TF,1998-05-30,2500.0,30 days EOM,Active
+387,H200386,H Begum Plumbing & Heating Ltd,Plumbing & Heating,2,NG26 3PX,1999-04-30,26800.0,60 days,Active
+396,H200395,C Taylor Landscaping & Son,Landscaping,4,CV17 3RN,2007-11-25,2200.0,30 days,On Stop
+402,H200401,L Jones Carpentry,Joinery & Carpentry,6,ST22 2PA,2004-02-23,10500.0,30 days EOM,Active
+404,H200403,Byrne Garden Services Limited,Landscaping,4,CV17 5XT,2007-04-16,11000.0,30 days,Active
+405,H200404,Wilson Homes & Son,Developer,12,DN22 5SY,2003-08-18,5400.0,30 days,Active
+413,H200412,Calder Construction Ltd,General Builder,8,LS25 4SS,2007-12-02,7100.0,30 days EOM,Active
+444,H200443,Fletcher Building,General Builder,7,S22 3SH,2024-08-20,5600.0,30 days EOM,Active
+446,H200445,Butterworth Landscaping,Landscaping,6,ST10 9RW,2020-06-25,8900.0,30 days EOM,Active
+470,H200469,Trent Plumbing,Plumbing & Heating,6,ST15 8RD,2019-05-17,1000.0,30 days EOM,Active
+479,H200478,Ahmed Builders,General Builder,3,DE19 5AX,2019-02-15,13100.0,30 days EOM,Active
+493,H200492,Kershaw & Popescu Ltd,Joinery & Carpentry,5,WV16 1RT,2010-03-27,6100.0,60 days,Active
+497,H200496,G Thompson Plumbing & Heating & Sons Ltd,Plumbing & Heating,1,LE2 4GW,2008-01-31,33400.0,Cash,Active
+499,H200498,Kershaw Homes Limited,Developer,8,LS9 3EH,2017-07-27,19100.0,30 days EOM,Active
+515,H200514,F Taylor Building Services Ltd,General Builder,11,PR27 4BQ,2006-09-26,8800.0,30 days EOM,Active
+517,H200516,Booth Builders Ltd,General Builder,1,LE28 8RF,2018-08-16,6000.0,30 days EOM,Active
+525,H200524,N Hussain Groundworks,Groundworks,9,BD8 4RD,2017-12-13,1400.0,30 days EOM,Active
+535,H200534,Charnwood Electrical & Son,Electrical,1,LE29 2EF,1996-01-05,1200.0,30 days EOM,Active
+545,H200544,S Kowalski Plumbing Ltd,Plumbing & Heating,3,DE15 1GQ,2003-08-07,13000.0,30 days EOM,Active
+552,H200551,Harris Builders Ltd,General Builder,4,CV27 9RP,2008-11-18,10300.0,30 days EOM,On Stop
+560,H200559,Sharma Plumbing & Heating,Plumbing & Heating,2,NG10 5RU,2020-07-23,6300.0,30 days,Active
+570,H200569,Charnwood Carpentry,Joinery & Carpentry,10,M7 8QB,1997-05-03,2000.0,30 days EOM,Active
+588,H200587,C Lewis Bathrooms,Kitchen & Bathroom Fitter,7,S21 7JF,1999-03-10,1500.0,30 days,Active
+591,H200590,A Begum Heating Ltd,Plumbing & Heating,9,BD16 1PY,2009-09-26,4800.0,30 days EOM,Active
+599,H200598,Taylor Developments Ltd,Developer,1,LE2 9WB,2004-05-06,1800.0,30 days EOM,Active
+614,H200613,Ahmed & Wisniewski Ltd,Roofing,9,BD8 9XL,2007-10-02,6600.0,30 days EOM,Active
+616,H200615,Robinson Building Services & Son,General Builder,9,BD28 7BA,2015-12-08,1400.0,30 days EOM,Active
+617,H200616,Peak Electrical Contractors Limited,Electrical,6,ST12 9QQ,2025-11-21,500.0,30 days EOM,Active
+641,H200640,Bennett & Mason,General Builder,6,ST18 8NZ,2010-01-10,4100.0,30 days EOM,Active
+668,H200667,Kershaw Building Ltd,General Builder,4,CV4 1BX,2007-12-24,9000.0,Cash,Active
+669,H200668,Hart Builders Limited,General Builder,4,CV13 6GH,2017-10-18,2600.0,30 days,Active
+684,H200683,Pennine Kitchens & Bathrooms Ltd,Kitchen & Bathroom Fitter,8,LS26 9ZN,2006-07-07,7800.0,30 days,Active
+691,H200690,Brown Building Ltd,General Builder,12,DN8 5BY,2020-05-02,3200.0,30 days EOM,Active
+704,H200703,Shah Carpentry & Sons Ltd,Joinery & Carpentry,7,S24 2JS,2021-01-16,2000.0,30 days EOM,Active
+711,H200710,Mersey Kitchens & Bathrooms Ltd,Kitchen & Bathroom Fitter,7,S8 6AG,2013-11-12,1000.0,30 days EOM,Active
+716,H200715,Sharma Building Services,General Builder,1,LE28 7JQ,1997-01-03,1700.0,30 days EOM,Active
+756,H200755,Doyle & Atkinson Ltd,Joinery & Carpentry,12,DN2 4QW,2000-04-29,4300.0,Cash,Active
+785,H200784,Webb Construction & Sons Ltd,General Builder,12,DN12 9LL,2001-05-01,4600.0,30 days EOM,Active
+790,H200789,Hall & Sutcliffe,Kitchen & Bathroom Fitter,12,DN21 5GX,2005-01-12,3500.0,30 days EOM,Active
+792,H200791,Nowak Property Services Ltd,Property Maintenance,10,M17 4ZN,2018-06-20,6400.0,30 days EOM,Active
+806,H200805,Williams Drainage & Son,Groundworks,8,LS13 6GE,2000-06-18,24300.0,30 days EOM,Active
+822,H200821,M Kowalski Construction & Sons Ltd,General Builder,6,ST20 5ZZ,2023-08-01,3700.0,30 days EOM,Active
+839,H200838,Moore Maintenance Ltd,Property Maintenance,7,S16 9DN,2001-08-14,7000.0,30 days EOM,Active
+848,H200847,Hill Maintenance Ltd,Property Maintenance,11,PR10 6YS,2021-08-25,5800.0,Cash,Active
+879,H200878,Wood & Atkinson Ltd,Property Maintenance,3,DE22 5GH,2013-11-26,6700.0,30 days,Active
+881,H200880,J Smith Carpentry & Sons Ltd,Joinery & Carpentry,12,DN15 9WU,2005-03-02,3400.0,30 days EOM,Active
+884,H200883,J Shah Civils Ltd,Groundworks,11,PR16 4HR,2011-07-17,17500.0,30 days EOM,Active
+886,H200885,Fletcher Maintenance Limited,Property Maintenance,7,S8 7EW,2015-07-16,2300.0,30 days,Active
+889,H200888,Akhtar Property Developments,Developer,8,LS26 8YP,2015-09-20,9800.0,30 days EOM,Active
+902,H200901,M Sutcliffe Kitchens & Bathrooms & Sons Ltd,Kitchen & Bathroom Fitter,1,LE7 8JQ,1999-01-02,10200.0,30 days EOM,Active
+914,H200913,Harrison Roofing Services,Roofing,1,LE4 6UH,2020-01-25,6800.0,30 days,Active
+920,H200919,Gill Electrical Contractors,Electrical,3,DE5 4QZ,2013-09-28,2800.0,30 days EOM,Active
+923,H200922,D Baker Roofing Services Ltd,Roofing,2,NG12 7TL,2024-09-14,6000.0,30 days,Active
+925,H200924,Brown & Shah Ltd,Joinery & Carpentry,4,CV15 3FG,2016-11-04,15800.0,30 days EOM,Active
+926,H200925,Thompson & Pickering Ltd,Landscaping,10,M5 2WE,2008-07-24,5000.0,30 days EOM,Active
+929,H200928,Bennett & Bennett Limited,Kitchen & Bathroom Fitter,2,NG18 8JA,2004-12-15,30200.0,30 days,Active
+932,H200931,Ionescu Construction & Sons Ltd,General Builder,6,ST28 6XT,2006-03-10,600.0,30 days EOM,Active
+939,H200938,Kaur & Singh Ltd,Joinery & Carpentry,8,LS28 9NR,1997-01-16,2900.0,30 days,Active
+947,H200946,Lewis & Wood & Sons Ltd,Landscaping,7,S8 2PP,1996-06-27,5100.0,30 days,Active
+949,H200948,Kowalski Building Services & Sons Ltd,General Builder,5,WV19 3UN,2004-12-16,1800.0,30 days EOM,Active
+950,H200949,Bennett Joinery Ltd,Joinery & Carpentry,12,DN6 1DY,2020-05-09,4900.0,30 days,Active
+962,H200961,M Ward Roofing Services & Son,Roofing,2,NG8 1SN,2021-10-22,1200.0,Cash,Active
+964,H200963,Northern Plumbing & Heating,Plumbing & Heating,11,PR5 1SE,2000-08-30,6600.0,30 days EOM,Active
+971,H200970,Trent Property Services Ltd,Property Maintenance,10,M23 3YW,2017-01-28,9200.0,30 days EOM,Active
+976,H200975,Fox Landscapes Ltd,Landscaping,7,S27 4HE,2018-02-22,10200.0,30 days EOM,On Stop
+987,H200986,D Cooper Roofing & Building Ltd,Roofing,5,WV13 8SZ,2017-12-04,1400.0,30 days EOM,Active
+989,H200988,Hudson & Rowe Ltd,General Builder,2,NG11 7LN,2017-07-11,2400.0,30 days EOM,Active
+1011,H201010,H Sharma Maintenance Ltd,Property Maintenance,6,ST5 3PL,2013-04-12,7700.0,30 days EOM,Active
+1031,H201030,Kaur Bathrooms Ltd,Kitchen & Bathroom Fitter,9,BD6 2FB,2004-01-14,7900.0,30 days EOM,Active
+1036,H201035,Kelly Roofing & Building Ltd,Roofing,7,S14 3AN,2015-03-22,2400.0,30 days EOM,Active
+1042,H201041,Ali & Bennett & Sons Ltd,General Builder,3,DE3 9QF,2023-10-13,5900.0,30 days,Active
+1049,H201048,Moore Roofing & Building Ltd,Roofing,7,S17 3FR,1996-01-11,3200.0,Cash,Active
+1050,H201049,Khan Building,General Builder,8,LS23 7FY,2019-07-24,3200.0,60 days,Active
+1051,H201050,Northern Building Ltd,General Builder,4,CV18 9QD,2024-06-02,1300.0,60 days,Active
+1053,H201052,D Kershaw Garden Services Ltd,Landscaping,7,S7 2SF,1995-02-07,5700.0,30 days EOM,Active
+1055,H201054,D Doyle Groundworks & Son,Groundworks,8,LS12 5JS,2008-06-27,2300.0,30 days,Active
+1056,H201055,J Brookes Civils Ltd,Groundworks,8,LS7 6ET,2024-04-11,9800.0,30 days EOM,Active
+1058,H201057,Pickering Gas Services,Plumbing & Heating,4,CV11 9WU,1998-04-28,9000.0,30 days EOM,Active
+1067,H201066,Gill & Wisniewski Ltd,Roofing,4,CV26 4FB,2018-08-04,7700.0,Cash,Active
+1076,H201075,Ionescu & Barker Ltd,Groundworks,12,DN17 6PX,2017-04-17,3000.0,30 days EOM,Active
+1080,H201079,Baker Builders Limited,General Builder,3,DE5 6XH,1995-09-28,13800.0,30 days,Active
+1088,H201087,Cooper Building Services & Sons Ltd,General Builder,3,DE4 2FR,1995-07-24,2000.0,30 days EOM,Active
+1089,H201088,Rowe Joinery & Building Ltd,Joinery & Carpentry,11,PR13 9GA,2009-11-17,8500.0,30 days EOM,Active
+1105,H201104,M Evans Electrics Ltd,Electrical,7,S26 9GT,1995-02-25,12900.0,30 days,Active
+1106,H201105,Booth Maintenance & Sons Ltd,Property Maintenance,12,DN23 8NW,1999-01-25,900.0,30 days EOM,On Stop
+1112,H201111,Turner & Mahmood Ltd,Property Maintenance,8,LS27 4LS,2001-10-28,5300.0,30 days,Active
+1122,H201121,S Kowalski Building,General Builder,5,WV20 8QW,2015-10-21,3100.0,30 days,Active
+1123,H201122,S Dixon Roofing Services Ltd,Roofing,2,NG19 4NJ,2004-02-08,27100.0,30 days EOM,Active
+1127,H201126,Singh Roofing Services Ltd,Roofing,5,WV4 8AQ,2005-04-22,2400.0,30 days EOM,Active
+1135,H201134,Brown Roofing & Building Ltd,Roofing,8,LS14 5RA,2025-08-17,24500.0,30 days,Active
+1140,H201139,B Pearce Plumbing & Heating Ltd,Plumbing & Heating,12,DN22 9ZB,1998-11-04,1500.0,30 days EOM,Active
+1141,H201140,A Clarke Civils Ltd,Groundworks,3,DE27 9EJ,2014-10-09,1400.0,30 days EOM,Active
+1152,H201151,Hall Garden Services Ltd,Landscaping,2,NG17 5FW,2016-06-29,6400.0,30 days,Active
+1158,H201157,R Clark Electrical & Sons Ltd,Electrical,7,S6 2NU,2007-07-27,11000.0,30 days EOM,Active
+1184,H201183,Johnson & Shaw Ltd,Landscaping,10,M11 5ZX,2020-05-27,5500.0,30 days EOM,Active
+1216,H201215,Ali Electrical Ltd,Electrical,1,LE13 6BL,2021-05-03,18000.0,30 days EOM,Active
+1218,H201217,Pearce Electrics Ltd,Electrical,6,ST27 9NE,2014-03-10,1800.0,30 days EOM,Active
+1245,H201244,D Hudson Roofing,Roofing,2,NG23 5RE,2019-03-22,3600.0,30 days EOM,Active
+1271,H201270,W Pearce Roofing & Building & Son,Roofing,6,ST13 9WS,2017-03-14,1200.0,30 days EOM,Active
+1275,H201274,Mersey Electrical Contractors Ltd,Electrical,5,WV2 7GH,2000-03-14,9000.0,30 days EOM,On Stop
+1288,H201287,Pickering Drainage Ltd,Groundworks,3,DE26 1ZW,2014-05-13,18700.0,30 days EOM,Active
+1294,H201293,Ribble Joinery Ltd,Joinery & Carpentry,10,M8 1HS,2001-12-08,2000.0,30 days EOM,Active
+1298,H201297,P Kaur Garden Services Limited,Landscaping,2,NG1 3YY,2009-11-09,11000.0,Cash,Active
+1309,H201308,Peak Landscapes Ltd,Landscaping,4,CV4 6BH,2011-01-11,4600.0,30 days,Active
+1310,H201309,F Shah Building,General Builder,5,WV16 4GN,2010-06-19,2400.0,30 days EOM,Active
+1339,H201338,Gill & Pearce Ltd,Landscaping,1,LE11 1YH,2002-03-27,5600.0,30 days EOM,Active
+1341,H201340,Wisniewski & Begum Ltd,Joinery & Carpentry,5,WV26 2ZN,2001-04-14,3100.0,30 days EOM,Active
+1352,H201351,Hill Gas Services Limited,Plumbing & Heating,2,NG6 8AZ,2012-04-22,3300.0,60 days,Active
+1355,H201354,R Green Roofing Ltd,Roofing,4,CV29 1PN,2000-07-24,9000.0,30 days EOM,Active
+1371,H201370,Harrison Building Services & Sons Ltd,General Builder,9,BD15 9FL,2009-12-28,2600.0,30 days,Active
+1391,H201390,A Mitchell Building Services & Sons Ltd,General Builder,6,ST25 5JU,2017-01-22,13000.0,30 days EOM,Active
+1405,H201404,Booth Construction Ltd,General Builder,4,CV25 5GH,2007-04-07,16300.0,30 days EOM,Active
+1413,H201412,Pickering Roofing Services Limited,Roofing,7,S25 5YY,2002-03-24,1500.0,30 days EOM,Active
+1431,H201430,L White Property Maintenance Ltd,Property Maintenance,1,LE2 7FY,2016-09-15,2900.0,30 days EOM,Active
+1438,H201437,Dixon Property Maintenance Ltd,Property Maintenance,12,DN14 8ER,2009-05-30,6700.0,30 days EOM,Active
+1451,H201450,Murphy Construction Ltd,General Builder,3,DE4 5TP,2017-06-17,8100.0,30 days EOM,Active
+1491,H201490,Pearce Electrical Ltd,Electrical,8,LS11 5PT,2005-08-03,142900.0,30 days EOM,Active
+1497,H201496,Kowalski Gas Services Ltd,Plumbing & Heating,5,WV11 1HX,2022-06-25,1300.0,30 days EOM,On Stop
+1508,H201507,Carter Plumbing & Heating,Plumbing & Heating,7,S27 9SF,1995-09-23,17600.0,30 days,Active
+1540,H201539,Singh Building,General Builder,1,LE12 5TX,2025-02-18,1500.0,30 days EOM,Active
+1543,H201542,Barker Electrical Contractors Ltd,Electrical,11,PR5 1HE,2017-04-20,43100.0,30 days EOM,Active
+1554,H201553,Khan Garden Services & Son,Landscaping,10,M21 1PS,2016-07-29,10500.0,30 days EOM,Active
+1565,H201564,Bennett Builders Ltd,General Builder,2,NG28 6DP,2010-09-01,6100.0,60 days,Active
+1577,H201576,S Nowak Bathrooms Ltd,Kitchen & Bathroom Fitter,3,DE3 6JU,2024-06-17,1800.0,30 days EOM,Active
+1581,H201580,Khan Homes Ltd,Developer,11,PR29 7JD,2009-02-22,3200.0,60 days,Active
+1585,H201584,Fox & Wright Ltd,General Builder,1,LE22 9SS,2007-10-31,1000.0,30 days EOM,Active
+1586,H201585,Robinson Roofing & Building Ltd,Roofing,1,LE22 6AZ,2017-12-13,4400.0,30 days EOM,Active
+1605,H201604,F Robinson Developments Ltd,Developer,8,LS20 7US,2002-10-05,6800.0,30 days EOM,Active
+1611,H201610,Clarke Property Developments Ltd,Developer,4,CV20 4SP,2006-10-19,2300.0,30 days EOM,Active
+1615,H201614,D Kelly Developments Limited,Developer,8,LS14 6XA,2024-05-25,11200.0,30 days EOM,Active
+1628,H201627,Pennine Builders Limited,General Builder,1,LE18 7RD,2000-07-25,2000.0,30 days EOM,Active
+1633,H201632,M Burton Building Services & Son,General Builder,11,PR17 6QD,1997-04-03,3500.0,60 days,Active
+1643,H201642,D Kershaw Garden Services & Son,Landscaping,10,M2 5EY,2017-10-17,1000.0,30 days EOM,Active
+1645,H201644,N Cooper Maintenance Ltd,Property Maintenance,7,S24 1LT,2013-10-30,2300.0,60 days,Active
+1646,H201645,Peak Plumbing Ltd,Plumbing & Heating,1,LE15 5XL,1995-02-14,1000.0,60 days,Active
+1654,H201653,L Shah Kitchens & Sons Ltd,Kitchen & Bathroom Fitter,9,BD17 5GP,2023-02-24,2300.0,30 days EOM,Active
+1659,H201658,Nowak & Hall & Sons Ltd,General Builder,4,CV7 6TA,2010-11-19,1900.0,30 days EOM,Active
+1669,H201668,Iqbal & Wood,Landscaping,4,CV10 1GY,2012-10-18,5800.0,30 days EOM,Active
+1678,H201677,M King Landscaping & Sons Ltd,Landscaping,6,ST7 9ES,2019-08-12,2200.0,30 days EOM,Active
+1683,H201682,J Kowalski Builders & Sons Ltd,General Builder,5,WV18 1JB,2012-06-29,5500.0,30 days EOM,Active
+1685,H201684,Pearce Builders,General Builder,7,S23 4HH,2000-08-26,5800.0,30 days EOM,Active
+1686,H201685,Ribble Maintenance,Property Maintenance,7,S13 6GZ,2023-03-14,23600.0,30 days EOM,Active
+1695,H201694,Chapman Builders Ltd,General Builder,9,BD28 1FR,2019-07-30,2700.0,30 days EOM,Active
+1705,H201704,Midland Plumbing & Heating,Plumbing & Heating,12,DN15 4ND,1995-05-08,500.0,30 days EOM,On Stop
+1714,H201713,Patel Garden Services & Sons Ltd,Landscaping,1,LE4 4YB,2017-06-08,13400.0,30 days,Active
+1723,H201722,Carter Landscaping,Landscaping,5,WV5 9BL,2000-05-08,7400.0,Cash,Active
+1730,H201729,R Thompson Property Services Limited,Property Maintenance,1,LE7 2SY,2017-04-07,5200.0,Cash,On Stop
+1752,H201751,J Ionescu Electrical Contractors Ltd,Electrical,4,CV13 7ZL,2017-12-15,3800.0,30 days EOM,Active
+1787,H201786,Nowak Construction Ltd,General Builder,1,LE28 4HE,2013-09-11,500.0,30 days EOM,Active
+1788,H201787,Brown Developments Ltd,Developer,1,LE5 6ZR,2019-08-14,5900.0,30 days EOM,Active
+1801,H201800,A Kaur Builders Ltd,General Builder,6,ST2 6EW,1995-04-10,15300.0,60 days,Active
+1808,H201807,Morris & Ali Ltd,General Builder,12,DN28 4NG,1999-05-29,1700.0,30 days EOM,Active
+1815,H201814,Ionescu Building Ltd,General Builder,5,WV6 1UE,2023-07-10,3400.0,30 days,Active
+1826,H201825,Brown Carpentry Limited,Joinery & Carpentry,1,LE11 3RS,2025-10-22,11500.0,Cash,Active
+1843,H201842,C Ashworth Roofing Services Ltd,Roofing,7,S12 6LB,1995-08-07,500.0,30 days EOM,Active
+1867,H201866,Jones Builders Ltd,General Builder,3,DE4 3ZQ,2018-05-10,6500.0,30 days EOM,Active
+1884,H201883,Allen Heating & Son,Plumbing & Heating,7,S21 9LA,2018-09-14,11100.0,30 days,Active
+1929,H201928,Davies Landscapes & Sons Ltd,Landscaping,8,LS22 6EH,2008-07-29,600.0,30 days EOM,Active
+1931,H201930,N Patel Building Services Ltd,General Builder,7,S2 6WH,1996-02-24,2000.0,30 days EOM,Active
+1954,H201953,L Thompson Landscaping Ltd,Landscaping,7,S10 4EQ,2001-08-20,4800.0,30 days EOM,On Stop
+1966,H201965,Cooper Property Services Limited,Property Maintenance,8,LS16 4NR,2022-11-09,21100.0,30 days,Active
+1977,H201976,Hart & Harrison,Roofing,9,BD20 1GL,2017-05-27,1400.0,30 days,Active
+1987,H201986,Kaur Roofing,Roofing,10,M19 6UX,2007-02-15,5800.0,30 days EOM,Active
+1995,H201994,Ellis & Ellis Ltd,General Builder,1,LE28 8SD,2004-04-12,1900.0,30 days EOM,Active
+1997,H201996,R Hart Property Maintenance Ltd,Property Maintenance,8,LS1 2YG,2021-08-13,4300.0,30 days,Active
+2004,H202003,K Moore Roofing & Building Ltd,Roofing,2,NG13 8GG,2017-02-14,11400.0,30 days EOM,Active
+2005,H202004,B Kershaw Bathrooms & Son,Kitchen & Bathroom Fitter,10,M2 2TU,2023-07-09,1100.0,30 days EOM,On Stop
+2008,H202007,S Khan Joinery Ltd,Joinery & Carpentry,1,LE6 5GY,2024-04-27,20800.0,30 days EOM,Active
+2009,H202008,A Mitchell Construction Ltd,General Builder,1,LE9 7BJ,1999-06-14,14300.0,30 days,Active
+2020,H202019,S Lowe Builders & Son,General Builder,2,NG25 3QD,2017-05-26,2300.0,30 days EOM,Active
+2021,H202020,Northern Property Maintenance Limited,Property Maintenance,4,CV28 9UX,2015-09-29,1500.0,60 days,Active
+2024,H202023,Pearce Garden Services Ltd,Landscaping,8,LS25 4YY,2024-11-20,2900.0,30 days EOM,Active
+2031,H202030,R Lewis Developments Ltd,Developer,4,CV16 9SR,2009-08-10,15400.0,60 days,Active
+2039,H202038,A Gallagher Heating & Son,Plumbing & Heating,2,NG9 9EG,1996-10-09,5300.0,60 days,Active
+2054,H202053,Dove Garden Services,Landscaping,11,PR4 3QG,2006-03-13,11900.0,Cash,Active
+2055,H202054,Doyle Landscaping & Sons Ltd,Landscaping,2,NG20 9NL,2012-10-04,4800.0,60 days,Active
+2069,H202068,Byrne Building Limited,General Builder,8,LS25 6TB,2018-05-04,5300.0,30 days EOM,Active
+2071,H202070,D Akhtar Builders & Son,General Builder,5,WV13 2LH,2017-01-08,4900.0,30 days EOM,Active
+2075,H202074,Byrne Electrical & Son,Electrical,9,BD23 7ZD,2023-01-31,2200.0,30 days EOM,Active
+2083,H202082,Burton & Kaur Ltd,Plumbing & Heating,6,ST4 6BR,2025-12-15,10400.0,30 days EOM,Active
+2092,H202091,Jackson Electrical & Sons Ltd,Electrical,2,NG6 4XG,2000-10-22,17900.0,30 days,Active
+2093,H202092,Roberts & Ashworth Ltd,General Builder,4,CV12 1QS,2012-12-01,68900.0,30 days EOM,Active
+2106,H202105,Gallagher Civils Ltd,Groundworks,4,CV6 8PG,2020-10-15,10700.0,30 days EOM,Active
+2136,H202135,Lowe & Ashworth Limited,Electrical,8,LS18 5PY,2003-06-15,6800.0,Cash,Active
+2140,H202139,Mason Construction & Sons Ltd,General Builder,9,BD13 2WZ,2006-01-11,6300.0,30 days,Active
+2158,H202157,Doyle Carpentry & Son,Joinery & Carpentry,12,DN1 3DW,2018-03-25,5400.0,60 days,Active
+2168,H202167,Kaur & Evans Ltd,Property Maintenance,8,LS15 3HS,2021-03-03,5200.0,30 days,Active
+2171,H202170,White Carpentry Ltd,Joinery & Carpentry,4,CV22 2BD,2008-05-30,8000.0,30 days EOM,Active
+2179,H202178,Hall Landscapes Ltd,Landscaping,12,DN9 3YH,2023-09-19,9800.0,30 days EOM,Active
+2180,H202179,Sharma Landscapes Ltd,Landscaping,10,M20 2RP,2007-11-28,6000.0,30 days EOM,Active
+2192,H202191,Sharma & Green & Son,Property Maintenance,8,LS12 1YS,1997-03-10,9000.0,30 days EOM,Active
+2195,H202194,Brookes Groundworks & Sons Ltd,Groundworks,11,PR12 8YR,2016-10-22,800.0,30 days EOM,Active
+2196,H202195,Johnson & Ashworth & Son,General Builder,6,ST5 2ZD,2025-01-29,1600.0,30 days EOM,Active
+2198,H202197,Kowalski Kitchens Ltd,Kitchen & Bathroom Fitter,7,S18 9FX,2015-08-30,12400.0,30 days,Active
+2199,H202198,Baker Joinery & Sons Ltd,Joinery & Carpentry,8,LS26 1TY,2000-12-23,600.0,30 days EOM,Active
+2203,H202202,Z Fletcher Plumbing,Plumbing & Heating,2,NG13 3QP,2023-12-05,900.0,30 days EOM,Active
+2204,H202203,I Marshall Property Services Ltd,Property Maintenance,9,BD24 2RG,2001-09-22,7100.0,30 days EOM,On Stop
+2207,H202206,Dixon & Carter Ltd,Developer,9,BD1 1HT,2020-01-04,22500.0,Cash,Active
+2217,H202216,T Williams Builders Ltd,General Builder,7,S27 4PW,2025-03-31,12300.0,30 days EOM,Active
+2226,H202225,S Smith Garden Services Ltd,Landscaping,1,LE21 3SB,2010-10-28,1700.0,30 days EOM,Active
+2234,H202233,Fox & Dixon & Sons Ltd,General Builder,8,LS22 6GG,2011-09-14,5200.0,60 days,Active
+2235,H202234,Kaur Joinery Ltd,Joinery & Carpentry,11,PR9 3NT,2009-05-18,1500.0,30 days EOM,Active
+2242,H202241,P Ali Building Services & Sons Ltd,General Builder,4,CV27 2PA,2002-11-30,9100.0,30 days EOM,Active
+2247,H202246,A Ashworth Plumbing & Son,Plumbing & Heating,11,PR24 2UH,2003-11-24,10200.0,Cash,Active
+2255,H202254,Pennine Landscaping Ltd,Landscaping,1,LE7 6EZ,2011-12-30,16800.0,Cash,Active
+2258,H202257,Akhtar Electrics Ltd,Electrical,8,LS22 5TY,2007-10-09,33200.0,30 days,Active
+2278,H202277,Ellis Roofing,Roofing,12,DN24 4ST,2017-12-10,1100.0,Cash,Active
+2315,H202314,Roberts & Chapman Ltd,Developer,12,DN2 6JT,2023-06-23,900.0,30 days EOM,Active
+2324,H202323,Ashworth Electrics & Son,Electrical,1,LE28 4PA,2002-10-31,9500.0,30 days EOM,Active
+2330,H202329,N Butterworth Plumbing & Son,Plumbing & Heating,4,CV19 7SA,1999-07-09,1400.0,30 days EOM,Active
+2333,H202332,Cooper Electrical Contractors & Sons Ltd,Electrical,5,WV6 1PA,2015-06-11,11400.0,30 days EOM,Active
+2350,H202349,Mitchell & Taylor & Son,Developer,1,LE9 6WD,2024-10-31,2000.0,30 days EOM,Active
+2356,H202355,Ionescu & Pearce Ltd,Roofing,3,DE15 5YH,2009-08-13,4200.0,30 days EOM,Active
+2360,H202359,Hussain Electrics Limited,Electrical,2,NG24 8ZR,2006-08-10,3600.0,30 days EOM,Active
+2366,H202365,Morris Electrical Contractors & Son,Electrical,7,S5 7JL,2008-02-24,3200.0,60 days,Active
+2369,H202368,Akhtar & Akhtar & Son,General Builder,2,NG23 6UB,1998-03-02,4900.0,30 days EOM,Active
+2373,H202372,Chapman & Parker Ltd,General Builder,2,NG12 4HH,2018-01-16,600.0,30 days,Active
+2392,H202391,F Davies Builders Ltd,General Builder,9,BD25 9TL,2010-05-20,5300.0,30 days EOM,Active
+2395,H202394,Jackson Plumbing Ltd,Plumbing & Heating,4,CV5 6ZS,1997-10-05,10400.0,30 days EOM,Active
+2415,H202414,Barker Building Ltd,General Builder,12,DN26 4PB,2007-04-25,900.0,30 days EOM,Active
+2417,H202416,L Clarke Joinery & Building Ltd,Joinery & Carpentry,10,M7 7PR,2002-03-20,4500.0,30 days,Active
+2456,H202455,O Marshall Electrical Ltd,Electrical,9,BD13 9GT,2004-12-31,500.0,30 days EOM,Active
+2457,H202456,Hill & Harrison & Sons Ltd,General Builder,9,BD15 5PJ,2025-11-17,12900.0,30 days EOM,Active
+2458,H202457,B Gill Electrical Contractors Ltd,Electrical,8,LS15 4PY,1996-06-16,500.0,30 days EOM,Active
+2478,H202477,P Hart Kitchens Ltd,Kitchen & Bathroom Fitter,2,NG18 9DF,2014-03-09,1800.0,30 days,Active
+2487,H202486,L Hudson Kitchens Ltd,Kitchen & Bathroom Fitter,7,S3 9ZL,2010-08-21,4400.0,30 days,Active
+2509,H202508,Wright Landscaping Ltd,Landscaping,4,CV16 9DS,2004-06-04,3200.0,60 days,Active
+2511,H202510,M Gallagher Electrics Ltd,Electrical,8,LS27 4UX,2022-04-29,7500.0,30 days EOM,Active
+2512,H202511,Fletcher Civils & Son,Groundworks,6,ST7 7AD,2000-03-10,5400.0,30 days,Active
+2529,H202528,Calder Drainage Limited,Groundworks,7,S29 6QU,2022-01-17,2000.0,30 days EOM,Active
+2552,H202551,Pearce Civils Ltd,Groundworks,10,M27 9US,2005-07-25,2000.0,30 days EOM,Active
+2567,H202566,A Thompson Civils Ltd,Groundworks,1,LE13 3FY,2003-03-08,3000.0,30 days EOM,Active
+2582,H202581,Clark Construction,General Builder,7,S12 6YD,2017-05-14,11800.0,60 days,Active
+2588,H202587,Akhtar Construction Limited,General Builder,7,S4 1UQ,2022-03-01,11700.0,30 days EOM,On Stop
+2624,H202623,Kowalski Electrics,Electrical,10,M13 8EH,2013-04-19,1900.0,60 days,Active
+2626,H202625,O Atkinson Electrics & Son,Electrical,9,BD26 5UR,2023-11-27,18000.0,Cash,Active
+2630,H202629,Fox Garden Services & Son,Landscaping,11,PR16 9AG,2013-01-08,7100.0,30 days,Active
+2636,H202635,Allen Electrical Ltd,Electrical,1,LE7 6ZZ,2003-02-20,9800.0,30 days,Active
+2640,H202639,C Doyle Roofing & Building Ltd,Roofing,3,DE19 3JH,1996-08-24,16100.0,30 days,Active
+2644,H202643,K Green Maintenance,Property Maintenance,2,NG20 5AN,2014-07-22,1100.0,30 days EOM,Active
+2651,H202650,Davies Construction Ltd,General Builder,10,M2 8AF,2002-10-18,4300.0,30 days EOM,Active
+2663,H202662,Bennett Landscapes Limited,Landscaping,2,NG24 6DL,2021-08-18,800.0,Cash,Active
+2687,H202686,Calder Homes Limited,Developer,7,S26 1QR,2015-12-18,3900.0,30 days EOM,Active
+2688,H202687,A Harrison Building Services & Son,General Builder,12,DN21 1HY,2025-01-29,8100.0,30 days EOM,Active
+2702,H202701,Singh Construction Ltd,General Builder,2,NG27 5PL,2006-07-08,3200.0,30 days EOM,Active
+2715,H202714,Mahmood Electrical Contractors & Son,Electrical,7,S27 1UH,2012-06-14,14800.0,30 days EOM,Active
+2717,H202716,A Parker Gas Services Ltd,Plumbing & Heating,8,LS23 9NY,2007-04-08,6300.0,30 days EOM,Active
+2724,H202723,S Green Developments,Developer,1,LE19 1DA,2000-01-02,15300.0,Cash,Active
+2742,H202741,Baker Civils & Son,Groundworks,7,S7 5WD,1997-04-05,7400.0,60 days,Active
+2761,H202760,Sharma Kitchens & Bathrooms,Kitchen & Bathroom Fitter,2,NG22 5ED,2011-06-11,9800.0,Cash,Active
+2772,H202771,J Begum Building Services Ltd,General Builder,6,ST16 4DR,2000-06-19,3300.0,30 days,Active
+2798,H202797,Smith Electrics & Son,Electrical,5,WV21 3JN,1999-01-12,3400.0,30 days EOM,Active
+2802,H202801,Mahmood Plumbing & Heating Ltd,Plumbing & Heating,1,LE19 2YN,2024-07-10,2600.0,30 days EOM,Active
+2816,H202815,King Property Developments Ltd,Developer,7,S27 4NT,2011-03-24,28900.0,30 days EOM,Active
+2829,H202828,O Robinson Builders Ltd,General Builder,11,PR9 7XX,1996-03-19,500.0,30 days EOM,Active
+2838,H202837,T Ionescu Construction & Son,General Builder,8,LS1 3TR,1997-03-25,1600.0,30 days EOM,Active
+2846,H202845,Calder Building Services Ltd,General Builder,1,LE5 2TR,2003-04-01,21200.0,30 days,Active
+2850,H202849,W Turner Property Developments Ltd,Developer,5,WV21 2UU,1999-04-08,4300.0,30 days EOM,Active
+2852,H202851,K Shaw Homes Ltd,Developer,6,ST14 9RU,2002-05-25,12500.0,30 days EOM,Active
+2861,H202860,Lee Building Services Limited,General Builder,6,ST9 2PP,2024-08-02,1800.0,30 days EOM,Active
+2870,H202869,T Thompson Carpentry Ltd,Joinery & Carpentry,9,BD4 8WN,2008-04-23,1800.0,30 days EOM,Active
+2874,H202873,Roberts & Riley Limited,Electrical,8,LS9 4DD,1998-05-25,8500.0,30 days,Active
+2878,H202877,Hughes Homes & Sons Ltd,Developer,12,DN20 6GB,2001-08-16,167700.0,30 days EOM,Active
+2883,H202882,L Hargreaves Groundworks Ltd,Groundworks,7,S16 9DF,2011-09-23,31700.0,30 days EOM,Active
+2892,H202891,Smith Joinery & Building Ltd,Joinery & Carpentry,4,CV7 6ZG,2013-10-16,1400.0,30 days EOM,Active
+2898,H202897,Pearce Roofing Services & Son,Roofing,11,PR17 8FD,2015-04-06,13700.0,30 days EOM,Active
+2906,H202905,Walker Electrics & Sons Ltd,Electrical,7,S11 8QH,2013-09-21,6500.0,Cash,Active
+2919,H202918,Ionescu Roofing Services & Sons Ltd,Roofing,11,PR21 4GE,2019-12-06,1100.0,30 days,Active
+2922,H202921,Chapman Joinery & Building Ltd,Joinery & Carpentry,9,BD13 3GB,2022-03-20,22300.0,30 days EOM,Active
+2949,H202948,Peak Drainage & Sons Ltd,Groundworks,12,DN11 8LU,2014-04-03,2500.0,30 days EOM,Active
+2962,H202961,Shaw Builders & Son,General Builder,5,WV28 1YL,2004-07-18,2900.0,30 days,Active
+2968,H202967,Mahmood Building Services Ltd,General Builder,4,CV25 7TL,2003-02-24,22200.0,30 days EOM,Active
+2981,H202980,Doyle Construction & Sons Ltd,General Builder,9,BD28 9SS,2015-02-25,3500.0,30 days EOM,Active
+2984,H202983,Harrison Joinery & Building,Joinery & Carpentry,8,LS24 3LH,2017-11-13,1900.0,60 days,Active
+2999,H202998,Sharma & Wood Ltd,General Builder,1,LE10 3UE,2001-04-07,4300.0,Cash,Active
+3025,H203024,Trent Joinery Ltd,Joinery & Carpentry,9,BD23 7EN,2007-07-20,5700.0,30 days,Active
+3026,H203025,Wilson Builders Limited,General Builder,4,CV21 6RP,2014-12-18,7900.0,60 days,Active
+3051,H203050,C Hussain Roofing & Building,Roofing,7,S5 4NT,2010-04-15,2600.0,30 days EOM,Active
+3068,H203067,T Riley Construction Limited,General Builder,4,CV1 1EA,2010-11-25,5200.0,30 days EOM,Active
+3077,H203076,King Building Services & Sons Ltd,General Builder,5,WV15 5HW,2013-11-24,11700.0,30 days EOM,Active
+3085,H203084,Roberts Electrics & Son,Electrical,8,LS9 9FF,2004-01-11,4000.0,Cash,Active
+3092,H203091,Moore & Nowak Ltd,Groundworks,2,NG14 1YE,2016-06-30,25100.0,30 days EOM,Active
+3108,H203107,G Chapman Building Services & Son,General Builder,8,LS4 3SD,2007-10-26,21300.0,Cash,Active
+3114,H203113,Hughes Garden Services Ltd,Landscaping,3,DE10 8LP,1998-09-07,5200.0,30 days,Active
+3127,H203126,Ahmed Civils & Son,Groundworks,4,CV5 8LP,2022-07-30,12900.0,30 days EOM,On Stop
+3146,H203145,G Mahmood Roofing,Roofing,9,BD21 8DY,2008-09-07,5300.0,30 days EOM,Active
+3157,H203156,Sutcliffe & Rowe Ltd,Developer,3,DE15 1EA,2004-04-25,5900.0,Cash,Active
+3174,H203173,Hudson Plumbing Ltd,Plumbing & Heating,2,NG20 3QN,2005-12-22,5900.0,Cash,Active
+3200,H203199,F Butterworth Builders Ltd,General Builder,12,DN8 9ZW,1996-06-03,15000.0,Cash,Active
+3213,H203212,M Khan Gas Services,Plumbing & Heating,12,DN19 7SP,1995-03-19,1800.0,30 days EOM,Active
+3216,H203215,Kershaw Landscaping Ltd,Landscaping,9,BD18 2AF,2002-11-26,7500.0,30 days EOM,Active
+3243,H203242,Hart Building & Son,General Builder,2,NG1 1TY,2003-04-30,3400.0,30 days,Active
+3258,H203257,Wright Roofing Services Limited,Roofing,11,PR15 1UU,2023-04-06,4800.0,30 days EOM,Active
+3259,H203258,Marshall & Shaw & Son,Kitchen & Bathroom Fitter,2,NG23 9GX,1995-01-28,9100.0,30 days EOM,Active
+3269,H203268,C Akhtar Plumbing & Heating,Plumbing & Heating,4,CV28 3GW,2006-04-20,20200.0,30 days,Active
+3290,H203289,Taylor Builders & Son,General Builder,2,NG15 4EA,2009-12-06,3300.0,30 days EOM,Active
+3315,H203314,Carter Building Services Limited,General Builder,3,DE22 6DW,2019-03-08,23800.0,30 days,Active
+3322,H203321,Dixon Kitchens,Kitchen & Bathroom Fitter,12,DN25 8PD,2022-07-07,5300.0,30 days EOM,Active
+3374,H203373,Roberts Developments,Developer,9,BD18 2AX,2020-10-13,7600.0,30 days,Active
+3382,H203381,A Bennett Building Ltd,General Builder,8,LS11 5NR,2005-02-05,1800.0,60 days,Active
+3393,H203392,Evans Electrics & Sons Ltd,Electrical,1,LE26 1BU,2024-04-09,1800.0,30 days EOM,Active
+3399,H203398,Ellis Building & Son,General Builder,2,NG24 8BJ,2021-06-27,9100.0,30 days EOM,Active
+3404,H203403,Butterworth Heating Ltd,Plumbing & Heating,2,NG24 6XA,1999-03-20,14400.0,30 days,Active
+3446,H203445,I Rowe Joinery Limited,Joinery & Carpentry,2,NG4 3UW,2006-10-15,17300.0,30 days EOM,Active
+3457,H203456,Ellis & Pearce Ltd,Electrical,8,LS29 6XR,2009-09-26,1100.0,30 days EOM,Active
+3461,H203460,Iqbal Building Limited,General Builder,2,NG4 9HU,2008-06-22,2900.0,30 days EOM,Active
+3477,H203476,M Sharma Plumbing & Heating Ltd,Plumbing & Heating,6,ST6 1XF,2018-10-28,15800.0,30 days,Active
+3502,H203501,M Murphy Civils Limited,Groundworks,4,CV23 6HF,2005-08-17,600.0,30 days,Active
+3511,H203510,Wisniewski Building,General Builder,1,LE23 3LR,2015-02-03,5300.0,30 days EOM,Active
+3535,H203534,King Roofing & Building & Sons Ltd,Roofing,9,BD17 5BX,2000-01-29,1600.0,30 days,On Stop
+3543,H203542,A Mitchell Maintenance & Son,Property Maintenance,8,LS25 9HL,2003-04-03,9700.0,30 days EOM,Active
+3553,H203552,A Roberts Carpentry & Son,Joinery & Carpentry,7,S11 4ZL,2012-11-07,2800.0,30 days,On Stop
+3567,H203566,Atkinson Construction Ltd,General Builder,8,LS29 1EA,2019-04-04,23500.0,30 days EOM,Active
+3583,H203582,S Mason Carpentry Ltd,Joinery & Carpentry,3,DE6 8ZW,2004-11-06,2500.0,30 days EOM,Active
+3584,H203583,R Morris Builders Ltd,General Builder,4,CV2 3YS,2004-01-17,10100.0,30 days,Active
+3601,H203600,J Byrne Builders & Sons Ltd,General Builder,12,DN13 7TS,1998-07-21,1300.0,30 days EOM,On Stop
+3603,H203602,L Mitchell Landscapes & Sons Ltd,Landscaping,9,BD18 7XR,2023-08-26,9600.0,30 days,Active
+3606,H203605,S King Heating Limited,Plumbing & Heating,2,NG25 5WG,2011-07-02,4900.0,30 days,Active
+3624,H203623,Murphy Landscapes,Landscaping,4,CV25 1EE,2019-09-16,7200.0,30 days EOM,Active
+3639,H203638,Ward Kitchens & Bathrooms Ltd,Kitchen & Bathroom Fitter,2,NG11 1LX,1997-08-18,6400.0,30 days,Active
+3640,H203639,Lewis Gas Services & Sons Ltd,Plumbing & Heating,11,PR16 1DF,2012-03-11,29400.0,30 days EOM,Active
+3654,H203653,Shaw Homes Limited,Developer,4,CV4 7AN,1997-04-14,15400.0,30 days,Active
+3656,H203655,D Barker Construction,General Builder,6,ST5 3ND,2021-05-27,27100.0,30 days EOM,Active
+3673,H203672,D Booth Construction Limited,General Builder,9,BD17 3RA,2000-11-02,3200.0,30 days EOM,Active
+3676,H203675,T Wood Maintenance & Son,Property Maintenance,6,ST28 6ZB,2018-09-06,1000.0,30 days,Active
+3689,H203688,Holmes Property Maintenance & Son,Property Maintenance,10,M7 9GT,1996-07-08,3700.0,60 days,Active
+3723,H203722,R Nowak Gas Services Limited,Plumbing & Heating,4,CV16 6YR,2010-05-04,10600.0,30 days EOM,Active
+3751,H203750,Riley Property Developments,Developer,3,DE3 6SX,2006-06-20,18100.0,Cash,Active
+3759,H203758,Calder Plumbing Limited,Plumbing & Heating,3,DE24 9LJ,2011-08-01,8000.0,30 days EOM,Active
+3767,H203766,Booth Property Developments,Developer,12,DN6 1SY,2002-08-09,4300.0,Cash,Active
+3771,H203770,Baker & Lewis & Sons Ltd,Roofing,12,DN16 3UL,2006-03-23,14900.0,30 days EOM,Active
+3783,H203782,Green & Kershaw & Son,General Builder,2,NG29 8UF,2010-12-28,900.0,30 days EOM,Active
+3792,H203791,C Wisniewski Construction Limited,General Builder,11,PR15 8HS,2017-09-16,6200.0,30 days,Active
+3804,H203803,S Gallagher Kitchens & Bathrooms & Sons Ltd,Kitchen & Bathroom Fitter,10,M6 6SW,2021-10-21,3400.0,30 days,Active
+3808,H203807,Booth Electrical Contractors Ltd,Electrical,3,DE28 1HN,2021-05-06,4500.0,Cash,Active
+3809,H203808,Lewis Roofing Ltd,Roofing,9,BD26 9YG,2018-02-03,2300.0,30 days EOM,Active
+3811,H203810,Mason & Nowak Ltd,Electrical,2,NG4 8PR,2024-08-27,500.0,60 days,Active
+3835,H203834,Soar Roofing & Building,Roofing,6,ST12 3GH,2003-11-12,27500.0,Cash,Active
+3842,H203841,S Kowalski Electrical Contractors Ltd,Electrical,3,DE19 7ND,2013-11-13,7200.0,30 days EOM,Active
+3849,H203848,G Begum Building Services Ltd,General Builder,8,LS20 3GN,2022-02-18,14900.0,30 days EOM,Active
+3860,H203859,Lowe & Smith Ltd,General Builder,1,LE3 2ST,2023-07-06,2800.0,30 days EOM,Active
+3873,H203872,Morris & Morris Limited,Groundworks,11,PR29 3EY,2014-05-05,17100.0,30 days EOM,Active
+3897,H203896,M Brown Developments Limited,Developer,10,M11 9GW,2008-06-21,9100.0,30 days,Active
+3903,H203902,Hart Joinery Ltd,Joinery & Carpentry,3,DE23 1TX,2022-12-15,3500.0,30 days,Active
+3906,H203905,A Baker Building Services Ltd,General Builder,11,PR17 1QE,2005-09-20,4900.0,30 days,On Stop
+3916,H203915,Riley Civils & Sons Ltd,Groundworks,11,PR12 1XG,1997-10-15,10000.0,Cash,Active
+3929,H203928,K Williams Property Developments Ltd,Developer,2,NG25 8UF,2003-09-20,2000.0,30 days EOM,Active
+3933,H203932,D Ionescu Plumbing Ltd,Plumbing & Heating,8,LS7 8UB,2017-04-15,2100.0,30 days,Active
+3938,H203937,Lee Drainage & Son,Groundworks,7,S27 1QE,2017-01-08,4900.0,30 days EOM,Active
+3974,H203973,Rowe & Iqbal Limited,General Builder,9,BD7 4DH,2001-07-11,14500.0,Cash,Active
+3995,H203994,W Wood Civils Ltd,Groundworks,4,CV27 6NE,2003-11-24,9800.0,Cash,Active
+3998,H203997,Ahmed Garden Services Ltd,Landscaping,8,LS5 7AH,2024-12-25,5500.0,30 days EOM,Active
+4023,H204022,Harrison Garden Services & Son,Landscaping,7,S10 1NP,1998-12-01,1000.0,30 days EOM,Active
+4041,H204040,Burton Building Services Ltd,General Builder,9,BD28 4DF,2005-07-12,1800.0,30 days EOM,Active
+4071,H204070,Gill Construction & Sons Ltd,General Builder,9,BD14 6NE,2013-03-28,2700.0,30 days EOM,Active
+4091,H204090,B Hargreaves Property Services & Sons Ltd,Property Maintenance,3,DE17 9NJ,2010-07-03,7800.0,30 days EOM,Active
+4099,H204098,Calder Landscapes Limited,Landscaping,9,BD11 1ZX,2005-09-28,1900.0,Cash,Active
+4102,H204101,Clarke & Bennett Limited,Plumbing & Heating,9,BD29 1AA,2007-02-20,11300.0,30 days EOM,Active
+4107,H204106,Hargreaves Heating & Sons Ltd,Plumbing & Heating,12,DN5 2BH,2002-06-18,22100.0,30 days EOM,Active
+4168,H204167,D Hussain Builders & Sons Ltd,General Builder,1,LE19 6PH,2000-09-12,17400.0,30 days EOM,Active
+4178,H204177,Akhtar & Popescu Limited,Developer,1,LE20 9DZ,2002-01-25,700.0,30 days EOM,Active
+4179,H204178,Kaur Gas Services & Sons Ltd,Plumbing & Heating,10,M6 9FP,2021-07-12,24000.0,30 days EOM,Active
+4180,H204179,L Walker Heating Ltd,Plumbing & Heating,12,DN22 2SD,1996-07-15,4300.0,30 days EOM,Active
+4187,H204186,Cooper Kitchens & Sons Ltd,Kitchen & Bathroom Fitter,6,ST24 5BJ,2001-09-29,1100.0,30 days EOM,Active
+4197,H204196,Hudson Building Services Ltd,General Builder,11,PR21 7HQ,2009-04-17,1600.0,30 days,Active
+4201,H204200,Evans & Murphy Limited,General Builder,2,NG11 2WJ,2019-01-05,2900.0,60 days,Active
+4207,H204206,Booth & Begum Ltd,General Builder,3,DE27 9LH,2020-02-28,6300.0,30 days,On Stop
+4217,H204216,Khan Property Services Limited,Property Maintenance,11,PR4 2PB,2008-11-20,2500.0,Cash,Active
+4235,H204234,N Ward Roofing Services Ltd,Roofing,6,ST2 3NP,2005-08-20,900.0,30 days,Active
+4247,H204246,Dove Electrical Ltd,Electrical,11,PR20 9LZ,2009-03-05,1200.0,30 days EOM,Active
+4259,H204258,S Gill Plumbing Ltd,Plumbing & Heating,9,BD20 8ZE,2007-02-05,800.0,Cash,Active
+4262,H204261,Harrison Roofing Services Ltd,Roofing,1,LE26 8EJ,2018-01-06,4600.0,30 days EOM,Active
+4284,H204283,Hughes Gas Services Ltd,Plumbing & Heating,5,WV22 5RP,2009-05-05,8300.0,30 days EOM,On Stop
+4302,H204301,Ali Bathrooms Ltd,Kitchen & Bathroom Fitter,8,LS16 8YY,1995-01-13,8100.0,30 days EOM,Active
+4313,H204312,N Booth Drainage Ltd,Groundworks,4,CV7 1HZ,2001-11-16,2800.0,30 days EOM,Active
+4327,H204326,Charnwood Landscaping Ltd,Landscaping,2,NG3 3XZ,2000-03-11,9700.0,30 days EOM,Active
+4349,H204348,Baker Electrical Contractors Ltd,Electrical,1,LE3 7XT,2021-12-05,5600.0,30 days,Active
+4370,H204369,D Shah Gas Services Ltd,Plumbing & Heating,8,LS2 5EZ,2000-07-08,500.0,30 days EOM,Active
+4373,H204372,Hart Plumbing Ltd,Plumbing & Heating,11,PR4 5PD,2018-05-04,4200.0,30 days,Active
+4382,H204381,Evans & Lowe Ltd,General Builder,1,LE8 7EF,2008-09-28,12800.0,30 days EOM,Active
+4385,H204384,Brookes Civils Ltd,Groundworks,7,S24 7WB,2012-04-21,10600.0,30 days EOM,Active
+4407,H204406,Hargreaves Garden Services,Landscaping,11,PR29 5DS,2021-05-25,10300.0,30 days,Active
+4420,H204419,Allen Maintenance Ltd,Property Maintenance,9,BD23 9UU,2006-06-29,7800.0,Cash,On Stop
+4428,H204427,Begum Homes Limited,Developer,9,BD11 3TN,2007-02-08,2400.0,30 days EOM,Active
+4441,H204440,Mitchell Electrical Ltd,Electrical,2,NG16 6LU,2011-01-13,2900.0,30 days,Active
+4451,H204450,Webb Construction Ltd,General Builder,8,LS15 7EP,2009-06-28,4100.0,30 days EOM,Active
+4457,H204456,Roberts Building Services,General Builder,2,NG18 5FD,2024-04-01,2300.0,30 days EOM,Active
+4461,H204460,Mitchell Construction & Sons Ltd,General Builder,8,LS16 8AW,2025-06-30,8500.0,30 days EOM,Active
+4473,H204472,C Shah Civils,Groundworks,6,ST18 2PU,1996-01-21,4100.0,30 days EOM,Active
+4478,H204477,Kelly Maintenance Ltd,Property Maintenance,3,DE26 9LG,2015-09-24,6500.0,30 days EOM,Active
+4479,H204478,Smith Builders Ltd,General Builder,8,LS1 3SY,2004-06-10,1700.0,Cash,Active
+4484,H204483,Aire Electrics Ltd,Electrical,2,NG20 2FW,2001-11-27,4300.0,30 days,Active
+4488,H204487,Northern Plumbing & Sons Ltd,Plumbing & Heating,10,M22 4QD,2025-05-12,13200.0,Cash,Active
+4493,H204492,Fox Electrical Limited,Electrical,3,DE29 7ZE,2012-01-12,6400.0,30 days EOM,Active
+4504,H204503,B Carter Building Ltd,General Builder,10,M17 1UQ,2011-03-27,29300.0,30 days EOM,Active
+4516,H204515,Evans Construction Limited,General Builder,8,LS22 9YU,2007-05-02,8700.0,30 days EOM,Active
+4518,H204517,Mersey Landscapes & Sons Ltd,Landscaping,11,PR4 1FA,2014-04-30,2000.0,30 days,Active
+4530,H204529,Wilson Builders & Son,General Builder,1,LE18 7RL,2020-10-13,8000.0,30 days EOM,Active
+4534,H204533,Riley Maintenance & Son,Property Maintenance,6,ST5 2TJ,1995-04-25,10300.0,Cash,Active
+4539,H204538,A Morris Electrical Ltd,Electrical,1,LE23 4ZJ,2014-09-01,13000.0,30 days EOM,Active
+4540,H204539,Wilson Kitchens & Bathrooms,Kitchen & Bathroom Fitter,1,LE7 3HB,2002-03-25,7500.0,30 days EOM,Active
+4542,H204541,M Hart Bathrooms,Kitchen & Bathroom Fitter,4,CV29 3HN,2024-06-01,4000.0,30 days,Active
+4545,H204544,Riley Construction Ltd,General Builder,10,M28 3AT,1998-08-13,5400.0,30 days EOM,Active
+4554,H204553,W Parker Groundworks Ltd,Groundworks,4,CV12 1HT,2023-01-13,12800.0,30 days EOM,Active
+4565,H204564,Soar Groundworks Limited,Groundworks,2,NG3 3UB,2011-08-09,1300.0,30 days EOM,Active
+4568,H204567,Hargreaves Electrical Contractors Ltd,Electrical,9,BD23 3SG,2012-07-29,7500.0,30 days,Active
+4572,H204571,Wisniewski Kitchens Ltd,Kitchen & Bathroom Fitter,9,BD20 7JJ,2023-09-26,1600.0,30 days,Active
+4574,H204573,Marshall & Murphy Limited,Joinery & Carpentry,9,BD14 8FB,2010-02-27,900.0,30 days EOM,Active
+4587,H204586,Moore & Pearce & Son,Electrical,3,DE17 7XZ,2009-08-26,12400.0,30 days EOM,Active
+4597,H204596,Begum & Jackson Ltd,Property Maintenance,4,CV24 3WB,2025-08-22,3300.0,30 days EOM,Active
+4620,H204619,Jackson Kitchens & Bathrooms Limited,Kitchen & Bathroom Fitter,11,PR21 6DE,2006-02-08,6200.0,Cash,On Stop
+4624,H204623,Jones Gas Services & Son,Plumbing & Heating,1,LE13 1RU,2018-06-29,6800.0,30 days EOM,Active
+4627,H204626,A Fletcher Electrics Ltd,Electrical,4,CV10 8HN,2009-10-17,1100.0,30 days,Active
+4633,H204632,Atkinson & Thompson,Property Maintenance,9,BD19 1RG,2008-01-29,1200.0,Cash,Active
+4638,H204637,Allen & Murphy Ltd,Developer,4,CV27 8ZW,2018-03-11,15300.0,30 days EOM,Active
+4639,H204638,I Hughes Construction & Sons Ltd,General Builder,6,ST13 4WB,2006-11-09,3600.0,30 days EOM,Active
+4646,H204645,Sutcliffe Kitchens Ltd,Kitchen & Bathroom Fitter,12,DN14 6YG,2024-05-24,14200.0,30 days EOM,Active
+4671,H204670,Aire Maintenance Ltd,Property Maintenance,2,NG8 9GY,2008-09-02,4200.0,30 days EOM,Active
+4689,H204688,Harris & Gallagher Ltd,Roofing,7,S16 7HX,2017-06-02,29600.0,30 days,Active
+4711,H204710,Shah & Harris Ltd,General Builder,4,CV5 2TP,2008-06-28,21600.0,30 days EOM,Active
+4727,H204726,Patel Building Ltd,General Builder,3,DE17 5EP,2007-12-03,7900.0,30 days,Active
+4732,H204731,Pickering & Harris & Son,Roofing,5,WV8 2FR,2020-02-13,31500.0,30 days,Active
+4744,H204743,Gallagher & Barker Ltd,General Builder,9,BD20 1AL,2011-08-15,9200.0,30 days,Active
+4750,H204749,Hudson & Roberts & Son,Landscaping,12,DN12 5RJ,2019-07-24,17700.0,30 days EOM,Active
+4760,H204759,Harrison & Carter Ltd,General Builder,9,BD2 3XB,2021-05-21,2900.0,30 days,Active
+4762,H204761,L Wilson Builders & Sons Ltd,General Builder,1,LE15 7RZ,2000-11-24,1500.0,60 days,Active
+4763,H204762,Gill Garden Services Ltd,Landscaping,1,LE18 5PD,2007-03-27,2200.0,30 days EOM,Active
+4770,H204769,Mason Groundworks Ltd,Groundworks,9,BD29 8RP,2021-11-21,2200.0,30 days EOM,Active
+4801,H204800,Peak Electrical Contractors & Sons Ltd,Electrical,11,PR14 4SR,2018-03-22,3100.0,60 days,Active
+4802,H204801,I Webb Building & Son,General Builder,12,DN17 7QB,2015-05-01,1900.0,30 days EOM,Active
+4804,H204803,Doyle Plumbing Limited,Plumbing & Heating,8,LS15 3HW,2021-05-26,4400.0,30 days,Active
+4817,H204816,I Riley Building Services & Sons Ltd,General Builder,10,M16 4ZS,1995-06-01,11500.0,30 days EOM,Active
+4818,H204817,Mahmood Maintenance & Sons Ltd,Property Maintenance,3,DE8 5XG,2017-05-26,17800.0,30 days EOM,Active
+4830,H204829,Webb Electrical,Electrical,7,S23 7NH,2008-07-30,20000.0,60 days,Active
+4845,H204844,Calder Kitchens Limited,Kitchen & Bathroom Fitter,9,BD12 3TW,2023-10-23,20500.0,30 days EOM,Active
+4848,H204847,Ward & Evans,General Builder,1,LE15 1XQ,2016-12-20,2500.0,30 days EOM,On Stop
+4865,H204864,Kaur Building Services & Son,General Builder,2,NG4 6AS,2023-05-06,11700.0,Cash,Active
+4877,H204876,B Smith Building Ltd,General Builder,2,NG28 5PB,2015-02-18,2600.0,30 days EOM,Active
+4894,H204893,Popescu Landscaping Ltd,Landscaping,12,DN6 3BX,1997-03-14,32700.0,30 days EOM,Active
+4897,H204896,C Harris Building Ltd,General Builder,8,LS11 2HE,2001-08-21,1300.0,30 days EOM,Active
+4915,H204914,Thompson Plumbing Ltd,Plumbing & Heating,12,DN25 8BE,2002-03-14,17500.0,60 days,Active
+4936,H204935,Booth Builders & Sons Ltd,General Builder,4,CV7 4HP,1998-01-02,500.0,Cash,Active
+4942,H204941,Cooper & Chapman & Sons Ltd,General Builder,5,WV12 3AR,1998-02-12,2800.0,60 days,Active
+4943,H204942,L Shaw Landscapes & Sons Ltd,Landscaping,4,CV17 3YE,2013-02-24,800.0,30 days EOM,Active
+4952,H204951,P Ionescu Homes & Son,Developer,12,DN7 9FS,2008-10-12,18000.0,30 days EOM,Active
+4987,H204986,Hudson & White & Son,Electrical,2,NG18 7AS,1996-07-19,500.0,30 days,Active
+4997,H204996,Barker Building Limited,General Builder,7,S25 4LL,2025-07-08,7300.0,30 days EOM,Active
+5031,H205030,Green Roofing & Building Ltd,Roofing,3,DE4 7LT,2016-06-23,10200.0,30 days EOM,Active
+5032,H205031,Midland Building & Sons Ltd,General Builder,9,BD1 8JF,2007-04-25,9000.0,Cash,Active
+5034,H205033,Cooper & Burton Limited,Roofing,5,WV18 3RS,2016-12-29,1700.0,30 days,Active
+5042,H205041,Wood Gas Services Ltd,Plumbing & Heating,3,DE8 6RD,2022-09-28,3900.0,Cash,Active
+5049,H205048,Wisniewski & Mahmood Ltd,Electrical,2,NG26 3RA,2018-11-27,9400.0,30 days EOM,Active
+5075,H205074,Sutcliffe Groundworks Ltd,Groundworks,11,PR22 4YD,2025-01-17,700.0,30 days EOM,Active
+5079,H205078,Jackson Building Services & Son,General Builder,9,BD27 2YN,1995-11-24,3300.0,30 days EOM,Active
+5085,H205084,A Smith Builders Ltd,General Builder,4,CV6 4FB,2017-05-20,1200.0,30 days EOM,Active
+5090,H205089,Fletcher Gas Services,Plumbing & Heating,10,M8 7NY,2011-08-19,31800.0,30 days EOM,Active
+5095,H205094,Pickering & Jackson Ltd,Plumbing & Heating,10,M21 2AR,1998-12-25,1700.0,30 days EOM,Active
+5096,H205095,Dixon Electrics Ltd,Electrical,7,S7 2AB,2019-09-21,3600.0,30 days EOM,Active
+5110,H205109,Hill & Johnson Limited,Developer,2,NG18 3HU,2010-12-20,29000.0,30 days,Active
+5119,H205118,Hargreaves Gas Services Ltd,Plumbing & Heating,10,M6 3RT,2016-04-24,18400.0,30 days EOM,Active
+5121,H205120,Smith Groundworks Limited,Groundworks,2,NG13 2YL,2015-05-29,20300.0,30 days EOM,Active
+5141,H205140,W Shah Garden Services & Sons Ltd,Landscaping,6,ST27 5DF,2022-10-22,3300.0,30 days EOM,Active
+5148,H205147,Kershaw Landscapes,Landscaping,3,DE4 9YP,2023-05-05,8200.0,60 days,Active
+5157,H205156,N Brookes Construction Ltd,General Builder,3,DE23 3ZY,2007-01-24,24900.0,30 days EOM,Active
+5187,H205186,S Webb Gas Services Limited,Plumbing & Heating,8,LS7 6SY,1999-12-07,1400.0,30 days,Active
+5192,H205191,C Roberts Plumbing Ltd,Plumbing & Heating,1,LE2 4YJ,2025-12-02,1500.0,30 days,Active
+5195,H205194,D Harris Roofing & Son,Roofing,3,DE21 8QH,2019-04-03,2700.0,30 days,Active
+5196,H205195,Carter & Pearce Ltd,General Builder,7,S24 2WL,2004-05-17,4400.0,30 days EOM,Active
+5203,H205202,Chapman Carpentry Ltd,Joinery & Carpentry,12,DN21 5UH,1998-12-24,800.0,Cash,Active
+5204,H205203,Mahmood Landscapes,Landscaping,2,NG6 9SP,2025-01-04,5800.0,30 days EOM,Active
+5219,H205218,Robinson Kitchens & Bathrooms Limited,Kitchen & Bathroom Fitter,3,DE9 3XA,2006-05-04,7600.0,Cash,Active
+5224,H205223,Ionescu Heating,Plumbing & Heating,9,BD22 5RH,2021-03-13,8900.0,30 days EOM,Active
+5238,H205237,Carter & Davies,Property Maintenance,8,LS16 3NB,2015-08-17,2700.0,30 days,Active
+5246,H205245,Brookes & King Ltd,General Builder,9,BD12 8UA,2010-11-29,3600.0,30 days,Active
+5276,H205275,Carter Joinery & Sons Ltd,Joinery & Carpentry,2,NG7 2SD,2020-07-24,9400.0,Cash,Active
+5285,H205284,Atkinson & Parker Ltd,General Builder,9,BD24 6QQ,1995-10-24,4000.0,30 days EOM,Active
+5287,H205286,Brookes Building & Son,General Builder,10,M4 2FA,2013-10-30,30100.0,30 days EOM,Active
+5289,H205288,Williams & Roberts Ltd,Landscaping,12,DN12 9XX,2007-02-06,6600.0,30 days EOM,Active
+5299,H205298,S Atkinson Roofing Services Ltd,Roofing,8,LS17 6SH,2003-04-06,5800.0,30 days EOM,Active
+5301,H205300,Brookes Drainage,Groundworks,9,BD3 8NB,2004-05-14,9300.0,Cash,Active
+5310,H205309,Charnwood Drainage Ltd,Groundworks,10,M25 9FL,2008-12-08,1700.0,30 days,Active
+5317,H205316,I Lowe Bathrooms Ltd,Kitchen & Bathroom Fitter,8,LS10 9UE,2016-05-27,9800.0,30 days EOM,Active
+5318,H205317,Ashworth Building Services Ltd,General Builder,11,PR25 9DQ,2011-03-17,10100.0,30 days EOM,Active
+5325,H205324,Brookes Carpentry Ltd,Joinery & Carpentry,10,M19 1HS,2011-03-24,4700.0,30 days,Active
+5347,H205346,Shah & Turner & Son,General Builder,2,NG1 7EB,2019-03-18,2900.0,30 days EOM,Active
+5354,H205353,Dove Joinery Ltd,Joinery & Carpentry,12,DN1 5NL,2014-07-03,25300.0,30 days,Active
+5365,H205364,Dove Joinery & Building,Joinery & Carpentry,4,CV4 7WW,2002-05-12,4300.0,30 days EOM,Active
+5366,H205365,E Carter Gas Services & Son,Plumbing & Heating,12,DN19 4LB,2002-03-28,3800.0,30 days EOM,Active
+5369,H205368,K Holmes Building Services & Son,General Builder,7,S2 6LS,1995-12-30,3400.0,30 days,Active
+5373,H205372,Smith Developments Limited,Developer,6,ST5 4UH,2003-07-27,6500.0,30 days,Active
+5381,H205380,Pennine Bathrooms Ltd,Kitchen & Bathroom Fitter,6,ST15 9DE,2015-01-14,6100.0,30 days EOM,Active
+5382,H205381,Gallagher Electrical Limited,Electrical,7,S9 1BP,2024-09-24,4300.0,30 days,Active
+5388,H205387,Dixon Builders & Son,General Builder,1,LE25 8QZ,2021-04-24,1400.0,30 days EOM,Active
+5395,H205394,Bennett Roofing & Building Ltd,Roofing,8,LS14 1WE,2019-11-05,900.0,30 days,Active
+5435,H205434,Lee & Ward Ltd,General Builder,6,ST27 3ER,2001-06-16,7600.0,30 days EOM,Active
+5464,H205463,Hussain Civils Limited,Groundworks,7,S3 4WB,2019-07-20,6100.0,30 days,Active
+5481,H205480,W Jones Electrical,Electrical,8,LS16 8XB,2015-09-15,500.0,30 days EOM,Active
+5482,H205481,D Lewis Roofing Services Limited,Roofing,1,LE21 1BB,2015-07-17,6100.0,30 days,Active
+5493,H205492,Smith & Wright Ltd,Electrical,9,BD1 1GN,2013-07-21,500.0,30 days EOM,Active
+5501,H205500,Kelly Builders Limited,General Builder,8,LS8 8BS,2021-11-03,6100.0,30 days,Active
+5503,H205502,Soar Property Services Limited,Property Maintenance,10,M18 1AE,2000-08-22,1500.0,30 days EOM,Active
+5505,H205504,Davies Drainage & Sons Ltd,Groundworks,1,LE25 4TY,2008-07-12,8400.0,30 days EOM,Active
+5510,H205509,Kershaw Roofing Ltd,Roofing,2,NG4 6BX,1999-09-16,5100.0,30 days EOM,Active
+5535,H205534,Sharma Civils Ltd,Groundworks,8,LS21 8UU,1999-06-11,4500.0,30 days EOM,Active
+5537,H205536,P Robinson Civils Limited,Groundworks,5,WV29 6PB,2007-07-04,2100.0,30 days EOM,Active
+5548,H205547,Hall Drainage Ltd,Groundworks,1,LE24 1EA,2023-07-15,7200.0,30 days EOM,Active
+5563,H205562,T Butterworth Drainage,Groundworks,4,CV21 4ZZ,2010-05-12,7000.0,30 days EOM,Active
+5568,H205567,Williams & Hill Ltd,Landscaping,8,LS7 3HL,2000-02-02,12800.0,30 days EOM,Active
+5579,H205578,L Patel Building Ltd,General Builder,6,ST14 3JG,2004-12-24,8400.0,30 days EOM,On Stop
+5583,H205582,Charnwood Groundworks & Sons Ltd,Groundworks,1,LE27 8RT,2017-02-25,8300.0,30 days EOM,Active
+5590,H205589,S Pearce Plumbing Ltd,Plumbing & Heating,11,PR22 1DG,1996-06-23,2100.0,30 days,Active
+5596,H205595,Bennett Civils Ltd,Groundworks,1,LE2 2DG,2021-05-18,3400.0,30 days EOM,On Stop
+5606,H205605,Riley & Johnson Ltd,General Builder,8,LS29 5WS,2009-09-26,2800.0,30 days EOM,Active
+5618,H205617,Begum & Hall Ltd,Developer,1,LE22 4DD,2000-11-12,7400.0,Cash,Active
+5620,H205619,G Doyle Electrics & Son,Electrical,2,NG9 7EA,1996-09-30,1900.0,30 days EOM,Active
+5624,H205623,C Brookes Plumbing & Heating & Son,Plumbing & Heating,7,S12 1ZL,1999-02-10,9400.0,Cash,Active
+5659,H205658,L Murphy Roofing & Building Ltd,Roofing,3,DE22 9ZL,2014-10-08,3000.0,Cash,Active
+5681,H205680,Roberts Kitchens Limited,Kitchen & Bathroom Fitter,4,CV5 5RS,2003-04-09,26200.0,60 days,Active
+5686,H205685,H Robinson Gas Services,Plumbing & Heating,7,S15 6YA,2023-08-29,7300.0,Cash,Active
+5688,H205687,Robinson & Ahmed Ltd,Plumbing & Heating,7,S25 1RF,1996-03-18,6100.0,30 days,Active
+5697,H205696,Robinson Bathrooms Ltd,Kitchen & Bathroom Fitter,9,BD3 3ZH,2011-01-20,5900.0,30 days EOM,Active
+5702,H205701,P Taylor Kitchens Ltd,Kitchen & Bathroom Fitter,11,PR7 2PH,1995-01-13,6000.0,Cash,Active
+5732,H205731,A Hudson Plumbing & Heating Limited,Plumbing & Heating,4,CV22 5GD,2024-10-26,8900.0,30 days EOM,Active
+5735,H205734,Akhtar Gas Services & Son,Plumbing & Heating,7,S5 6XH,2014-03-28,7600.0,Cash,Active
+5753,H205752,Webb & Nowak Ltd,General Builder,7,S26 9ZG,1999-11-29,14700.0,30 days EOM,Active
+5761,H205760,Aire Joinery Ltd,Joinery & Carpentry,8,LS23 5SR,2016-04-28,23900.0,60 days,Active
+5771,H205770,L Parker Builders Ltd,General Builder,7,S26 1GE,2005-10-06,23500.0,30 days EOM,Active
+5773,H205772,Hill Drainage Ltd,Groundworks,3,DE27 7TJ,2010-01-28,13300.0,30 days EOM,Active
+5778,H205777,D Kaur Building Services & Son,General Builder,10,M27 6FY,2001-02-07,31900.0,30 days,Active
+5782,H205781,Taylor & Patel Ltd,Electrical,9,BD3 9DU,2019-06-09,12700.0,60 days,Active
+5792,H205791,D Dixon Groundworks Ltd,Groundworks,4,CV26 7BH,2000-12-06,1800.0,30 days EOM,Active
+5818,H205817,Lee Roofing & Building Limited,Roofing,8,LS6 8PN,2004-09-10,10200.0,Cash,Active
+5821,H205820,T Webb Construction & Son,General Builder,7,S8 2QP,1995-01-07,1700.0,30 days,Active
+5846,H205845,M Bennett Builders,General Builder,6,ST8 9YX,2019-10-16,5400.0,30 days,Active
+5860,H205859,Rowe Electrical Ltd,Electrical,2,NG27 7LE,2002-02-02,36400.0,30 days EOM,Active
+5862,H205861,Riley Property Developments & Sons Ltd,Developer,10,M14 7RL,2006-04-12,500.0,30 days EOM,Active
+5871,H205870,Atkinson Building Services & Sons Ltd,General Builder,7,S16 7BF,2011-06-14,3000.0,30 days EOM,Active
+5876,H205875,B Marshall Landscaping Limited,Landscaping,7,S19 1PW,2023-12-10,6500.0,Cash,Active
+5880,H205879,Burton Plumbing & Heating Ltd,Plumbing & Heating,11,PR19 2EN,2025-05-04,6500.0,30 days EOM,Active
+5881,H205880,B Mitchell Groundworks Ltd,Groundworks,4,CV2 3LF,2006-08-08,21400.0,30 days EOM,Active
+5898,H205897,Murphy & Gallagher & Sons Ltd,Plumbing & Heating,7,S24 1QE,2021-04-11,15800.0,30 days EOM,Active
+5904,H205903,Moore Landscapes Limited,Landscaping,9,BD20 5QR,2012-05-28,12700.0,30 days EOM,Active
+5910,H205909,L Harrison Construction Ltd,General Builder,1,LE28 2QG,2013-05-01,27700.0,30 days,Active
+5918,H205917,Charnwood Landscaping & Sons Ltd,Landscaping,5,WV28 5FP,1996-11-30,1300.0,30 days EOM,Active
+5919,H205918,M Clarke Building & Son,General Builder,10,M6 6ED,2016-02-16,15700.0,30 days EOM,Active
+5926,H205925,Patel Maintenance Limited,Property Maintenance,4,CV27 1YW,2008-06-01,6900.0,30 days EOM,Active
+5938,H205937,Robinson & Clark,Property Maintenance,8,LS24 9SU,2015-10-23,24200.0,30 days,Active
+5958,H205957,H Lee Roofing Services Ltd,Roofing,7,S13 6RT,2019-05-05,1600.0,30 days EOM,Active
+5975,H205974,Wood Landscapes & Son,Landscaping,2,NG29 8SW,2004-04-18,9100.0,60 days,Active
+5977,H205976,Mahmood Kitchens & Bathrooms Ltd,Kitchen & Bathroom Fitter,3,DE21 9RN,2000-09-08,3400.0,30 days EOM,Active
+5997,H205996,Lee Construction & Sons Ltd,General Builder,12,DN25 6PG,2004-10-20,10600.0,30 days EOM,Active
+6008,H206007,Webb Building & Sons Ltd,General Builder,3,DE9 4XN,2013-10-09,6900.0,30 days,Active
+6013,H206012,Kowalski & Pearce Ltd,General Builder,2,NG13 6DL,2012-08-01,2000.0,60 days,On Stop
+6025,H206024,Fox & Ahmed Ltd,Plumbing & Heating,1,LE9 5PW,2010-07-11,2400.0,60 days,Active
+6030,H206029,Singh Groundworks Limited,Groundworks,5,WV19 9XH,2009-03-31,9900.0,60 days,On Stop
+6034,H206033,Holmes Landscapes Ltd,Landscaping,5,WV12 5LL,2013-10-14,2800.0,60 days,Active
+6058,H206057,King & Allen & Son,Joinery & Carpentry,2,NG26 5JY,2022-04-15,5000.0,Cash,Active
+6065,H206064,Atkinson & Brookes,Electrical,11,PR15 4XA,2001-06-07,9800.0,30 days EOM,Active
+6068,H206067,Smith Construction Ltd,General Builder,7,S11 7HF,2013-11-24,6800.0,30 days,Active
+6070,H206069,Harris Heating Ltd,Plumbing & Heating,1,LE7 3JG,2021-03-16,43300.0,30 days,Active
+6080,H206079,P Hughes Construction Ltd,General Builder,1,LE13 6EY,2016-02-13,1500.0,30 days EOM,Active
+6083,H206082,Gill & Hussain Ltd,Kitchen & Bathroom Fitter,10,M23 5SH,2022-11-07,4400.0,30 days EOM,Active
+6087,H206086,Turner Construction,General Builder,3,DE14 9XA,2017-03-23,3900.0,30 days EOM,Active
+6090,H206089,O Hughes Roofing & Building & Sons Ltd,Roofing,6,ST22 6TF,2002-02-11,2400.0,30 days EOM,Active
+6093,H206092,K Kowalski Landscaping Ltd,Landscaping,1,LE26 8PB,1995-01-20,2800.0,30 days EOM,Active
+6097,H206096,N Sutcliffe Heating Ltd,Plumbing & Heating,6,ST1 8QX,2010-06-20,19600.0,30 days EOM,Active
+6100,H206099,Bennett & Ashworth Ltd,General Builder,6,ST27 2YR,2024-01-13,12800.0,30 days EOM,On Stop
+6105,H206104,Midland Carpentry Limited,Joinery & Carpentry,11,PR17 8QU,2025-02-06,5300.0,Cash,On Stop
+6107,H206106,Soar Civils Ltd,Groundworks,1,LE6 3TF,2014-12-06,18200.0,30 days,Active
+6115,H206114,Patel Electrical Contractors & Sons Ltd,Electrical,8,LS25 6SN,2023-12-26,4000.0,30 days,Active
+6118,H206117,D Robinson Heating Ltd,Plumbing & Heating,8,LS15 2GW,2011-04-11,2600.0,30 days EOM,Active
+6123,H206122,Aire Builders,General Builder,1,LE7 1HL,2010-10-07,1700.0,30 days,Active
+6136,H206135,K Kershaw Electrical & Sons Ltd,Electrical,6,ST16 1SA,2007-03-30,5200.0,30 days,On Stop
+6138,H206137,Byrne Heating & Sons Ltd,Plumbing & Heating,8,LS14 7TU,2012-03-05,8800.0,30 days EOM,Active
+6145,H206144,King Bathrooms Ltd,Kitchen & Bathroom Fitter,4,CV18 6XY,2024-07-10,2600.0,30 days EOM,Active
+6146,H206145,Shaw Kitchens & Bathrooms Ltd,Kitchen & Bathroom Fitter,6,ST28 1UY,2008-05-20,2100.0,30 days,Active
+6147,H206146,Johnson Builders Limited,General Builder,4,CV27 3EN,1996-01-04,2700.0,30 days EOM,On Stop
+6157,H206156,Rowe & Mahmood Ltd,General Builder,4,CV27 6AP,2013-02-19,2400.0,30 days EOM,Active
+6162,H206161,Kelly & Kowalski & Son,Groundworks,7,S24 3NL,1996-12-11,2900.0,30 days,Active
+6174,H206173,Lewis & Wisniewski Ltd,Property Maintenance,10,M6 5JL,2001-05-23,1800.0,Cash,Active
+6177,H206176,C Roberts Roofing Services Limited,Roofing,8,LS6 9LX,2023-11-18,49400.0,30 days EOM,Active
+6186,H206185,Dixon Builders & Sons Ltd,General Builder,4,CV27 6TH,1995-11-11,1500.0,30 days,On Stop
+6192,H206191,I Davies Plumbing & Heating Limited,Plumbing & Heating,2,NG24 5HY,2003-05-17,3600.0,30 days,Active
+6244,H206243,Moore Building Services & Sons Ltd,General Builder,2,NG1 3AU,2019-11-24,2400.0,30 days,Active
+6247,H206246,Charnwood Building Services Limited,General Builder,11,PR8 2GN,1995-08-09,2300.0,Cash,Active
+6264,H206263,Roberts Carpentry & Son,Joinery & Carpentry,4,CV11 9PQ,1999-04-24,3100.0,30 days,Active
+6280,H206279,Harris Building Limited,General Builder,9,BD27 9BF,2019-03-06,3200.0,30 days EOM,Active
+6291,H206290,H Wright Groundworks Ltd,Groundworks,1,LE12 1AW,2012-06-09,1900.0,30 days EOM,Active
+6299,H206298,Williams & Morris Limited,Plumbing & Heating,7,S27 7FX,2000-06-05,19200.0,30 days,Active
+6301,H206300,Wilson Gas Services Limited,Plumbing & Heating,2,NG23 9TT,2003-11-16,13600.0,30 days EOM,Active
+6306,H206305,Patel Joinery Ltd,Joinery & Carpentry,12,DN24 5GR,2004-12-17,4400.0,30 days,Active
+6314,H206313,Shaw Gas Services & Sons Ltd,Plumbing & Heating,1,LE3 5AY,2022-04-29,37700.0,30 days EOM,Active
+6327,H206326,P Kaur Landscaping,Landscaping,2,NG3 4DB,2010-03-02,2100.0,60 days,Active
+6342,H206341,Khan & Harris Ltd,General Builder,4,CV5 7JU,2023-01-11,7600.0,30 days EOM,Active
+6348,H206347,Charnwood Roofing,Roofing,9,BD15 2YH,2007-07-13,4900.0,30 days EOM,Active
+6349,H206348,R Popescu Maintenance Ltd,Property Maintenance,6,ST16 9SP,2010-03-24,1100.0,Cash,Active
+6358,H206357,A Burton Heating Ltd,Plumbing & Heating,8,LS7 5HR,2003-05-08,5600.0,Cash,Active
+6360,H206359,L Bennett Property Services & Sons Ltd,Property Maintenance,6,ST25 7QX,2002-08-29,5200.0,60 days,Active
+6398,H206397,Riley & Mahmood & Son,General Builder,11,PR11 9QS,2023-03-24,11100.0,30 days EOM,Active
+6412,H206411,Murphy Builders Ltd,General Builder,8,LS1 8DT,2019-07-24,7100.0,30 days EOM,Active
+6413,H206412,Clarke Roofing Services Ltd,Roofing,7,S3 9XT,2020-05-14,11000.0,Cash,On Stop
+6437,H206436,D Lee Construction Ltd,General Builder,8,LS21 3GE,2012-04-14,2200.0,30 days EOM,Active
+6451,H206450,Trent Homes & Son,Developer,11,PR8 3JD,2009-05-28,6100.0,30 days EOM,Active
+6452,H206451,Kershaw Homes Ltd,Developer,2,NG10 2FT,2018-03-10,2100.0,30 days EOM,Active
+6463,H206462,Mason Gas Services Ltd,Plumbing & Heating,3,DE25 7WE,2003-02-05,8700.0,30 days,Active
+6482,H206481,Thompson & Barker Ltd,Roofing,8,LS1 3LW,2006-06-03,2100.0,30 days EOM,Active
+6495,H206494,Lewis & Ashworth Ltd,General Builder,10,M13 7ED,2010-05-09,1600.0,30 days,Active
+6497,H206496,Holmes Groundworks Limited,Groundworks,6,ST1 1XD,2005-06-03,8700.0,30 days EOM,Active
+6523,H206522,Popescu Groundworks Ltd,Groundworks,1,LE23 1SA,2024-07-19,9600.0,30 days,Active
+6541,H206540,Gill & Dixon & Sons Ltd,General Builder,6,ST5 3DP,2019-09-16,1700.0,30 days,Active
+6586,H206585,Peak Electrical,Electrical,6,ST22 9LX,2021-10-03,10900.0,30 days EOM,On Stop
+6613,H206612,Fletcher Building Ltd,General Builder,10,M27 5PW,2015-11-25,4300.0,30 days EOM,Active
+6626,H206625,S Kowalski Landscapes & Sons Ltd,Landscaping,1,LE26 2XH,2004-04-16,4000.0,30 days EOM,Active
+6629,H206628,Moore Property Maintenance Ltd,Property Maintenance,12,DN7 9QB,2021-05-18,7400.0,30 days,Active
+6642,H206641,J Hudson Construction & Sons Ltd,General Builder,11,PR11 2HT,2015-01-28,8900.0,30 days EOM,Active
+6648,H206647,Ahmed Kitchens & Son,Kitchen & Bathroom Fitter,8,LS12 9FP,1996-12-23,9200.0,30 days,Active
+6654,H206653,Brookes & Lewis Ltd,General Builder,6,ST7 2QE,2016-04-22,4200.0,30 days EOM,Active
+6659,H206658,Wright Builders & Son,General Builder,6,ST28 5XH,2018-12-06,5800.0,30 days EOM,Active
+6660,H206659,A Nowak Plumbing & Sons Ltd,Plumbing & Heating,8,LS10 4RZ,2011-12-01,2600.0,60 days,Active
+6711,H206710,Calder Garden Services & Son,Landscaping,7,S19 5ZX,1999-01-22,8000.0,30 days,Active
+6712,H206711,Williams Roofing Services Limited,Roofing,4,CV5 5TT,2009-12-24,500.0,30 days,Active
+6727,H206726,Mitchell & Shah Ltd,General Builder,4,CV28 5UZ,2007-10-22,3200.0,30 days EOM,Active
+6734,H206733,Webb Roofing & Sons Ltd,Roofing,2,NG2 4HL,2003-03-13,2900.0,60 days,Active
+6738,H206737,H Riley Building & Sons Ltd,General Builder,1,LE21 6PL,1998-03-02,1000.0,30 days,Active
+6742,H206741,S Begum Building Ltd,General Builder,5,WV7 7BB,2001-05-01,2200.0,60 days,Active
+6747,H206746,Clark & Burton & Son,Joinery & Carpentry,11,PR4 5EU,2000-01-17,3300.0,30 days EOM,Active
+6753,H206752,Hill Property Maintenance Ltd,Property Maintenance,12,DN11 6XJ,2009-04-17,12200.0,30 days EOM,Active
+6764,H206763,Parker Construction Ltd,General Builder,7,S10 5GU,2022-01-09,4500.0,30 days EOM,Active
+6779,H206778,S Hughes Developments & Son,Developer,8,LS26 4ZS,1998-02-03,7100.0,30 days,Active
+6789,H206788,N Ionescu Roofing Ltd,Roofing,5,WV24 3TH,2012-03-08,8400.0,30 days EOM,On Stop
+6790,H206789,Hart Builders,General Builder,12,DN18 4HZ,2003-05-28,10600.0,60 days,Active
+6791,H206790,N Webb Maintenance Ltd,Property Maintenance,4,CV23 4NN,2019-01-12,17300.0,Cash,Active
+6800,H206799,Burton Roofing Ltd,Roofing,1,LE19 3WZ,2011-02-22,10100.0,Cash,Active
+6801,H206800,F Marshall Building & Sons Ltd,General Builder,5,WV20 6UZ,2007-10-03,1900.0,30 days EOM,Active
+6822,H206821,Rowe Electrics Ltd,Electrical,7,S18 1UD,2023-10-17,31100.0,30 days EOM,Active
+6833,H206832,King & Patel & Sons Ltd,General Builder,7,S12 1TZ,2018-07-01,500.0,30 days,Active
+6839,H206838,Lee & Parker Ltd,General Builder,4,CV28 7FX,2010-03-22,3200.0,30 days EOM,Active
+6841,H206840,Green & Turner Ltd,Property Maintenance,4,CV1 3GZ,2015-06-15,1600.0,30 days EOM,Active
+6852,H206851,Ward & Gill Limited,Roofing,11,PR28 5ZG,2012-01-15,4400.0,30 days,Active
+6867,H206866,A Morris Electrical & Son,Electrical,6,ST15 2AU,2004-03-06,4300.0,60 days,On Stop
+6907,H206906,M Khan Bathrooms Limited,Kitchen & Bathroom Fitter,1,LE5 2HS,2012-09-24,1400.0,30 days EOM,Active
+6922,H206921,Barker Heating,Plumbing & Heating,3,DE17 4NH,2014-12-09,9400.0,30 days EOM,Active
+6939,H206938,Burton & Mahmood Ltd,General Builder,4,CV15 2RH,2022-08-13,5800.0,30 days EOM,Active
+6948,H206947,E Akhtar Property Services & Sons Ltd,Property Maintenance,7,S21 7FR,1995-01-28,4200.0,30 days EOM,Active
+6957,H206956,R Lewis Groundworks,Groundworks,2,NG20 2EG,2009-11-16,4300.0,30 days EOM,Active
+6962,H206961,L Chapman Garden Services,Landscaping,7,S12 6YU,2007-08-25,3500.0,30 days EOM,Active
+6968,H206967,S Pearce Electrics & Sons Ltd,Electrical,7,S29 2LW,2008-04-26,32300.0,30 days EOM,Active
+6991,H206990,Iqbal Electrical Limited,Electrical,9,BD24 5BY,2013-03-18,12400.0,30 days EOM,Active
+7007,H207006,Murphy & Ahmed Limited,Groundworks,11,PR22 5NA,2007-07-07,6100.0,30 days,Active
+7011,H207010,K Lewis Building Services & Son,General Builder,2,NG28 7EG,2017-09-07,10600.0,30 days,Active
+7019,H207018,P Turner Plumbing Ltd,Plumbing & Heating,2,NG12 5GN,2019-03-20,1100.0,30 days EOM,Active
+7027,H207026,I Popescu Landscapes & Sons Ltd,Landscaping,1,LE27 2LW,2009-01-31,900.0,30 days EOM,Active
+7060,H207059,C Shah Builders Ltd,General Builder,9,BD1 4NB,1998-11-17,13400.0,30 days,Active
+7068,H207067,Green Plumbing & Heating Ltd,Plumbing & Heating,10,M29 7FG,2022-04-18,2000.0,30 days EOM,Active
+7076,H207075,Rowe Building Services Limited,General Builder,11,PR16 6XP,2013-06-03,4300.0,30 days EOM,Active
+7084,H207083,B Marshall Building Ltd,General Builder,2,NG21 1GJ,2022-12-10,7500.0,Cash,Active
+7087,H207086,Parker & Evans Ltd,Groundworks,12,DN6 7PN,2007-10-01,4400.0,30 days,Active
+7110,H207109,C Brookes Building Ltd,General Builder,3,DE24 9TJ,2016-01-08,800.0,30 days,Active
+7112,H207111,Wilson & Clark & Son,Electrical,9,BD20 1LW,2018-12-04,8000.0,30 days,Active
+7124,H207123,S Brookes Joinery & Building & Son,Joinery & Carpentry,1,LE3 9LT,2021-10-12,9700.0,60 days,Active
+7129,H207128,D Taylor Maintenance & Sons Ltd,Property Maintenance,4,CV23 3SZ,2025-08-19,2400.0,30 days EOM,Active
+7145,H207144,Soar Property Maintenance & Sons Ltd,Property Maintenance,2,NG11 1TA,2018-05-03,12600.0,Cash,Active
+7153,H207152,K Riley Carpentry Ltd,Joinery & Carpentry,8,LS12 3BD,2000-04-12,2000.0,60 days,Active
+7159,H207158,Kowalski Plumbing & Son,Plumbing & Heating,7,S2 3SU,2023-01-12,1900.0,30 days EOM,Active
+7172,H207171,Gallagher Construction Limited,General Builder,6,ST4 8RX,2007-07-03,2200.0,Cash,Active
+7175,H207174,Walker Construction & Sons Ltd,General Builder,1,LE16 2UP,2018-06-15,15000.0,30 days,Active
+7198,H207197,H Clark Drainage Ltd,Groundworks,1,LE26 4YX,2009-12-11,8800.0,Cash,Active
+7208,H207207,W White Building & Son,General Builder,7,S13 9SZ,1995-11-14,3300.0,30 days EOM,Active
+7209,H207208,Ionescu Maintenance Ltd,Property Maintenance,5,WV23 3DH,2007-07-06,16200.0,30 days EOM,Active
+7212,H207211,Brookes & Hussain Ltd,Electrical,10,M5 1SN,2007-03-12,24500.0,30 days EOM,Active
+7213,H207212,Hart Drainage Ltd,Groundworks,1,LE11 3FJ,2015-07-25,4100.0,30 days EOM,Active
+7217,H207216,R Pickering Construction Ltd,General Builder,6,ST5 1HP,2010-12-11,7700.0,30 days EOM,Active
+7223,H207222,Burton Building Ltd,General Builder,1,LE29 8RU,2002-03-06,5500.0,30 days EOM,Active
+7242,H207241,A Hart Building Services & Son,General Builder,1,LE21 3LX,2006-02-07,2100.0,30 days EOM,Active
+7248,H207247,E Begum Gas Services Ltd,Plumbing & Heating,10,M4 2NR,2023-12-07,20100.0,30 days EOM,Active
+7250,H207249,S Booth Property Services & Son,Property Maintenance,7,S27 9RU,2005-01-30,8100.0,30 days EOM,Active
+7256,H207255,D Ionescu Building,General Builder,1,LE5 4RG,2018-06-28,5400.0,30 days EOM,Active
+7262,H207261,Williams Drainage Ltd,Groundworks,3,DE14 7PG,2021-08-10,13800.0,30 days EOM,Active
+7272,H207271,Trent Heating & Sons Ltd,Plumbing & Heating,8,LS29 4TG,2024-03-19,1900.0,30 days EOM,Active
+7279,H207278,E Clarke Builders & Sons Ltd,General Builder,1,LE23 4RA,2009-04-14,900.0,30 days EOM,Active
+7302,H207301,Hall Joinery & Son,Joinery & Carpentry,10,M12 2ZH,2002-10-23,8000.0,60 days,Active
+7322,H207321,Ribble Heating Ltd,Plumbing & Heating,11,PR6 7WB,2015-01-28,1500.0,Cash,Active
+7340,H207339,Brown Construction Ltd,General Builder,11,PR25 9QX,2002-03-19,7500.0,30 days EOM,Active
+7347,H207346,M Sharma Electrical Contractors,Electrical,10,M18 9JW,2000-08-30,1200.0,30 days EOM,Active
+7350,H207349,Gallagher Carpentry,Joinery & Carpentry,7,S11 9NN,2022-02-17,1900.0,30 days,Active
+7352,H207351,K Barker Roofing & Building Ltd,Roofing,11,PR16 9RN,2014-12-30,4200.0,30 days EOM,Active
+7355,H207354,Mason Drainage & Sons Ltd,Groundworks,7,S5 4YF,1996-01-09,1200.0,30 days EOM,Active
+7362,H207361,Hughes Civils Ltd,Groundworks,2,NG15 6WP,2003-03-10,2800.0,30 days,Active
+7377,H207376,Soar Property Developments Ltd,Developer,12,DN15 7PQ,2011-03-08,5900.0,30 days,Active
+7384,H207383,Begum Bathrooms Ltd,Kitchen & Bathroom Fitter,12,DN11 9EA,1996-06-19,5600.0,Cash,Active
+7390,H207389,King Builders & Son,General Builder,12,DN17 4EU,2006-03-09,2300.0,30 days EOM,Active
+7400,H207399,Ellis & Robinson Ltd,Roofing,4,CV17 9RZ,2020-05-31,5800.0,30 days EOM,On Stop
+7406,H207405,I Marshall Plumbing Ltd,Plumbing & Heating,8,LS17 6NG,2000-12-21,8900.0,30 days EOM,Active
+7413,H207412,A Murphy Electrics Ltd,Electrical,9,BD21 9TS,2008-10-17,3700.0,30 days EOM,Active
+7419,H207418,King Joinery,Joinery & Carpentry,2,NG19 2BZ,1995-12-04,2100.0,30 days EOM,On Stop
+7442,H207441,Moore Property Maintenance Limited,Property Maintenance,5,WV9 3QT,2018-09-10,5500.0,30 days EOM,On Stop
+7446,H207445,Sharma & King Ltd,Developer,10,M27 9GQ,1999-05-31,4700.0,30 days EOM,Active
+7449,H207448,A Gill Builders Ltd,General Builder,5,WV24 9WA,2018-06-19,11100.0,30 days EOM,Active
+7451,H207450,Midland Roofing,Roofing,7,S13 3DA,2021-12-05,5800.0,Cash,Active
+7474,H207473,Ribble Roofing Limited,Roofing,5,WV9 8NR,2011-02-27,1300.0,30 days EOM,Active
+7485,H207484,Morris Property Maintenance & Son,Property Maintenance,4,CV29 6LB,2014-05-18,18100.0,30 days EOM,Active
+7511,H207510,N Popescu Electrical Contractors & Sons Ltd,Electrical,1,LE9 1NJ,2017-02-05,2000.0,30 days EOM,Active
+7515,H207514,Kelly Building Limited,General Builder,11,PR9 2BX,2004-04-10,15000.0,30 days EOM,Active
+7518,H207517,Pennine Drainage Ltd,Groundworks,1,LE28 6YB,1995-07-21,7700.0,30 days EOM,Active
+7521,H207520,Cooper & Johnson Limited,Electrical,11,PR19 1JX,2011-09-06,1400.0,30 days,Active
+7524,H207523,J Hughes Electrical Contractors,Electrical,8,LS1 2YL,2002-12-19,2400.0,Cash,Active
+7533,H207532,Green & Clark Ltd,Plumbing & Heating,4,CV19 5QJ,2011-06-03,10600.0,30 days EOM,Active
+7536,H207535,B Sutcliffe Builders & Sons Ltd,General Builder,1,LE5 7XN,2013-03-24,6100.0,30 days,Active
+7546,H207545,Johnson Building & Sons Ltd,General Builder,7,S13 1SP,1995-02-01,26200.0,30 days EOM,Active
+7551,H207550,Bennett Heating Ltd,Plumbing & Heating,1,LE26 4WQ,2002-05-06,8300.0,30 days EOM,Active
+7557,H207556,S White Homes Ltd,Developer,11,PR21 8DS,1995-08-08,1800.0,30 days EOM,Active
+7565,H207564,Cooper Developments Ltd,Developer,8,LS8 6WB,2021-06-25,18400.0,60 days,Active
+7569,H207568,T Doyle Bathrooms Ltd,Kitchen & Bathroom Fitter,12,DN15 1PN,1995-09-04,23600.0,Cash,Active
+7598,H207597,Morris Building & Son,General Builder,11,PR14 7FE,2010-01-22,8800.0,30 days EOM,Active
+7613,H207612,Booth Developments Ltd,Developer,3,DE7 6BE,2000-08-25,2700.0,30 days EOM,Active
+7632,H207631,Roberts Groundworks & Sons Ltd,Groundworks,3,DE12 6WA,2005-07-07,3000.0,Cash,Active
+7643,H207642,Doyle & Sutcliffe,Landscaping,12,DN11 2HG,2022-09-13,1000.0,30 days EOM,Active
+7648,H207647,P Davies Building Ltd,General Builder,3,DE5 1SW,2010-04-11,7700.0,30 days EOM,Active
+7649,H207648,Nowak Plumbing & Heating Limited,Plumbing & Heating,12,DN15 7ZD,2019-01-29,6200.0,30 days EOM,On Stop
+7658,H207657,Hill Kitchens Limited,Kitchen & Bathroom Fitter,10,M25 4PG,2011-10-01,9600.0,30 days EOM,Active
+7687,H207686,Sharma Building,General Builder,1,LE18 3EX,2021-01-28,3100.0,30 days,Active
+7699,H207698,Allen Carpentry Ltd,Joinery & Carpentry,7,S3 7TL,2014-04-18,1200.0,30 days,Active
+7705,H207704,Sharma Roofing Services,Roofing,1,LE12 9RW,1997-10-22,6000.0,Cash,Active
+7709,H207708,Evans & Chapman & Son,Plumbing & Heating,7,S24 2RG,2016-08-21,11700.0,30 days EOM,Active
+7717,H207716,F Morris Building Services & Son,General Builder,10,M16 1PP,2021-06-16,7400.0,30 days EOM,Active
+7728,H207727,Hudson Homes Ltd,Developer,2,NG23 8HX,2006-11-29,1700.0,30 days,Active
+7741,H207740,L Wisniewski Construction,General Builder,9,BD5 8GS,1995-12-06,5800.0,Cash,On Stop
+7752,H207751,Jones Building Services Ltd,General Builder,11,PR9 6YZ,2005-07-19,1300.0,30 days EOM,Active
+7759,H207758,Shaw & Shaw Ltd,General Builder,7,S2 3EL,2014-11-18,18700.0,30 days EOM,Active
+7779,H207778,Midland Property Maintenance Limited,Property Maintenance,4,CV22 6WJ,2019-11-07,1000.0,30 days EOM,Active
+7785,H207784,Thompson & Shaw Ltd,Electrical,8,LS23 9BW,2004-06-27,6700.0,30 days EOM,Active
+7789,H207788,C Turner Heating Ltd,Plumbing & Heating,10,M5 4FT,2000-02-08,4100.0,30 days EOM,Active
+7797,H207796,Sharma Builders & Sons Ltd,General Builder,4,CV10 6GA,2015-07-22,28300.0,30 days EOM,Active
+7799,H207798,Brown Construction,General Builder,7,S20 8PB,2005-06-22,14500.0,60 days,Active
+7801,H207800,J Carter Landscapes,Landscaping,1,LE27 1YJ,2019-03-12,1900.0,30 days EOM,Active
+7802,H207801,Barker Roofing Services & Sons Ltd,Roofing,8,LS19 4TR,1996-09-07,1000.0,30 days,Active
+7806,H207805,A Smith Groundworks & Sons Ltd,Groundworks,11,PR12 8JS,2017-06-20,4400.0,Cash,Active
+7823,H207822,Ribble Plumbing & Son,Plumbing & Heating,7,S7 6FR,2001-07-27,7700.0,30 days,Active
+7842,H207841,Atkinson Civils Ltd,Groundworks,8,LS6 2HR,2001-08-02,14800.0,30 days EOM,Active
+7846,H207845,Lowe & Rowe,General Builder,1,LE23 9SD,1995-03-14,13200.0,30 days,Active
+7856,H207855,P Nowak Carpentry Ltd,Joinery & Carpentry,6,ST16 9YX,2007-06-01,7600.0,30 days,Active
+7866,H207865,Lee & Wright Ltd,Electrical,11,PR21 7BN,2005-04-25,1800.0,30 days EOM,Active
+7891,H207890,Mason Electrical & Sons Ltd,Electrical,4,CV22 9ZD,2010-09-24,5500.0,60 days,Active
+7896,H207895,Clarke & Nowak Ltd,General Builder,2,NG4 9JY,1997-11-02,10300.0,30 days,Active
+7907,H207906,Nowak Building,General Builder,10,M16 6PE,2001-06-16,20400.0,30 days EOM,Active
+7931,H207930,H Lewis Landscapes Ltd,Landscaping,11,PR24 8PY,2002-08-15,1400.0,30 days EOM,Active
+7935,H207934,Dixon Roofing & Building,Roofing,5,WV10 1RZ,2025-07-08,6900.0,Cash,Active
+7939,H207938,O Marshall Property Maintenance & Sons Ltd,Property Maintenance,1,LE19 8EP,2017-10-06,7600.0,30 days EOM,Active
+7956,H207955,J Allen Garden Services Ltd,Landscaping,4,CV6 5QL,2017-08-06,3100.0,Cash,Active
+7957,H207956,Hussain & Carter & Son,General Builder,4,CV9 6XQ,2020-12-13,6400.0,30 days EOM,Active
+7979,H207978,A Ward Electrics Ltd,Electrical,1,LE14 9QG,2017-01-10,7600.0,30 days,Active
+7982,H207981,G Brown Builders Limited,General Builder,2,NG26 7YG,2001-01-10,2100.0,30 days EOM,On Stop
+7984,H207983,Bennett & Marshall Ltd,General Builder,2,NG4 4XB,2020-06-22,2400.0,Cash,Active
+7988,H207987,S Akhtar Building Services & Sons Ltd,General Builder,12,DN9 8LD,2025-07-27,4700.0,30 days,Active
+8001,H300000,S BROOKES JOINERY & BUILDING,Joinery & Carpentry,9,BD13 6DN,2022-05-28,4900.0,Cash,Active
+8007,H300006,Pickering Garden Services & Son (do not use),Landscaping,12,DN28 4AZ,2025-01-25,9300.0,Cash,On Stop
+8010,H300009,kaur electrical contractors limited,Electrical,2,NG7 9NE,2023-10-25,8200.0,Cash,Active
+8019,H300018,WPS,Property Maintenance,1,LE25 5ZY,2004-09-12,3600.0,Cash,Active
+8020,H300019,C. Building Services,General Builder,3,DE17 7GN,2014-10-05,3400.0,Cash,Active
+8030,H300029,Lee,Kitchen & Bathroom Fitter,12,DN9 9GB,2023-03-15,5500.0,Cash,Active
+8040,H300039,C Hall Roofing Limited  ,Roofing,9,BD16 5QW,2007-10-20,2700.0,Cash,On Stop
+8052,H300051,M. Gas Services Limited,Plumbing & Heating,8,LS14 2LU,1995-03-19,2300.0,Cash,Active
+8059,H300058,BYRNE GAS SERVICES & SON,Plumbing & Heating,3,DE28 4XR,2018-08-26,7700.0,Cash,Active
+8063,H300062,Taylor Joinery & Sons Ltd (do not use),Joinery & Carpentry,3,DE19 8JE,2018-12-10,4700.0,Cash,Active
+8067,H300066,smith bathrooms & son,Kitchen & Bathroom Fitter,4,CV5 6WG,1996-03-18,2600.0,Cash,Active
+8074,H300073,Kershaw Builders,General Builder,1,LE18 5HR,2011-08-14,6800.0,Cash,Active
+8090,H300089,jackson drainage,Groundworks,5,WV6 7ZP,2000-10-06,4100.0,Cash,Active
+8102,H300101,WisniewskiH eating Ltd,Plumbing & Heating,9,BD20 5EA,2018-06-18,6500.0,Cash,Active
+8104,H300103,Allen Roofing & Building Ltd  ,Roofing,6,ST10 9UW,2008-01-06,12500.0,Cash,Active
+8116,H300115,Soar Son,Groundworks,9,BD11 2FW,1998-01-28,2700.0,Cash,Active
+8123,H300122,s parker construction,General Builder,6,ST14 2WD,1999-06-29,1300.0,Cash,Active
+8158,H300157,Mason Property Maintenance Ltd (do not use),Property Maintenance,3,DE24 4GQ,2023-09-30,4700.0,Cash,Active
+8180,H300179,Hart Landscapes Limited (do not use),Landscaping,4,CV13 1FT,2006-06-16,6000.0,Cash,Active
+8182,H300181,BEC,Electrical,5,WV24 1DZ,2022-01-15,32200.0,Cash,Active
+8188,H300187,O IQBAL KITCHENS & BATHROOMS & SON,Kitchen & Bathroom Fitter,6,ST24 4TX,2011-09-29,2400.0,Cash,Active
+8189,H300188,c gill electrical,Electrical,6,ST3 6TP,2008-11-18,4500.0,Cash,Active
+8192,H300191,JB,General Builder,4,CV29 5WA,2020-06-02,5200.0,Cash,Active
+8203,H300202,J White Roofing eSrvices Ltd,Roofing,3,DE29 4GW,2006-07-05,7300.0,Cash,On Stop
+8208,H300207,IONESCU MAINTENANCE LTD,Property Maintenance,5,WV23 3DH,2007-07-06,16200.0,Cash,Active
+8211,H300210,Brookes & Baker Ltd (do not use),General Builder,3,DE17 6JX,2010-09-11,1500.0,Cash,Active
+8219,H300218,hughes maintenance ltd,Property Maintenance,10,M6 8TJ,2009-11-15,7400.0,Cash,Active
+8235,H300234,P. Building Services & Son,General Builder,12,DN19 7XR,1996-06-22,3700.0,Cash,Active
+8236,H300235,FLETCHER GAS SERVICES,Plumbing & Heating,10,M8 7NY,2011-08-19,31800.0,Cash,Active
+8249,H300248,O JONES HOMES LTD,Developer,4,CV4 3ZN,2021-07-28,3000.0,Cash,Active
+8258,H300257,Byrne & Hussain & Sons Limited,Plumbing & Heating,2,NG12 3PJ,2018-10-31,18500.0,Cash,Active
+8259,H300258,Hall Landscapes Limited,Landscaping,12,DN9 3YH,2023-09-19,9800.0,Cash,Active
+8267,H300266,Williams Drainage & Son (do not use),Groundworks,8,LS13 6GE,2000-06-18,24300.0,Cash,Active
+8277,H300276,K. Booth Builders Ltd,General Builder,10,M15 7AG,2012-01-22,11800.0,Cash,Active

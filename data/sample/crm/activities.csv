@@ -1,0 +1,3298 @@
+activity_id,crm_account_id,activity_type,activity_date,logged_by_staff_id,notes
+9,ACC-85F10,Call,2025-05-06,1060,spoke to site mgr re delivery
+27,ACC-10D3D,Call,2025-04-28,1214,see email
+31,ACC-21D03,Note,2025-04-23,1319,call back next wk
+47,ACC-A6DAC,Call,2025-04-25,1139,new job starting
+58,ACC-F08BA,Email,2025-06-16,1269,pricing query
+89,ACC-68EF7,Call,2024-09-16,1188,call back next wk
+101,ACC-5BBE7,Call,2024-04-04,1110,left vm
+119,ACC-F8367,Email,2025-05-06,1215,
+140,ACC-FA720,Email,2024-05-30,,
+170,ACC-B79AB,Email,2025-11-21,1244,see email
+175,ACC-F08BA,Visit,2025-09-26,1269,
+180,ACC-BBCE3,Visit,2025-08-06,1033,new job starting
+202,ACC-309CF,Email,2025-11-12,1190,spoke to site mgr re delivery
+204,ACC-DEA72,Visit,2025-05-14,1266,
+207,ACC-F1F43,Email,2024-09-10,1191,call back next wk
+225,ACC-28AB6,Call,2025-04-14,1032,
+241,ACC-4B8B1,Call,2024-10-01,1058,spoke to site mgr re delivery
+248,ACC-7D5F0,Quote follow-up,2025-07-03,1035,new job starting
+249,ACC-7EEC5,Call,2025-03-03,1190,
+281,ACC-6BDAC,Note,2024-11-19,1112,wants better price on blocks
+292,ACC-34CFA,Quote follow-up,2024-06-04,1112,
+305,ACC-BBE83,Email,2024-07-22,1034,chase payment
+319,ACC-CC6AC,Call,2024-05-13,1010,see email
+325,ACC-309CF,Call,2025-11-10,1190,
+339,ACC-79C0F,Call,2024-08-15,1268,chase payment
+346,ACC-93816,Note,2025-03-10,1112,pricing query
+347,ACC-BD4E7,Quote follow-up,2024-08-23,1088,chase payment
+349,ACC-2D597,Quote follow-up,2025-08-07,1036,chase payment
+361,ACC-9107A,Quote follow-up,2024-08-01,1190,pricing query
+368,ACC-1260F,Call,2025-01-21,,
+371,ACC-3A786,Quote follow-up,2025-12-13,1111,chase payment
+374,ACC-322CD,Email,2025-08-02,1111,
+375,ACC-8E49D,Call,2025-03-03,1216,
+377,ACC-B79AB,Call,2024-03-21,1244,wants better price on blocks
+391,ACC-687AE,Call,2024-08-06,1111,see email
+399,ACC-43F51,Note,2025-08-01,1191,pricing query
+403,ACC-C1579,Quote follow-up,2024-08-08,1269,
+407,ACC-6BDAC,Quote follow-up,2024-03-19,1112,spoke to site mgr re delivery
+419,ACC-6C1E6,Email,2025-02-17,1061,chase payment
+441,ACC-F12DB,Call,2024-02-26,1217,wants better price on blocks
+444,ACC-C2844,Email,2024-02-26,1270,chase payment
+449,ACC-DDBF1,Call,2025-03-06,1110,chase payment
+454,ACC-D1906,Call,2024-08-09,1189,call back next wk
+468,ACC-1D174,Call,2025-07-03,1188,spoke to site mgr re delivery
+485,ACC-9510D,Email,2024-06-12,1269,call back next wk
+489,ACC-8ABED,Email,2024-06-27,,pricing query
+493,ACC-71896,Call,2025-07-30,1189,
+497,ACC-CA728,Email,2025-04-09,1216,
+502,ACC-B79AB,Visit,2025-04-21,1244,see email
+507,ACC-AE275,Call,2024-04-29,1032,
+513,ACC-207E8,Call,2024-10-15,1035,chase payment
+525,ACC-88CC9,Visit,2025-08-22,1166,new job starting
+537,ACC-5C221,Email,2024-09-02,1085,new job starting
+542,ACC-9D27D,Quote follow-up,2025-11-07,1088,spoke to site mgr re delivery
+546,ACC-82FE6,Visit,2025-01-07,1060,see email
+553,ACC-EF308,Call,2024-03-05,1110,
+572,ACC-83C57,Visit,2024-07-02,,
+593,ACC-DC518,Call,2024-08-15,1061,
+621,ACC-1D174,Note,2025-02-06,1188,
+627,ACC-43F51,Email,2025-06-05,1191,spoke to site mgr re delivery
+649,ACC-5D8CF,Email,2025-05-20,1113,spoke to site mgr re delivery
+657,ACC-37E5A,Call,2024-09-25,1270,spoke to site mgr re delivery
+660,ACC-5CBAC,Email,2024-03-18,1217,chase payment
+674,ACC-D747F,Note,2025-06-04,1191,
+677,ACC-FF998,Quote follow-up,2024-09-03,1111,spoke to site mgr re delivery
+678,ACC-FAA54,Call,2024-11-08,1321,new job starting
+684,ACC-32B94,Quote follow-up,2024-02-26,1058,call back next wk
+692,ACC-2D597,Email,2024-12-13,1036,new job starting
+697,ACC-88CC9,Quote follow-up,2024-04-24,1166,
+700,ACC-6697D,Visit,2025-06-11,1061,chase payment
+707,ACC-52D05,Call,2024-05-28,1113,call back next wk
+709,ACC-D2813,Note,2024-01-15,1215,
+718,ACC-9A586,Note,2024-08-28,1192,spoke to site mgr re delivery
+723,ACC-C574E,Email,2025-06-20,1241,spoke to site mgr re delivery
+742,ACC-D1906,Email,2025-03-28,1189,see email
+757,ACC-1C054,Call,2024-07-29,1268,left vm
+760,ACC-F58D5,Call,2025-05-30,,
+761,ACC-D436D,Email,2024-03-14,1058,see email
+763,ACC-EF061,Visit,2025-12-23,1110,spoke to site mgr re delivery
+767,ACC-F04A0,Call,2025-10-15,1032,
+770,ACC-A1316,Email,2024-06-27,1214,new job starting
+779,ACC-85803,Quote follow-up,2024-02-21,1059,
+780,ACC-22C42,Call,2025-07-04,1035,
+785,ACC-FA4AD,Call,2025-04-21,1058,wants better price on blocks
+787,ACC-608BF,Call,2025-02-04,1267,chase payment
+792,ACC-E7A41,Note,2024-05-20,1215,new job starting
+793,ACC-73B06,Visit,2024-09-21,1036,chase payment
+798,ACC-F12DB,Email,2025-07-10,1217,
+804,ACC-98F74,Visit,2025-10-06,1216,wants better price on blocks
+824,ACC-F3FA8,Call,2025-03-06,1060,call back next wk
+825,ACC-3369B,Email,2025-11-19,1244,spoke to site mgr re delivery
+831,ACC-5CBBA,Note,2024-11-08,1188,wants better price on blocks
+835,ACC-9510D,Call,2025-10-14,1269,chase payment
+837,ACC-2ADF1,Note,2025-06-02,1032,wants better price on blocks
+848,ACC-B7F9D,Visit,2024-05-21,1034,call back next wk
+849,ACC-67628,Email,2025-07-15,1113,pricing query
+864,ACC-5B919,Call,2025-03-07,1035,spoke to site mgr re delivery
+873,ACC-B82BB,Call,2024-05-22,1293,
+878,ACC-9F1F2,Note,2025-05-27,1216,call back next wk
+883,ACC-92E90,Email,2024-05-13,1059,
+884,ACC-594BC,Visit,2024-03-22,1061,chase payment
+887,ACC-E9F36,Call,2025-05-23,1321,wants better price on blocks
+892,ACC-CA728,Email,2025-05-29,1216,
+894,ACC-5D62A,Email,2024-04-30,1188,chase payment
+895,ACC-E17DC,Visit,2024-02-09,1215,chase payment
+905,ACC-45834,Call,2025-05-16,,
+925,ACC-964BC,Email,2024-08-09,,left vm
+928,ACC-DF34D,Call,2025-02-14,1166,new job starting
+936,ACC-52F54,Email,2025-06-13,1036,left vm
+949,ACC-A5F0A,Email,2025-08-29,,spoke to site mgr re delivery
+952,ACC-AE275,Call,2024-08-06,1032,new job starting
+966,ACC-73B2F,Call,2025-08-18,1215,call back next wk
+974,ACC-6C701,Email,2024-10-24,1087,
+978,ACC-E17DC,Email,2024-07-08,1215,pricing query
+991,ACC-B34D9,Call,2024-05-10,1244,wants better price on blocks
+994,ACC-52B75,Call,2025-05-07,1010,
+995,ACC-A520C,Note,2024-06-17,1268,left vm
+1011,ACC-8AD0C,Note,2024-10-29,1216,new job starting
+1038,ACC-A526F,Call,2024-06-26,1192,call back next wk
+1057,ACC-E8369,Call,2024-03-07,1088,pricing query
+1065,ACC-A28C5,Quote follow-up,2025-09-08,1036,left vm
+1072,ACC-75AD1,Email,2024-08-30,1190,left vm
+1081,ACC-F5F6B,Email,2025-07-14,1060,spoke to site mgr re delivery
+1099,ACC-AB8F0,Email,2024-03-12,,pricing query
+1105,ACC-952CF,Call,2024-06-29,1188,see email
+1122,ACC-53B54,Call,2024-03-05,1188,wants better price on blocks
+1129,ACC-66796,Visit,2024-09-24,1087,pricing query
+1142,ACC-C3783,Call,2025-10-28,1215,wants better price on blocks
+1144,ACC-E3A95,Call,2024-05-06,1190,pricing query
+1147,ACC-C304F,Call,2025-05-13,1110,spoke to site mgr re delivery
+1166,ACC-76765,Call,2024-09-27,1033,pricing query
+1204,ACC-48D7F,Email,2024-08-16,1266,new job starting
+1227,ACC-594BC,Call,2025-07-01,1061,see email
+1237,ACC-EA636,Call,2025-04-21,1088,
+1250,ACC-7733B,Email,2025-09-03,1266,left vm
+1252,ACC-1DAB1,Call,2025-10-08,,chase payment
+1260,ACC-E0CA5,Email,2024-08-06,1188,left vm
+1281,ACC-8E49D,Note,2024-01-31,1216,left vm
+1290,ACC-57441,Call,2025-10-01,1216,pricing query
+1295,ACC-9276F,Email,2025-05-26,1166,spoke to site mgr re delivery
+1298,ACC-7CA7B,Visit,2025-07-26,1061,new job starting
+1300,ACC-39E73,Visit,2024-02-20,1190,left vm
+1324,ACC-F371B,Visit,2025-03-25,1188,left vm
+1332,ACC-5012F,Call,2025-10-23,,see email
+1338,ACC-E15A2,Quote follow-up,2024-07-31,1136,spoke to site mgr re delivery
+1357,ACC-AF43E,Call,2024-03-23,1035,see email
+1369,ACC-FA4AD,Email,2024-03-07,1058,left vm
+1372,ACC-9C9DA,Call,2024-11-26,1035,see email
+1383,ACC-D8C65,Email,2025-07-24,1061,
+1385,ACC-675B6,Email,2024-04-03,1036,pricing query
+1391,ACC-AC62E,Email,2024-08-09,1088,new job starting
+1393,ACC-5409E,Call,2024-12-19,1166,wants better price on blocks
+1431,ACC-80080,Email,2024-10-24,1059,new job starting
+1443,ACC-7394E,Quote follow-up,2024-01-23,1216,see email
+1460,ACC-B82BB,Email,2024-09-02,1293,new job starting
+1467,ACC-A1316,Visit,2025-11-22,1214,spoke to site mgr re delivery
+1469,ACC-2450E,Call,2024-04-08,1032,see email
+1472,ACC-EDBFC,Visit,2024-09-21,1295,wants better price on blocks
+1479,ACC-CC044,Note,2024-05-30,1190,pricing query
+1480,ACC-DEEE0,Email,2025-10-21,1034,call back next wk
+1498,ACC-E3321,Email,2025-10-30,1110,new job starting
+1502,ACC-2D597,Call,2024-01-11,1036,left vm
+1503,ACC-6B8A9,Call,2024-08-21,1189,new job starting
+1507,ACC-7D1F4,Note,2025-02-13,1268,left vm
+1508,ACC-22C42,Email,2025-10-20,1035,left vm
+1518,ACC-22D19,Call,2024-11-25,1268,spoke to site mgr re delivery
+1535,ACC-1141B,Quote follow-up,2025-08-21,1268,
+1544,ACC-CB593,Call,2025-08-12,1189,new job starting
+1555,ACC-2B45D,Call,2025-05-09,1059,call back next wk
+1557,ACC-C700B,Quote follow-up,2024-10-08,1190,left vm
+1570,ACC-115D0,Call,2025-07-24,1062,chase payment
+1575,ACC-3D72A,Email,2024-06-10,1085,pricing query
+1582,ACC-B944F,Call,2024-06-14,1111,spoke to site mgr re delivery
+1584,ACC-6B8A9,Email,2025-04-02,1189,spoke to site mgr re delivery
+1601,ACC-10840,Quote follow-up,2025-03-13,1267,pricing query
+1603,ACC-486EB,Call,2024-10-29,1192,
+1626,ACC-61EA9,Call,2024-04-09,1216,new job starting
+1637,ACC-EF05C,Call,2024-06-10,1191,chase payment
+1638,ACC-EED7C,Quote follow-up,2024-03-07,1111,spoke to site mgr re delivery
+1643,ACC-5D8CF,Email,2025-09-30,1113,pricing query
+1655,ACC-6819E,Quote follow-up,2024-11-19,1321,spoke to site mgr re delivery
+1666,ACC-9C2FE,Quote follow-up,2024-10-29,1137,wants better price on blocks
+1679,ACC-78DDF,Call,2025-06-12,1191,chase payment
+1683,ACC-43DE1,Email,2025-04-29,1268,
+1685,ACC-8E49D,Call,2025-07-14,1216,
+1687,ACC-964BC,Call,2024-09-03,,wants better price on blocks
+1688,ACC-23F70,Call,2025-05-07,1192,call back next wk
+1689,ACC-37FC2,Call,2025-09-20,1032,wants better price on blocks
+1716,ACC-28AB6,Quote follow-up,2025-04-04,1032,chase payment
+1725,ACC-AC62E,Quote follow-up,2024-07-10,1088,
+1762,ACC-5C08C,Call,2024-04-10,1086,chase payment
+1766,ACC-54D3A,Call,2025-04-07,,
+1768,ACC-C9CEF,Visit,2024-05-17,1296,call back next wk
+1774,ACC-EDC2B,Email,2024-10-14,1268,pricing query
+1777,ACC-98F74,Call,2025-06-11,1216,wants better price on blocks
+1810,ACC-76765,Call,2025-04-30,1033,wants better price on blocks
+1829,ACC-C4AF3,Email,2024-10-07,1189,call back next wk
+1848,ACC-5722E,Visit,2024-04-15,1088,
+1853,ACC-FF998,Call,2024-11-21,1111,
+1860,ACC-549D9,Visit,2025-09-09,1032,chase payment
+1864,ACC-3EC6B,Email,2025-03-07,1110,left vm
+1925,ACC-84A22,Call,2024-05-09,1032,chase payment
+1933,ACC-CB593,Call,2024-01-03,1189,spoke to site mgr re delivery
+1944,ACC-527BF,Call,2025-02-10,1111,
+1952,ACC-241B6,Call,2025-10-31,1163,left vm
+1957,ACC-A0AC5,Call,2024-12-20,1188,pricing query
+1962,ACC-6B458,Quote follow-up,2025-10-22,1243,chase payment
+1970,ACC-63EA0,Email,2025-05-22,1216,spoke to site mgr re delivery
+1975,ACC-B77CE,Email,2024-12-17,1243,new job starting
+1981,ACC-FD786,Email,2024-10-24,1191,chase payment
+1989,ACC-F8367,Call,2024-04-27,1215,wants better price on blocks
+2008,ACC-12A06,Call,2025-07-14,1189,chase payment
+2020,ACC-12162,Call,2024-08-30,1192,see email
+2031,ACC-41B9D,Call,2024-03-05,1215,
+2036,ACC-37FC2,Email,2025-06-10,1032,left vm
+2041,ACC-82FE6,Call,2025-05-26,1060,pricing query
+2047,ACC-FDAFA,Visit,2024-10-09,1216,call back next wk
+2050,ACC-F5F6B,Email,2025-08-18,1060,
+2073,ACC-7CA7D,Email,2024-09-23,1242,call back next wk
+2077,ACC-9276F,Email,2024-12-11,1166,
+2086,ACC-34984,Note,2025-06-30,1214,wants better price on blocks
+2093,ACC-65695,Quote follow-up,2024-09-21,1088,new job starting
+2102,ACC-6C660,Call,2025-04-16,1192,new job starting
+2119,ACC-C1579,Email,2025-04-08,1269,spoke to site mgr re delivery
+2137,ACC-F9B68,Call,2024-07-02,1192,call back next wk
+2150,ACC-12162,Call,2025-01-24,1192,wants better price on blocks
+2176,ACC-391D6,Call,2024-09-10,1188,
+2177,ACC-B8964,Quote follow-up,2025-08-21,1058,
+2182,ACC-E0CA5,Call,2024-10-31,1188,spoke to site mgr re delivery
+2186,ACC-76765,Email,2024-09-02,1033,see email
+2197,ACC-951B6,Quote follow-up,2025-03-17,1242,pricing query
+2209,ACC-7300F,Email,2025-12-12,1033,wants better price on blocks
+2222,ACC-48D7F,Note,2024-10-17,1266,spoke to site mgr re delivery
+2241,ACC-322CD,Call,2025-11-06,1111,left vm
+2262,ACC-FA720,Quote follow-up,2025-07-22,,wants better price on blocks
+2264,ACC-2450E,Email,2024-10-30,1032,chase payment
+2277,ACC-ABD7F,Note,2024-06-13,1190,chase payment
+2279,ACC-34CFA,Note,2025-07-21,1112,pricing query
+2281,ACC-C4AF3,Email,2025-09-05,1189,new job starting
+2303,ACC-A957A,Visit,2025-04-04,1190,
+2325,ACC-F339C,Note,2025-02-01,1033,pricing query
+2330,ACC-A86EF,Call,2024-12-11,1088,new job starting
+2349,ACC-63EA0,Call,2025-01-21,1216,wants better price on blocks
+2358,ACC-D747F,Call,2024-10-14,1191,left vm
+2359,ACC-7D18E,Call,2025-03-26,1192,left vm
+2368,ACC-9C94F,Call,2024-12-23,1318,chase payment
+2376,ACC-FB53A,Visit,2025-03-03,1268,
+2382,ACC-57441,Visit,2025-09-04,1216,see email
+2387,ACC-FA3EE,Visit,2024-09-10,1321,see email
+2388,ACC-B977E,Call,2025-12-18,1035,chase payment
+2389,ACC-6EDBC,Call,2024-06-07,1267,pricing query
+2414,ACC-6F889,Email,2024-03-18,1010,wants better price on blocks
+2416,ACC-EDC2B,Note,2025-11-25,1268,
+2422,ACC-45D16,Email,2025-04-01,1191,spoke to site mgr re delivery
+2424,ACC-4F4E0,Visit,2024-01-16,1191,call back next wk
+2430,ACC-6AD59,Email,2024-05-30,1010,call back next wk
+2437,ACC-41180,Visit,2025-10-15,1244,wants better price on blocks
+2445,ACC-ABD7F,Visit,2024-11-29,1190,left vm
+2447,ACC-ABBAD,Call,2025-04-15,1060,
+2492,ACC-B977E,Visit,2025-04-01,1035,wants better price on blocks
+2500,ACC-EED7C,Call,2025-10-15,1111,call back next wk
+2521,ACC-A78FB,Email,2024-08-29,1215,
+2536,ACC-EED28,Call,2024-03-07,1192,wants better price on blocks
+2570,ACC-47FE1,Call,2025-10-16,1111,chase payment
+2581,ACC-422B9,Email,2025-09-11,1268,pricing query
+2604,ACC-B8964,Quote follow-up,2025-12-12,1058,pricing query
+2614,ACC-675B6,Email,2024-11-25,1036,chase payment
+2659,ACC-322CD,Call,2024-08-06,1111,call back next wk
+2662,ACC-9CA50,Call,2025-02-17,1010,left vm
+2711,ACC-13AF1,Email,2025-09-17,1293,call back next wk
+2713,ACC-FE2F3,Call,2025-04-14,1166,wants better price on blocks
+2742,ACC-E33D4,Visit,2025-06-10,1188,see email
+2743,ACC-35201,Email,2024-09-09,1164,wants better price on blocks
+2763,ACC-5BBE7,Note,2025-12-19,1110,left vm
+2767,ACC-A957A,Quote follow-up,2025-04-28,1190,left vm
+2771,ACC-9107A,Quote follow-up,2024-09-18,1190,spoke to site mgr re delivery
+2781,ACC-61EA9,Call,2025-08-23,1216,spoke to site mgr re delivery
+2789,ACC-EA967,Quote follow-up,2024-04-22,1240,wants better price on blocks
+2793,ACC-71896,Call,2024-07-29,1189,call back next wk
+2799,ACC-61D13,Email,2025-03-20,1112,
+2802,ACC-BE9D6,Email,2024-07-20,1058,
+2803,ACC-D664E,Call,2024-03-13,1112,
+2811,ACC-9BAE4,Call,2025-06-17,1241,left vm
+2823,ACC-EE325,Call,2025-08-14,1034,pricing query
+2829,ACC-A1316,Visit,2025-12-17,1214,pricing query
+2832,ACC-E3A95,Call,2025-05-06,1190,chase payment
+2833,ACC-7E075,Call,2024-12-19,,new job starting
+2842,ACC-C304F,Note,2024-04-26,1110,call back next wk
+2857,ACC-B7F9D,Email,2025-08-11,1034,pricing query
+2862,ACC-DC518,Visit,2024-04-11,1061,spoke to site mgr re delivery
+2868,ACC-1741F,Call,2025-05-30,1217,pricing query
+2869,ACC-1A101,Call,2025-10-08,1085,
+2870,ACC-CB949,Email,2024-08-23,1268,pricing query
+2871,ACC-9B571,Call,2024-08-05,1244,left vm
+2872,ACC-A78BB,Email,2024-04-04,1244,chase payment
+2873,ACC-34984,Quote follow-up,2024-01-17,1214,wants better price on blocks
+2874,ACC-51540,Call,2025-02-27,1244,see email
+2875,ACC-17297,Visit,2024-09-06,1140,left vm
+2877,ACC-93816,Visit,2025-06-09,1112,new job starting
+2878,ACC-E7A41,Email,2025-07-31,1215,
+2879,ACC-93F2F,Email,2024-08-26,1110,left vm
+2884,ACC-B8964,Quote follow-up,2024-10-31,1058,chase payment
+2890,ACC-59A6E,Call,2025-07-14,1111,chase payment
+2892,ACC-1741F,Visit,2024-07-25,1217,left vm
+2933,ACC-CD57A,Quote follow-up,2024-10-18,1035,call back next wk
+2934,ACC-5BBE7,Quote follow-up,2024-11-04,1110,new job starting
+2975,ACC-E0710,Quote follow-up,2024-05-17,1112,see email
+2990,ACC-AB9E3,Email,2024-09-20,1163,pricing query
+2995,ACC-E3321,Call,2025-12-29,1110,left vm
+2997,ACC-ABBAD,Note,2024-02-14,1060,new job starting
+2998,ACC-88CC9,Call,2025-05-20,1166,
+3012,ACC-CFD9F,Email,2024-01-17,1319,pricing query
+3013,ACC-B34D9,Email,2025-06-12,1244,wants better price on blocks
+3014,ACC-594BC,Quote follow-up,2024-02-22,1061,pricing query
+3016,ACC-9276F,Call,2024-11-12,1166,spoke to site mgr re delivery
+3024,ACC-CDE0A,Quote follow-up,2025-11-13,1192,chase payment
+3026,ACC-85803,Note,2024-10-31,1059,
+3035,ACC-9C9DA,Email,2025-10-13,1035,pricing query
+3042,ACC-E3B0E,Call,2025-04-17,1166,new job starting
+3051,ACC-82B6D,Note,2025-10-15,1061,
+3066,ACC-20FEB,Call,2024-10-21,1086,left vm
+3070,ACC-BC9EF,Call,2024-07-01,1216,
+3080,ACC-608BF,Email,2024-06-08,1267,
+3114,ACC-7394E,Email,2024-07-31,1216,left vm
+3123,ACC-81A33,Call,2025-12-30,1217,pricing query
+3126,ACC-AE275,Call,2025-04-10,1032,
+3134,ACC-6EDBC,Call,2025-05-10,1267,call back next wk
+3135,ACC-ADDD0,Call,2025-11-27,1215,left vm
+3169,ACC-E47E6,Quote follow-up,2024-05-02,1215,new job starting
+3173,ACC-95E97,Call,2025-03-19,1058,chase payment
+3176,ACC-6BDAC,Visit,2024-07-23,1112,see email
+3179,ACC-D3D12,Email,2024-03-05,1036,call back next wk
+3180,ACC-CC6AC,Email,2025-07-28,1010,call back next wk
+3186,ACC-5C852,Email,2024-12-27,1060,new job starting
+3215,ACC-A78BB,Visit,2024-06-12,1244,
+3216,ACC-C7419,Call,2024-08-26,1217,
+3217,ACC-59A6E,Call,2024-04-06,1111,left vm
+3231,ACC-8DA74,Email,2024-08-21,1216,wants better price on blocks
+3238,ACC-A520C,Call,2025-07-24,1268,chase payment
+3241,ACC-2ADF1,Email,2024-07-03,1032,see email
+3245,ACC-BE9D6,Email,2025-07-11,1058,wants better price on blocks
+3257,ACC-549D9,Call,2024-04-19,1032,pricing query
+3278,ACC-EAA9B,Call,2025-11-21,1162,
+3279,ACC-DF34D,Note,2025-12-31,1166,
+3283,ACC-15011,Call,2024-07-23,1166,spoke to site mgr re delivery
+3286,ACC-3EC9D,Call,2025-10-21,1321,call back next wk
+3294,ACC-1FC7D,Quote follow-up,2024-03-01,1269,left vm
+3297,ACC-95E97,Visit,2025-04-18,1058,call back next wk
+3304,ACC-F8367,Visit,2024-11-09,1215,call back next wk
+3317,ACC-22C42,Call,2024-03-30,1035,call back next wk
+3329,ACC-2450E,Call,2024-02-29,1032,new job starting
+3332,ACC-26556,Email,2025-05-19,1061,
+3349,ACC-BD4E7,Call,2024-05-30,1088,
+3354,ACC-7EB0A,Email,2024-10-14,,new job starting
+3360,ACC-151A8,Call,2025-10-06,1113,see email
+3362,ACC-F04A0,Note,2024-02-14,1032,
+3366,ACC-BE9D6,Visit,2024-10-26,1058,wants better price on blocks
+3367,ACC-3A523,Call,2024-10-19,1033,chase payment
+3404,ACC-FDAFA,Email,2024-07-01,1216,
+3423,ACC-C3BE2,Email,2024-06-18,1269,see email
+3451,ACC-8A208,Call,2025-02-14,1217,spoke to site mgr re delivery
+3458,ACC-9C7AF,Email,2025-07-22,1137,call back next wk
+3465,ACC-3DAF1,Visit,2024-04-03,1214,see email
+3479,ACC-5E9BF,Visit,2025-04-23,1188,wants better price on blocks
+3490,ACC-39E73,Quote follow-up,2024-05-17,1190,call back next wk
+3491,ACC-26556,Call,2025-08-29,1061,
+3500,ACC-AB0F3,Call,2025-12-18,1269,
+3503,ACC-B8F2B,Visit,2024-09-12,1188,wants better price on blocks
+3507,ACC-6B8A9,Call,2024-06-05,1189,
+3509,ACC-BA634,Visit,2025-02-11,1086,spoke to site mgr re delivery
+3513,ACC-4665F,Call,2025-02-17,1166,chase payment
+3528,ACC-7BC80,Quote follow-up,2025-05-10,1190,
+3534,ACC-CC044,Note,2025-01-31,1190,new job starting
+3545,ACC-CB593,Note,2025-02-10,1189,call back next wk
+3559,ACC-4665F,Email,2025-06-20,1166,see email
+3562,ACC-36D50,Email,2025-03-24,1294,new job starting
+3563,ACC-515EB,Call,2025-10-08,1034,spoke to site mgr re delivery
+3565,ACC-F171C,Call,2025-03-04,1113,call back next wk
+3570,ACC-F7A61,Email,2024-07-23,1032,wants better price on blocks
+3578,ACC-23F70,Email,2025-05-07,1192,new job starting
+3589,ACC-8C54B,Call,2025-06-20,1033,see email
+3597,ACC-E3A95,Email,2025-04-03,1190,left vm
+3613,ACC-4F181,Call,2024-09-12,1191,
+3615,ACC-5E9BF,Visit,2025-11-07,1188,
+3616,ACC-E9C0C,Email,2024-06-21,1268,see email
+3651,ACC-1E351,Call,2025-09-26,1060,see email
+3665,ACC-F4276,Note,2024-03-18,1111,
+3667,ACC-C4AF3,Email,2025-06-09,1189,chase payment
+3671,ACC-93816,Call,2024-05-06,1112,pricing query
+3674,ACC-3569A,Email,2025-03-24,1033,spoke to site mgr re delivery
+3685,ACC-1AFE2,Call,2024-04-17,1214,pricing query
+3710,ACC-1FC7D,Call,2025-01-03,1269,left vm
+3722,ACC-D81CA,Call,2025-12-19,1032,chase payment
+3733,ACC-93816,Email,2024-11-21,1112,pricing query
+3744,ACC-A0AF4,Note,2025-11-18,1166,chase payment
+3746,ACC-391D6,Call,2025-12-18,1188,
+3752,ACC-7B0E9,Call,2024-12-04,1214,wants better price on blocks
+3760,ACC-5B381,Call,2024-08-13,1318,pricing query
+3770,ACC-C304F,Email,2025-09-26,1110,wants better price on blocks
+3797,ACC-486EB,Email,2025-01-31,1192,
+3837,ACC-FF998,Call,2025-08-29,1111,call back next wk
+3838,ACC-1D9D3,Call,2025-05-28,1034,see email
+3843,ACC-831F1,Call,2024-01-19,1191,
+3867,ACC-1FC0D,Email,2025-03-08,1060,call back next wk
+3875,ACC-461C5,Visit,2025-09-12,1139,spoke to site mgr re delivery
+3876,ACC-79C0F,Email,2025-08-25,1268,call back next wk
+3886,ACC-D664E,Call,2024-04-09,1112,see email
+3891,ACC-73E8C,Quote follow-up,2025-09-08,1244,new job starting
+3894,ACC-32B94,Email,2025-04-14,1058,chase payment
+3895,ACC-EE57E,Visit,2025-04-28,1084,pricing query
+3905,ACC-3A2D5,Quote follow-up,2024-06-26,,see email
+3930,ACC-28376,Note,2024-04-01,1087,spoke to site mgr re delivery
+3934,ACC-8E9D9,Visit,2024-05-22,1188,
+3941,ACC-A954E,Note,2025-11-26,1060,spoke to site mgr re delivery
+3945,ACC-1741F,Note,2025-01-18,1217,chase payment
+3948,ACC-ABBAD,Email,2025-10-15,1060,new job starting
+3953,ACC-AE751,Note,2024-03-06,1190,chase payment
+3967,ACC-5CBBA,Call,2024-11-21,1188,call back next wk
+3979,ACC-D4326,Call,2024-10-03,1214,pricing query
+3982,ACC-75AD1,Email,2025-05-07,1190,wants better price on blocks
+3992,ACC-A4C63,Call,2025-10-06,1138,left vm
+4011,ACC-7EEC5,Call,2025-11-19,1190,see email
+4017,ACC-AF43E,Call,2025-07-14,1035,wants better price on blocks
+4024,ACC-15F58,Note,2024-05-22,1088,left vm
+4029,ACC-515EB,Call,2024-01-10,1034,new job starting
+4030,ACC-DF58C,Email,2024-09-02,1242,wants better price on blocks
+4043,ACC-89471,Email,2024-04-03,1110,
+4048,ACC-22C42,Call,2024-11-28,1035,spoke to site mgr re delivery
+4054,ACC-89471,Email,2024-06-07,1110,pricing query
+4059,ACC-B4EFD,Quote follow-up,2024-06-12,1166,chase payment
+4075,ACC-73497,Call,2025-01-10,1293,pricing query
+4083,ACC-EDC2B,Quote follow-up,2024-05-22,1268,see email
+4089,ACC-F7334,Call,2024-10-31,1266,see email
+4100,ACC-BE1BA,Email,2024-10-16,1215,spoke to site mgr re delivery
+4118,ACC-BBCE3,Email,2024-09-24,1033,pricing query
+4129,ACC-6D2B1,Call,2025-08-26,1269,spoke to site mgr re delivery
+4138,ACC-C70CE,Call,2025-11-05,1060,pricing query
+4156,ACC-43DE1,Email,2024-07-29,1268,pricing query
+4157,ACC-66F86,Email,2025-02-22,1034,call back next wk
+4168,ACC-AE751,Email,2024-12-11,1190,pricing query
+4169,ACC-AF6E8,Visit,2024-11-20,1084,
+4170,ACC-9C08D,Email,2025-03-18,1216,pricing query
+4196,ACC-B944F,Note,2025-09-04,1111,wants better price on blocks
+4202,ACC-3AC58,Call,2025-07-07,1191,
+4217,ACC-132C7,Call,2024-10-19,1036,new job starting
+4219,ACC-5AD6E,Call,2024-04-04,1111,pricing query
+4224,ACC-BFED8,Call,2025-09-19,1191,
+4226,ACC-BBE83,Call,2024-04-10,1034,left vm
+4234,ACC-8E9D9,Call,2025-02-26,1188,
+4245,ACC-FC08E,Call,2025-10-01,1088,
+4246,ACC-A78BB,Visit,2024-09-19,1244,new job starting
+4250,ACC-89471,Email,2024-08-01,1110,
+4251,ACC-9A586,Call,2025-07-15,1192,chase payment
+4256,ACC-AE751,Call,2024-02-23,1190,see email
+4257,ACC-E17DC,Email,2025-07-30,1215,wants better price on blocks
+4269,ACC-7D18E,Email,2024-08-13,1192,pricing query
+4291,ACC-2C27C,Email,2024-11-14,1166,left vm
+4304,ACC-E8369,Email,2025-09-16,1088,wants better price on blocks
+4331,ACC-2C910,Quote follow-up,2024-07-22,1061,
+4360,ACC-66CF7,Quote follow-up,2025-02-20,1137,left vm
+4380,ACC-A901E,Call,2025-02-04,1217,
+4395,ACC-59F8A,Email,2024-10-16,1088,call back next wk
+4406,ACC-A289D,Call,2025-04-22,1269,
+4410,ACC-6C416,Call,2024-12-16,1140,see email
+4425,ACC-93F2F,Visit,2024-01-03,1110,pricing query
+4435,ACC-9D5EA,Call,2025-10-06,1217,call back next wk
+4443,ACC-E2502,Note,2025-09-16,,
+4444,ACC-151A8,Call,2025-02-25,1113,
+4469,ACC-C70CE,Call,2025-05-02,1060,wants better price on blocks
+4494,ACC-F2D27,Call,2025-11-13,1059,left vm
+4509,ACC-B34D9,Call,2025-04-11,1244,pricing query
+4530,ACC-D436D,Visit,2024-04-03,1058,pricing query
+4540,ACC-5B919,Call,2024-07-20,1035,see email
+4541,ACC-F3615,Email,2024-06-28,1088,call back next wk
+4552,ACC-4E6DE,Call,2025-09-08,1190,see email
+4575,ACC-AB5FB,Email,2024-12-24,1058,spoke to site mgr re delivery
+4582,ACC-72837,Email,2024-12-31,1058,left vm
+4614,ACC-207E8,Email,2024-12-02,1035,call back next wk
+4619,ACC-67628,Note,2024-10-14,1113,spoke to site mgr re delivery
+4628,ACC-E8369,Visit,2024-01-16,1088,spoke to site mgr re delivery
+4633,ACC-52D05,Email,2025-09-10,1113,spoke to site mgr re delivery
+4644,ACC-ABD7F,Email,2024-08-22,1190,
+4646,ACC-418D4,Call,2025-09-04,1243,spoke to site mgr re delivery
+4653,ACC-BFED8,Note,2024-10-01,1191,call back next wk
+4663,ACC-FF998,Call,2025-10-31,1111,chase payment
+4671,ACC-CB949,Call,2024-05-03,1268,
+4683,ACC-A1F8D,Quote follow-up,2024-11-13,1032,see email
+4695,ACC-77C08,Call,2024-01-05,1190,chase payment
+4710,ACC-D107D,Visit,2024-05-02,1188,pricing query
+4718,ACC-D80AF,Note,2024-06-03,1191,see email
+4720,ACC-59A6E,Email,2025-04-15,1111,
+4744,ACC-79D06,Visit,2025-10-04,1243,see email
+4791,ACC-FC08E,Call,2025-05-01,1088,pricing query
+4804,ACC-BD4E7,Visit,2025-05-02,1088,
+4807,ACC-36D50,Note,2025-06-30,1294,spoke to site mgr re delivery
+4813,ACC-35EF2,Call,2025-09-19,1266,wants better price on blocks
+4830,ACC-1D174,Note,2024-04-24,1188,chase payment
+4831,ACC-CB89D,Call,2024-01-20,1268,left vm
+4840,ACC-687AE,Email,2024-09-05,1111,chase payment
+4842,ACC-A28C5,Call,2025-11-13,1036,chase payment
+4846,ACC-7BC80,Call,2024-04-04,1190,pricing query
+4870,ACC-F443B,Email,2025-05-12,1060,call back next wk
+4882,ACC-4F4E0,Email,2025-09-05,1191,call back next wk
+4888,ACC-2F527,Note,2024-03-15,1295,see email
+4892,ACC-B37FA,Email,2024-07-27,1240,see email
+4905,ACC-E7212,Visit,2024-11-25,1190,see email
+4908,ACC-E8369,Call,2025-01-25,1088,see email
+4927,ACC-34CFA,Email,2024-06-15,1112,see email
+4930,ACC-353F5,Email,2024-05-28,1268,see email
+4980,ACC-EA636,Note,2025-05-10,1088,chase payment
+4982,ACC-51651,Email,2024-05-07,1244,
+5016,ACC-9195B,Quote follow-up,2024-01-30,1190,
+5032,ACC-1FC7D,Call,2024-02-05,1269,left vm
+5050,ACC-4B319,Email,2024-08-26,1269,pricing query
+5059,ACC-F339C,Email,2025-04-09,1033,left vm
+5066,ACC-7CA7B,Note,2025-02-20,1061,spoke to site mgr re delivery
+5077,ACC-ADDD0,Call,2025-04-03,1215,chase payment
+5081,ACC-BBEBC,Email,2025-10-27,1216,pricing query
+5083,ACC-6479B,Call,2024-05-22,1112,call back next wk
+5090,ACC-3DAF1,Email,2025-04-14,1214,spoke to site mgr re delivery
+5092,ACC-7E3C6,Call,2025-09-19,1060,left vm
+5096,ACC-9510D,Visit,2024-10-28,1269,spoke to site mgr re delivery
+5098,ACC-2C910,Quote follow-up,2025-03-17,1061,see email
+5116,ACC-BCE08,Visit,2024-02-29,,
+5118,ACC-5FD53,Note,2025-07-07,1270,pricing query
+5122,ACC-A0AC5,Note,2025-08-22,1188,chase payment
+5127,ACC-644CF,Email,2025-05-02,1032,pricing query
+5131,ACC-59A6E,Call,2025-02-08,1111,pricing query
+5169,ACC-53B54,Quote follow-up,2025-02-28,1188,pricing query
+5197,ACC-A78FB,Call,2024-04-23,1215,spoke to site mgr re delivery
+5200,ACC-5404A,Note,2024-05-15,1010,
+5228,ACC-B5048,Call,2024-11-05,1110,
+5234,ACC-B6FCB,Email,2025-12-22,1138,new job starting
+5246,ACC-A954E,Email,2024-08-28,1060,pricing query
+5257,ACC-6956F,Call,2024-10-11,1036,
+5268,ACC-68EF7,Call,2025-08-18,1188,see email
+5275,ACC-CC044,Call,2025-12-09,1190,
+5309,ACC-6956F,Quote follow-up,2024-05-13,1036,spoke to site mgr re delivery
+5318,ACC-6956F,Quote follow-up,2025-05-31,1036,spoke to site mgr re delivery
+5339,ACC-A1316,Visit,2024-05-01,1214,see email
+5340,ACC-8E731,Call,2024-11-26,,spoke to site mgr re delivery
+5362,ACC-CC6AC,Call,2025-04-29,1010,pricing query
+5379,ACC-244E5,Email,2024-04-22,1112,
+5380,ACC-E620D,Call,2025-06-19,1191,chase payment
+5407,ACC-F339C,Visit,2025-08-09,1033,chase payment
+5421,ACC-EC81F,Email,2025-08-01,1191,call back next wk
+5430,ACC-95E97,Call,2024-08-16,1058,pricing query
+5440,ACC-A6160,Email,2025-10-27,1242,
+5458,ACC-98F74,Call,2024-08-12,1216,wants better price on blocks
+5485,ACC-FE2F3,Note,2024-01-15,1166,call back next wk
+5498,ACC-DDB21,Email,2024-03-04,1061,
+5509,ACC-6EDBC,Quote follow-up,2025-11-01,1267,pricing query
+5520,ACC-B7F9D,Email,2025-11-12,1034,
+5521,ACC-ABBAD,Quote follow-up,2024-05-08,1060,new job starting
+5526,ACC-7E3C6,Email,2024-07-31,1060,call back next wk
+5528,ACC-B944F,Quote follow-up,2024-09-11,1111,
+5536,ACC-95E97,Email,2024-06-27,1058,
+5538,ACC-68EF7,Quote follow-up,2025-05-05,1188,call back next wk
+5539,ACC-EE325,Quote follow-up,2025-06-26,1034,pricing query
+5548,ACC-CDE0A,Call,2025-08-12,1192,spoke to site mgr re delivery
+5568,ACC-CA728,Note,2025-10-02,1216,new job starting
+5584,ACC-682AA,Call,2025-09-30,1266,call back next wk
+5604,ACC-23F70,Call,2024-05-24,1192,wants better price on blocks
+5608,ACC-43DE1,Note,2024-11-06,1268,see email
+5610,ACC-244E5,Visit,2024-08-31,1112,
+5611,ACC-63EA0,Visit,2024-05-23,1216,see email
+5612,ACC-AE275,Call,2024-02-01,1032,new job starting
+5620,ACC-42AEC,Visit,2025-04-16,1034,call back next wk
+5624,ACC-C3BE2,Quote follow-up,2025-03-18,1269,see email
+5645,ACC-28AB6,Email,2024-05-09,1032,chase payment
+5651,ACC-1D174,Email,2025-08-18,1188,left vm
+5663,ACC-9107A,Call,2025-08-09,1190,left vm
+5674,ACC-6AD59,Email,2025-01-14,1010,wants better price on blocks
+5675,ACC-4F4E0,Call,2024-03-28,1191,chase payment
+5677,ACC-D664E,Call,2024-07-02,1112,new job starting
+5683,ACC-8DA74,Email,2024-09-04,1216,wants better price on blocks
+5701,ACC-608BF,Email,2024-09-10,1267,left vm
+5703,ACC-89471,Call,2024-01-04,1110,pricing query
+5705,ACC-DF58C,Visit,2025-03-24,1242,pricing query
+5706,ACC-D8C65,Email,2025-09-03,1061,new job starting
+5707,ACC-3EC6B,Visit,2024-01-24,1110,
+5710,ACC-A86EF,Note,2024-11-12,1088,wants better price on blocks
+5714,ACC-6697D,Visit,2025-08-02,1061,spoke to site mgr re delivery
+5722,ACC-66F86,Email,2024-12-21,1034,see email
+5736,ACC-4B319,Visit,2024-12-18,1269,call back next wk
+5753,ACC-7300F,Call,2024-08-06,1033,see email
+5761,ACC-BA85D,Email,2025-07-08,,see email
+5767,ACC-C1579,Note,2024-11-21,1269,pricing query
+5783,ACC-E0710,Email,2025-03-28,1112,see email
+5788,ACC-6EDBC,Call,2025-09-01,1267,
+5802,ACC-53B54,Call,2025-09-08,1188,call back next wk
+5805,ACC-7CA7B,Email,2024-07-03,1061,new job starting
+5807,ACC-6D2B1,Call,2025-02-10,1269,
+5819,ACC-6BDAC,Visit,2024-04-01,1112,pricing query
+5823,ACC-CC65D,Note,2024-07-04,1242,wants better price on blocks
+5826,ACC-7B0E9,Email,2025-12-18,1214,
+5838,ACC-3A6A9,Quote follow-up,2025-02-11,1190,spoke to site mgr re delivery
+5849,ACC-CA728,Visit,2025-04-02,1216,wants better price on blocks
+5857,ACC-5FC0B,Call,2024-04-17,1318,pricing query
+5866,ACC-546C0,Call,2024-09-06,1214,call back next wk
+5881,ACC-8AD0C,Email,2024-12-18,1216,
+5890,ACC-132C7,Note,2025-04-01,1036,
+5918,ACC-36CC4,Email,2025-09-30,1192,see email
+5924,ACC-3EC6B,Email,2024-10-14,1110,
+5925,ACC-F9B68,Call,2025-01-13,1192,
+5934,ACC-1FC0D,Call,2025-11-04,1060,spoke to site mgr re delivery
+5935,ACC-12C89,Note,2025-05-01,1087,call back next wk
+5943,ACC-E8369,Quote follow-up,2025-10-08,1088,
+5976,ACC-23F70,Call,2024-06-25,1192,
+5983,ACC-47FE1,Visit,2024-08-15,1111,chase payment
+6007,ACC-5C852,Call,2024-06-10,1060,spoke to site mgr re delivery
+6020,ACC-EA636,Email,2024-07-31,1088,spoke to site mgr re delivery
+6034,ACC-4F4E0,Note,2024-06-06,1191,see email
+6042,ACC-5409E,Email,2024-09-13,1166,see email
+6046,ACC-BBCE3,Email,2024-09-18,1033,call back next wk
+6060,ACC-7BC80,Call,2024-04-19,1190,wants better price on blocks
+6061,ACC-B2531,Call,2024-05-04,,
+6062,ACC-594BC,Visit,2025-10-20,1061,wants better price on blocks
+6078,ACC-D7A14,Call,2025-01-21,1084,call back next wk
+6080,ACC-59A6E,Call,2025-02-05,1111,wants better price on blocks
+6081,ACC-BBEBC,Call,2025-11-12,1216,
+6103,ACC-71105,Email,2025-08-27,1216,see email
+6113,ACC-F9B68,Call,2025-09-04,1192,pricing query
+6126,ACC-57301,Email,2024-08-22,1244,pricing query
+6127,ACC-BE9D6,Quote follow-up,2025-06-27,1058,wants better price on blocks
+6132,ACC-22C42,Note,2024-06-12,1035,spoke to site mgr re delivery
+6144,ACC-20852,Email,2024-02-16,1032,chase payment
+6159,ACC-5B919,Visit,2025-10-15,1035,left vm
+6170,ACC-5D62A,Quote follow-up,2024-07-17,1188,see email
+6183,ACC-89735,Call,2025-05-13,1060,spoke to site mgr re delivery
+6184,ACC-81A33,Email,2024-09-04,1217,wants better price on blocks
+6194,ACC-2B45D,Call,2024-11-25,1059,wants better price on blocks
+6195,ACC-D107D,Visit,2024-08-27,1188,
+6198,ACC-B34D9,Call,2025-01-08,1244,wants better price on blocks
+6201,ACC-B226D,Visit,2024-01-30,1085,spoke to site mgr re delivery
+6209,ACC-3A6A9,Call,2025-06-05,1190,
+6219,ACC-52F54,Call,2025-05-12,1036,chase payment
+6230,ACC-6C660,Email,2024-10-23,1192,spoke to site mgr re delivery
+6231,ACC-DF34D,Call,2025-06-27,1166,chase payment
+6240,ACC-9D5EA,Call,2025-10-15,1217,new job starting
+6241,ACC-1141B,Call,2025-03-24,1268,left vm
+6270,ACC-22C42,Call,2025-10-11,1035,new job starting
+6279,ACC-837C7,Call,2024-05-21,1189,new job starting
+6289,ACC-1B1CD,Call,2025-07-30,1242,pricing query
+6315,ACC-527BF,Email,2025-12-05,1111,left vm
+6329,ACC-63C48,Call,2025-10-09,1113,
+6335,ACC-ACBA7,Call,2024-09-20,1192,chase payment
+6338,ACC-DEA72,Quote follow-up,2024-09-27,1266,
+6340,ACC-A78BB,Call,2025-05-14,1244,pricing query
+6346,ACC-B8906,Call,2024-11-12,1036,call back next wk
+6349,ACC-5409E,Quote follow-up,2024-12-10,1166,chase payment
+6351,ACC-B34D9,Call,2025-02-14,1244,new job starting
+6355,ACC-20852,Email,2025-02-03,1032,see email
+6365,ACC-3A523,Visit,2024-01-02,1033,pricing query
+6402,ACC-ABBAD,Email,2024-10-03,1060,see email
+6412,ACC-E620D,Email,2024-07-27,1191,call back next wk
+6426,ACC-8DA74,Note,2024-04-20,1216,see email
+6451,ACC-ABD7F,Email,2025-12-31,1190,
+6471,ACC-944C9,Call,2024-02-14,1267,call back next wk
+6474,ACC-F5EB2,Call,2025-05-19,1058,
+6482,ACC-DDC10,Call,2025-04-29,1191,spoke to site mgr re delivery
+6484,ACC-EF061,Call,2024-07-04,1110,
+6487,ACC-FF06A,Call,2024-09-25,1113,new job starting
+6488,ACC-952CF,Call,2024-06-03,1188,wants better price on blocks
+6491,ACC-A1F8D,Call,2024-09-13,1032,
+6503,ACC-E33D4,Call,2025-03-05,1188,spoke to site mgr re delivery
+6531,ACC-353F5,Call,2024-08-01,1268,pricing query
+6576,ACC-9CE78,Call,2025-07-31,1060,see email
+6594,ACC-45AA2,Call,2024-04-25,1192,pricing query
+6604,ACC-29721,Email,2024-02-28,1214,pricing query
+6607,ACC-11911,Visit,2024-12-09,1192,
+6610,ACC-CC6AC,Note,2025-12-01,1010,see email
+6618,ACC-B2531,Call,2024-09-28,,
+6621,ACC-28AB6,Quote follow-up,2024-11-18,1032,
+6622,ACC-E8369,Call,2025-06-04,1088,
+6624,ACC-6D384,Call,2024-04-18,1216,call back next wk
+6633,ACC-5722E,Visit,2025-08-15,1088,wants better price on blocks
+6634,ACC-9F1F2,Email,2024-04-09,1216,new job starting
+6638,ACC-E1B29,Call,2025-11-12,1216,new job starting
+6651,ACC-78DDF,Email,2025-01-24,1191,chase payment
+6655,ACC-12162,Call,2025-06-25,1192,left vm
+6666,ACC-DC518,Call,2024-10-30,1061,chase payment
+6668,ACC-9CA50,Visit,2025-10-13,1010,chase payment
+6671,ACC-3A786,Email,2025-08-22,1111,call back next wk
+6688,ACC-5C503,Visit,2024-02-21,1269,call back next wk
+6707,ACC-6C660,Visit,2025-10-28,1192,spoke to site mgr re delivery
+6709,ACC-A09BD,Visit,2025-05-06,1243,pricing query
+6716,ACC-BC9EF,Call,2025-12-17,1216,left vm
+6743,ACC-FA4AD,Call,2025-08-16,1058,wants better price on blocks
+6745,ACC-7A973,Call,2025-07-24,1036,
+6752,ACC-5E9BF,Call,2025-05-03,1188,new job starting
+6756,ACC-4093F,Call,2024-03-26,1321,spoke to site mgr re delivery
+6763,ACC-5E2A9,Email,2024-01-22,,chase payment
+6770,ACC-79C0F,Quote follow-up,2024-07-29,1268,see email
+6772,ACC-77C08,Note,2024-12-09,1190,
+6800,ACC-4035F,Quote follow-up,2025-03-01,1240,spoke to site mgr re delivery
+6811,ACC-5C503,Call,2025-05-08,1269,chase payment
+6823,ACC-52D05,Email,2024-12-31,1113,wants better price on blocks
+6833,ACC-7EEC5,Note,2024-07-31,1190,
+6841,ACC-9107A,Call,2025-12-01,1190,spoke to site mgr re delivery
+6843,ACC-E47E6,Visit,2024-09-12,1215,pricing query
+6844,ACC-B77CE,Email,2025-03-31,1243,spoke to site mgr re delivery
+6850,ACC-B8F2B,Note,2025-06-07,1188,spoke to site mgr re delivery
+6856,ACC-4665F,Email,2024-11-12,1166,call back next wk
+6869,ACC-ABBAD,Quote follow-up,2025-05-06,1060,new job starting
+6872,ACC-D2708,Visit,2025-03-21,1166,
+6930,ACC-3BBD6,Call,2025-09-04,1035,chase payment
+6934,ACC-42E28,Quote follow-up,2025-10-13,1061,call back next wk
+6944,ACC-DF34D,Email,2025-05-23,1166,chase payment
+6947,ACC-34984,Quote follow-up,2024-06-24,1214,see email
+6966,ACC-5C852,Email,2024-08-07,1060,call back next wk
+6977,ACC-41180,Email,2025-10-16,1244,
+7002,ACC-45AA2,Email,2024-04-26,1192,
+7035,ACC-42E28,Call,2025-06-03,1061,see email
+7039,ACC-A289D,Email,2025-04-24,1269,
+7051,ACC-61A69,Email,2025-08-13,1084,wants better price on blocks
+7061,ACC-BC923,Visit,2025-06-03,1268,spoke to site mgr re delivery
+7079,ACC-1EB67,Note,2024-07-03,1061,chase payment
+7084,ACC-77C08,Email,2024-03-19,1190,left vm
+7097,ACC-E0F13,Email,2024-05-31,,chase payment
+7104,ACC-7300F,Quote follow-up,2024-07-11,1033,see email
+7119,ACC-F3615,Email,2025-07-04,1088,pricing query
+7144,ACC-DEA72,Note,2025-10-07,1266,see email
+7148,ACC-4F181,Visit,2025-07-09,1191,spoke to site mgr re delivery
+7174,ACC-B944F,Note,2025-02-10,1111,wants better price on blocks
+7176,ACC-4F181,Visit,2024-04-22,1191,spoke to site mgr re delivery
+7180,ACC-73B06,Email,2024-09-02,1036,pricing query
+7194,ACC-A89C0,Quote follow-up,2025-11-21,1111,new job starting
+7202,ACC-28376,Call,2025-05-27,1087,see email
+7237,ACC-5AD6E,Note,2025-05-15,1111,call back next wk
+7242,ACC-7733B,Call,2025-11-13,1266,wants better price on blocks
+7246,ACC-F3615,Visit,2024-09-30,1088,call back next wk
+7253,ACC-7CA7D,Note,2024-01-16,1242,left vm
+7257,ACC-4665F,Call,2024-02-10,1166,
+7262,ACC-F3F2F,Visit,2024-11-25,1241,call back next wk
+7269,ACC-61D13,Email,2024-06-11,1112,new job starting
+7275,ACC-89471,Email,2025-04-24,1110,
+7281,ACC-9F13B,Call,2024-08-22,1111,new job starting
+7292,ACC-C3783,Email,2025-04-18,1215,call back next wk
+7294,ACC-4B9F0,Email,2025-03-15,1216,
+7326,ACC-CC6AC,Email,2024-07-12,1010,call back next wk
+7344,ACC-AE275,Note,2024-02-21,1032,
+7349,ACC-7D18E,Call,2024-04-24,1192,wants better price on blocks
+7367,ACC-5B8A3,Note,2025-10-22,1240,chase payment
+7382,ACC-B7F9D,Call,2024-07-03,1034,
+7389,ACC-BD4E7,Call,2025-08-29,1088,
+7390,ACC-F339C,Email,2025-04-01,1033,new job starting
+7394,ACC-A4C63,Note,2024-07-19,1138,wants better price on blocks
+7440,ACC-AC3C7,Visit,2024-08-14,1164,left vm
+7447,ACC-7394E,Email,2025-04-18,1216,left vm
+7460,ACC-6C1E6,Visit,2024-05-04,1061,see email
+7463,ACC-E0CA5,Call,2024-03-21,1188,left vm
+7466,ACC-EF308,Call,2025-08-18,1110,chase payment
+7467,ACC-51651,Call,2025-04-29,1244,new job starting
+7471,ACC-85F10,Quote follow-up,2025-11-08,1060,spoke to site mgr re delivery
+7478,ACC-F4074,Call,2025-04-15,1163,pricing query
+7490,ACC-6479B,Call,2024-01-30,1112,
+7496,ACC-9C9DA,Call,2024-10-08,1035,
+7498,ACC-C5692,Visit,2024-05-15,1088,chase payment
+7515,ACC-EF061,Call,2025-08-05,1110,spoke to site mgr re delivery
+7516,ACC-A86EF,Visit,2025-09-15,1088,spoke to site mgr re delivery
+7531,ACC-F171C,Email,2025-03-12,1113,see email
+7536,ACC-51651,Email,2024-02-29,1244,wants better price on blocks
+7541,ACC-53B54,Note,2024-10-18,1188,spoke to site mgr re delivery
+7548,ACC-2D597,Call,2025-03-13,1036,
+7558,ACC-2FEEB,Call,2024-10-24,1266,pricing query
+7563,ACC-4F44D,Visit,2024-08-14,1110,pricing query
+7576,ACC-3569A,Call,2024-03-27,1033,see email
+7578,ACC-E024C,Call,2025-08-01,1033,chase payment
+7583,ACC-C473B,Call,2025-05-08,1190,wants better price on blocks
+7599,ACC-2D597,Email,2024-01-29,1036,left vm
+7608,ACC-5E9BF,Visit,2024-03-05,1188,wants better price on blocks
+7610,ACC-675B6,Visit,2025-06-25,1036,see email
+7622,ACC-8213F,Email,2025-09-05,1166,wants better price on blocks
+7625,ACC-5409E,Email,2024-12-02,1166,pricing query
+7629,ACC-18A9F,Visit,2024-09-11,1059,pricing query
+7635,ACC-45834,Email,2024-03-08,,left vm
+7637,ACC-6C8E3,Call,2024-08-01,,wants better price on blocks
+7647,ACC-D2708,Visit,2024-07-25,1166,new job starting
+7665,ACC-993E3,Call,2024-01-03,1269,new job starting
+7668,ACC-3E01F,Call,2025-04-29,1240,chase payment
+7669,ACC-1A101,Call,2024-06-13,1085,chase payment
+7675,ACC-E4E4F,Visit,2025-07-10,1140,
+7691,ACC-4665F,Call,2024-05-30,1166,see email
+7718,ACC-9510D,Quote follow-up,2024-09-20,1269,
+7729,ACC-B7F9D,Call,2024-12-06,1034,wants better price on blocks
+7769,ACC-682AA,Call,2025-04-29,1266,see email
+7790,ACC-D436D,Visit,2024-10-16,1058,call back next wk
+7796,ACC-D2813,Call,2025-06-12,1215,wants better price on blocks
+7812,ACC-DDB21,Email,2024-10-23,1061,see email
+7823,ACC-3CBAF,Email,2024-01-23,1321,wants better price on blocks
+7831,ACC-C574E,Note,2024-09-27,1241,new job starting
+7848,ACC-D2708,Email,2024-10-09,1166,
+7851,ACC-D107D,Call,2024-05-20,1188,
+7874,ACC-344AC,Call,2024-05-31,,
+7877,ACC-20852,Visit,2025-11-14,1032,see email
+7882,ACC-D1FD8,Visit,2025-06-03,1242,chase payment
+7896,ACC-5D62A,Call,2024-06-08,1188,spoke to site mgr re delivery
+7901,ACC-9A7F4,Quote follow-up,2025-11-07,1244,left vm
+7908,ACC-A68A2,Email,2025-04-08,1084,chase payment
+7920,ACC-8AD0C,Email,2025-07-11,1216,new job starting
+7944,ACC-9183F,Email,2024-02-02,1190,new job starting
+7986,ACC-BFED8,Visit,2025-02-22,1191,see email
+8001,ACC-8E9D9,Call,2025-11-18,1188,left vm
+8010,ACC-A901E,Email,2024-08-08,1217,see email
+8017,ACC-E9C0C,Email,2024-10-25,1268,spoke to site mgr re delivery
+8020,ACC-AE275,Email,2025-08-14,1032,chase payment
+8048,ACC-F5F6B,Email,2025-02-26,1060,left vm
+8062,ACC-7B188,Email,2025-05-01,1192,see email
+8065,ACC-ABD7F,Quote follow-up,2025-04-01,1190,left vm
+8075,ACC-41B9D,Call,2025-08-29,1215,
+8092,ACC-51540,Call,2024-09-06,1244,left vm
+8094,ACC-6C416,Call,2025-11-10,1140,call back next wk
+8098,ACC-52C68,Call,2025-05-27,1033,left vm
+8107,ACC-FF06A,Call,2024-10-18,1113,new job starting
+8145,ACC-5C852,Quote follow-up,2025-07-25,1060,chase payment
+8161,ACC-232CE,Note,2025-10-23,1035,see email
+8164,ACC-338DA,Email,2024-11-27,1217,chase payment
+8204,ACC-DDB21,Email,2024-09-24,1061,pricing query
+8217,ACC-486EB,Visit,2025-08-29,1192,call back next wk
+8245,ACC-515EB,Note,2025-12-16,1034,new job starting
+8246,ACC-41B9D,Call,2025-02-13,1215,see email
+8273,ACC-CB949,Call,2025-08-28,1268,wants better price on blocks
+8279,ACC-391D6,Call,2025-07-28,1188,spoke to site mgr re delivery
+8286,ACC-F55ED,Visit,2025-05-07,,
+8295,ACC-549D9,Note,2024-08-29,1032,spoke to site mgr re delivery
+8306,ACC-BBCE3,Call,2025-01-17,1033,
+8314,ACC-CA728,Call,2024-10-16,1216,pricing query
+8316,ACC-9B9E2,Email,2024-02-22,1191,spoke to site mgr re delivery
+8323,ACC-59A6E,Visit,2024-08-28,1111,spoke to site mgr re delivery
+8332,ACC-73E8C,Email,2024-04-17,1244,see email
+8333,ACC-6697D,Quote follow-up,2025-07-30,1061,call back next wk
+8344,ACC-E17DC,Call,2024-06-25,1215,call back next wk
+8346,ACC-486EB,Call,2025-09-10,1192,wants better price on blocks
+8354,ACC-9CA50,Note,2025-02-19,1010,chase payment
+8373,ACC-5AD6E,Note,2024-10-30,1111,wants better price on blocks
+8394,ACC-76765,Note,2025-07-08,1033,spoke to site mgr re delivery
+8400,ACC-D872E,Visit,2024-08-28,,chase payment
+8403,ACC-A901E,Visit,2024-07-23,1217,
+8416,ACC-2081F,Quote follow-up,2024-04-03,1242,
+8424,ACC-C304F,Note,2024-10-17,1110,pricing query
+8440,ACC-FB53A,Email,2024-07-13,1268,see email
+8468,ACC-322CD,Call,2025-09-17,1111,new job starting
+8480,ACC-66F86,Call,2024-11-23,1034,see email
+8485,ACC-2FEEB,Email,2024-06-21,1266,chase payment
+8489,ACC-9B571,Email,2025-08-11,1244,
+8491,ACC-BE1BA,Quote follow-up,2024-11-11,1215,
+8512,ACC-615C6,Email,2024-05-15,1162,chase payment
+8517,ACC-F3FA8,Note,2024-07-12,1060,call back next wk
+8520,ACC-2FEEB,Call,2024-10-31,1266,left vm
+8522,ACC-3DAF1,Quote follow-up,2025-03-12,1214,
+8532,ACC-E024C,Call,2025-05-26,1033,left vm
+8534,ACC-7D5F0,Call,2025-02-14,1035,spoke to site mgr re delivery
+8542,ACC-61D13,Quote follow-up,2024-01-03,1112,spoke to site mgr re delivery
+8561,ACC-92E90,Call,2025-06-03,1059,see email
+8567,ACC-34984,Call,2025-04-28,1214,
+8587,ACC-E2DE4,Call,2024-01-29,1191,pricing query
+8607,ACC-DF34D,Call,2024-10-28,1166,chase payment
+8608,ACC-3DAF1,Note,2024-08-19,1214,spoke to site mgr re delivery
+8617,ACC-4B8B1,Visit,2024-11-15,1058,spoke to site mgr re delivery
+8624,ACC-20852,Quote follow-up,2025-06-02,1032,new job starting
+8629,ACC-AB882,Call,2024-02-28,1242,left vm
+8639,ACC-A8B14,Email,2025-12-12,,see email
+8640,ACC-EC81F,Email,2025-08-28,1191,left vm
+8643,ACC-7EEC5,Email,2025-11-22,1190,wants better price on blocks
+8647,ACC-93816,Quote follow-up,2025-01-07,1112,chase payment
+8653,ACC-3A4C1,Call,2025-04-22,1244,chase payment
+8657,ACC-CC044,Call,2025-04-24,1190,see email
+8688,ACC-D107D,Call,2024-11-06,1188,see email
+8701,ACC-52B75,Call,2025-11-07,1010,
+8713,ACC-EEF38,Call,2025-02-26,1191,new job starting
+8728,ACC-20852,Email,2024-11-05,1032,call back next wk
+8736,ACC-687AE,Call,2025-08-20,1111,
+8743,ACC-E96FD,Call,2024-03-01,1059,chase payment
+8749,ACC-15F58,Email,2025-10-15,1088,left vm
+8768,ACC-26208,Call,2024-08-20,1110,
+8781,ACC-82B6D,Email,2024-06-26,1061,new job starting
+8805,ACC-C74C5,Note,2024-10-22,1296,chase payment
+8808,ACC-5D8CF,Note,2025-01-08,1113,pricing query
+8817,ACC-270CC,Visit,2025-02-26,1059,
+8851,ACC-615C6,Email,2025-06-23,1162,left vm
+8873,ACC-3BBD6,Email,2024-02-29,1035,see email
+8911,ACC-3BBD6,Email,2024-02-02,1035,pricing query
+8926,ACC-52F54,Quote follow-up,2025-11-26,1036,pricing query
+8960,ACC-C5620,Email,2024-07-19,1112,chase payment
+8961,ACC-70B2A,Call,2024-03-19,1085,
+8977,ACC-9CE78,Call,2025-10-28,1060,new job starting
+8978,ACC-79C0F,Email,2025-07-04,1268,chase payment
+8986,ACC-D107D,Email,2024-04-30,1188,new job starting
+8993,ACC-4F4E0,Visit,2024-08-30,1191,
+8998,ACC-71896,Call,2025-06-11,1189,spoke to site mgr re delivery
+8999,ACC-7219E,Email,2024-04-11,1270,
+9007,ACC-5AD6E,Email,2025-08-08,1111,spoke to site mgr re delivery
+9027,ACC-D747F,Call,2025-12-05,1191,see email
+9043,ACC-639B3,Quote follow-up,2025-12-10,1191,new job starting
+9063,ACC-A9CD5,Visit,2025-07-29,1214,wants better price on blocks
+9065,ACC-9F13B,Call,2025-06-05,1111,spoke to site mgr re delivery
+9073,ACC-4665F,Call,2025-07-07,1166,see email
+9101,ACC-BC923,Call,2024-06-26,1268,chase payment
+9111,ACC-132C7,Email,2024-05-06,1036,chase payment
+9162,ACC-F171C,Visit,2025-04-14,1113,see email
+9184,ACC-8213F,Note,2025-12-22,1166,new job starting
+9192,ACC-3D0D8,Quote follow-up,2024-09-25,1244,wants better price on blocks
+9201,ACC-418BB,Call,2024-03-21,1010,call back next wk
+9208,ACC-9D5EA,Email,2025-03-31,1217,
+9210,ACC-45D9F,Email,2024-01-23,1242,new job starting
+9216,ACC-2CB6E,Quote follow-up,2024-04-01,1086,pricing query
+9221,ACC-6AD59,Call,2024-06-28,1010,call back next wk
+9251,ACC-98F74,Email,2024-12-06,1216,
+9257,ACC-EF05C,Email,2025-10-22,1191,
+9266,ACC-57441,Visit,2025-03-18,1216,
+9269,ACC-E0710,Email,2024-05-24,1112,
+9277,ACC-9510D,Email,2024-10-11,1269,see email
+9291,ACC-28AB6,Call,2024-11-27,1032,
+9296,ACC-42AEC,Call,2024-07-19,1034,see email
+9300,ACC-675B6,Visit,2024-11-27,1036,wants better price on blocks
+9305,ACC-51651,Call,2024-11-13,1244,spoke to site mgr re delivery
+9306,ACC-BF648,Call,2024-11-27,1215,chase payment
+9308,ACC-9D27D,Call,2025-07-29,1088,chase payment
+9319,ACC-9D27D,Call,2025-09-25,1088,spoke to site mgr re delivery
+9335,ACC-4F181,Visit,2025-03-19,1191,spoke to site mgr re delivery
+9353,ACC-48F38,Quote follow-up,2025-02-28,1218,pricing query
+9377,ACC-5D62A,Note,2025-09-22,1188,
+9381,ACC-20852,Email,2024-10-09,1032,wants better price on blocks
+9390,ACC-1CE43,Email,2024-05-25,1088,spoke to site mgr re delivery
+9391,ACC-73A76,Email,2025-06-11,1244,
+9397,ACC-C454A,Email,2025-09-10,1266,
+9403,ACC-AB5FB,Call,2024-09-23,1058,see email
+9406,ACC-6D384,Call,2025-03-25,1216,wants better price on blocks
+9425,ACC-437D6,Email,2025-06-24,1058,chase payment
+9447,ACC-7D5F0,Note,2024-03-08,1035,
+9448,ACC-3A523,Email,2024-06-24,1033,chase payment
+9455,ACC-4F4E0,Visit,2024-07-22,1191,call back next wk
+9462,ACC-73A76,Email,2025-12-12,1244,spoke to site mgr re delivery
+9468,ACC-C7419,Visit,2025-01-18,1217,call back next wk
+9469,ACC-5B919,Email,2025-09-30,1035,left vm
+9473,ACC-6C660,Email,2025-06-05,1192,chase payment
+9502,ACC-E47E6,Call,2024-03-05,1215,wants better price on blocks
+9511,ACC-B34D9,Email,2024-03-14,1244,
+9517,ACC-CDAF1,Email,2025-04-01,1166,spoke to site mgr re delivery
+9531,ACC-CDAB2,Note,2024-04-16,1214,pricing query
+9569,ACC-AB0F3,Call,2024-01-25,1269,call back next wk
+9572,ACC-6B8A9,Call,2024-09-19,1189,pricing query
+9581,ACC-59871,Email,2025-11-15,1010,call back next wk
+9589,ACC-C70CE,Note,2025-05-28,1060,new job starting
+9594,ACC-549D9,Call,2025-02-17,1032,see email
+9598,ACC-32B94,Email,2025-10-13,1058,wants better price on blocks
+9615,ACC-E0365,Email,2024-03-21,1087,
+9619,ACC-B8964,Quote follow-up,2024-01-30,1058,chase payment
+9627,ACC-9276F,Quote follow-up,2024-09-13,1166,new job starting
+9643,ACC-34984,Note,2025-11-06,1214,see email
+9659,ACC-6A410,Email,2025-01-20,1112,chase payment
+9663,ACC-8213F,Call,2025-07-31,1166,left vm
+9666,ACC-F1708,Call,2025-07-19,1267,chase payment
+9677,ACC-84644,Call,2025-11-22,1191,pricing query
+9685,ACC-EEF38,Visit,2024-07-05,1191,spoke to site mgr re delivery
+9696,ACC-6BDAC,Call,2024-10-12,1112,see email
+9698,ACC-1EB67,Quote follow-up,2024-07-19,1061,pricing query
+9720,ACC-F04A0,Call,2024-12-27,1032,
+9738,ACC-6E975,Call,2024-01-26,1139,see email
+9741,ACC-D80AF,Call,2024-02-07,1191,
+9747,ACC-84644,Visit,2024-06-03,1191,wants better price on blocks
+9765,ACC-C4FD9,Call,2024-04-15,1191,new job starting
+9770,ACC-A1316,Call,2024-12-03,1214,left vm
+9794,ACC-AD268,Email,2025-10-23,1320,chase payment
+9800,ACC-CC6AC,Email,2025-04-26,1010,call back next wk
+9801,ACC-FD786,Visit,2025-07-07,1191,see email
+9802,ACC-D6AF1,Call,2025-04-30,1241,
+9814,ACC-A2462,Note,2025-04-01,,call back next wk
+9822,ACC-D664E,Call,2024-01-30,1112,
+9826,ACC-FE2F3,Quote follow-up,2024-12-04,1166,chase payment
+9832,ACC-DDBF1,Call,2025-09-17,1110,left vm
+9834,ACC-EF05C,Note,2024-05-17,1191,
+9858,ACC-D1906,Email,2025-07-17,1189,wants better price on blocks
+9859,ACC-DDBF1,Email,2024-07-01,1110,chase payment
+9863,ACC-8CDA0,Visit,2025-09-03,,see email
+9873,ACC-9195B,Note,2025-09-22,1190,spoke to site mgr re delivery
+9885,ACC-7D18E,Email,2025-06-11,1192,spoke to site mgr re delivery
+9909,ACC-1741F,Visit,2024-01-12,1217,
+9950,ACC-952CF,Call,2024-06-11,1188,
+9964,ACC-9C08D,Email,2025-08-11,1216,new job starting
+9966,ACC-37FC2,Email,2024-01-12,1032,left vm
+9968,ACC-2ADF1,Call,2025-04-16,1032,new job starting
+9971,ACC-7B3D2,Quote follow-up,2024-02-20,1136,pricing query
+9990,ACC-F171C,Quote follow-up,2024-12-07,1113,chase payment
+10026,ACC-6479B,Call,2024-04-15,1112,call back next wk
+10033,ACC-C3BE2,Email,2025-06-25,1269,pricing query
+10075,ACC-4B9F0,Call,2025-01-16,1216,wants better price on blocks
+10079,ACC-E96FD,Call,2024-11-05,1059,wants better price on blocks
+10090,ACC-4B6E4,Quote follow-up,2024-02-10,1218,see email
+10101,ACC-1B854,Email,2025-02-12,1292,chase payment
+10102,ACC-22D19,Quote follow-up,2025-01-22,1268,
+10106,ACC-A901E,Visit,2025-12-29,1217,new job starting
+10112,ACC-993E3,Note,2024-06-28,1269,see email
+10132,ACC-C4FD9,Quote follow-up,2024-09-13,1191,spoke to site mgr re delivery
+10133,ACC-A526F,Email,2025-08-12,1192,pricing query
+10135,ACC-E1B29,Note,2025-11-12,1216,chase payment
+10137,ACC-9D5EA,Email,2024-03-08,1217,spoke to site mgr re delivery
+10148,ACC-5D8CF,Call,2025-06-23,1113,new job starting
+10156,ACC-9B9E2,Call,2024-03-28,1191,chase payment
+10157,ACC-48D7F,Call,2024-09-03,1266,chase payment
+10165,ACC-400A1,Call,2024-08-22,1086,spoke to site mgr re delivery
+10176,ACC-2FEEB,Email,2025-04-17,1266,call back next wk
+10208,ACC-5722E,Email,2024-04-24,1088,
+10209,ACC-32555,Email,2025-11-10,1241,spoke to site mgr re delivery
+10213,ACC-B8F2B,Call,2025-04-01,1188,
+10225,ACC-A0CFB,Visit,2024-10-02,1088,new job starting
+10242,ACC-82B6D,Visit,2024-06-26,1061,
+10253,ACC-12A06,Email,2024-12-03,1189,new job starting
+10256,ACC-A86EF,Call,2025-12-05,1088,pricing query
+10304,ACC-232CE,Call,2024-04-25,1035,spoke to site mgr re delivery
+10307,ACC-BBEBC,Email,2025-04-11,1216,call back next wk
+10317,ACC-A86EF,Call,2024-01-04,1088,
+10330,ACC-BE9D6,Call,2024-06-01,1058,see email
+10340,ACC-F5F6B,Email,2025-07-05,1060,
+10357,ACC-280FF,Email,2025-05-27,,spoke to site mgr re delivery
+10360,ACC-78DDF,Email,2025-06-07,1191,wants better price on blocks
+10365,ACC-DF34D,Call,2025-07-16,1166,
+10372,ACC-47FE1,Email,2024-01-11,1111,left vm
+10375,ACC-E9C0C,Call,2025-07-09,1268,
+10380,ACC-207E8,Visit,2024-08-14,1035,see email
+10381,ACC-9B571,Email,2025-03-19,1244,
+10383,ACC-85F10,Quote follow-up,2025-01-14,1060,spoke to site mgr re delivery
+10400,ACC-831F1,Call,2024-06-12,1191,spoke to site mgr re delivery
+10424,ACC-26208,Call,2025-10-01,1110,new job starting
+10428,ACC-BBEBC,Email,2024-08-15,1216,
+10431,ACC-36CC4,Visit,2024-09-26,1192,chase payment
+10432,ACC-437D6,Note,2025-03-15,1058,
+10439,ACC-8CDA0,Quote follow-up,2024-06-12,,spoke to site mgr re delivery
+10458,ACC-AE275,Call,2024-10-09,1032,
+10473,ACC-9195B,Note,2024-05-20,1190,pricing query
+10477,ACC-B89D0,Call,2025-05-06,,wants better price on blocks
+10496,ACC-A526F,Email,2024-10-29,1192,call back next wk
+10504,ACC-B944F,Note,2025-10-21,1111,
+10511,ACC-E3A95,Quote follow-up,2024-05-20,1190,left vm
+10550,ACC-CD57A,Call,2025-01-23,1035,
+10551,ACC-84A22,Email,2024-05-29,1032,left vm
+10563,ACC-7BABE,Call,2025-10-16,1192,new job starting
+10580,ACC-A0AC5,Call,2024-07-03,1188,left vm
+10582,ACC-F08BA,Email,2025-11-25,1269,call back next wk
+10588,ACC-EF05C,Note,2025-12-08,1191,pricing query
+10597,ACC-22C42,Note,2025-03-11,1035,pricing query
+10624,ACC-DDBF1,Call,2024-03-19,1110,see email
+10628,ACC-64031,Email,2024-11-04,1059,new job starting
+10650,ACC-2C27C,Call,2024-10-31,1166,
+10651,ACC-71896,Call,2024-11-22,1189,left vm
+10653,ACC-1AFE2,Visit,2025-12-23,1214,
+10663,ACC-57441,Email,2025-08-08,1216,see email
+10675,ACC-CC6AC,Quote follow-up,2024-05-23,1010,chase payment
+10678,ACC-4F4E0,Call,2025-12-01,1191,
+10681,ACC-8DA74,Visit,2024-06-25,1216,wants better price on blocks
+10682,ACC-9A7F4,Call,2025-09-27,1244,see email
+10688,ACC-1AFF2,Call,2025-07-09,1295,
+10708,ACC-73B2F,Call,2025-03-17,1215,
+10713,ACC-1B854,Call,2025-06-26,1292,
+10722,ACC-F5F6B,Visit,2025-12-02,1060,spoke to site mgr re delivery
+10726,ACC-85E0D,Visit,2025-07-16,1241,wants better price on blocks
+10727,ACC-5BBE7,Note,2025-01-30,1110,spoke to site mgr re delivery
+10730,ACC-45FCA,Email,2025-04-28,1163,see email
+10731,ACC-8DA74,Note,2025-10-14,1216,chase payment
+10768,ACC-35EF2,Call,2024-05-02,1266,
+10771,ACC-DEEE0,Visit,2025-11-06,1034,call back next wk
+10785,ACC-A08C0,Email,2024-08-08,1086,chase payment
+10800,ACC-7D1F4,Call,2024-07-04,1268,
+10802,ACC-E1B29,Call,2024-04-06,1216,new job starting
+10805,ACC-D8C65,Call,2024-08-19,1061,pricing query
+10808,ACC-15A2D,Quote follow-up,2025-06-20,1032,wants better price on blocks
+10829,ACC-9CE78,Email,2024-10-23,1060,pricing query
+10832,ACC-4B319,Visit,2024-03-20,1269,spoke to site mgr re delivery
+10841,ACC-DCD8B,Call,2024-01-02,1192,see email
+10848,ACC-2D597,Email,2024-07-20,1036,
+10851,ACC-FDAFA,Email,2024-10-19,1216,
+10854,ACC-20852,Email,2024-03-16,1032,call back next wk
+10855,ACC-F4276,Call,2024-12-13,1111,call back next wk
+10860,ACC-57441,Email,2024-11-28,1216,
+10870,ACC-DEB30,Quote follow-up,2025-07-21,1320,
+10877,ACC-ABBAD,Email,2024-05-22,1060,see email
+10888,ACC-FF06A,Call,2024-11-22,1113,spoke to site mgr re delivery
+10889,ACC-7300F,Note,2024-04-19,1033,new job starting
+10902,ACC-F171C,Call,2025-05-27,1113,call back next wk
+10918,ACC-FF06A,Email,2025-02-04,1113,see email
+10933,ACC-CC6AC,Visit,2025-05-05,1010,spoke to site mgr re delivery
+10951,ACC-FEBDB,Email,2024-08-23,1032,wants better price on blocks
+10958,ACC-77C08,Email,2024-01-20,1190,wants better price on blocks
+10964,ACC-E620D,Call,2025-10-13,1191,
+10965,ACC-1D174,Email,2025-03-17,1188,chase payment
+10966,ACC-C454A,Note,2024-06-26,1266,
+10971,ACC-9C2FE,Call,2024-06-24,1137,chase payment
+10972,ACC-D322C,Call,2024-08-13,1240,new job starting
+10981,ACC-1D174,Call,2025-06-03,1188,call back next wk
+11005,ACC-29721,Email,2025-12-30,1214,new job starting
+11012,ACC-23F70,Email,2025-09-11,1192,chase payment
+11014,ACC-11911,Call,2024-10-25,1192,spoke to site mgr re delivery
+11027,ACC-C5692,Call,2025-07-31,1088,call back next wk
+11040,ACC-84A22,Quote follow-up,2025-02-26,1032,pricing query
+11045,ACC-EF308,Email,2024-01-20,1110,left vm
+11053,ACC-E2DE4,Quote follow-up,2025-02-04,1191,
+11061,ACC-1C054,Quote follow-up,2025-07-26,1268,call back next wk
+11064,ACC-3D0D8,Email,2025-02-05,1244,see email
+11082,ACC-AF43E,Call,2024-03-20,1035,call back next wk
+11095,ACC-A526F,Note,2025-07-19,1192,see email
+11114,ACC-2C910,Quote follow-up,2024-03-06,1061,chase payment
+11133,ACC-34DE8,Email,2024-10-16,1292,wants better price on blocks
+11141,ACC-91B47,Quote follow-up,2025-07-18,1244,call back next wk
+11153,ACC-3DAF1,Quote follow-up,2024-07-06,1214,
+11166,ACC-73B06,Quote follow-up,2025-09-18,1036,call back next wk
+11172,ACC-F39EE,Call,2025-02-06,,left vm
+11194,ACC-E620D,Visit,2024-11-08,1191,call back next wk
+11198,ACC-6697D,Call,2024-01-11,1061,call back next wk
+11209,ACC-7300F,Call,2024-07-26,1033,left vm
+11229,ACC-EC81F,Call,2025-06-13,1191,call back next wk
+11244,ACC-5E2A9,Email,2025-08-04,,
+11245,ACC-C3BE2,Call,2024-07-22,1269,spoke to site mgr re delivery
+11250,ACC-58D95,Call,2025-06-12,1162,spoke to site mgr re delivery
+11277,ACC-C0B85,Note,2025-03-25,1114,call back next wk
+11284,ACC-5C852,Visit,2024-10-18,1060,
+11294,ACC-45D16,Call,2025-04-08,1191,left vm
+11313,ACC-1D9D3,Email,2024-11-22,1034,see email
+11335,ACC-6BB91,Call,2025-10-25,1217,
+11336,ACC-59A6E,Email,2024-03-13,1111,
+11338,ACC-9BB90,Note,2024-10-29,1084,spoke to site mgr re delivery
+11355,ACC-F21A3,Call,2024-06-06,1137,chase payment
+11356,ACC-B5048,Email,2025-07-15,1110,
+11368,ACC-82431,Call,2024-05-07,1295,spoke to site mgr re delivery
+11374,ACC-F8367,Email,2024-04-16,1215,
+11386,ACC-232CE,Quote follow-up,2024-04-03,1035,chase payment
+11389,ACC-E024C,Call,2025-07-14,1033,spoke to site mgr re delivery
+11393,ACC-DB0D6,Visit,2025-07-22,1110,
+11396,ACC-F8606,Call,2024-08-05,1059,wants better price on blocks
+11398,ACC-A520C,Call,2024-02-12,1268,
+11410,ACC-6C1E6,Call,2025-08-25,1061,wants better price on blocks
+11421,ACC-FF06A,Call,2025-01-20,1113,see email
+11432,ACC-DD242,Email,2025-11-21,1166,left vm
+11436,ACC-5D62A,Call,2024-12-17,1188,left vm
+11449,ACC-ABDF6,Call,2025-04-07,1218,
+11453,ACC-9F1F2,Call,2024-04-01,1216,wants better price on blocks
+11458,ACC-F4276,Quote follow-up,2024-07-30,1111,
+11484,ACC-65695,Visit,2025-11-19,1088,wants better price on blocks
+11500,ACC-3DAF1,Quote follow-up,2025-08-12,1214,spoke to site mgr re delivery
+11505,ACC-E1B29,Email,2025-08-01,1216,see email
+11521,ACC-12A06,Call,2024-04-03,1189,
+11538,ACC-1C054,Call,2025-05-19,1268,left vm
+11549,ACC-1741F,Call,2025-03-24,1217,
+11552,ACC-26208,Quote follow-up,2024-08-26,1110,spoke to site mgr re delivery
+11560,ACC-6697D,Note,2025-03-20,1061,chase payment
+11579,ACC-57975,Quote follow-up,2024-06-05,1270,spoke to site mgr re delivery
+11581,ACC-EA967,Note,2025-07-01,1240,spoke to site mgr re delivery
+11587,ACC-4665F,Note,2024-11-01,1166,left vm
+11593,ACC-85F10,Email,2025-03-12,1060,call back next wk
+11600,ACC-322CD,Call,2024-03-04,1111,call back next wk
+11609,ACC-B79AB,Quote follow-up,2024-01-11,1244,
+11610,ACC-38BF1,Email,2024-10-14,1136,see email
+11614,ACC-89735,Visit,2024-01-03,1060,wants better price on blocks
+11641,ACC-A89C0,Email,2025-07-15,1111,call back next wk
+11646,ACC-EC81F,Call,2025-05-29,1191,
+11670,ACC-D2813,Note,2024-10-28,1215,pricing query
+11688,ACC-9A7F4,Visit,2025-12-09,1244,
+11693,ACC-D1906,Email,2025-11-12,1189,spoke to site mgr re delivery
+11695,ACC-1FC7D,Note,2024-11-13,1269,new job starting
+11699,ACC-DEA72,Call,2024-11-29,1266,spoke to site mgr re delivery
+11736,ACC-9BB91,Call,2025-09-24,1215,
+11748,ACC-8A208,Quote follow-up,2025-05-08,1217,new job starting
+11750,ACC-F04A0,Call,2025-07-11,1032,new job starting
+11758,ACC-49624,Email,2025-04-15,1321,wants better price on blocks
+11759,ACC-322CD,Email,2024-08-29,1111,see email
+11766,ACC-BFED8,Call,2024-12-30,1191,
+11795,ACC-9647C,Quote follow-up,2025-07-07,1266,
+11796,ACC-59A6E,Email,2024-04-11,1111,
+11800,ACC-11911,Email,2025-06-20,1192,pricing query
+11809,ACC-7DBFD,Call,2024-06-26,1113,left vm
+11815,ACC-FE2F3,Visit,2025-10-27,1166,
+11819,ACC-6C660,Call,2024-03-08,1192,pricing query
+11823,ACC-EDC2B,Email,2025-10-17,1268,left vm
+11833,ACC-ABD7F,Call,2024-10-16,1190,
+11856,ACC-7CA7B,Call,2025-05-21,1061,left vm
+11886,ACC-F3188,Note,2024-09-20,1244,wants better price on blocks
+11891,ACC-7D5F0,Email,2024-06-06,1035,chase payment
+11912,ACC-E0710,Note,2025-11-06,1112,call back next wk
+11936,ACC-C6C94,Call,2024-10-31,1165,left vm
+11937,ACC-D2708,Call,2025-10-23,1166,
+11943,ACC-52D05,Call,2025-04-21,1113,pricing query
+11948,ACC-8E49D,Note,2024-12-16,1216,see email
+11950,ACC-95E97,Call,2025-10-03,1058,see email
+11953,ACC-A520C,Note,2025-06-19,1268,pricing query
+11969,ACC-77C08,Note,2025-10-16,1190,left vm
+11986,ACC-D436D,Call,2025-09-02,1058,new job starting
+11988,ACC-6A298,Note,2025-04-28,1010,left vm
+11989,ACC-5DC22,Call,2025-07-18,1218,call back next wk
+11991,ACC-3A4C1,Note,2025-09-08,1244,new job starting
+11993,ACC-71896,Call,2025-02-06,1189,wants better price on blocks
+11996,ACC-132C7,Email,2024-07-10,1036,pricing query
+12001,ACC-73A76,Call,2025-06-11,1244,
+12004,ACC-608BF,Call,2024-05-17,1267,new job starting
+12019,ACC-E33D4,Note,2024-12-24,1188,
+12026,ACC-26556,Call,2024-08-23,1061,call back next wk
+12031,ACC-24E87,Email,2024-10-21,1292,spoke to site mgr re delivery
+12034,ACC-5D62A,Call,2024-11-28,1188,left vm
+12038,ACC-F443B,Call,2024-06-17,1060,new job starting
+12047,ACC-F443B,Call,2024-05-02,1060,call back next wk
+12053,ACC-63EA0,Email,2024-03-20,1216,new job starting
+12059,ACC-951B6,Call,2025-09-11,1242,pricing query
+12071,ACC-6BDAC,Email,2024-07-23,1112,new job starting
+12081,ACC-999E0,Email,2024-03-12,1243,pricing query
+12111,ACC-E2A3D,Call,2025-04-28,1318,pricing query
+12120,ACC-C5620,Note,2024-05-08,1112,left vm
+12135,ACC-AAA4D,Email,2024-08-06,1293,
+12153,ACC-675B6,Call,2024-10-29,1036,chase payment
+12162,ACC-34A27,Email,2025-02-10,,left vm
+12183,ACC-CB544,Call,2024-04-10,1166,pricing query
+12187,ACC-AC62E,Visit,2025-04-08,1088,
+12210,ACC-42E28,Call,2024-04-10,1061,new job starting
+12213,ACC-6B8A9,Quote follow-up,2025-05-21,1189,
+12216,ACC-1141B,Quote follow-up,2025-10-09,1268,
+12220,ACC-A78FB,Email,2025-07-31,1215,wants better price on blocks
+12225,ACC-45861,Quote follow-up,2025-10-21,1293,wants better price on blocks
+12228,ACC-852A9,Call,2024-04-08,1036,chase payment
+12238,ACC-4F181,Email,2024-06-28,1191,pricing query
+12247,ACC-1C054,Call,2024-07-15,1268,spoke to site mgr re delivery
+12273,ACC-15A2D,Call,2024-02-26,1032,
+12288,ACC-17297,Visit,2025-11-24,1140,
+12303,ACC-AC62E,Call,2024-11-29,1088,wants better price on blocks
+12321,ACC-831F1,Visit,2024-04-20,1191,
+12335,ACC-11E0E,Email,2024-08-19,1192,
+12344,ACC-11911,Call,2024-07-12,1192,wants better price on blocks
+12366,ACC-1AFE2,Call,2025-07-21,1214,pricing query
+12372,ACC-D81CA,Note,2025-01-07,1032,left vm
+12379,ACC-803A2,Quote follow-up,2025-12-09,1085,call back next wk
+12392,ACC-F4276,Visit,2024-11-25,1111,chase payment
+12414,ACC-45AA2,Email,2024-08-31,1192,spoke to site mgr re delivery
+12416,ACC-8A9CA,Email,2025-05-07,1242,call back next wk
+12420,ACC-6EDBC,Call,2025-07-26,1267,
+12435,ACC-4B9F0,Call,2024-08-08,1216,see email
+12437,ACC-E0710,Note,2024-12-05,1112,wants better price on blocks
+12439,ACC-65695,Visit,2024-03-25,1088,
+12443,ACC-A289D,Call,2025-03-12,1269,wants better price on blocks
+12456,ACC-546C0,Email,2025-04-01,1214,wants better price on blocks
+12459,ACC-1D174,Call,2024-09-23,1188,chase payment
+12462,ACC-BFED8,Call,2024-04-12,1191,left vm
+12469,ACC-3E299,Email,2024-01-30,1241,new job starting
+12476,ACC-9B9E2,Call,2024-07-16,1191,
+12483,ACC-5FC0B,Call,2025-08-25,1318,left vm
+12485,ACC-41A7C,Visit,2024-11-29,1062,new job starting
+12494,ACC-DDC10,Call,2025-01-30,1191,call back next wk
+12496,ACC-9510D,Email,2024-08-01,1269,
+12503,ACC-7BABE,Email,2024-11-13,1192,spoke to site mgr re delivery
+12514,ACC-76765,Call,2024-08-07,1033,
+12528,ACC-594BC,Quote follow-up,2025-05-14,1061,spoke to site mgr re delivery
+12531,ACC-22C42,Call,2024-04-27,1035,wants better price on blocks
+12534,ACC-32A07,Call,2024-03-20,1062,call back next wk
+12548,ACC-C1751,Call,2025-11-26,1295,chase payment
+12555,ACC-1E351,Quote follow-up,2024-09-26,1060,
+12563,ACC-59F8A,Call,2025-11-08,1088,see email
+12572,ACC-608BF,Note,2024-07-09,1267,pricing query
+12577,ACC-BBE83,Note,2024-08-09,1034,spoke to site mgr re delivery
+12596,ACC-232CE,Call,2025-05-14,1035,pricing query
+12607,ACC-244E5,Call,2025-04-23,1112,pricing query
+12620,ACC-65695,Call,2024-04-30,1088,call back next wk
+12629,ACC-FE2F3,Call,2025-12-01,1166,pricing query
+12638,ACC-2ADF1,Call,2025-10-03,1032,wants better price on blocks
+12650,ACC-D2708,Email,2024-07-25,1166,pricing query
+12654,ACC-43DE1,Visit,2024-10-09,1268,spoke to site mgr re delivery
+12690,ACC-2667F,Call,2024-12-31,1319,new job starting
+12694,ACC-D1906,Quote follow-up,2025-08-16,1189,see email
+12697,ACC-BF4C9,Note,2024-12-23,1241,see email
+12702,ACC-9195B,Call,2024-08-05,1190,new job starting
+12732,ACC-A901E,Quote follow-up,2024-11-08,1217,
+12768,ACC-C6043,Email,2024-07-17,1215,
+12775,ACC-1AFF2,Quote follow-up,2025-05-14,1295,spoke to site mgr re delivery
+12776,ACC-93F2F,Visit,2024-04-23,1110,see email
+12817,ACC-D2813,Call,2025-08-08,1215,new job starting
+12824,ACC-A78BB,Visit,2025-09-16,1244,call back next wk
+12826,ACC-A520C,Email,2024-03-13,1268,spoke to site mgr re delivery
+12829,ACC-B2739,Email,2024-11-05,1088,left vm
+12831,ACC-6EDBC,Call,2024-05-02,1267,wants better price on blocks
+12832,ACC-20852,Quote follow-up,2025-04-25,1032,chase payment
+12843,ACC-5C503,Quote follow-up,2024-12-09,1269,chase payment
+12860,ACC-C2844,Email,2025-01-16,1270,chase payment
+12892,ACC-9A586,Call,2024-01-24,1192,pricing query
+12898,ACC-A8BAD,Note,2024-01-24,1059,call back next wk
+12901,ACC-7E3C6,Email,2025-04-01,1060,left vm
+12911,ACC-A2462,Call,2025-11-25,,pricing query
+12913,ACC-639B3,Call,2024-01-24,1191,pricing query
+12928,ACC-1A8AF,Call,2025-09-11,1163,see email
+12929,ACC-985C7,Visit,2024-05-10,1140,
+12934,ACC-ACBA7,Note,2025-08-05,1192,chase payment
+12949,ACC-C3BE2,Visit,2024-06-14,1269,pricing query
+12963,ACC-241C7,Email,2024-07-01,1243,call back next wk
+13009,ACC-93816,Quote follow-up,2024-05-10,1112,spoke to site mgr re delivery
+13011,ACC-71896,Call,2025-05-26,1189,see email
+13012,ACC-E3B0E,Note,2025-08-26,1166,chase payment
+13014,ACC-14C8C,Call,2024-12-18,1191,wants better price on blocks
+13020,ACC-34CFA,Call,2025-10-13,1112,pricing query
+13025,ACC-18A9F,Call,2025-02-06,1059,left vm
+13030,ACC-E0FDA,Email,2024-04-09,1140,
+13056,ACC-40010,Email,2025-11-28,1112,
+13057,ACC-82084,Email,2025-01-06,1218,see email
+13058,ACC-5D5BA,Call,2025-02-03,1139,
+13064,ACC-9107A,Note,2024-01-30,1190,
+13067,ACC-E8369,Visit,2025-01-06,1088,new job starting
+13077,ACC-A78BB,Call,2025-10-16,1244,pricing query
+13080,ACC-C3BE2,Quote follow-up,2025-06-23,1269,pricing query
+13082,ACC-A68A2,Quote follow-up,2024-07-04,1084,
+13088,ACC-C304F,Email,2025-04-22,1110,chase payment
+13092,ACC-1FC0D,Call,2025-06-09,1060,new job starting
+13106,ACC-43DE1,Visit,2025-04-04,1268,
+13124,ACC-E17DC,Quote follow-up,2025-02-21,1215,chase payment
+13125,ACC-AB9E3,Note,2024-03-23,1163,left vm
+13130,ACC-12A06,Note,2024-01-08,1189,
+13133,ACC-B8C2C,Call,2025-12-10,1035,pricing query
+13158,ACC-E1B29,Note,2025-07-25,1216,new job starting
+13159,ACC-9BB91,Call,2025-09-04,1215,pricing query
+13161,ACC-B977E,Note,2024-07-11,1035,pricing query
+13164,ACC-F4276,Email,2024-05-08,1111,pricing query
+13169,ACC-DDC10,Email,2025-07-09,1191,see email
+13171,ACC-2C910,Call,2024-08-01,1061,new job starting
+13181,ACC-8D272,Email,2025-10-24,1266,new job starting
+13182,ACC-BFEA1,Call,2025-09-17,1293,pricing query
+13185,ACC-93816,Visit,2024-03-01,1112,
+13187,ACC-3ABF5,Call,2024-04-19,1218,
+13198,ACC-8E9D9,Call,2025-07-07,1188,
+13201,ACC-6D2B1,Call,2025-06-11,1269,spoke to site mgr re delivery
+13212,ACC-61EA9,Call,2024-11-13,1216,left vm
+13213,ACC-81A33,Quote follow-up,2025-03-20,1217,
+13216,ACC-12162,Call,2024-11-12,1192,pricing query
+13226,ACC-73B06,Call,2024-04-02,1036,pricing query
+13239,ACC-45D9F,Email,2025-08-08,1242,wants better price on blocks
+13243,ACC-57C7D,Quote follow-up,2025-05-28,1165,see email
+13254,ACC-A289D,Call,2024-06-24,1269,left vm
+13258,ACC-3A523,Call,2024-05-24,1033,spoke to site mgr re delivery
+13268,ACC-D4326,Email,2024-10-24,1214,new job starting
+13275,ACC-47FE1,Quote follow-up,2025-04-02,1111,call back next wk
+13288,ACC-A78BB,Call,2025-09-30,1244,chase payment
+13301,ACC-AF43E,Call,2024-06-17,1035,see email
+13311,ACC-C70CE,Visit,2024-11-09,1060,new job starting
+13318,ACC-DD242,Call,2025-11-13,1166,new job starting
+13335,ACC-5186A,Quote follow-up,2024-11-11,1035,
+13357,ACC-2C27C,Visit,2024-12-30,1166,left vm
+13396,ACC-BBE83,Email,2025-05-26,1034,new job starting
+13406,ACC-9C08D,Note,2025-05-27,1216,
+13420,ACC-18A9F,Call,2024-05-21,1059,pricing query
+13435,ACC-FF06A,Call,2025-01-30,1113,pricing query
+13444,ACC-EF061,Call,2025-11-10,1110,
+13467,ACC-1FC7D,Quote follow-up,2025-08-11,1269,
+13468,ACC-10D3D,Quote follow-up,2024-03-29,1214,chase payment
+13469,ACC-E620D,Visit,2025-04-16,1191,pricing query
+13471,ACC-3DAF1,Email,2024-02-16,1214,new job starting
+13479,ACC-852A9,Call,2024-01-26,1036,
+13488,ACC-18A9F,Email,2024-10-03,1059,
+13508,ACC-9D27D,Note,2025-08-30,1088,spoke to site mgr re delivery
+13518,ACC-9183F,Note,2024-05-11,1190,left vm
+13524,ACC-E3B0E,Note,2024-08-29,1166,wants better price on blocks
+13539,ACC-207E8,Call,2025-11-17,1035,call back next wk
+13551,ACC-1DEF0,Call,2025-05-28,1217,
+13552,ACC-93F2F,Email,2024-05-17,1110,pricing query
+13581,ACC-95E97,Note,2024-12-23,1058,
+13593,ACC-F3188,Call,2024-04-03,1244,
+13600,ACC-959BE,Call,2025-04-19,,wants better price on blocks
+13611,ACC-F5F6B,Call,2024-02-13,1060,pricing query
+13613,ACC-D664E,Visit,2024-09-23,1112,spoke to site mgr re delivery
+13629,ACC-C9A11,Call,2025-01-18,1241,spoke to site mgr re delivery
+13634,ACC-42AEC,Visit,2025-03-18,1034,chase payment
+13649,ACC-BA634,Call,2024-07-31,1086,call back next wk
+13656,ACC-12162,Call,2025-05-06,1192,
+13680,ACC-F7A61,Call,2025-03-17,1032,spoke to site mgr re delivery
+13702,ACC-A0AC5,Note,2024-10-29,1188,new job starting
+13712,ACC-5AD6E,Note,2025-09-05,1111,see email
+13715,ACC-C473B,Call,2024-07-26,1190,left vm
+13742,ACC-7D5F0,Visit,2025-05-20,1035,
+13743,ACC-461C5,Note,2025-01-09,1139,left vm
+13756,ACC-85F10,Call,2024-10-28,1060,wants better price on blocks
+13769,ACC-DF34D,Note,2024-05-24,1166,left vm
+13795,ACC-437D6,Email,2025-04-04,1058,
+13801,ACC-3D0D8,Call,2025-08-04,1244,wants better price on blocks
+13804,ACC-7BC80,Email,2024-12-11,1190,
+13812,ACC-F5F6B,Call,2025-08-13,1060,
+13815,ACC-89471,Visit,2024-07-12,1110,left vm
+13827,ACC-232CE,Email,2024-10-25,1035,spoke to site mgr re delivery
+13849,ACC-486EB,Note,2025-02-08,1192,left vm
+13872,ACC-EE53C,Email,2024-11-12,,new job starting
+13875,ACC-6C660,Note,2025-05-12,1192,pricing query
+13878,ACC-75AD1,Call,2024-09-09,1190,wants better price on blocks
+13885,ACC-3A523,Call,2025-01-23,1033,left vm
+13892,ACC-91B47,Email,2025-11-11,1244,spoke to site mgr re delivery
+13899,ACC-6BB91,Email,2024-12-02,1217,spoke to site mgr re delivery
+13927,ACC-486EB,Note,2025-06-06,1192,wants better price on blocks
+13966,ACC-3B908,Email,2024-08-13,1138,see email
+13972,ACC-D436D,Call,2025-05-19,1058,spoke to site mgr re delivery
+13980,ACC-39E73,Call,2024-09-25,1190,chase payment
+13985,ACC-ADDD0,Call,2025-09-08,1215,see email
+13986,ACC-EED7C,Visit,2025-07-17,1111,pricing query
+13989,ACC-B79AB,Visit,2024-08-22,1244,pricing query
+13993,ACC-9B571,Note,2025-07-15,1244,new job starting
+14003,ACC-9195B,Call,2024-11-09,1190,spoke to site mgr re delivery
+14004,ACC-11E0E,Call,2025-09-04,1192,chase payment
+14013,ACC-C7419,Call,2025-07-23,1217,pricing query
+14022,ACC-B5048,Email,2025-04-18,1110,call back next wk
+14030,ACC-11E0E,Visit,2024-06-22,1192,new job starting
+14039,ACC-E8369,Visit,2025-10-25,1088,pricing query
+14050,ACC-151A8,Email,2025-08-29,1113,left vm
+14057,ACC-77C08,Call,2025-03-14,1190,left vm
+14065,ACC-244E5,Visit,2025-11-11,1112,pricing query
+14066,ACC-F46D2,Quote follow-up,2025-03-31,1010,new job starting
+14068,ACC-3A4C1,Call,2025-11-15,1244,
+14080,ACC-E7212,Email,2024-07-04,1190,wants better price on blocks
+14102,ACC-CD57A,Call,2025-08-19,1035,pricing query
+14112,ACC-62AF1,Call,2024-08-22,1243,new job starting
+14113,ACC-67628,Call,2024-08-16,1113,new job starting
+14134,ACC-D436D,Email,2025-09-15,1058,spoke to site mgr re delivery
+14148,ACC-A5F0A,Call,2025-10-06,,wants better price on blocks
+14163,ACC-CB89D,Email,2024-06-19,1268,see email
+14172,ACC-2D597,Call,2025-08-22,1036,
+14179,ACC-7EB0A,Email,2025-08-14,,pricing query
+14185,ACC-EED28,Email,2025-08-21,1192,new job starting
+14188,ACC-B35E3,Email,2024-11-02,1139,chase payment
+14191,ACC-A0CFB,Email,2024-09-24,1088,see email
+14192,ACC-CDAB2,Call,2025-08-14,1214,chase payment
+14193,ACC-DD242,Call,2025-04-10,1166,new job starting
+14194,ACC-9C9DA,Note,2024-04-22,1035,new job starting
+14206,ACC-D3D12,Call,2025-06-19,1036,see email
+14214,ACC-7D1F4,Call,2024-05-10,1268,new job starting
+14247,ACC-41180,Visit,2024-10-15,1244,call back next wk
+14252,ACC-27BF3,Email,2025-07-07,1319,
+14263,ACC-A520C,Email,2025-12-15,1268,
+14270,ACC-309CF,Email,2024-11-22,1190,
+14274,ACC-7733B,Call,2025-06-04,1266,pricing query
+14280,ACC-93F2F,Call,2025-07-22,1110,chase payment
+14283,ACC-10840,Visit,2025-06-05,1267,
+14319,ACC-7B188,Note,2025-08-27,1192,
+14332,ACC-CB89D,Call,2024-09-11,1268,see email
+14343,ACC-82FE6,Email,2024-10-07,1060,
+14349,ACC-59871,Call,2025-04-16,1010,pricing query
+14353,ACC-CB544,Email,2025-12-15,1166,see email
+14358,ACC-1FC7D,Call,2025-02-11,1269,see email
+14368,ACC-85E0D,Call,2024-10-04,1241,spoke to site mgr re delivery
+14383,ACC-FD3A5,Call,2024-11-25,1320,pricing query
+14405,ACC-2C27C,Email,2024-11-12,1166,see email
+14410,ACC-9F13B,Email,2025-03-06,1111,wants better price on blocks
+14423,ACC-6956F,Call,2024-02-16,1036,
+14427,ACC-35EF2,Email,2024-03-05,1266,left vm
+14434,ACC-64031,Email,2025-08-22,1059,pricing query
+14443,ACC-F9B68,Call,2025-08-30,1192,pricing query
+14455,ACC-F7A61,Note,2024-02-13,1032,new job starting
+14477,ACC-6A410,Call,2024-03-01,1112,chase payment
+14480,ACC-8213F,Call,2025-07-04,1166,see email
+14514,ACC-E3A95,Visit,2025-04-02,1190,
+14517,ACC-844F8,Note,2025-10-08,1243,
+14519,ACC-85F10,Call,2024-07-08,1060,spoke to site mgr re delivery
+14528,ACC-34CFA,Call,2025-10-15,1112,see email
+14530,ACC-D747F,Call,2024-11-22,1191,pricing query
+14541,ACC-5BBE7,Call,2024-03-04,1110,left vm
+14542,ACC-34984,Call,2025-09-17,1214,new job starting
+14548,ACC-F08BA,Call,2024-07-15,1269,new job starting
+14566,ACC-7B0E9,Call,2025-04-11,1214,
+14572,ACC-41B9D,Quote follow-up,2024-08-03,1215,
+14575,ACC-45AA2,Visit,2025-05-15,1192,call back next wk
+14588,ACC-4B319,Call,2024-09-05,1269,wants better price on blocks
+14592,ACC-F04A0,Email,2025-10-23,1032,chase payment
+14593,ACC-546C0,Call,2024-08-02,1214,see email
+14600,ACC-95E97,Visit,2024-05-07,1058,wants better price on blocks
+14622,ACC-33881,Visit,2024-04-04,,left vm
+14625,ACC-F0E28,Quote follow-up,2024-05-30,1165,
+14628,ACC-F1A71,Email,2024-06-18,1270,pricing query
+14636,ACC-B944F,Call,2025-11-24,1111,new job starting
+14638,ACC-EA636,Call,2025-05-02,1088,call back next wk
+14645,ACC-15A2D,Call,2025-02-03,1032,left vm
+14657,ACC-9647C,Email,2024-09-23,1266,chase payment
+14663,ACC-45D16,Quote follow-up,2025-09-15,1191,
+14665,ACC-B34D9,Email,2024-07-09,1244,
+14679,ACC-F7334,Call,2024-10-16,1266,
+14692,ACC-C700B,Call,2025-11-28,1190,
+14698,ACC-A78BB,Call,2025-04-16,1244,see email
+14718,ACC-A526F,Visit,2024-11-13,1192,wants better price on blocks
+14744,ACC-E024C,Call,2024-01-18,1033,new job starting
+14746,ACC-AF0E1,Call,2024-04-25,1138,wants better price on blocks
+14764,ACC-10D3D,Call,2025-01-27,1214,new job starting
+14789,ACC-D2708,Call,2024-02-23,1166,wants better price on blocks
+14811,ACC-3AA41,Call,2024-04-18,1086,chase payment
+14813,ACC-7A973,Email,2025-06-16,1036,chase payment
+14816,ACC-7219E,Email,2025-05-05,1270,left vm
+14817,ACC-EC81F,Note,2024-07-16,1191,new job starting
+14842,ACC-C700B,Email,2025-07-16,1190,new job starting
+14849,ACC-9107A,Quote follow-up,2025-05-01,1190,left vm
+14859,ACC-9F1F2,Call,2024-10-18,1216,spoke to site mgr re delivery
+14862,ACC-BC9EF,Call,2025-03-12,1216,see email
+14873,ACC-72837,Call,2025-06-20,1058,pricing query
+14876,ACC-93F2F,Call,2024-07-17,1110,left vm
+14881,ACC-5C503,Email,2025-10-02,1269,call back next wk
+14883,ACC-22D19,Call,2025-04-29,1268,
+14886,ACC-D107D,Email,2025-04-15,1188,see email
+14892,ACC-65695,Call,2025-10-30,1088,call back next wk
+14907,ACC-C700B,Note,2024-06-04,1190,see email
+14927,ACC-1D174,Call,2024-10-31,1188,spoke to site mgr re delivery
+14930,ACC-64031,Call,2025-11-18,1059,wants better price on blocks
+14941,ACC-37766,Visit,2025-03-24,1318,left vm
+14947,ACC-1741F,Quote follow-up,2025-05-14,1217,pricing query
+14955,ACC-59F8A,Call,2024-12-03,1088,see email
+14959,ACC-A78FB,Call,2024-12-05,1215,
+14966,ACC-10840,Visit,2024-06-11,1267,left vm
+14975,ACC-7D1F4,Email,2024-09-18,1268,chase payment
+14976,ACC-F7A61,Email,2024-09-19,1032,
+14977,ACC-4F44D,Email,2025-09-20,1110,pricing query
+14981,ACC-F7334,Email,2024-06-11,1266,spoke to site mgr re delivery
+14999,ACC-26556,Note,2025-04-30,1061,see email
+15028,ACC-3BF1A,Quote follow-up,2025-03-03,,wants better price on blocks
+15032,ACC-4CA5C,Quote follow-up,2024-03-19,1321,chase payment
+15044,ACC-CFFBE,Quote follow-up,2025-06-03,,spoke to site mgr re delivery
+15047,ACC-9D27D,Call,2025-11-06,1088,new job starting
+15059,ACC-FEBDB,Call,2024-04-17,1032,wants better price on blocks
+15072,ACC-D436D,Note,2025-06-05,1058,call back next wk
+15073,ACC-4DEE7,Call,2025-11-04,1162,see email
+15074,ACC-5D8CF,Call,2024-03-27,1113,call back next wk
+15084,ACC-A526F,Call,2024-04-15,1192,new job starting
+15089,ACC-9C08D,Call,2025-06-06,1216,
+15091,ACC-3569A,Call,2024-05-30,1033,call back next wk
+15099,ACC-8E49D,Email,2025-05-29,1216,see email
+15103,ACC-7B188,Email,2024-07-04,1192,chase payment
+15107,ACC-12162,Email,2024-12-10,1192,call back next wk
+15112,ACC-418BB,Call,2024-10-14,1010,chase payment
+15117,ACC-DDB21,Call,2024-07-12,1061,pricing query
+15128,ACC-BF648,Visit,2025-06-18,1215,new job starting
+15148,ACC-F82F9,Call,2024-09-09,1139,wants better price on blocks
+15162,ACC-2926C,Visit,2024-08-22,1266,call back next wk
+15180,ACC-F8367,Call,2025-07-23,1215,call back next wk
+15191,ACC-20BC0,Email,2025-01-20,1138,left vm
+15205,ACC-41D3D,Call,2025-08-20,1140,
+15223,ACC-6956F,Email,2024-07-06,1036,pricing query
+15226,ACC-A0CFB,Quote follow-up,2025-09-03,1088,spoke to site mgr re delivery
+15236,ACC-C473B,Email,2024-04-09,1190,
+15247,ACC-DD242,Visit,2024-11-25,1166,left vm
+15248,ACC-852A9,Call,2025-07-21,1036,
+15270,ACC-59F8A,Email,2024-10-17,1088,left vm
+15288,ACC-EC81F,Visit,2024-03-15,1191,pricing query
+15306,ACC-F8606,Call,2025-11-27,1059,new job starting
+15317,ACC-45AA2,Visit,2025-08-21,1192,new job starting
+15329,ACC-43DE1,Call,2025-08-15,1268,new job starting
+15348,ACC-952CF,Visit,2025-09-22,1188,call back next wk
+15351,ACC-9107A,Email,2024-01-16,1190,left vm
+15356,ACC-A86EF,Call,2024-09-30,1088,new job starting
+15396,ACC-974E1,Call,2024-05-24,1296,new job starting
+15407,ACC-F3188,Quote follow-up,2024-02-26,1244,left vm
+15415,ACC-8AD0C,Email,2024-12-24,1216,
+15428,ACC-BBEBC,Email,2024-01-30,1216,pricing query
+15434,ACC-52B75,Quote follow-up,2025-08-26,1010,
+15460,ACC-AFA43,Quote follow-up,2024-04-03,1137,
+15462,ACC-A86EF,Email,2025-05-21,1088,left vm
+15478,ACC-7C1EF,Email,2025-09-23,1218,new job starting
+15482,ACC-59871,Quote follow-up,2024-04-17,1010,call back next wk
+15491,ACC-9B571,Call,2024-11-14,1244,call back next wk
+15507,ACC-6C416,Visit,2024-06-21,1140,
+15525,ACC-84A22,Call,2025-06-17,1032,spoke to site mgr re delivery
+15528,ACC-9A718,Note,2024-11-29,1164,new job starting
+15555,ACC-422B9,Quote follow-up,2024-02-01,1268,pricing query
+15562,ACC-8DA74,Visit,2024-07-16,1216,wants better price on blocks
+15601,ACC-2C0E0,Note,2024-08-22,1296,spoke to site mgr re delivery
+15603,ACC-F339C,Quote follow-up,2024-12-11,1033,call back next wk
+15604,ACC-E9C0C,Quote follow-up,2024-10-12,1268,pricing query
+15605,ACC-F371B,Visit,2024-10-10,1188,pricing query
+15607,ACC-F3FA8,Note,2025-12-02,1060,wants better price on blocks
+15627,ACC-7219E,Call,2024-08-05,1270,left vm
+15637,ACC-89ED5,Email,2024-07-08,1319,chase payment
+15642,ACC-65695,Note,2025-03-11,1088,see email
+15644,ACC-400A1,Quote follow-up,2025-02-28,1086,left vm
+15682,ACC-5BBE7,Email,2025-03-10,1110,left vm
+15690,ACC-944C9,Email,2025-03-04,1267,new job starting
+15694,ACC-202FC,Visit,2024-08-01,1062,call back next wk
+15700,ACC-2ADF1,Email,2024-05-23,1032,chase payment
+15704,ACC-6C660,Call,2024-10-10,1192,left vm
+15708,ACC-A0CFB,Email,2024-10-18,1088,new job starting
+15710,ACC-3B908,Call,2025-07-03,1138,wants better price on blocks
+15752,ACC-6C1E6,Visit,2025-01-24,1061,left vm
+15757,ACC-11E0E,Call,2025-03-18,1192,spoke to site mgr re delivery
+15758,ACC-D436D,Visit,2024-04-04,1058,chase payment
+15762,ACC-D4326,Quote follow-up,2024-04-03,1214,
+15778,ACC-1EB67,Call,2024-08-01,1061,
+15784,ACC-232CE,Note,2025-06-27,1035,spoke to site mgr re delivery
+15785,ACC-C5620,Quote follow-up,2024-07-04,1112,spoke to site mgr re delivery
+15786,ACC-26556,Quote follow-up,2024-07-19,1061,pricing query
+15789,ACC-B8906,Email,2025-07-07,1036,
+15792,ACC-207E8,Visit,2025-08-15,1035,see email
+15799,ACC-644CF,Email,2024-06-29,1032,left vm
+15800,ACC-3EC6B,Email,2024-05-02,1110,wants better price on blocks
+15802,ACC-76765,Note,2025-02-07,1033,
+15803,ACC-72837,Email,2024-06-07,1058,spoke to site mgr re delivery
+15806,ACC-73B06,Email,2024-07-10,1036,pricing query
+15815,ACC-2CB6E,Email,2025-09-22,1086,spoke to site mgr re delivery
+15828,ACC-BBCE3,Email,2025-02-11,1033,spoke to site mgr re delivery
+15830,ACC-DC518,Call,2024-07-05,1061,new job starting
+15837,ACC-66F86,Quote follow-up,2025-09-04,1034,left vm
+15840,ACC-B79AB,Email,2024-07-31,1244,left vm
+15845,ACC-5406D,Email,2024-04-10,1320,
+15849,ACC-B1834,Quote follow-up,2025-12-24,,chase payment
+15871,ACC-29721,Call,2025-02-19,1214,new job starting
+15874,ACC-26556,Call,2024-04-03,1061,new job starting
+15880,ACC-B4EFD,Note,2024-01-11,1166,spoke to site mgr re delivery
+15885,ACC-CFFBE,Email,2024-07-15,,see email
+15899,ACC-207E8,Note,2025-10-23,1035,chase payment
+15909,ACC-CD451,Email,2024-11-04,1032,
+15912,ACC-EFA47,Email,2025-06-16,,pricing query
+15917,ACC-C454A,Visit,2025-03-26,1266,pricing query
+15918,ACC-79C0F,Call,2024-08-27,1268,see email
+15945,ACC-527BF,Note,2024-10-16,1111,left vm
+15959,ACC-47870,Visit,2024-11-19,,pricing query
+15964,ACC-1210E,Note,2024-01-24,1241,left vm
+16003,ACC-AB5FB,Note,2024-10-18,1058,
+16019,ACC-2667F,Email,2024-02-07,1319,chase payment
+16037,ACC-3BB7E,Quote follow-up,2024-03-04,1295,call back next wk
+16081,ACC-2A25C,Call,2025-01-20,1269,chase payment
+16094,ACC-C3BE2,Email,2025-04-08,1269,call back next wk
+16105,ACC-EE483,Note,2025-06-07,1136,pricing query
+16129,ACC-A9CD5,Visit,2025-03-11,1214,left vm
+16144,ACC-9BB90,Call,2025-11-11,1084,see email
+16147,ACC-FC08E,Call,2024-03-08,1088,
+16155,ACC-D81CA,Quote follow-up,2024-07-05,1032,wants better price on blocks
+16156,ACC-D8C65,Note,2024-11-25,1061,wants better price on blocks
+16157,ACC-207E8,Call,2024-06-22,1035,
+16159,ACC-A1F8D,Quote follow-up,2024-08-24,1032,left vm
+16161,ACC-C9290,Email,2024-03-07,1321,chase payment
+16168,ACC-3EC6B,Quote follow-up,2024-03-05,1110,left vm
+16179,ACC-8AD0C,Visit,2025-11-07,1216,new job starting
+16224,ACC-63C48,Call,2024-06-11,1113,pricing query
+16234,ACC-F04A0,Email,2025-06-26,1032,wants better price on blocks
+16239,ACC-EF061,Call,2024-10-03,1110,left vm
+16253,ACC-35EF2,Note,2024-07-04,1266,left vm
+16260,ACC-EA967,Call,2024-02-19,1240,
+16262,ACC-27BF3,Call,2025-12-09,1319,
+16264,ACC-9CE78,Call,2025-08-19,1060,see email
+16265,ACC-DB0D6,Email,2025-04-04,1110,wants better price on blocks
+16292,ACC-73E8C,Quote follow-up,2025-07-23,1244,chase payment
+16295,ACC-C3783,Email,2025-02-19,1215,chase payment
+16306,ACC-A289D,Email,2024-06-25,1269,
+16324,ACC-B977E,Call,2024-05-20,1035,pricing query
+16328,ACC-6C1E6,Email,2025-09-12,1061,chase payment
+16335,ACC-9276F,Email,2024-09-27,1166,spoke to site mgr re delivery
+16345,ACC-40010,Visit,2024-08-16,1112,pricing query
+16347,ACC-48D7F,Email,2025-06-16,1266,spoke to site mgr re delivery
+16349,ACC-D81CA,Visit,2024-03-06,1032,
+16357,ACC-418BB,Visit,2024-02-12,1010,chase payment
+16366,ACC-1D174,Quote follow-up,2025-06-25,1188,wants better price on blocks
+16381,ACC-9647C,Email,2024-11-21,1266,new job starting
+16397,ACC-64031,Email,2025-10-23,1059,
+16398,ACC-3569A,Note,2024-05-20,1033,wants better price on blocks
+16407,ACC-2926C,Visit,2024-07-29,1266,left vm
+16408,ACC-7E075,Email,2024-04-30,,call back next wk
+16420,ACC-ABD7F,Call,2025-06-10,1190,pricing query
+16421,ACC-4B319,Call,2025-08-22,1269,see email
+16422,ACC-232CE,Visit,2024-02-05,1035,
+16424,ACC-F7A61,Note,2025-08-12,1032,left vm
+16440,ACC-837C7,Quote follow-up,2025-09-06,1189,
+16459,ACC-59871,Call,2024-08-17,1010,call back next wk
+16466,ACC-A9CD5,Note,2024-07-05,1214,spoke to site mgr re delivery
+16471,ACC-F3FA8,Call,2025-11-03,1060,spoke to site mgr re delivery
+16484,ACC-5C852,Call,2024-05-07,1060,spoke to site mgr re delivery
+16488,ACC-DD242,Email,2025-05-01,1166,
+16493,ACC-6D384,Quote follow-up,2025-10-27,1216,
+16496,ACC-8BCD9,Quote follow-up,2025-08-12,1217,pricing query
+16524,ACC-C3BE2,Quote follow-up,2025-09-25,1269,left vm
+16547,ACC-7A973,Call,2024-01-10,1036,
+16548,ACC-85803,Email,2024-03-29,1059,call back next wk
+16550,ACC-837C7,Call,2024-02-14,1189,spoke to site mgr re delivery
+16568,ACC-9CA50,Note,2025-04-02,1010,left vm
+16581,ACC-EA636,Call,2025-10-31,1088,chase payment
+16596,ACC-607C2,Visit,2025-10-24,1318,
+16600,ACC-E96FD,Email,2025-06-30,1059,call back next wk
+16621,ACC-9510D,Call,2024-08-29,1269,
+16625,ACC-7D5F0,Call,2024-03-07,1035,new job starting
+16647,ACC-D436D,Call,2025-03-24,1058,call back next wk
+16649,ACC-527BF,Call,2024-04-22,1111,left vm
+16651,ACC-1741F,Call,2024-02-21,1217,new job starting
+16677,ACC-391D6,Quote follow-up,2025-09-18,1188,wants better price on blocks
+16687,ACC-91B47,Email,2025-01-06,1244,chase payment
+16690,ACC-8E731,Note,2025-07-31,,
+16691,ACC-8941D,Note,2024-01-13,1293,
+16709,ACC-A526F,Quote follow-up,2025-02-19,1192,chase payment
+16714,ACC-3D0D8,Quote follow-up,2025-04-04,1244,see email
+16716,ACC-DD287,Call,2025-03-13,1138,
+16737,ACC-E9C0C,Quote follow-up,2024-06-19,1268,new job starting
+16759,ACC-B34D9,Email,2025-11-24,1244,see email
+16760,ACC-A0CFB,Quote follow-up,2024-07-17,1088,left vm
+16762,ACC-68EF7,Visit,2024-12-12,1188,chase payment
+16783,ACC-BE1BA,Email,2024-09-13,1215,new job starting
+16793,ACC-F2D27,Email,2025-08-22,1059,call back next wk
+16796,ACC-63712,Email,2025-08-21,1058,chase payment
+16821,ACC-CB593,Quote follow-up,2025-10-16,1189,left vm
+16847,ACC-D9053,Note,2024-04-10,1218,see email
+16853,ACC-FDAFA,Quote follow-up,2025-01-14,1216,see email
+16854,ACC-A78BB,Call,2024-03-15,1244,chase payment
+16867,ACC-ABD7F,Call,2024-02-29,1190,
+16870,ACC-F9B68,Email,2025-06-06,1192,chase payment
+16885,ACC-C473B,Email,2025-10-02,1190,call back next wk
+16893,ACC-B8C2C,Call,2024-06-13,1035,
+16900,ACC-FFEF7,Email,2024-01-24,,
+16917,ACC-22C42,Visit,2024-06-03,1035,new job starting
+16949,ACC-7A973,Call,2025-11-27,1036,pricing query
+16960,ACC-515EB,Call,2024-08-23,1034,see email
+16961,ACC-338DA,Email,2025-09-15,1217,spoke to site mgr re delivery
+16974,ACC-DB0D6,Email,2024-05-20,1110,see email
+16987,ACC-10D3D,Call,2025-03-28,1214,call back next wk
+16988,ACC-9107A,Email,2024-03-12,1190,new job starting
+17006,ACC-8D272,Call,2024-12-06,1266,pricing query
+17013,ACC-AE275,Call,2025-10-30,1032,see email
+17029,ACC-45AA2,Email,2025-12-03,1192,new job starting
+17045,ACC-E0CA5,Visit,2025-07-14,1188,see email
+17061,ACC-AE275,Note,2025-06-03,1032,left vm
+17067,ACC-644CF,Call,2025-07-18,1032,
+17074,ACC-8E49D,Call,2024-08-21,1216,left vm
+17075,ACC-EED28,Call,2025-07-15,1192,
+17077,ACC-A0CFB,Quote follow-up,2025-05-22,1088,pricing query
+17079,ACC-9B9E2,Visit,2025-04-29,1191,new job starting
+17083,ACC-FDAFA,Quote follow-up,2024-10-25,1216,new job starting
+17087,ACC-34CFA,Note,2024-06-26,1112,left vm
+17091,ACC-B944F,Visit,2024-12-11,1111,
+17103,ACC-993E3,Email,2024-05-24,1269,left vm
+17108,ACC-8213F,Email,2024-09-16,1166,see email
+17115,ACC-E3A95,Call,2025-02-07,1190,
+17117,ACC-1C054,Email,2025-03-28,1268,left vm
+17120,ACC-2A25C,Email,2024-10-23,1269,wants better price on blocks
+17128,ACC-CD57A,Email,2025-09-03,1035,call back next wk
+17132,ACC-45D16,Email,2024-10-08,1191,call back next wk
+17187,ACC-1A101,Email,2025-04-05,1085,left vm
+17198,ACC-F9B68,Email,2025-04-10,1192,wants better price on blocks
+17206,ACC-CD451,Call,2025-12-08,1032,see email
+17213,ACC-AFA43,Email,2024-06-11,1137,left vm
+17219,ACC-A1F8D,Note,2024-07-12,1032,left vm
+17231,ACC-E024C,Call,2024-03-01,1033,
+17234,ACC-9C08D,Visit,2025-10-10,1216,spoke to site mgr re delivery
+17235,ACC-33881,Visit,2025-01-02,,call back next wk
+17241,ACC-47FE1,Call,2025-09-25,1111,spoke to site mgr re delivery
+17245,ACC-EF308,Call,2024-02-16,1110,see email
+17273,ACC-2D597,Quote follow-up,2025-10-06,1036,left vm
+17277,ACC-5E2A9,Email,2024-05-13,,call back next wk
+17279,ACC-EA636,Call,2024-09-06,1088,spoke to site mgr re delivery
+17280,ACC-639B3,Email,2024-08-19,1191,call back next wk
+17281,ACC-546C0,Email,2025-04-29,1214,new job starting
+17294,ACC-68EF7,Note,2024-02-17,1188,call back next wk
+17300,ACC-6CFB3,Call,2025-04-24,1217,pricing query
+17304,ACC-9CA50,Call,2024-09-12,1010,new job starting
+17307,ACC-F04A0,Quote follow-up,2024-06-05,1032,left vm
+17321,ACC-2C910,Email,2025-02-28,1061,spoke to site mgr re delivery
+17323,ACC-2450E,Email,2025-10-21,1032,new job starting
+17330,ACC-53B54,Quote follow-up,2025-07-12,1188,call back next wk
+17344,ACC-8E49D,Email,2024-02-15,1216,call back next wk
+17351,ACC-9B571,Quote follow-up,2025-10-22,1244,call back next wk
+17383,ACC-CD451,Email,2024-07-17,1032,wants better price on blocks
+17394,ACC-9510D,Email,2025-07-15,1269,wants better price on blocks
+17396,ACC-A28C5,Note,2025-04-04,1036,pricing query
+17399,ACC-57441,Note,2025-01-10,1216,spoke to site mgr re delivery
+17402,ACC-FEBDB,Note,2024-10-30,1032,wants better price on blocks
+17413,ACC-A78FB,Email,2025-07-30,1215,pricing query
+17417,ACC-32B94,Call,2024-03-08,1058,pricing query
+17428,ACC-418BB,Note,2024-08-01,1010,left vm
+17430,ACC-F7A61,Call,2025-05-03,1032,left vm
+17436,ACC-F171C,Call,2025-10-30,1113,new job starting
+17455,ACC-D2813,Email,2025-02-21,1215,chase payment
+17457,ACC-7394E,Call,2024-04-15,1216,chase payment
+17459,ACC-9B9E2,Email,2025-09-13,1191,new job starting
+17462,ACC-F3615,Note,2024-04-09,1088,chase payment
+17472,ACC-CD57A,Quote follow-up,2025-10-31,1035,
+17475,ACC-57301,Note,2025-04-15,1244,wants better price on blocks
+17478,ACC-87DD2,Visit,2025-04-16,,wants better price on blocks
+17489,ACC-BE9D6,Call,2025-08-06,1058,
+17519,ACC-7DBFD,Call,2024-09-09,1113,pricing query
+17520,ACC-85803,Note,2024-10-21,1059,left vm
+17530,ACC-BE9D6,Call,2024-06-13,1058,left vm
+17535,ACC-AE751,Email,2024-03-05,1190,chase payment
+17555,ACC-8D8C1,Visit,2025-09-29,1162,see email
+17559,ACC-3E01F,Call,2025-04-24,1240,pricing query
+17562,ACC-1AFE2,Note,2024-02-15,1214,left vm
+17578,ACC-57441,Call,2025-07-09,1216,call back next wk
+17585,ACC-7B0E9,Note,2024-01-08,1214,pricing query
+17602,ACC-644CF,Note,2025-06-14,1032,
+17605,ACC-93F2F,Call,2024-09-28,1110,left vm
+17607,ACC-10840,Email,2025-10-22,1267,call back next wk
+17615,ACC-36CC4,Email,2024-09-07,1192,new job starting
+17623,ACC-B944F,Quote follow-up,2024-01-22,1111,pricing query
+17635,ACC-2C27C,Call,2025-07-14,1166,call back next wk
+17642,ACC-4B319,Call,2024-03-08,1269,wants better price on blocks
+17658,ACC-993E3,Visit,2025-09-01,1269,pricing query
+17660,ACC-5BBE7,Call,2024-10-04,1110,wants better price on blocks
+17675,ACC-F2D27,Email,2024-01-10,1059,spoke to site mgr re delivery
+17682,ACC-1141B,Quote follow-up,2025-08-06,1268,new job starting
+17702,ACC-63712,Call,2024-01-10,1058,chase payment
+17703,ACC-ABD7F,Quote follow-up,2025-09-11,1190,wants better price on blocks
+17716,ACC-9647C,Email,2024-12-21,1266,
+17762,ACC-EF308,Quote follow-up,2024-01-11,1110,
+17771,ACC-2926C,Visit,2024-08-16,1266,see email
+17795,ACC-1D174,Visit,2024-02-12,1188,chase payment
+17817,ACC-6AD59,Email,2025-04-16,1010,spoke to site mgr re delivery
+17820,ACC-75AD1,Note,2024-08-12,1190,spoke to site mgr re delivery
+17857,ACC-B977E,Email,2025-08-06,1035,spoke to site mgr re delivery
+17864,ACC-644CF,Note,2024-09-16,1032,
+17883,ACC-29721,Call,2024-12-04,1214,chase payment
+17896,ACC-D1906,Email,2024-01-19,1189,wants better price on blocks
+17902,ACC-82B6D,Call,2025-08-07,1061,pricing query
+17913,ACC-29721,Call,2025-07-15,1214,wants better price on blocks
+17922,ACC-837C7,Call,2025-02-21,1189,
+17931,ACC-6EDBC,Email,2025-07-10,1267,call back next wk
+17932,ACC-49DE2,Visit,2025-06-19,1062,new job starting
+17953,ACC-DC518,Email,2025-12-09,1061,see email
+17957,ACC-6819E,Email,2025-10-10,1321,left vm
+17970,ACC-9107A,Visit,2025-08-13,1190,pricing query
+17988,ACC-68EF7,Note,2024-10-26,1188,spoke to site mgr re delivery
+17999,ACC-92E90,Quote follow-up,2024-11-12,1059,
+18013,ACC-6D384,Note,2025-01-03,1216,pricing query
+18017,ACC-D8C65,Call,2025-03-08,1061,see email
+18029,ACC-C473B,Email,2024-01-18,1190,
+18032,ACC-1C054,Call,2024-05-04,1268,see email
+18037,ACC-57441,Call,2025-02-08,1216,
+18044,ACC-73E8C,Note,2024-07-15,1244,pricing query
+18048,ACC-A86EF,Quote follow-up,2024-09-25,1088,call back next wk
+18051,ACC-4F44D,Email,2025-04-05,1110,pricing query
+18057,ACC-42E28,Note,2025-04-18,1061,
+18066,ACC-8DE54,Note,2024-06-24,,wants better price on blocks
+18068,ACC-1DEF0,Call,2024-07-31,1217,
+18080,ACC-AB5FB,Note,2024-03-15,1058,wants better price on blocks
+18081,ACC-8D272,Email,2025-03-31,1266,left vm
+18090,ACC-7B0E9,Call,2024-08-27,1214,left vm
+18100,ACC-CB593,Call,2025-12-02,1189,
+18102,ACC-3369B,Call,2025-11-11,1244,pricing query
+18119,ACC-14C8C,Email,2024-02-29,1191,
+18124,ACC-CDE0A,Note,2025-08-13,1192,new job starting
+18128,ACC-C3BE2,Note,2024-08-12,1269,new job starting
+18138,ACC-A520C,Note,2024-02-28,1268,chase payment
+18149,ACC-6A410,Note,2024-04-30,1112,pricing query
+18166,ACC-5C503,Email,2024-08-26,1269,wants better price on blocks
+18190,ACC-1DEF0,Quote follow-up,2025-09-16,1217,
+18198,ACC-AE751,Call,2025-11-11,1190,wants better price on blocks
+18209,ACC-7B0E9,Email,2025-05-28,1214,
+18233,ACC-9D5EA,Visit,2025-06-16,1217,pricing query
+18238,ACC-3A4C1,Visit,2025-05-22,1244,call back next wk
+18240,ACC-461C5,Call,2025-10-20,1139,call back next wk
+18255,ACC-DB0D6,Call,2025-06-14,1110,left vm
+18269,ACC-C304F,Visit,2024-05-20,1110,new job starting
+18280,ACC-D5A37,Email,2024-08-13,1059,see email
+18284,ACC-9276F,Call,2024-11-19,1166,call back next wk
+18305,ACC-A954E,Call,2025-12-17,1060,new job starting
+18315,ACC-7394E,Call,2025-08-13,1216,
+18343,ACC-2450E,Visit,2024-04-30,1032,wants better price on blocks
+18357,ACC-F3615,Email,2024-10-15,1088,chase payment
+18377,ACC-4B0A7,Call,2024-06-18,1140,call back next wk
+18394,ACC-15A2D,Call,2025-06-04,1032,call back next wk
+18405,ACC-1FC7D,Call,2025-06-18,1269,
+18422,ACC-E7212,Email,2024-04-02,1190,new job starting
+18435,ACC-9D5EA,Call,2024-10-03,1217,left vm
+18453,ACC-5409E,Call,2024-04-30,1166,spoke to site mgr re delivery
+18454,ACC-26208,Email,2024-01-11,1110,see email
+18467,ACC-EED28,Call,2025-06-03,1192,wants better price on blocks
+18497,ACC-68008,Visit,2025-07-25,1087,wants better price on blocks
+18501,ACC-BC923,Note,2024-05-10,1268,
+18506,ACC-A28C5,Call,2025-09-15,1036,wants better price on blocks
+18519,ACC-4CD17,Email,2024-02-15,,new job starting
+18525,ACC-3AC58,Call,2025-02-12,1191,spoke to site mgr re delivery
+18536,ACC-18A9F,Call,2025-06-21,1059,
+18545,ACC-B944F,Quote follow-up,2024-03-18,1111,wants better price on blocks
+18548,ACC-D1FD8,Note,2024-07-19,1242,
+18566,ACC-D5A37,Email,2025-01-24,1059,
+18569,ACC-4665F,Email,2024-05-10,1166,pricing query
+18604,ACC-DEEE0,Email,2025-08-11,1034,wants better price on blocks
+18612,ACC-34984,Call,2024-01-18,1214,wants better price on blocks
+18623,ACC-2FC52,Email,2025-03-21,1162,left vm
+18630,ACC-CDAB2,Email,2025-12-31,1214,spoke to site mgr re delivery
+18632,ACC-A78FB,Email,2025-10-22,1215,chase payment
+18634,ACC-75AD1,Note,2024-10-28,1190,see email
+18651,ACC-E4DDD,Email,2025-06-17,1163,new job starting
+18665,ACC-52F54,Email,2025-03-29,1036,
+18669,ACC-8E9D9,Call,2025-02-24,1188,spoke to site mgr re delivery
+18674,ACC-C785D,Email,2025-10-03,,pricing query
+18687,ACC-52B75,Note,2024-05-31,1010,
+18690,ACC-151A8,Email,2024-09-06,1113,new job starting
+18705,ACC-AFED8,Call,2024-08-12,1165,new job starting
+18723,ACC-C304F,Email,2025-02-17,1110,wants better price on blocks
+18738,ACC-6B8A9,Note,2025-12-31,1189,see email
+18759,ACC-34DE8,Email,2024-07-02,1292,see email
+18761,ACC-29721,Email,2024-10-28,1214,
+18770,ACC-675B6,Call,2025-01-29,1036,spoke to site mgr re delivery
+18773,ACC-F4276,Quote follow-up,2024-03-04,1111,chase payment
+18774,ACC-FEBDB,Call,2025-02-13,1032,call back next wk
+18782,ACC-B4EFD,Quote follow-up,2024-09-04,1166,chase payment
+18801,ACC-ABBAD,Email,2025-10-21,1060,pricing query
+18807,ACC-5186A,Quote follow-up,2025-06-16,1035,
+18820,ACC-1D174,Visit,2025-03-25,1188,
+18822,ACC-9107A,Email,2024-04-30,1190,left vm
+18825,ACC-B977E,Call,2025-09-04,1035,pricing query
+18828,ACC-8C54B,Call,2025-11-22,1033,pricing query
+18829,ACC-89471,Call,2024-06-11,1110,spoke to site mgr re delivery
+18840,ACC-675B6,Call,2025-11-14,1036,
+18846,ACC-952CF,Call,2024-11-07,1188,see email
+18857,ACC-D4326,Email,2024-03-29,1214,
+18867,ACC-D80AF,Email,2024-04-01,1191,see email
+18868,ACC-65695,Quote follow-up,2025-05-19,1088,chase payment
+18870,ACC-44791,Call,2024-06-01,1294,see email
+18871,ACC-2F07B,Note,2025-04-30,,pricing query
+18872,ACC-89471,Call,2025-02-11,1110,spoke to site mgr re delivery
+18876,ACC-FA4AD,Note,2025-01-20,1058,spoke to site mgr re delivery
+18881,ACC-63C48,Visit,2024-05-01,1113,pricing query
+18894,ACC-515EB,Call,2025-06-06,1034,see email
+18898,ACC-4905A,Note,2024-02-29,1243,chase payment
+18902,ACC-6697D,Call,2025-11-25,1061,
+18906,ACC-76765,Email,2024-04-22,1033,
+18909,ACC-41180,Call,2025-10-28,1244,see email
+18917,ACC-66F86,Call,2024-02-15,1034,wants better price on blocks
+18923,ACC-26208,Visit,2024-04-19,1110,chase payment
+18925,ACC-89471,Call,2024-02-27,1110,see email
+18932,ACC-EE325,Email,2024-01-11,1034,see email
+18940,ACC-8D8C1,Email,2025-07-05,1162,pricing query
+18947,ACC-9183F,Call,2024-06-17,1190,
+18952,ACC-AE751,Call,2024-12-03,1190,spoke to site mgr re delivery
+18978,ACC-52D05,Quote follow-up,2025-11-28,1113,pricing query
+18987,ACC-FF998,Email,2024-07-10,1111,
+19004,ACC-A0AC5,Call,2025-10-14,1188,
+19007,ACC-F46D2,Visit,2025-05-01,1010,pricing query
+19013,ACC-5409E,Note,2024-11-15,1166,call back next wk
+19024,ACC-C5692,Call,2025-08-21,1088,see email
+19027,ACC-95E97,Call,2024-02-24,1058,wants better price on blocks
+19036,ACC-A954E,Call,2024-02-13,1060,pricing query
+19043,ACC-34CFA,Email,2024-04-30,1112,pricing query
+19054,ACC-C7419,Call,2025-10-08,1217,wants better price on blocks
+19055,ACC-594BC,Email,2024-09-21,1061,chase payment
+19070,ACC-93816,Note,2024-11-07,1112,left vm
+19085,ACC-73E8C,Visit,2025-04-04,1244,wants better price on blocks
+19096,ACC-6CFB3,Email,2024-02-02,1217,call back next wk
+19102,ACC-CA728,Quote follow-up,2024-01-02,1216,spoke to site mgr re delivery
+19118,ACC-2FEEB,Call,2024-03-07,1266,chase payment
+19121,ACC-1E351,Visit,2024-11-08,1060,left vm
+19122,ACC-E7856,Quote follow-up,2024-10-02,1140,new job starting
+19124,ACC-F08BA,Email,2024-05-21,1269,pricing query
+19129,ACC-52C7E,Call,2025-05-13,1321,
+19168,ACC-63C48,Call,2024-03-28,1113,call back next wk
+19202,ACC-20852,Note,2024-12-17,1032,chase payment
+19214,ACC-9CA50,Visit,2024-05-10,1010,call back next wk
+19216,ACC-47FE1,Call,2024-08-26,1111,call back next wk
+19243,ACC-EDC2B,Call,2024-05-14,1268,wants better price on blocks
+19245,ACC-23F70,Note,2025-03-21,1192,pricing query
+19251,ACC-CF9D2,Call,2024-04-09,1034,
+19262,ACC-C70CE,Quote follow-up,2025-10-08,1060,new job starting
+19294,ACC-437D6,Email,2025-04-01,1058,pricing query
+19296,ACC-C454A,Call,2025-09-19,1266,call back next wk
+19297,ACC-322CD,Email,2025-04-29,1111,wants better price on blocks
+19301,ACC-65695,Email,2025-04-05,1088,chase payment
+19323,ACC-63712,Call,2024-08-20,1058,spoke to site mgr re delivery
+19335,ACC-F7334,Call,2024-11-07,1266,left vm
+19338,ACC-E0365,Note,2025-09-06,1087,left vm
+19357,ACC-57301,Quote follow-up,2025-07-25,1244,chase payment
+19360,ACC-6C660,Call,2025-08-15,1192,left vm
+19362,ACC-5409E,Note,2025-04-30,1166,
+19367,ACC-10840,Note,2025-05-08,1267,
+19383,ACC-A8BAD,Note,2024-12-24,1059,see email
+19396,ACC-71896,Quote follow-up,2024-09-30,1189,chase payment
+19398,ACC-F443B,Email,2025-08-07,1060,pricing query
+19405,ACC-D4326,Call,2025-01-28,1214,spoke to site mgr re delivery
+19418,ACC-7E3C6,Note,2025-12-04,1060,new job starting
+19426,ACC-4D014,Call,2024-05-03,1242,see email
+19436,ACC-EED7C,Email,2025-03-11,1111,pricing query
+19442,ACC-17297,Call,2025-01-25,1140,spoke to site mgr re delivery
+19443,ACC-5E9BF,Email,2025-04-14,1188,spoke to site mgr re delivery
+19454,ACC-BE202,Quote follow-up,2024-07-20,1165,chase payment
+19467,ACC-72972,Call,2024-04-16,1137,left vm
+19472,ACC-1741F,Call,2025-03-24,1217,call back next wk
+19476,ACC-952CF,Email,2024-03-01,1188,pricing query
+19487,ACC-89471,Note,2024-09-24,1110,spoke to site mgr re delivery
+19500,ACC-18A9F,Call,2024-02-06,1059,see email
+19513,ACC-44791,Call,2025-02-28,1294,new job starting
+19519,ACC-BBE83,Note,2024-10-03,1034,
+19526,ACC-77C08,Email,2025-09-11,1190,pricing query
+19543,ACC-97064,Call,2024-05-02,1292,
+19545,ACC-5404A,Call,2024-04-25,1010,new job starting
+19552,ACC-C1751,Call,2025-04-14,1295,chase payment
+19555,ACC-84A22,Email,2024-10-25,1032,see email
+19560,ACC-EF061,Visit,2025-12-30,1110,wants better price on blocks
+19562,ACC-E1B29,Visit,2024-05-31,1216,wants better price on blocks
+19566,ACC-22D19,Visit,2024-04-08,1268,call back next wk
+19571,ACC-73E8C,Call,2024-10-29,1244,new job starting
+19579,ACC-57441,Call,2024-07-13,1216,
+19581,ACC-CC6AC,Call,2025-01-22,1010,new job starting
+19588,ACC-5409E,Call,2025-01-08,1166,
+19590,ACC-322CD,Call,2025-03-06,1111,wants better price on blocks
+19593,ACC-B34D9,Call,2024-08-01,1244,see email
+19594,ACC-687AE,Email,2025-01-08,1111,spoke to site mgr re delivery
+19597,ACC-6BDAC,Call,2024-10-22,1112,left vm
+19598,ACC-81A33,Visit,2025-06-24,1217,pricing query
+19602,ACC-872A4,Call,2025-02-03,1084,new job starting
+19610,ACC-9B9E2,Call,2025-06-26,1191,
+19636,ACC-45AA2,Call,2024-09-19,1192,call back next wk
+19639,ACC-DDBF1,Visit,2024-10-14,1110,chase payment
+19640,ACC-84644,Visit,2025-09-09,1191,call back next wk
+19642,ACC-5D8CF,Visit,2025-04-15,1113,wants better price on blocks
+19648,ACC-C700B,Email,2024-01-10,1190,left vm
+19706,ACC-11911,Email,2024-10-16,1192,
+19710,ACC-BE1BA,Call,2025-04-15,1215,
+19713,ACC-29721,Note,2025-07-15,1214,see email
+19728,ACC-FC08E,Email,2024-11-08,1088,new job starting
+19734,ACC-E3B0E,Call,2024-06-14,1166,see email
+19748,ACC-6CFB3,Note,2024-03-18,1217,left vm
+19752,ACC-1D9D3,Visit,2025-10-03,1034,
+19756,ACC-45834,Call,2024-05-15,,see email
+19762,ACC-5CBBA,Call,2024-07-24,1188,see email
+19779,ACC-A0AC5,Quote follow-up,2024-05-20,1188,spoke to site mgr re delivery
+19780,ACC-4E6DE,Visit,2024-10-17,1190,
+19782,ACC-6BDAC,Email,2024-11-29,1112,wants better price on blocks
+19829,ACC-3E01F,Email,2025-10-14,1240,see email
+19830,ACC-85803,Email,2024-02-10,1059,chase payment
+19852,ACC-65695,Email,2024-09-18,1088,see email
+19855,ACC-4369C,Call,2024-06-20,1139,new job starting
+19857,ACC-687AE,Email,2024-04-11,1111,pricing query
+19858,ACC-2ADF1,Note,2024-11-02,1032,
+19884,ACC-B0251,Email,2025-01-23,1242,left vm
+19890,ACC-66F86,Quote follow-up,2024-11-15,1034,chase payment
+19900,ACC-DCD8B,Visit,2024-03-18,1192,wants better price on blocks
+19912,ACC-F8606,Call,2025-01-30,1059,
+19920,ACC-9D5EA,Email,2025-01-06,1217,spoke to site mgr re delivery
+19925,ACC-F4074,Call,2025-06-05,1163,see email
+19933,ACC-BE9D6,Call,2024-10-19,1058,
+19937,ACC-338DA,Visit,2024-01-09,1217,left vm
+19942,ACC-73B06,Quote follow-up,2024-06-08,1036,left vm
+19955,ACC-63EA0,Quote follow-up,2024-01-16,1216,spoke to site mgr re delivery
+19975,ACC-8C54B,Quote follow-up,2024-06-11,1033,wants better price on blocks
+19977,ACC-47FE1,Visit,2025-09-25,1111,left vm
+19982,ACC-EA636,Email,2025-02-06,1088,
+19985,ACC-AAA4D,Note,2024-05-02,1293,chase payment
+19996,ACC-6BB91,Quote follow-up,2025-03-11,1217,see email
+20019,ACC-F371B,Note,2024-05-04,1188,
+20025,ACC-F12DB,Note,2024-12-09,1217,see email
+20026,ACC-5D8CF,Visit,2024-08-12,1113,
+20060,ACC-F371B,Note,2025-09-25,1188,
+20074,ACC-9B571,Visit,2025-11-10,1244,
+20079,ACC-C6043,Call,2024-11-14,1215,call back next wk
+20087,ACC-6D384,Quote follow-up,2025-11-10,1216,chase payment
+20101,ACC-FAE9D,Call,2024-02-27,1243,left vm
+20114,ACC-84644,Call,2025-02-14,1191,see email
+20155,ACC-F8367,Visit,2024-04-06,1215,chase payment
+20166,ACC-72837,Email,2025-05-24,1058,spoke to site mgr re delivery
+20167,ACC-5CBAC,Call,2025-08-11,1217,chase payment
+20175,ACC-B977E,Call,2024-03-27,1035,spoke to site mgr re delivery
+20182,ACC-8AD0C,Visit,2025-11-11,1216,wants better price on blocks
+20186,ACC-7BABE,Email,2025-09-22,1192,see email
+20209,ACC-6C1E6,Call,2024-02-29,1061,pricing query
+20215,ACC-65695,Visit,2025-10-07,1088,pricing query
+20233,ACC-3BBD6,Visit,2024-07-24,1035,
+20244,ACC-84A22,Email,2025-08-14,1032,new job starting
+20262,ACC-E659D,Email,2024-08-08,1270,spoke to site mgr re delivery
+20286,ACC-71BA4,Visit,2025-10-27,1294,left vm
+20287,ACC-C74C5,Visit,2025-10-25,1296,chase payment
+20291,ACC-E8369,Call,2025-11-19,1088,chase payment
+20292,ACC-B8C2C,Call,2025-05-17,1035,
+20315,ACC-DEEE0,Call,2025-05-21,1034,new job starting
+20325,ACC-38BF1,Note,2025-03-25,1136,call back next wk
+20369,ACC-C7419,Call,2025-12-19,1217,wants better price on blocks
+20370,ACC-EF308,Note,2024-04-03,1110,spoke to site mgr re delivery
+20373,ACC-EE325,Email,2025-10-14,1034,
+20381,ACC-2ADF1,Quote follow-up,2025-03-17,1032,see email
+20401,ACC-993E3,Call,2024-05-14,1269,chase payment
+20418,ACC-53B54,Call,2024-01-09,1188,pricing query
+20454,ACC-391D6,Email,2024-08-20,1188,see email
+20462,ACC-A901E,Email,2024-07-29,1217,chase payment
+20463,ACC-F2D27,Email,2025-11-13,1059,wants better price on blocks
+20468,ACC-EF308,Call,2025-06-19,1110,
+20479,ACC-DDBF1,Call,2025-05-14,1110,spoke to site mgr re delivery
+20481,ACC-6A410,Call,2025-05-20,1112,see email
+20491,ACC-8D272,Call,2024-11-23,1266,pricing query
+20502,ACC-837C7,Call,2025-03-14,1189,call back next wk
+20514,ACC-EF061,Call,2025-06-28,1110,pricing query
+20516,ACC-84A22,Email,2025-04-22,1032,
+20523,ACC-E47E6,Visit,2025-04-10,1215,see email
+20537,ACC-CDE0A,Note,2024-07-20,1192,left vm
+20550,ACC-66CF7,Call,2025-07-18,1137,left vm
+20552,ACC-43DE1,Email,2025-12-09,1268,wants better price on blocks
+20565,ACC-43F51,Email,2024-07-06,1191,left vm
+20567,ACC-BBEBC,Note,2024-07-17,1216,chase payment
+20574,ACC-63EA0,Call,2025-06-19,1216,left vm
+20584,ACC-CC6AC,Call,2024-05-02,1010,wants better price on blocks
+20597,ACC-BD4E7,Email,2025-07-14,1088,new job starting
+20602,ACC-1FC7D,Call,2024-06-26,1269,left vm
+20611,ACC-BD4E7,Call,2024-07-16,1088,call back next wk
+20619,ACC-DF58C,Email,2025-05-01,1242,call back next wk
+20638,ACC-66F86,Note,2024-07-19,1034,pricing query
+20652,ACC-ABD7F,Visit,2025-10-01,1190,call back next wk
+20667,ACC-D436D,Visit,2025-06-16,1058,spoke to site mgr re delivery
+20701,ACC-639B3,Call,2024-09-26,1191,left vm
+20709,ACC-546C0,Email,2025-03-12,1214,pricing query
+20714,ACC-D80AF,Note,2024-06-12,1191,
+20720,ACC-E620D,Quote follow-up,2025-02-22,1191,left vm
+20722,ACC-57441,Call,2024-10-17,1216,pricing query
+20725,ACC-B9546,Call,2024-01-03,,chase payment
+20727,ACC-7CA7B,Call,2024-03-05,1061,spoke to site mgr re delivery
+20745,ACC-76765,Call,2024-07-19,1033,
+20746,ACC-F2D27,Call,2024-10-08,1059,call back next wk
+20766,ACC-59A6E,Call,2024-07-16,1111,new job starting
+20767,ACC-75AD1,Note,2025-05-26,1190,
+20775,ACC-2AF03,Call,2025-10-03,1087,spoke to site mgr re delivery
+20802,ACC-391D6,Call,2025-12-09,1188,
+20821,ACC-7A973,Call,2024-08-14,1036,see email
+20838,ACC-1D9D3,Call,2025-05-02,1034,spoke to site mgr re delivery
+20842,ACC-E9F36,Email,2024-07-10,1321,pricing query
+20871,ACC-71896,Note,2024-03-26,1189,new job starting
+20872,ACC-2D597,Call,2024-09-14,1036,pricing query
+20874,ACC-B37FA,Email,2025-01-29,1240,pricing query
+20878,ACC-B79AB,Call,2025-02-18,1244,chase payment
+20899,ACC-F3188,Call,2025-01-30,1244,see email
+20905,ACC-53B54,Call,2025-11-06,1188,wants better price on blocks
+20908,ACC-CDAB2,Call,2024-09-18,1214,pricing query
+20914,ACC-244E5,Quote follow-up,2025-07-10,1112,
+20927,ACC-B37EE,Call,2025-03-06,1321,call back next wk
+20938,ACC-CB89D,Email,2024-03-07,1268,pricing query
+20941,ACC-39ED3,Email,2024-05-09,1114,
+20943,ACC-422B9,Visit,2025-05-12,1268,pricing query
+20956,ACC-DDB21,Note,2024-12-30,1061,see email
+20958,ACC-35EF2,Email,2024-05-02,1266,spoke to site mgr re delivery
+20960,ACC-E7FD5,Email,2024-02-08,1114,spoke to site mgr re delivery
+20961,ACC-C473B,Email,2024-09-19,1190,chase payment
+20971,ACC-C3AC5,Call,2025-09-29,,
+20973,ACC-DD242,Visit,2024-10-22,1166,left vm
+21000,ACC-FA4AD,Visit,2024-10-31,1058,
+21025,ACC-EEF38,Call,2025-08-11,1191,pricing query
+21048,ACC-D5A37,Call,2025-07-24,1059,wants better price on blocks
+21087,ACC-7988C,Call,2024-05-02,1036,wants better price on blocks
+21104,ACC-34A27,Email,2024-02-12,,
+21106,ACC-DCD8B,Call,2025-12-09,1192,spoke to site mgr re delivery
+21133,ACC-7BDC4,Call,2025-10-14,1293,call back next wk
+21147,ACC-B8964,Visit,2024-07-16,1058,left vm
+21156,ACC-3BB77,Email,2024-05-14,1164,chase payment
+21167,ACC-11911,Call,2025-07-29,1192,see email
+21168,ACC-68EF7,Note,2024-08-01,1188,chase payment
+21171,ACC-E7A41,Call,2024-07-03,1215,wants better price on blocks
+21172,ACC-92440,Email,2025-11-12,1137,pricing query
+21191,ACC-73497,Visit,2024-10-11,1293,spoke to site mgr re delivery
+21192,ACC-BC9EF,Call,2024-09-04,1216,see email
+21203,ACC-7B0E9,Visit,2024-11-27,1214,left vm
+21207,ACC-FFEF7,Quote follow-up,2025-07-10,,
+21208,ACC-E17DC,Email,2024-11-19,1215,spoke to site mgr re delivery
+21215,ACC-207E8,Call,2024-10-15,1035,chase payment
+21216,ACC-23F70,Call,2024-05-20,1192,see email
+21229,ACC-422B9,Call,2024-04-26,1268,new job starting
+21243,ACC-4817E,Call,2024-03-04,1321,new job starting
+21246,ACC-2C910,Call,2024-09-27,1061,wants better price on blocks
+21253,ACC-41180,Quote follow-up,2024-09-09,1244,see email
+21282,ACC-8B968,Call,2025-11-19,,
+21300,ACC-3BF1A,Note,2024-02-21,,wants better price on blocks
+21309,ACC-F8367,Call,2024-06-25,1215,
+21331,ACC-9CE78,Note,2024-06-19,1060,spoke to site mgr re delivery
+21357,ACC-BBCE3,Call,2024-10-21,1033,spoke to site mgr re delivery
+21368,ACC-2D597,Note,2025-03-19,1036,pricing query
+21382,ACC-11E0E,Call,2024-05-02,1192,see email
+21398,ACC-3AA7C,Note,2024-03-12,1036,
+21400,ACC-7BC80,Visit,2025-11-01,1190,
+21403,ACC-72837,Note,2024-04-02,1058,new job starting
+21405,ACC-75AD1,Call,2025-02-07,1190,see email
+21426,ACC-CD451,Call,2025-07-04,1032,left vm
+21431,ACC-4B85D,Quote follow-up,2024-04-17,1136,spoke to site mgr re delivery
+21442,ACC-8C54B,Call,2025-09-24,1033,
+21448,ACC-EEF38,Call,2024-10-08,1191,pricing query
+21455,ACC-F339C,Call,2024-12-02,1033,spoke to site mgr re delivery
+21458,ACC-687AE,Call,2025-11-24,1111,see email
+21470,ACC-82FE6,Email,2025-07-22,1060,left vm
+21481,ACC-D5A37,Email,2025-02-24,1059,
+21494,ACC-852A9,Email,2025-04-05,1036,wants better price on blocks
+21495,ACC-36CC4,Note,2024-07-29,1192,see email
+21505,ACC-418BB,Note,2024-05-22,1010,chase payment
+21538,ACC-9F1F2,Call,2025-04-18,1216,left vm
+21553,ACC-F1F43,Call,2025-08-22,1191,spoke to site mgr re delivery
+21581,ACC-F24A7,Visit,2024-12-23,1165,new job starting
+21588,ACC-BFED8,Call,2025-07-04,1191,chase payment
+21590,ACC-CDAF1,Email,2025-08-11,1166,new job starting
+21591,ACC-CB593,Note,2025-05-27,1189,left vm
+21593,ACC-437D6,Quote follow-up,2024-04-10,1058,spoke to site mgr re delivery
+21612,ACC-7B3D2,Call,2024-09-20,1136,call back next wk
+21627,ACC-F339C,Quote follow-up,2024-06-14,1033,wants better price on blocks
+21629,ACC-85F10,Note,2024-05-30,1060,call back next wk
+21662,ACC-682AA,Call,2024-06-21,1266,
+21666,ACC-A0CFB,Note,2024-09-20,1088,wants better price on blocks
+21685,ACC-35EF2,Call,2024-11-28,1266,see email
+21689,ACC-E9C0C,Quote follow-up,2024-07-09,1268,wants better price on blocks
+21697,ACC-CFFBE,Call,2024-08-05,,
+21701,ACC-8C54B,Call,2024-08-13,1033,left vm
+21708,ACC-DCD8B,Email,2025-03-13,1192,
+21714,ACC-ABBAD,Email,2025-05-16,1060,call back next wk
+21717,ACC-42AEC,Call,2024-02-20,1034,see email
+21722,ACC-61A2F,Quote follow-up,2025-06-26,,chase payment
+21745,ACC-F46D2,Email,2025-08-28,1010,new job starting
+21758,ACC-1EB67,Note,2025-05-19,1061,pricing query
+21778,ACC-615C6,Email,2024-05-14,1162,left vm
+21779,ACC-D747F,Call,2024-05-23,1191,chase payment
+21803,ACC-A901E,Call,2024-08-12,1217,spoke to site mgr re delivery
+21816,ACC-F3FA8,Call,2024-11-21,1060,left vm
+21819,ACC-4817E,Call,2024-06-18,1321,spoke to site mgr re delivery
+21823,ACC-1BE11,Quote follow-up,2025-07-18,1270,
+21824,ACC-EED7C,Call,2025-02-28,1111,wants better price on blocks
+21828,ACC-7733B,Call,2024-08-21,1266,spoke to site mgr re delivery
+21847,ACC-9F1F2,Call,2025-02-13,1216,
+21850,ACC-418BB,Visit,2025-05-28,1010,
+21858,ACC-AC62E,Note,2024-03-04,1088,pricing query
+21861,ACC-3ABF5,Note,2024-09-16,1218,
+21900,ACC-C473B,Email,2025-09-24,1190,
+21901,ACC-EAD32,Call,2024-09-30,1295,see email
+21920,ACC-FB53A,Note,2024-04-18,1268,
+21921,ACC-E2DE4,Call,2024-12-20,1191,see email
+21924,ACC-A8BAD,Note,2024-10-09,1059,see email
+21935,ACC-52D05,Note,2025-03-28,1113,pricing query
+21944,ACC-8E49D,Note,2024-03-15,1216,call back next wk
+21952,ACC-FDAFA,Visit,2024-01-03,1216,left vm
+21957,ACC-E3321,Visit,2024-09-18,1110,wants better price on blocks
+21980,ACC-8E49D,Email,2024-08-01,1216,call back next wk
+21982,ACC-EFA66,Call,2024-06-14,1113,see email
+21985,ACC-42202,Call,2024-03-18,1242,call back next wk
+21998,ACC-AF0E1,Visit,2025-08-04,1138,pricing query
+22007,ACC-10D3D,Call,2025-10-30,1214,see email
+22009,ACC-47FE1,Quote follow-up,2025-04-01,1111,call back next wk
+22043,ACC-353F5,Email,2025-03-27,1268,pricing query
+22052,ACC-C3BE2,Note,2024-10-09,1269,
+22061,ACC-CB949,Visit,2024-02-12,1268,see email
+22064,ACC-C5620,Note,2025-03-05,1112,new job starting
+22088,ACC-C5692,Call,2025-10-28,1088,pricing query
+22106,ACC-546C0,Call,2025-01-31,1214,see email
+22108,ACC-1E351,Email,2025-07-22,1060,pricing query
+22117,ACC-7300F,Call,2025-04-15,1033,
+22129,ACC-49624,Email,2025-11-12,1321,new job starting
+22131,ACC-C27DE,Note,2024-02-03,1137,pricing query
+22149,ACC-C70CE,Call,2025-10-17,1060,
+22152,ACC-66F86,Call,2025-03-24,1034,chase payment
+22166,ACC-B7F9D,Note,2024-07-18,1034,
+22171,ACC-4F4E0,Call,2025-12-30,1191,chase payment
+22202,ACC-14C8C,Call,2024-03-08,1191,new job starting
+22219,ACC-6BB91,Quote follow-up,2025-06-05,1217,wants better price on blocks
+22221,ACC-DC518,Call,2025-10-27,1061,pricing query
+22222,ACC-9A586,Call,2025-08-02,1192,pricing query
+22240,ACC-53B54,Call,2024-07-29,1188,wants better price on blocks
+22249,ACC-81A33,Note,2025-05-29,1217,pricing query
+22257,ACC-6AD59,Call,2024-02-01,1010,pricing query
+22276,ACC-28AB6,Email,2025-03-28,1032,new job starting
+22279,ACC-95E97,Note,2025-08-25,1058,left vm
+22282,ACC-7BC80,Email,2024-08-09,1190,spoke to site mgr re delivery
+22285,ACC-8CCC4,Quote follow-up,2025-05-06,1270,left vm
+22287,ACC-6C660,Call,2025-04-07,1192,see email
+22290,ACC-DEEE0,Note,2024-07-12,1034,
+22291,ACC-7733B,Email,2025-03-05,1266,chase payment
+22293,ACC-B8481,Email,2024-05-23,1058,
+22311,ACC-C4AF3,Visit,2025-08-19,1189,left vm
+22318,ACC-F1708,Call,2024-08-28,1267,pricing query
+22321,ACC-DEEE0,Call,2024-01-11,1034,wants better price on blocks
+22353,ACC-CDAB2,Call,2025-03-17,1214,left vm
+22357,ACC-B8906,Email,2025-07-22,1036,
+22360,ACC-A78FB,Email,2024-11-12,1215,
+22362,ACC-2B45D,Visit,2025-06-02,1059,pricing query
+22365,ACC-C5620,Note,2025-02-26,1112,
+22371,ACC-D3D12,Visit,2025-04-14,1036,left vm
+22380,ACC-C5692,Note,2025-09-25,1088,call back next wk
+22400,ACC-746C4,Note,2024-10-30,,new job starting
+22416,ACC-FEBDB,Email,2024-03-29,1032,chase payment
+22418,ACC-C3BE2,Visit,2025-07-15,1269,spoke to site mgr re delivery
+22422,ACC-9276F,Call,2025-10-22,1166,new job starting
+22425,ACC-D81CA,Note,2025-08-26,1032,left vm
+22447,ACC-9D971,Email,2025-07-03,1085,
+22448,ACC-B79AB,Quote follow-up,2024-06-10,1244,chase payment
+22458,ACC-32B94,Note,2025-10-03,1058,new job starting
+22465,ACC-18A9F,Visit,2024-08-03,1059,see email
+22479,ACC-3DAF1,Call,2024-06-20,1214,see email
+22481,ACC-1C054,Visit,2025-08-28,1268,spoke to site mgr re delivery
+22511,ACC-AE275,Call,2024-06-12,1032,left vm
+22520,ACC-353F5,Note,2024-10-10,1268,
+22535,ACC-59F8A,Email,2025-05-02,1088,wants better price on blocks
+22542,ACC-A520C,Visit,2025-07-24,1268,call back next wk
+22544,ACC-BA634,Visit,2025-10-02,1086,chase payment
+22546,ACC-ADDD0,Email,2024-08-08,1215,see email
+22561,ACC-AE275,Call,2025-03-10,1032,left vm
+22578,ACC-CB593,Email,2024-10-16,1189,new job starting
+22588,ACC-2352A,Email,2025-05-16,1243,
+22597,ACC-A0CFB,Call,2024-11-28,1088,wants better price on blocks
+22598,ACC-89471,Email,2025-06-10,1110,new job starting
+22604,ACC-ACBA7,Visit,2024-08-05,1192,see email
+22624,ACC-52C68,Note,2024-03-18,1033,chase payment
+22630,ACC-644CF,Call,2024-10-23,1032,see email
+22631,ACC-B79AB,Visit,2025-08-15,1244,wants better price on blocks
+22643,ACC-3D72A,Call,2024-08-30,1085,pricing query
+22645,ACC-AB0F3,Quote follow-up,2025-12-10,1269,chase payment
+22654,ACC-B8F2B,Call,2024-02-16,1188,spoke to site mgr re delivery
+22669,ACC-AE275,Call,2025-06-27,1032,new job starting
+22676,ACC-C700B,Visit,2025-09-17,1190,see email
+22680,ACC-6676F,Note,2024-11-26,1241,wants better price on blocks
+22692,ACC-95A6C,Visit,2024-06-05,1321,call back next wk
+22708,ACC-3A786,Call,2024-05-09,1111,left vm
+22711,ACC-5404A,Call,2025-08-18,1010,see email
+22713,ACC-7D5F0,Email,2025-10-07,1035,new job starting
+22728,ACC-B8964,Note,2024-07-24,1058,wants better price on blocks
+22747,ACC-AC62E,Call,2024-07-06,1088,new job starting
+22750,ACC-AFA43,Visit,2025-05-29,1137,
+22766,ACC-3A2D5,Note,2024-12-27,,
+22769,ACC-12162,Call,2024-06-22,1192,new job starting
+22774,ACC-ABD7F,Visit,2025-03-06,1190,chase payment
+22785,ACC-8E49D,Call,2025-03-05,1216,left vm
+22797,ACC-70324,Visit,2024-07-31,,spoke to site mgr re delivery
+22809,ACC-9D27D,Email,2025-04-11,1088,pricing query
+22810,ACC-FAA54,Quote follow-up,2024-10-16,1321,new job starting
+22825,ACC-D81CA,Note,2024-07-10,1032,new job starting
+22845,ACC-594BC,Visit,2024-06-25,1061,chase payment
+22858,ACC-E7212,Call,2024-06-24,1190,call back next wk
+22860,ACC-82FE6,Email,2024-03-18,1060,see email
+22872,ACC-FC08E,Call,2025-08-01,1088,wants better price on blocks
+22876,ACC-CDE0A,Email,2024-11-14,1192,chase payment
+22884,ACC-E0365,Email,2025-05-09,1087,
+22885,ACC-ABBAD,Call,2025-03-20,1060,
+22889,ACC-D4326,Call,2025-02-04,1214,pricing query
+22903,ACC-FAE9D,Note,2025-01-28,1243,left vm
+22910,ACC-DDC10,Call,2025-04-22,1191,see email
+22942,ACC-244E5,Call,2024-03-22,1112,pricing query
+22954,ACC-A78FB,Email,2024-03-30,1215,call back next wk
+22967,ACC-9CE78,Visit,2024-04-12,1060,see email
+22978,ACC-A2F3E,Call,2025-03-06,1320,left vm
+22980,ACC-3A4C1,Email,2024-05-22,1244,see email
+22985,ACC-59871,Call,2025-05-21,1010,see email
+22993,ACC-682AA,Call,2025-10-03,1266,
+23002,ACC-E7A41,Call,2025-01-10,1215,wants better price on blocks
+23011,ACC-675B6,Email,2024-05-29,1036,left vm
+23020,ACC-309CF,Quote follow-up,2025-02-18,1190,
+23034,ACC-B2739,Call,2024-09-12,1088,
+23050,ACC-E17DC,Email,2025-06-28,1215,left vm
+23053,ACC-2C27C,Email,2024-09-02,1166,spoke to site mgr re delivery
+23071,ACC-61EA9,Call,2025-04-25,1216,left vm
+23084,ACC-9F1F2,Quote follow-up,2025-01-03,1216,left vm
+23096,ACC-418BB,Call,2025-07-30,1010,see email
+23100,ACC-11E0E,Call,2024-04-30,1192,see email
+23101,ACC-9D5EA,Quote follow-up,2024-02-15,1217,new job starting
+23102,ACC-644CF,Call,2024-08-13,1032,chase payment
+23103,ACC-61D13,Call,2025-10-02,1112,left vm
+23107,ACC-C1579,Email,2025-05-27,1269,new job starting
+23113,ACC-E91C8,Email,2025-08-22,1162,call back next wk
+23127,ACC-A901E,Quote follow-up,2025-11-17,1217,wants better price on blocks
+23132,ACC-F7A61,Call,2024-11-26,1032,new job starting
+23166,ACC-1D9D3,Email,2025-06-10,1034,see email
+23209,ACC-FAE9D,Note,2024-08-02,1243,call back next wk
+23222,ACC-93816,Call,2024-04-20,1112,call back next wk
+23241,ACC-EDC2B,Call,2024-07-01,1268,new job starting
+23249,ACC-26556,Quote follow-up,2025-01-21,1061,new job starting
+23263,ACC-309CF,Visit,2025-05-05,1190,see email
+23282,ACC-1EB67,Note,2025-10-21,1061,
+23294,ACC-807C9,Quote follow-up,2025-08-13,1295,wants better price on blocks
+23310,ACC-944C9,Email,2025-05-02,1267,spoke to site mgr re delivery
+23323,ACC-7300F,Email,2025-04-24,1033,call back next wk
+23328,ACC-D2813,Email,2024-05-02,1215,see email
+23335,ACC-7CA7B,Email,2025-05-12,1061,
+23336,ACC-5186A,Note,2024-05-23,1035,chase payment
+23340,ACC-3A2FE,Call,2024-08-24,1140,left vm
+23349,ACC-F7A61,Call,2024-02-12,1032,call back next wk
+23357,ACC-7B0E9,Quote follow-up,2024-03-04,1214,
+23390,ACC-5C503,Email,2024-08-07,1269,spoke to site mgr re delivery
+23408,ACC-7733B,Visit,2024-11-05,1266,chase payment
+23419,ACC-57441,Visit,2024-08-12,1216,chase payment
+23438,ACC-23F70,Email,2025-08-01,1192,
+23452,ACC-5AD6E,Call,2025-12-16,1111,left vm
+23465,ACC-93816,Call,2024-09-21,1112,pricing query
+23469,ACC-FDAFA,Email,2024-08-16,1216,call back next wk
+23493,ACC-B7F9D,Note,2024-06-12,1034,new job starting
+23494,ACC-F339C,Call,2025-02-10,1033,left vm
+23500,ACC-639B3,Call,2024-03-21,1191,
+23503,ACC-AE751,Call,2025-02-03,1190,pricing query
+23524,ACC-4481F,Visit,2024-06-14,,pricing query
+23536,ACC-4E6DE,Email,2025-01-22,1190,call back next wk
+23539,ACC-3A6A9,Email,2025-06-02,1190,chase payment
+23559,ACC-36CC4,Call,2024-06-26,1192,chase payment
+23570,ACC-617AA,Call,2025-10-15,1293,wants better price on blocks
+23571,ACC-D6AF1,Call,2024-09-20,1241,see email
+23578,ACC-7B188,Visit,2024-02-02,1192,
+23583,ACC-BD4E7,Note,2025-11-18,1088,chase payment
+23590,ACC-23B2D,Quote follow-up,2025-11-14,,left vm
+23607,ACC-DEEE0,Email,2024-12-13,1034,call back next wk
+23625,ACC-8E9D9,Email,2024-05-30,1188,left vm
+23633,ACC-71105,Call,2024-10-26,1216,see email
+23637,ACC-A09BD,Note,2024-07-03,1243,call back next wk
+23643,ACC-72837,Quote follow-up,2025-01-13,1058,call back next wk
+23649,ACC-73E8C,Call,2025-06-13,1244,see email
+23678,ACC-6CFB3,Call,2025-07-01,1217,
+23686,ACC-322CD,Call,2025-09-25,1111,chase payment
+23688,ACC-F46D2,Call,2024-07-08,1010,left vm
+23693,ACC-A9CD5,Visit,2024-04-09,1214,new job starting
+23713,ACC-59871,Call,2024-04-19,1010,new job starting
+23719,ACC-8BCD9,Email,2025-10-02,1217,
+23720,ACC-9F1F2,Call,2024-07-02,1216,
+23722,ACC-1D174,Visit,2024-04-15,1188,pricing query
+23728,ACC-51651,Note,2024-01-25,1244,spoke to site mgr re delivery
+23731,ACC-76765,Visit,2025-11-11,1033,
+23743,ACC-51540,Call,2024-09-14,1244,new job starting
+23748,ACC-28AB6,Call,2025-04-15,1032,see email
+23769,ACC-C4FD9,Call,2025-11-07,1191,spoke to site mgr re delivery
+23796,ACC-680C1,Call,2024-01-04,,pricing query
+23809,ACC-675B6,Call,2024-11-01,1036,new job starting
+23810,ACC-9C08D,Email,2025-01-25,1216,chase payment
+23812,ACC-84421,Email,2024-11-06,1319,chase payment
+23834,ACC-608BF,Email,2024-10-22,1267,chase payment
+23835,ACC-F4276,Call,2024-11-29,1111,
+23837,ACC-18922,Email,2024-07-11,,new job starting
+23847,ACC-7CA7D,Call,2025-10-23,1242,spoke to site mgr re delivery
+23868,ACC-9D971,Quote follow-up,2025-09-26,1085,chase payment
+23872,ACC-A8BAD,Call,2024-06-13,1059,see email
+23875,ACC-1508A,Email,2025-12-11,1140,spoke to site mgr re delivery
+23884,ACC-4F4E0,Email,2024-01-29,1191,spoke to site mgr re delivery
+23900,ACC-E9C0C,Visit,2024-01-20,1268,pricing query
+23915,ACC-89735,Note,2025-11-11,1060,wants better price on blocks
+23930,ACC-B891E,Visit,2025-12-27,1318,new job starting
+23938,ACC-ABD7F,Email,2024-12-28,1190,
+23944,ACC-1DAB1,Email,2024-09-11,,see email
+23962,ACC-17350,Visit,2025-12-30,1085,pricing query
+23963,ACC-59F8A,Email,2024-05-27,1088,chase payment
+23983,ACC-E9C0C,Call,2025-10-09,1268,wants better price on blocks
+23991,ACC-7300F,Email,2024-09-13,1033,
+24008,ACC-682AA,Visit,2025-09-01,1266,new job starting
+24012,ACC-151A8,Email,2024-05-25,1113,chase payment
+24023,ACC-3B908,Call,2024-07-30,1138,see email
+24031,ACC-EF061,Call,2024-10-14,1110,chase payment
+24045,ACC-F3FA8,Quote follow-up,2025-10-31,1060,
+24046,ACC-5A6F4,Quote follow-up,2024-09-30,,left vm
+24047,ACC-8BCD9,Call,2024-08-20,1217,
+24049,ACC-9CE78,Note,2024-06-20,1060,see email
+24052,ACC-DD242,Email,2025-07-07,1166,pricing query
+24059,ACC-1AFE2,Email,2025-08-29,1214,
+24082,ACC-97064,Email,2024-08-23,1292,
+24103,ACC-BC9EF,Note,2025-08-18,1216,left vm
+24112,ACC-2B45D,Note,2025-12-29,1059,chase payment
+24124,ACC-93F2F,Email,2025-07-10,1110,wants better price on blocks
+24158,ACC-D2708,Email,2025-08-30,1166,call back next wk
+24169,ACC-2C910,Call,2024-03-05,1061,spoke to site mgr re delivery
+24185,ACC-3A6A9,Note,2024-01-17,1190,pricing query
+24201,ACC-8E49D,Email,2024-01-06,1216,call back next wk
+24202,ACC-3A523,Call,2025-07-17,1033,call back next wk
+24206,ACC-9BB91,Call,2025-01-10,1215,spoke to site mgr re delivery
+24222,ACC-6BDAC,Email,2024-09-03,1112,spoke to site mgr re delivery
+24237,ACC-DEEE0,Email,2025-11-05,1034,chase payment
+24260,ACC-9276F,Email,2025-10-25,1166,call back next wk
+24261,ACC-4B319,Email,2024-03-26,1269,
+24266,ACC-E0710,Note,2024-01-15,1112,new job starting
+24274,ACC-E33D4,Call,2025-06-30,1188,spoke to site mgr re delivery
+24279,ACC-43F51,Email,2025-04-24,1191,wants better price on blocks
+24280,ACC-D3D12,Quote follow-up,2024-05-06,1036,see email
+24309,ACC-22C42,Email,2024-01-30,1035,spoke to site mgr re delivery
+24330,ACC-D8C65,Email,2024-04-15,1061,left vm
+24343,ACC-232CE,Call,2025-12-10,1035,
+24345,ACC-4665F,Email,2025-09-29,1166,new job starting
+24387,ACC-DA6C1,Note,2025-09-10,1165,pricing query
+24392,ACC-F4276,Visit,2024-10-10,1111,new job starting
+24400,ACC-DDFB9,Quote follow-up,2024-10-21,1084,
+24408,ACC-40D6A,Call,2024-04-16,1294,left vm
+24409,ACC-3ABF5,Call,2025-10-31,1218,
+24418,ACC-40010,Email,2024-06-07,1112,call back next wk
+24450,ACC-EF308,Call,2024-07-27,1110,
+24459,ACC-FF06A,Call,2025-02-17,1113,call back next wk
+24460,ACC-CDE0A,Call,2024-07-16,1192,
+24486,ACC-15011,Email,2024-01-20,1166,new job starting
+24489,ACC-232CE,Call,2025-03-01,1035,chase payment
+24497,ACC-81A33,Call,2025-06-19,1217,spoke to site mgr re delivery
+24514,ACC-37FC2,Quote follow-up,2025-09-25,1032,wants better price on blocks
+24515,ACC-4665F,Call,2025-05-05,1166,pricing query
+24545,ACC-9A3AE,Call,2024-09-23,1139,chase payment
+24548,ACC-6AD59,Email,2025-11-11,1010,wants better price on blocks
+24574,ACC-C6C94,Call,2024-11-26,1165,call back next wk
+24587,ACC-343ED,Email,2025-12-30,,spoke to site mgr re delivery
+24600,ACC-C454A,Call,2025-02-28,1266,spoke to site mgr re delivery
+24601,ACC-644CF,Call,2025-06-16,1032,left vm
+24602,ACC-244E5,Note,2024-11-08,1112,call back next wk
+24618,ACC-10840,Call,2025-03-12,1267,see email
+24633,ACC-3A523,Note,2025-08-28,1033,chase payment
+24637,ACC-75AD1,Email,2024-02-26,1190,call back next wk
+24644,ACC-B5048,Note,2025-02-13,1110,pricing query
+24684,ACC-F4276,Email,2024-07-19,1111,spoke to site mgr re delivery
+24693,ACC-952CF,Email,2025-06-26,1188,chase payment
+24695,ACC-4E6DE,Call,2025-07-11,1190,spoke to site mgr re delivery
+24704,ACC-A901E,Email,2024-04-08,1217,left vm
+24715,ACC-E33D4,Note,2025-10-20,1188,
+24721,ACC-353F5,Email,2025-03-13,1268,
+24724,ACC-6C8E3,Call,2025-02-17,,pricing query
+24727,ACC-6A298,Email,2025-01-08,1010,chase payment
+24761,ACC-6A298,Note,2025-09-09,1010,see email
+24763,ACC-66F86,Call,2025-05-14,1034,see email
+24771,ACC-C473B,Call,2025-10-14,1190,wants better price on blocks
+24782,ACC-3DAF1,Call,2025-11-22,1214,left vm
+24813,ACC-5722E,Email,2024-07-01,1088,left vm
+24841,ACC-FA4AD,Email,2024-02-28,1058,
+24853,ACC-22065,Email,2025-06-02,,chase payment
+24862,ACC-132C7,Call,2024-12-27,1036,chase payment
+24873,ACC-12A06,Call,2025-07-03,1189,call back next wk
+24883,ACC-944C9,Call,2024-04-03,1267,
+24896,ACC-DEA72,Visit,2025-08-13,1266,chase payment
+24902,ACC-270CC,Quote follow-up,2024-10-10,1059,spoke to site mgr re delivery
+24911,ACC-9C2FE,Quote follow-up,2024-06-22,1137,wants better price on blocks
+24916,ACC-9276F,Quote follow-up,2024-07-22,1166,
+24925,ACC-4B8B1,Email,2025-12-15,1058,see email
+24926,ACC-9F13B,Call,2025-04-08,1111,
+24929,ACC-EA636,Quote follow-up,2025-08-13,1088,spoke to site mgr re delivery
+24936,ACC-4F44D,Quote follow-up,2024-10-01,1110,chase payment
+24946,ACC-14C8C,Email,2025-07-21,1191,
+24957,ACC-7D1F4,Email,2025-07-21,1268,new job starting
+24967,ACC-DDC10,Call,2024-02-12,1191,wants better price on blocks
+24970,ACC-7D18E,Note,2025-11-06,1192,pricing query
+24971,ACC-EF308,Note,2025-06-03,1110,
+24999,ACC-85F10,Note,2025-12-02,1060,pricing query
+25010,ACC-BBCE3,Call,2024-04-12,1033,new job starting
+25011,ACC-D81CA,Email,2025-08-05,1032,left vm
+25018,ACC-7988C,Quote follow-up,2024-05-15,1036,
+25031,ACC-8A208,Call,2025-07-23,1217,
+25038,ACC-A0CFB,Email,2025-01-13,1088,see email
+25049,ACC-344AC,Quote follow-up,2025-05-02,,call back next wk
+25050,ACC-E024C,Visit,2024-06-12,1033,see email
+25054,ACC-1D174,Email,2024-04-17,1188,wants better price on blocks
+25057,ACC-92E90,Call,2024-02-22,1059,left vm
+25062,ACC-361F9,Note,2024-10-01,1241,see email
+25087,ACC-34984,Email,2024-02-12,1214,
+25094,ACC-4E1C5,Quote follow-up,2024-09-23,1086,chase payment
+25101,ACC-8B968,Call,2024-12-02,,left vm
+25121,ACC-7CA7B,Email,2024-07-06,1061,see email
+25124,ACC-2ADF1,Quote follow-up,2025-08-29,1032,wants better price on blocks
+25135,ACC-8BCD9,Email,2024-12-05,1217,see email
+25159,ACC-B944F,Call,2024-04-04,1111,
+25190,ACC-9510D,Note,2024-06-27,1269,call back next wk
+25207,ACC-9107A,Call,2024-10-31,1190,see email
+25210,ACC-9A7F4,Note,2024-10-14,1244,
+25224,ACC-3A786,Call,2024-01-19,1111,see email
+25235,ACC-9A7F4,Call,2024-12-14,1244,call back next wk
+25242,ACC-3A523,Call,2025-01-29,1033,new job starting
+25245,ACC-FF998,Visit,2024-08-09,1111,pricing query
+25249,ACC-12162,Note,2025-07-25,1192,
+25253,ACC-93816,Note,2024-07-09,1112,
+25266,ACC-A66D0,Call,2024-07-29,1165,
+25278,ACC-9A3AE,Email,2024-12-16,1139,new job starting
+25281,ACC-C70CE,Email,2025-04-09,1060,wants better price on blocks
+25284,ACC-ACBA7,Email,2025-04-02,1192,see email
+25291,ACC-15F58,Call,2025-05-30,1088,see email
+25296,ACC-C7B06,Call,2024-01-16,1165,wants better price on blocks
+25299,ACC-831F1,Note,2024-03-16,1191,call back next wk
+25322,ACC-45D16,Call,2024-02-22,1191,wants better price on blocks
+25339,ACC-5B919,Email,2025-07-30,1035,
+25352,ACC-AAA4D,Quote follow-up,2024-10-19,1293,
+25362,ACC-26556,Call,2025-09-27,1061,chase payment
+25366,ACC-6C1E6,Quote follow-up,2024-05-27,1061,see email
+25369,ACC-52F54,Note,2025-09-04,1036,see email
+25372,ACC-4E6DE,Email,2024-08-19,1190,wants better price on blocks
+25410,ACC-CA728,Quote follow-up,2025-09-01,1216,pricing query
+25417,ACC-AF43E,Note,2024-06-06,1035,
+25419,ACC-1508A,Email,2024-03-11,1140,call back next wk
+25438,ACC-66F86,Note,2025-11-25,1034,pricing query
+25441,ACC-6D2B1,Call,2024-04-02,1269,pricing query
+25480,ACC-D1906,Call,2024-04-09,1189,wants better price on blocks
+25481,ACC-3DAF1,Call,2025-06-30,1214,chase payment
+25505,ACC-7D1F4,Visit,2025-09-25,1268,
+25515,ACC-BFEA1,Email,2025-01-30,1293,spoke to site mgr re delivery
+25518,ACC-207E8,Visit,2025-05-17,1035,spoke to site mgr re delivery
+25519,ACC-EED7C,Quote follow-up,2025-06-21,1111,
+25526,ACC-10840,Email,2024-07-15,1267,pricing query
+25573,ACC-F8606,Email,2025-04-24,1059,wants better price on blocks
+25601,ACC-682AA,Call,2025-09-03,1266,spoke to site mgr re delivery
+25602,ACC-B977E,Email,2024-08-16,1035,see email
+25604,ACC-26556,Email,2024-08-22,1061,see email
+25614,ACC-9CE78,Call,2024-01-18,1060,spoke to site mgr re delivery
+25615,ACC-11AA1,Call,2025-06-23,1321,left vm
+25619,ACC-11911,Call,2025-05-02,1192,wants better price on blocks
+25640,ACC-3EC6B,Quote follow-up,2025-05-05,1110,chase payment
+25641,ACC-CA728,Call,2025-12-15,1216,spoke to site mgr re delivery
+25642,ACC-F371B,Note,2024-05-13,1188,see email
+25645,ACC-68EF7,Email,2025-07-10,1188,see email
+25654,ACC-4F4E0,Visit,2024-07-10,1191,
+25655,ACC-486EB,Email,2024-05-15,1192,new job starting
+25676,ACC-CDE0A,Email,2024-10-11,1192,pricing query
+25677,ACC-3AA7C,Email,2025-07-08,1036,chase payment
+25697,ACC-F3FA8,Email,2025-09-23,1060,wants better price on blocks
+25706,ACC-F87CD,Email,2025-07-25,1139,call back next wk
+25713,ACC-5AD6E,Quote follow-up,2025-10-03,1111,see email
+25715,ACC-309CF,Call,2024-03-08,1190,
+25720,ACC-C3BE2,Note,2024-04-06,1269,chase payment
+25736,ACC-5CBBA,Call,2025-01-22,1188,chase payment
+25742,ACC-AB0F3,Quote follow-up,2025-07-05,1269,
+25755,ACC-B944F,Email,2024-04-05,1111,left vm
+25761,ACC-4CA5C,Call,2025-10-31,1321,call back next wk
+25767,ACC-7D18E,Visit,2025-03-25,1192,
+25772,ACC-A0AC5,Note,2024-10-23,1188,call back next wk
+25782,ACC-FB53A,Email,2025-05-16,1268,
+25788,ACC-A0CFB,Call,2024-06-28,1088,left vm
+25802,ACC-6BDAC,Call,2025-10-04,1112,see email
+25828,ACC-D436D,Email,2025-10-03,1058,new job starting
+25830,ACC-EED7C,Email,2024-07-05,1111,new job starting
+25832,ACC-EAA9B,Call,2024-11-21,1162,new job starting
+25833,ACC-AB8F0,Quote follow-up,2025-03-05,,spoke to site mgr re delivery
+25840,ACC-7B188,Email,2025-10-15,1192,see email
+25843,ACC-A0AF4,Email,2024-01-24,1166,wants better price on blocks
+25851,ACC-BBEBC,Email,2024-11-08,1216,
+25867,ACC-835C6,Call,2025-04-21,1086,wants better price on blocks
+25910,ACC-993E3,Email,2024-11-22,1269,left vm
+25932,ACC-3AA41,Email,2024-10-23,1086,see email
+25953,ACC-ABD7F,Note,2025-11-21,1190,wants better price on blocks
+25963,ACC-437D6,Email,2025-03-24,1058,
+25971,ACC-6AD59,Call,2024-05-22,1010,left vm
+25973,ACC-ABD7F,Quote follow-up,2025-08-26,1190,call back next wk
+25981,ACC-9A7F4,Call,2024-01-31,1244,wants better price on blocks
+25989,ACC-D107D,Email,2025-04-15,1188,wants better price on blocks
+25998,ACC-CB544,Quote follow-up,2024-06-05,1166,pricing query
+26010,ACC-7988C,Email,2024-06-11,1036,
+26024,ACC-E659D,Call,2025-10-02,1270,pricing query
+26033,ACC-89471,Note,2025-11-15,1110,call back next wk
+26035,ACC-6745C,Call,2024-05-06,1321,pricing query
+26037,ACC-E3321,Visit,2025-10-10,1110,see email
+26060,ACC-991C2,Call,2024-07-22,1319,wants better price on blocks
+26064,ACC-353F5,Email,2024-10-29,1268,
+26073,ACC-A9CD5,Quote follow-up,2024-11-26,1214,chase payment
+26077,ACC-D81CA,Visit,2025-05-26,1032,left vm
+26081,ACC-B34D9,Call,2025-06-18,1244,spoke to site mgr re delivery
+26085,ACC-22D77,Call,2024-11-28,,see email
+26093,ACC-7DBFD,Email,2024-10-28,1113,pricing query
+26095,ACC-9B571,Note,2025-04-18,1244,pricing query
+26097,ACC-5E9BF,Email,2025-03-19,1188,spoke to site mgr re delivery
+26100,ACC-21A2B,Visit,2025-02-01,1218,left vm
+26106,ACC-5404A,Call,2024-10-18,1010,spoke to site mgr re delivery
+26109,ACC-1C054,Email,2025-10-02,1268,call back next wk
+26120,ACC-AB0F3,Quote follow-up,2025-04-09,1269,see email
+26126,ACC-A78FB,Email,2025-08-06,1215,chase payment
+26143,ACC-72837,Call,2024-06-11,1058,call back next wk
+26145,ACC-80080,Note,2025-09-05,1059,
+26146,ACC-422B9,Email,2025-06-18,1268,pricing query
+26154,ACC-36CC4,Note,2024-12-30,1192,
+26158,ACC-1C054,Email,2024-09-04,1268,call back next wk
+26162,ACC-6EDBC,Call,2025-08-14,1267,new job starting
+26168,ACC-51651,Call,2024-12-11,1244,
+26173,ACC-4F44D,Email,2025-04-04,1110,spoke to site mgr re delivery
+26175,ACC-48D7F,Call,2024-08-19,1266,
+26178,ACC-F171C,Call,2025-04-24,1113,wants better price on blocks
+26190,ACC-F7334,Email,2024-07-20,1266,left vm
+26194,ACC-AE751,Note,2024-05-01,1190,
+26218,ACC-46721,Email,2024-09-02,1318,see email
+26240,ACC-8027B,Email,2025-04-16,1241,see email
+26244,ACC-76765,Call,2024-01-18,1033,new job starting
+26252,ACC-DC518,Call,2024-07-27,1061,left vm
+26256,ACC-22C42,Email,2024-06-21,1035,chase payment
+26260,ACC-1DEF0,Call,2024-02-08,1217,
+26272,ACC-968D0,Email,2024-01-18,,new job starting
+26328,ACC-43F51,Note,2025-05-10,1191,pricing query
+26330,ACC-FB53A,Call,2024-01-08,1268,pricing query
+26350,ACC-7DB33,Note,2024-09-25,1087,pricing query
+26356,ACC-D4326,Call,2024-07-25,1214,see email
+26369,ACC-BBCE3,Call,2025-06-17,1033,new job starting
+26379,ACC-7394E,Quote follow-up,2025-05-31,1216,pricing query
+26386,ACC-9647C,Email,2024-04-13,1266,
+26395,ACC-687AE,Email,2024-02-14,1111,see email
+26399,ACC-1741F,Email,2025-08-30,1217,chase payment
+26403,ACC-FF998,Call,2024-08-19,1111,new job starting
+26405,ACC-BF648,Email,2024-11-11,1215,see email
+26406,ACC-6EB51,Call,2024-10-02,1218,left vm
+26428,ACC-72837,Call,2025-10-08,1058,spoke to site mgr re delivery
+26430,ACC-9647C,Call,2025-01-14,1266,see email
+26450,ACC-6D384,Email,2025-06-06,1216,see email
+26452,ACC-4B85D,Call,2025-03-18,1136,left vm
+26453,ACC-37766,Visit,2024-11-25,1318,chase payment
+26456,ACC-ABD7F,Note,2024-02-19,1190,new job starting
+26457,ACC-EC81F,Quote follow-up,2024-10-15,1191,call back next wk
+26459,ACC-36CC4,Call,2025-09-12,1192,chase payment
+26462,ACC-687AE,Call,2025-06-14,1111,chase payment
+26469,ACC-9C9DA,Email,2024-06-25,1035,spoke to site mgr re delivery
+26477,ACC-D81CA,Email,2025-07-28,1032,call back next wk
+26480,ACC-8D272,Visit,2024-08-21,1266,chase payment
+26486,ACC-7E3C6,Call,2024-04-04,1060,new job starting
+26489,ACC-8C54B,Call,2024-09-17,1033,call back next wk
+26491,ACC-1D9D3,Visit,2024-06-18,1034,wants better price on blocks
+26494,ACC-ADDD0,Call,2025-10-28,1215,
+26497,ACC-4665F,Email,2024-10-25,1166,see email
+26499,ACC-FEBDB,Call,2025-03-26,1032,
+26505,ACC-DDC10,Quote follow-up,2025-09-23,1191,pricing query
+26522,ACC-E7212,Email,2024-02-12,1190,spoke to site mgr re delivery
+26539,ACC-3DAF1,Email,2025-06-11,1214,
+26553,ACC-8DA74,Email,2024-08-27,1216,
+26554,ACC-7BC80,Call,2025-03-07,1190,call back next wk
+26559,ACC-944C9,Call,2024-07-17,1267,pricing query
+26571,ACC-1A2B1,Call,2025-07-08,,spoke to site mgr re delivery
+26575,ACC-ADDD0,Email,2025-08-04,1215,spoke to site mgr re delivery
+26578,ACC-EED7C,Email,2025-02-10,1111,new job starting
+26591,ACC-73B06,Email,2024-04-15,1036,left vm
+26598,ACC-F7334,Email,2025-06-24,1266,call back next wk
+26604,ACC-DCD8B,Email,2024-08-12,1192,
+26610,ACC-1741F,Call,2025-03-12,1217,
+26614,ACC-549D9,Quote follow-up,2024-02-02,1032,chase payment
+26615,ACC-831F1,Note,2025-10-01,1191,
+26621,ACC-E9C0C,Call,2024-10-11,1268,wants better price on blocks
+26628,ACC-85803,Note,2025-10-23,1059,new job starting
+26637,ACC-37FC2,Email,2024-06-27,1032,
+26643,ACC-C50F7,Visit,2024-09-06,1294,see email
+26646,ACC-8B968,Quote follow-up,2024-05-23,,wants better price on blocks
+26675,ACC-B5048,Visit,2025-02-08,1110,call back next wk
+26701,ACC-88CC9,Visit,2025-04-04,1166,new job starting
+26705,ACC-E620D,Call,2025-03-07,1191,new job starting
+26706,ACC-5186A,Note,2025-05-08,1035,new job starting
+26711,ACC-A86EF,Visit,2025-06-21,1088,
+26726,ACC-7733B,Note,2025-09-10,1266,
+26739,ACC-18A9F,Visit,2025-09-19,1059,see email
+26771,ACC-F443B,Call,2024-03-18,1060,
+26773,ACC-22D19,Quote follow-up,2025-03-27,1268,call back next wk
+26813,ACC-FC08E,Email,2025-06-13,1088,chase payment
+26826,ACC-CB593,Call,2024-01-04,1189,see email
+26857,ACC-5D8CF,Call,2024-02-15,1113,spoke to site mgr re delivery
+26863,ACC-B4EFD,Email,2025-01-16,1166,
+26870,ACC-E96FD,Call,2025-11-19,1059,see email
+26877,ACC-3D72A,Email,2025-02-07,1085,pricing query
+26887,ACC-232CE,Call,2024-12-16,1035,pricing query
+26893,ACC-A0AF4,Call,2025-05-06,1166,pricing query
+26903,ACC-6E492,Call,2025-09-02,,
+26906,ACC-45834,Quote follow-up,2024-08-29,,call back next wk
+26907,ACC-88CC9,Quote follow-up,2024-05-08,1166,spoke to site mgr re delivery
+26911,ACC-7988C,Quote follow-up,2024-02-06,1036,
+26912,ACC-A1316,Visit,2025-07-23,1214,chase payment
+26932,ACC-89735,Call,2025-11-07,1060,new job starting
+26936,ACC-AE751,Quote follow-up,2025-05-02,1190,see email
+26938,ACC-B3071,Note,2024-11-21,,new job starting
+26941,ACC-9195B,Email,2024-05-20,1190,
+26943,ACC-E0710,Email,2024-02-23,1112,chase payment
+26947,ACC-5186A,Quote follow-up,2024-08-23,1035,chase payment
+26949,ACC-8C54B,Call,2024-03-06,1033,left vm
+26968,ACC-3AA7C,Call,2025-11-12,1036,see email
+26978,ACC-9B9E2,Call,2024-09-06,1191,call back next wk
+26989,ACC-38CBF,Call,2024-07-17,,new job starting
+26990,ACC-F5EB2,Call,2025-10-06,1058,wants better price on blocks
+26994,ACC-BBEBC,Call,2024-03-12,1216,
+27003,ACC-10062,Quote follow-up,2025-01-30,1217,wants better price on blocks
+27025,ACC-EED28,Note,2025-06-25,1192,
+27029,ACC-3D0D8,Call,2024-07-03,1244,wants better price on blocks
+27038,ACC-7D5F0,Email,2024-09-26,1035,left vm
+27047,ACC-40010,Call,2025-10-08,1112,
+27064,ACC-9107A,Visit,2024-06-05,1190,chase payment
+27070,ACC-6D2B1,Call,2024-08-23,1269,left vm
+27073,ACC-6BDAC,Call,2025-01-22,1112,
+27086,ACC-5CBAC,Call,2025-07-31,1217,chase payment
+27103,ACC-7D1F4,Visit,2024-09-27,1268,
+27105,ACC-CA728,Note,2024-10-25,1216,pricing query
+27120,ACC-48D7F,Call,2025-02-08,1266,left vm
+27122,ACC-71896,Call,2024-08-16,1189,spoke to site mgr re delivery
+27124,ACC-75AD1,Call,2024-12-12,1190,
+27125,ACC-E2DE4,Visit,2025-08-07,1191,see email
+27129,ACC-9276F,Email,2024-02-08,1166,call back next wk
+27152,ACC-A86EF,Email,2025-11-14,1088,call back next wk
+27173,ACC-F96C1,Call,2024-05-01,,wants better price on blocks
+27177,ACC-FCB58,Email,2025-08-21,1293,call back next wk
+27273,ACC-CDAF1,Email,2024-07-19,1166,wants better price on blocks
+27277,ACC-3EB62,Quote follow-up,2024-07-23,1138,see email
+27295,ACC-F9B68,Email,2024-10-29,1192,wants better price on blocks
+27297,ACC-7EEC5,Visit,2024-06-05,1190,
+27299,ACC-C3783,Call,2024-12-16,1215,left vm
+27301,ACC-D80AF,Email,2025-04-07,1191,spoke to site mgr re delivery
+27311,ACC-A954E,Email,2025-03-28,1060,spoke to site mgr re delivery
+27321,ACC-7B0E9,Note,2025-04-24,1214,
+27329,ACC-36CC4,Email,2025-01-23,1192,chase payment
+27330,ACC-9A586,Quote follow-up,2024-02-26,1192,
+27332,ACC-1CE43,Email,2024-01-23,1088,call back next wk
+27334,ACC-E96FD,Email,2025-04-10,1059,chase payment
+27335,ACC-C5692,Call,2025-04-05,1088,
+27342,ACC-5D62A,Note,2024-07-13,1188,chase payment
+27343,ACC-D8C65,Call,2024-06-11,1061,spoke to site mgr re delivery
+27352,ACC-993E3,Email,2024-05-03,1269,spoke to site mgr re delivery
+27358,ACC-1C054,Visit,2024-06-13,1268,
+27364,ACC-3569A,Call,2025-10-23,1033,left vm
+27375,ACC-3BBD6,Note,2024-01-10,1035,
+27385,ACC-5409E,Visit,2025-01-16,1166,pricing query
+27396,ACC-48D7F,Email,2025-07-15,1266,new job starting
+27401,ACC-D3D12,Visit,2024-05-17,1036,
+27408,ACC-22C42,Note,2025-01-13,1035,spoke to site mgr re delivery
+27412,ACC-9A586,Call,2025-07-14,1192,left vm
+27416,ACC-CF9D2,Visit,2025-02-12,1034,chase payment
+27418,ACC-1D9D3,Note,2024-12-18,1034,call back next wk
+27425,ACC-5404A,Visit,2024-06-07,1010,wants better price on blocks
+27427,ACC-5E9BF,Call,2024-10-02,1188,
+27439,ACC-7BC80,Email,2024-06-11,1190,wants better price on blocks
+27440,ACC-A8BAD,Call,2025-07-24,1059,chase payment
+27443,ACC-CA728,Email,2024-04-15,1216,see email
+27447,ACC-26208,Email,2025-12-16,1110,call back next wk
+27465,ACC-12162,Call,2024-09-12,1192,chase payment
+27468,ACC-11E0E,Note,2024-10-22,1192,new job starting
+27471,ACC-18A9F,Quote follow-up,2024-07-20,1059,chase payment
+27476,ACC-E0CA5,Call,2024-05-22,1188,chase payment
+27479,ACC-66F86,Email,2025-02-20,1034,see email
+27491,ACC-93F2F,Note,2024-10-21,1110,left vm
+27495,ACC-8BCD9,Email,2025-04-29,1217,left vm
+27496,ACC-5D62A,Quote follow-up,2025-01-10,1188,see email
+27497,ACC-6C416,Call,2024-07-23,1140,chase payment
+27500,ACC-9BB91,Call,2024-07-08,1215,left vm
+27537,ACC-CB89D,Email,2025-06-24,1268,wants better price on blocks
+27543,ACC-59A6E,Email,2025-02-10,1111,left vm
+27546,ACC-5409E,Quote follow-up,2024-05-29,1166,left vm
+27570,ACC-DDB21,Call,2024-09-06,1061,new job starting
+27573,ACC-47FE1,Visit,2024-02-20,1111,left vm
+27595,ACC-AE751,Call,2024-03-11,1190,pricing query
+27605,ACC-6CFB3,Call,2025-06-18,1217,
+27608,ACC-952CF,Email,2025-05-27,1188,
+27618,ACC-77C08,Call,2024-05-13,1190,
+27623,ACC-61EA9,Call,2024-01-16,1216,
+27625,ACC-549D9,Email,2024-12-19,1032,pricing query
+27631,ACC-639B3,Call,2024-03-26,1191,see email
+27635,ACC-F2D27,Note,2025-06-05,1059,new job starting
+27647,ACC-FE2F3,Note,2025-07-07,1166,left vm
+27648,ACC-9D5EA,Email,2025-01-24,1217,wants better price on blocks
+27656,ACC-76765,Call,2024-02-19,1033,call back next wk
+27663,ACC-41B9D,Note,2024-10-17,1215,
+27665,ACC-1FC0D,Call,2025-03-28,1060,spoke to site mgr re delivery
+27667,ACC-546C0,Email,2025-10-20,1214,see email
+27687,ACC-36CC4,Email,2025-11-15,1192,pricing query
+27689,ACC-C3BE2,Call,2024-07-02,1269,chase payment
+27695,ACC-11E0E,Visit,2024-08-14,1192,new job starting
+27698,ACC-F1708,Call,2024-07-01,1267,pricing query
+27714,ACC-831F1,Call,2024-06-06,1191,new job starting
+27715,ACC-5186A,Email,2024-04-22,1035,chase payment
+27723,ACC-2081F,Email,2024-03-22,1242,
+27727,ACC-22D19,Call,2024-07-03,1268,wants better price on blocks
+27748,ACC-F171C,Visit,2025-05-21,1113,
+27756,ACC-80080,Quote follow-up,2024-10-31,1059,spoke to site mgr re delivery
+27780,ACC-F8367,Call,2025-12-31,1215,chase payment
+27783,ACC-9BB90,Call,2025-06-26,1084,new job starting
+27798,ACC-10062,Visit,2025-04-12,1217,
+27825,ACC-1CE43,Call,2024-02-28,1088,spoke to site mgr re delivery
+27828,ACC-D664E,Note,2025-04-01,1112,pricing query
+27831,ACC-F3615,Note,2025-10-03,1088,pricing query
+27836,ACC-3EC6B,Call,2025-10-24,1110,chase payment
+27840,ACC-13421,Call,2025-07-22,1241,new job starting
+27882,ACC-BE9D6,Quote follow-up,2025-04-21,1058,pricing query
+27901,ACC-84644,Note,2024-12-02,1191,pricing query
+27943,ACC-BC9EF,Call,2025-04-05,1216,
+27946,ACC-EEF38,Email,2025-03-20,1191,call back next wk
+27977,ACC-BA634,Quote follow-up,2024-02-23,1086,spoke to site mgr re delivery
+27981,ACC-6CFB3,Note,2025-08-01,1217,call back next wk
+28003,ACC-FFEF7,Note,2025-05-26,,
+28033,ACC-E3321,Visit,2024-01-27,1110,left vm
+28055,ACC-7A973,Call,2024-10-18,1036,pricing query
+28059,ACC-3CBAF,Call,2025-08-08,1321,see email
+28064,ACC-D8C65,Note,2025-02-22,1061,chase payment
+28076,ACC-8DA74,Email,2025-10-27,1216,call back next wk
+28092,ACC-F4074,Email,2025-09-15,1163,wants better price on blocks
+28108,ACC-34984,Call,2024-10-09,1214,see email
+28111,ACC-E3321,Note,2025-12-09,1110,new job starting
+28123,ACC-CF9D2,Call,2024-10-08,1034,spoke to site mgr re delivery
+28130,ACC-338DA,Call,2025-09-10,1217,chase payment
+28140,ACC-CC044,Quote follow-up,2024-06-25,1190,new job starting
+28162,ACC-D107D,Email,2024-05-24,1188,new job starting
+28165,ACC-5D8CF,Email,2025-06-06,1113,see email
+28172,ACC-9B9E2,Visit,2025-07-23,1191,spoke to site mgr re delivery
+28187,ACC-207E8,Note,2025-06-03,1035,call back next wk
+28203,ACC-944C9,Email,2024-12-19,1267,pricing query
+28205,ACC-F46D2,Call,2024-06-03,1010,wants better price on blocks
+28232,ACC-151A8,Call,2025-11-20,1113,new job starting
+28245,ACC-12162,Call,2024-01-09,1192,new job starting
+28252,ACC-DCD8B,Call,2024-08-19,1192,spoke to site mgr re delivery
+28253,ACC-5404A,Call,2024-05-24,1010,
+28264,ACC-639B3,Call,2024-06-06,1191,see email
+28277,ACC-34984,Call,2025-03-03,1214,
+28279,ACC-2ADF1,Note,2024-09-03,1032,chase payment
+28286,ACC-FD786,Call,2025-06-02,1191,spoke to site mgr re delivery
+28296,ACC-47FE1,Visit,2025-02-20,1111,pricing query
+28301,ACC-BBEBC,Call,2024-10-14,1216,left vm
+28319,ACC-7D18E,Call,2025-06-09,1192,see email
+28331,ACC-9D5EA,Call,2024-11-21,1217,spoke to site mgr re delivery
+28345,ACC-D2813,Call,2024-01-02,1215,pricing query
+28366,ACC-75AD1,Quote follow-up,2024-07-17,1190,pricing query
+28367,ACC-9A7F4,Email,2025-08-21,1244,
+28377,ACC-A7C5D,Visit,2025-06-12,,
+28400,ACC-5722E,Email,2025-12-24,1088,pricing query
+28402,ACC-DC518,Call,2024-01-09,1061,call back next wk
+28405,ACC-32A07,Call,2025-03-17,1062,spoke to site mgr re delivery
+28431,ACC-34DE8,Note,2025-07-22,1292,call back next wk
+28434,ACC-9D27D,Call,2025-10-30,1088,wants better price on blocks
+28440,ACC-66F86,Call,2025-03-21,1034,chase payment
+28442,ACC-F3615,Visit,2024-03-28,1088,call back next wk
+28446,ACC-B77CE,Email,2025-03-04,1243,spoke to site mgr re delivery
+28447,ACC-422B9,Quote follow-up,2024-07-01,1268,wants better price on blocks
+28457,ACC-A901E,Email,2025-04-01,1217,
+28459,ACC-B8906,Call,2025-06-28,1036,left vm
+28464,ACC-B7F9D,Call,2025-03-27,1034,see email
+28471,ACC-B8F2B,Call,2025-08-21,1188,left vm
+28509,ACC-B8906,Email,2025-08-07,1036,see email
+28527,ACC-57301,Quote follow-up,2024-04-05,1244,
+28532,ACC-70B2A,Call,2024-01-20,1085,spoke to site mgr re delivery
+28534,ACC-9A586,Quote follow-up,2025-04-19,1192,
+28557,ACC-12C89,Email,2025-08-11,1087,
+28560,ACC-3AA7C,Quote follow-up,2024-10-02,1036,see email
+28577,ACC-1741F,Note,2025-01-06,1217,chase payment
+28578,ACC-5409E,Note,2025-05-20,1166,call back next wk
+28579,ACC-D7998,Call,2024-11-28,1140,new job starting
+28584,ACC-89471,Call,2024-11-13,1110,pricing query
+28587,ACC-6C660,Quote follow-up,2024-06-22,1192,pricing query
+28593,ACC-F13E6,Quote follow-up,2025-09-29,1140,chase payment
+28594,ACC-57301,Visit,2024-07-04,1244,pricing query
+28610,ACC-2AF03,Quote follow-up,2024-01-31,1087,left vm
+28613,ACC-CF9D2,Visit,2024-01-30,1034,new job starting
+28615,ACC-9E4CA,Quote follow-up,2025-12-17,1084,
+28626,ACC-1D174,Email,2025-10-27,1188,new job starting
+28655,ACC-B79AB,Email,2025-04-09,1244,
+28669,ACC-26208,Call,2024-11-27,1110,pricing query
+28677,ACC-A9CD5,Quote follow-up,2025-10-09,1214,see email
+28678,ACC-5D8CF,Call,2024-03-28,1113,pricing query
+28681,ACC-B6FCB,Email,2024-12-23,1138,pricing query
+28683,ACC-33CF5,Call,2024-09-20,1293,pricing query
+28694,ACC-837C7,Note,2025-11-17,1189,call back next wk
+28695,ACC-6479B,Email,2025-08-06,1112,chase payment
+28704,ACC-A1316,Quote follow-up,2025-05-21,1214,see email
+28708,ACC-9BB91,Call,2024-10-03,1215,call back next wk
+28715,ACC-7300F,Call,2024-08-21,1033,chase payment
+28724,ACC-26556,Note,2025-01-29,1061,spoke to site mgr re delivery
+28747,ACC-5CBBA,Call,2024-09-28,1188,pricing query
+28772,ACC-F3615,Email,2024-02-13,1088,new job starting
+28786,ACC-680C1,Email,2024-02-16,,pricing query
+28810,ACC-B9546,Email,2024-12-27,,see email
+28812,ACC-89735,Call,2025-10-09,1060,new job starting
+28835,ACC-CDE0A,Visit,2025-09-03,1192,wants better price on blocks
+28847,ACC-A89F2,Call,2025-03-06,1140,new job starting
+28849,ACC-C5692,Call,2024-05-01,1088,pricing query
+28850,ACC-84AF4,Call,2025-11-08,,see email
+28868,ACC-1D174,Email,2025-04-29,1188,see email
+28881,ACC-E7A41,Call,2025-08-15,1215,left vm
+28896,ACC-7BABE,Note,2024-10-22,1192,
+28902,ACC-E8369,Email,2025-02-12,1088,
+28904,ACC-8E9D9,Call,2024-09-18,1188,
+28923,ACC-E3B0E,Email,2024-11-12,1166,
+28979,ACC-DB0D6,Visit,2024-10-04,1110,chase payment
+28991,ACC-831F1,Call,2025-08-23,1191,chase payment
+29012,ACC-DD242,Call,2024-06-13,1166,spoke to site mgr re delivery
+29013,ACC-687AE,Call,2025-07-17,1111,see email
+29015,ACC-D4326,Quote follow-up,2024-09-24,1214,
+29019,ACC-2C910,Quote follow-up,2024-03-12,1061,wants better price on blocks
+29036,ACC-1E351,Call,2024-05-17,1060,pricing query
+29047,ACC-E9134,Quote follow-up,2025-05-16,1084,new job starting
+29059,ACC-7E711,Visit,2025-08-25,1165,call back next wk
+29082,ACC-CC6AC,Email,2025-04-03,1010,see email
+29087,ACC-2ADF1,Email,2025-11-25,1032,pricing query
+29093,ACC-418BB,Email,2025-02-19,1010,pricing query
+29098,ACC-9B9E2,Visit,2024-04-09,1191,pricing query
+29099,ACC-35EF2,Email,2025-09-20,1266,spoke to site mgr re delivery
+29120,ACC-F371B,Email,2025-03-25,1188,wants better price on blocks
+29134,ACC-CD451,Call,2024-11-27,1032,call back next wk
+29149,ACC-3A4C1,Email,2024-06-28,1244,chase payment
+29181,ACC-C1579,Call,2025-03-24,1269,pricing query
+29182,ACC-C1579,Note,2025-09-29,1269,new job starting
+29207,ACC-73A76,Call,2025-01-03,1244,wants better price on blocks
+29215,ACC-A9CD5,Email,2025-08-12,1214,spoke to site mgr re delivery
+29242,ACC-391D6,Note,2024-04-05,1188,
+29251,ACC-42AEC,Email,2025-06-04,1034,chase payment
+29257,ACC-18A9F,Call,2024-12-14,1059,new job starting
+29261,ACC-B0AB5,Note,2024-12-04,1240,
+29285,ACC-DF34D,Email,2025-06-11,1166,
+29295,ACC-F21A3,Visit,2025-03-04,1137,see email
+29299,ACC-7733B,Call,2025-06-07,1266,left vm
+29309,ACC-4B9F0,Email,2024-09-18,1216,wants better price on blocks
+29326,ACC-2667F,Note,2024-04-20,1319,new job starting
+29330,ACC-2926C,Call,2024-03-20,1266,wants better price on blocks
+29346,ACC-7EEC5,Call,2024-03-11,1190,chase payment
+29375,ACC-1DEF0,Email,2024-10-05,1217,spoke to site mgr re delivery
+29399,ACC-93F2F,Email,2025-06-30,1110,
+29401,ACC-24E87,Call,2024-08-24,1292,
+29426,ACC-A520C,Email,2024-12-31,1268,
+29482,ACC-28AB6,Call,2025-03-01,1032,new job starting
+29493,ACC-2926C,Quote follow-up,2025-09-01,1266,see email
+29497,ACC-77C08,Call,2025-03-05,1190,wants better price on blocks
+29498,ACC-37FC2,Call,2025-06-11,1032,new job starting
+29500,ACC-6479B,Email,2024-06-10,1112,left vm
+29520,ACC-D107D,Email,2025-08-28,1188,spoke to site mgr re delivery
+29552,ACC-6C660,Call,2024-10-11,1192,new job starting
+29554,ACC-32B94,Visit,2025-05-09,1058,see email
+29571,ACC-4905A,Email,2025-06-04,1243,left vm
+29577,ACC-79C0F,Call,2025-02-06,1268,spoke to site mgr re delivery
+29594,ACC-D438F,Note,2025-03-20,1162,see email
+29596,ACC-132C7,Visit,2024-03-15,1036,chase payment
+29604,ACC-F3615,Note,2024-02-14,1088,spoke to site mgr re delivery
+29613,ACC-73B2F,Email,2025-07-23,1215,wants better price on blocks
+29651,ACC-E7A41,Call,2024-12-05,1215,
+29652,ACC-94F75,Call,2025-02-25,1218,pricing query
+29653,ACC-57975,Call,2024-04-24,1270,new job starting
+29660,ACC-42202,Call,2024-04-02,1242,spoke to site mgr re delivery
+29666,ACC-1AFE2,Call,2025-05-12,1214,left vm
+29671,ACC-CD4AA,Call,2025-05-02,1319,see email
+29681,ACC-184F9,Quote follow-up,2025-01-29,1138,call back next wk
+29685,ACC-EEF38,Email,2024-10-15,1191,
+29689,ACC-639B3,Call,2025-12-10,1191,wants better price on blocks
+29708,ACC-675B6,Note,2025-07-03,1036,new job starting
+29710,ACC-3A786,Note,2025-10-03,1111,call back next wk
+29711,ACC-6F889,Visit,2025-09-23,1010,
+29712,ACC-68EF7,Call,2024-03-19,1188,left vm
+29725,ACC-C6043,Call,2024-07-05,1215,
+29727,ACC-45FCA,Email,2025-08-04,1163,pricing query
+29737,ACC-F8606,Call,2024-05-08,1059,
+29739,ACC-7CA7B,Call,2024-03-13,1061,see email
+29774,ACC-CB593,Call,2024-02-24,1189,
+29789,ACC-3569A,Call,2025-04-07,1033,pricing query
+29795,ACC-DB0D6,Call,2025-06-04,1110,see email
+29799,ACC-84644,Visit,2025-03-28,1191,spoke to site mgr re delivery
+29811,ACC-27BF3,Call,2025-03-21,1319,left vm
+29819,ACC-3EB62,Email,2025-07-18,1138,left vm
+29849,ACC-639B3,Email,2025-06-12,1191,pricing query
+29851,ACC-9D5EA,Email,2024-10-07,1217,pricing query
+29869,ACC-82B6D,Quote follow-up,2024-08-09,1061,new job starting
+29878,ACC-1141B,Note,2025-10-09,1268,see email
+29881,ACC-837C7,Quote follow-up,2024-07-05,1189,new job starting
+29883,ACC-1741F,Email,2024-08-08,1217,
+29885,ACC-9A3AE,Note,2024-11-01,1139,left vm
+29909,ACC-207E8,Email,2024-08-30,1035,call back next wk
+29914,ACC-BFED8,Call,2025-05-21,1191,
+29916,ACC-400A1,Email,2025-02-28,1086,pricing query
+29936,ACC-E96FD,Visit,2025-03-28,1059,left vm
+29943,ACC-4665F,Email,2024-12-10,1166,
+29944,ACC-A58DA,Call,2024-11-29,1163,
+29945,ACC-98E47,Visit,2024-05-28,1139,left vm
+29981,ACC-63712,Email,2025-08-20,1058,pricing query
+29983,ACC-D2813,Call,2025-07-03,1215,chase payment
+29984,ACC-7DBFD,Email,2025-05-01,1113,
+30006,ACC-5186A,Visit,2025-10-13,1035,chase payment
+30011,ACC-E9C0C,Email,2025-09-25,1268,new job starting
+30014,ACC-C304F,Call,2025-08-18,1110,left vm
+30016,ACC-B8964,Note,2024-11-06,1058,chase payment
+30021,ACC-BC9EF,Visit,2025-09-30,1216,spoke to site mgr re delivery
+30025,ACC-6A410,Note,2025-07-17,1112,pricing query
+30028,ACC-73A76,Visit,2024-10-01,1244,
+30037,ACC-1A8AF,Call,2025-07-22,1163,pricing query
+30044,ACC-C0A0C,Call,2025-06-12,1296,wants better price on blocks
+30051,ACC-993E3,Visit,2025-03-06,1269,
+30072,ACC-FE2F3,Email,2025-05-01,1166,
+30077,ACC-2B989,Call,2025-11-07,1321,pricing query
+30106,ACC-E3321,Email,2025-11-27,1110,pricing query
+30117,ACC-6C660,Call,2025-10-24,1192,spoke to site mgr re delivery
+30118,ACC-3EB62,Visit,2024-10-04,1138,spoke to site mgr re delivery
+30130,ACC-9510D,Call,2024-05-10,1269,
+30149,ACC-D4326,Note,2024-08-05,1214,chase payment
+30161,ACC-5D8CF,Email,2025-09-24,1113,new job starting
+30162,ACC-1EB67,Email,2025-12-16,1061,see email
+30170,ACC-A954E,Quote follow-up,2025-12-15,1060,chase payment
+30183,ACC-1D9D3,Email,2024-08-20,1034,new job starting
+30205,ACC-18A9F,Call,2025-11-06,1059,wants better price on blocks
+30215,ACC-EF061,Email,2025-02-14,1110,wants better price on blocks
+30219,ACC-FF06A,Quote follow-up,2024-02-16,1113,spoke to site mgr re delivery
+30225,ACC-7CA7B,Note,2025-08-29,1061,spoke to site mgr re delivery
+30229,ACC-9AC0B,Call,2025-07-28,1241,see email
+30231,ACC-D4326,Call,2024-04-17,1214,wants better price on blocks
+30237,ACC-93816,Call,2024-02-16,1112,pricing query
+30240,ACC-41180,Email,2025-09-15,1244,
+30246,ACC-AC3C7,Call,2024-11-26,1164,wants better price on blocks
+30251,ACC-12A06,Note,2024-03-02,1189,pricing query
+30264,ACC-3FD7D,Call,2024-02-12,1242,pricing query
+30270,ACC-4F181,Call,2024-03-18,1191,left vm
+30271,ACC-B977E,Call,2024-05-31,1035,chase payment
+30276,ACC-7CA7B,Call,2024-01-05,1061,
+30281,ACC-675B6,Call,2025-01-06,1036,
+30288,ACC-2ADF1,Call,2025-05-08,1032,call back next wk
+30292,ACC-9183F,Call,2024-07-19,1190,new job starting
+30302,ACC-7219E,Email,2025-10-24,1270,wants better price on blocks
+30334,ACC-AF43E,Call,2024-11-18,1035,chase payment
+30346,ACC-CDE0A,Call,2025-06-26,1192,new job starting
+30355,ACC-354A4,Note,2025-10-23,1319,chase payment
+30363,ACC-202FC,Note,2025-09-20,1062,
+30372,ACC-DCD8B,Visit,2024-05-22,1192,chase payment
+30384,ACC-2C910,Call,2025-11-24,1061,wants better price on blocks
+30407,ACC-41180,Call,2025-11-11,1244,chase payment
+30422,ACC-3A6A9,Quote follow-up,2025-07-14,1190,pricing query
+30427,ACC-EEF38,Call,2024-07-09,1191,see email
+30428,ACC-1DEF0,Note,2024-10-15,1217,left vm
+30433,ACC-95A6C,Call,2024-07-22,1321,left vm
+30438,ACC-EED7C,Email,2024-06-04,1111,pricing query
+30440,ACC-9510D,Call,2024-03-15,1269,wants better price on blocks
+30446,ACC-2FEEB,Email,2025-08-15,1266,
+30458,ACC-41B9D,Call,2024-01-16,1215,wants better price on blocks
+30463,ACC-D1906,Email,2024-11-15,1189,
+30467,ACC-C6043,Call,2024-03-05,1215,see email
+30472,ACC-6D0E3,Quote follow-up,2024-09-10,1062,see email
+30474,ACC-A901E,Visit,2024-06-28,1217,
+30479,ACC-4665F,Call,2025-02-10,1166,call back next wk
+30486,ACC-B2739,Call,2025-05-06,1088,
+30488,ACC-9A7F4,Email,2024-10-07,1244,see email
+30494,ACC-6A410,Email,2025-12-09,1112,wants better price on blocks
+30511,ACC-2D597,Visit,2024-06-07,1036,
+30517,ACC-9A3AE,Visit,2025-04-08,1139,call back next wk
+30524,ACC-E3321,Email,2024-12-03,1110,
+30540,ACC-77C08,Email,2024-07-19,1190,left vm
+30543,ACC-22D19,Quote follow-up,2025-02-05,1268,pricing query
+30547,ACC-82FE6,Quote follow-up,2025-01-22,1060,chase payment
+30553,ACC-A957A,Email,2024-08-09,1190,left vm
+30554,ACC-1C054,Call,2025-02-27,1268,new job starting
+30564,ACC-5C503,Note,2024-02-22,1269,see email
+30570,ACC-52F54,Visit,2024-12-05,1036,
+30577,ACC-AE751,Email,2024-10-08,1190,left vm
+30580,ACC-5404A,Quote follow-up,2024-11-22,1010,wants better price on blocks
+30615,ACC-5C852,Email,2024-10-02,1060,pricing query
+30619,ACC-32555,Quote follow-up,2024-11-07,1241,
+30621,ACC-C472E,Quote follow-up,2024-09-10,1241,wants better price on blocks
+30623,ACC-41B9D,Visit,2024-11-13,1215,left vm
+30625,ACC-9510D,Call,2024-05-17,1269,wants better price on blocks
+30628,ACC-D2813,Call,2024-11-30,1215,spoke to site mgr re delivery
+30643,ACC-33881,Call,2025-08-22,,spoke to site mgr re delivery
+30651,ACC-7A973,Call,2024-10-03,1036,see email
+30663,ACC-85E0D,Call,2024-01-02,1241,
+30664,ACC-D2813,Visit,2025-01-27,1215,pricing query
+30669,ACC-BBCE3,Email,2024-05-06,1033,call back next wk
+30695,ACC-7B0E9,Quote follow-up,2024-08-08,1214,pricing query
+30699,ACC-BFED8,Visit,2024-09-05,1191,call back next wk
+30717,ACC-59A6E,Email,2025-05-05,1111,chase payment
+30719,ACC-22065,Call,2025-09-02,,left vm
+30722,ACC-93F2F,Call,2024-03-28,1110,pricing query
+30735,ACC-E96FD,Visit,2024-09-30,1059,chase payment
+30753,ACC-24E87,Call,2025-11-07,1292,call back next wk
+30758,ACC-18A9F,Email,2025-09-08,1059,
+30768,ACC-C7419,Visit,2024-02-07,1217,left vm
+30769,ACC-5CBAC,Note,2024-08-06,1217,new job starting
+30778,ACC-41B9D,Visit,2024-10-07,1215,call back next wk
+30781,ACC-C4A5B,Note,2024-02-09,,
+30783,ACC-5A6F4,Note,2024-10-01,,wants better price on blocks
+30785,ACC-B944F,Email,2025-09-02,1111,chase payment
+30811,ACC-6A410,Call,2024-10-19,1112,spoke to site mgr re delivery
+30814,ACC-D1906,Quote follow-up,2025-05-01,1189,call back next wk
+30815,ACC-989A2,Quote follow-up,2025-04-22,1085,left vm
+30826,ACC-6CFB3,Note,2024-03-19,1217,pricing query
+30844,ACC-9276F,Call,2024-02-27,1166,
+30845,ACC-CA728,Call,2025-03-12,1216,left vm
+30852,ACC-2D597,Email,2024-05-08,1036,
+30853,ACC-63C48,Email,2024-03-28,1113,call back next wk
+30857,ACC-67628,Visit,2024-10-12,1113,see email
+30861,ACC-FF06A,Quote follow-up,2024-11-26,1113,
+30863,ACC-232CE,Email,2025-10-06,1035,spoke to site mgr re delivery
+30874,ACC-9AC0B,Visit,2024-08-13,1241,chase payment
+30877,ACC-1DEF0,Email,2024-04-17,1217,new job starting
+30878,ACC-9BB91,Call,2024-09-16,1215,call back next wk
+30881,ACC-E3B0E,Email,2024-07-31,1166,new job starting
+30902,ACC-DB0D6,Call,2024-11-30,1110,spoke to site mgr re delivery
+30909,ACC-DCD8B,Call,2025-06-18,1192,call back next wk
+30929,ACC-26556,Visit,2024-09-09,1061,
+30930,ACC-2D597,Note,2025-08-14,1036,left vm
+30942,ACC-7BABE,Call,2024-02-13,1192,new job starting
+30945,ACC-8A9CA,Email,2024-04-08,1242,see email
+30953,ACC-A78FB,Note,2025-11-06,1215,
+30963,ACC-6A298,Quote follow-up,2025-12-22,1010,
+30972,ACC-43DE1,Note,2024-12-02,1268,see email
+30976,ACC-FE60B,Call,2025-11-27,1292,wants better price on blocks
+30987,ACC-A0CFB,Call,2024-06-26,1088,
+30991,ACC-EA967,Call,2025-06-07,1240,chase payment
+30994,ACC-9C9DA,Email,2024-08-22,1035,see email
+30998,ACC-AB5FB,Call,2025-12-04,1058,pricing query
+31024,ACC-837C7,Note,2024-04-18,1189,
+31029,ACC-A901E,Call,2025-06-12,1217,left vm
+31039,ACC-E024C,Call,2025-06-19,1033,pricing query
+31056,ACC-6BB91,Call,2024-04-11,1217,wants better price on blocks
+31059,ACC-E15A2,Call,2025-10-13,1136,spoke to site mgr re delivery
+31060,ACC-CC6AC,Note,2025-08-18,1010,chase payment
+31063,ACC-AE751,Quote follow-up,2024-03-21,1190,pricing query
+31071,ACC-68EF7,Call,2024-06-19,1188,pricing query
+31075,ACC-9C08D,Email,2024-10-23,1216,pricing query
+31091,ACC-831F1,Visit,2024-06-26,1191,
+31107,ACC-F5EB2,Quote follow-up,2024-06-24,1058,
+31112,ACC-546C0,Email,2025-07-07,1214,pricing query
+31117,ACC-EC81F,Call,2024-10-28,1191,pricing query
+31121,ACC-CA728,Call,2025-04-23,1216,pricing query
+31125,ACC-E0CA5,Note,2024-06-28,1188,see email
+31126,ACC-D2813,Call,2024-11-12,1215,pricing query
+31130,ACC-3A523,Call,2025-12-27,1033,see email
+31135,ACC-7EEC5,Note,2025-04-21,1190,pricing query
+31153,ACC-72837,Visit,2025-02-17,1058,pricing query
+31171,ACC-5AD6E,Call,2024-05-28,1111,spoke to site mgr re delivery
+31179,ACC-B7F9D,Note,2025-05-30,1034,left vm
+31186,ACC-E0CA5,Call,2025-07-01,1188,
+31205,ACC-4E6DE,Visit,2024-08-09,1190,left vm
+31208,ACC-79C0F,Call,2025-03-04,1268,chase payment
+31210,ACC-E620D,Visit,2024-10-02,1191,left vm
+31211,ACC-638C6,Quote follow-up,2025-02-04,1114,
+31222,ACC-D664E,Email,2025-08-14,1112,
+31231,ACC-EA636,Note,2024-05-01,1088,
+31237,ACC-CDAB2,Quote follow-up,2024-02-03,1214,call back next wk
+31251,ACC-29721,Call,2024-11-08,1214,spoke to site mgr re delivery
+31256,ACC-D81CA,Call,2024-09-17,1032,call back next wk
+31281,ACC-41180,Visit,2024-03-29,1244,wants better price on blocks
+31288,ACC-D2813,Quote follow-up,2024-12-04,1215,
+31306,ACC-93816,Call,2025-05-13,1112,
+31310,ACC-6AD59,Note,2025-03-18,1010,
+31317,ACC-8AD0C,Call,2025-11-17,1216,
+31327,ACC-F7A61,Call,2024-04-24,1032,pricing query
+31330,ACC-37FC2,Email,2025-01-15,1032,new job starting
+31331,ACC-3DAF1,Note,2025-08-06,1214,call back next wk
+31335,ACC-6CFB3,Email,2025-05-30,1217,see email
+31350,ACC-52D05,Call,2024-03-04,1113,wants better price on blocks
+31354,ACC-F4276,Quote follow-up,2024-10-11,1111,left vm
+31355,ACC-C1BB1,Quote follow-up,2025-05-06,1086,call back next wk
+31361,ACC-F1F43,Email,2025-09-22,1191,spoke to site mgr re delivery
+31366,ACC-ABBAD,Call,2025-07-29,1060,see email
+31381,ACC-675B6,Call,2024-09-16,1036,spoke to site mgr re delivery
+31401,ACC-DD242,Call,2025-07-09,1166,chase payment
+31403,ACC-CA728,Call,2025-04-30,1216,spoke to site mgr re delivery
+31405,ACC-7E3C6,Quote follow-up,2025-11-11,1060,chase payment
+31406,ACC-D3D12,Email,2025-07-30,1036,wants better price on blocks
+31411,ACC-D8C65,Visit,2024-01-09,1061,left vm
+31430,ACC-32B94,Email,2024-08-26,1058,wants better price on blocks
+31459,ACC-C3BE2,Email,2025-03-07,1269,chase payment
+31461,ACC-515EB,Call,2024-10-28,1034,wants better price on blocks
+31464,ACC-DDC10,Visit,2024-03-08,1191,spoke to site mgr re delivery
+31499,ACC-12162,Visit,2024-02-20,1192,left vm
+31504,ACC-687AE,Call,2024-10-15,1111,spoke to site mgr re delivery
+31510,ACC-12162,Call,2024-05-13,1192,call back next wk
+31515,ACC-78DDF,Call,2024-07-11,1191,chase payment
+31520,ACC-A954E,Call,2025-07-30,1060,call back next wk
+31536,ACC-F4276,Quote follow-up,2025-11-26,1111,
+31541,ACC-A289D,Call,2024-10-01,1269,chase payment
+31560,ACC-35EF2,Call,2024-02-17,1266,spoke to site mgr re delivery
+31563,ACC-A1F8D,Email,2024-05-29,1032,
+31587,ACC-607C2,Email,2024-08-23,1318,chase payment
+31618,ACC-6BDAC,Call,2025-05-05,1112,spoke to site mgr re delivery
+31622,ACC-7B0E9,Note,2024-05-15,1214,spoke to site mgr re delivery
+31624,ACC-93F2F,Note,2024-07-22,1110,call back next wk
+31625,ACC-831F1,Call,2025-09-11,1191,new job starting
+31626,ACC-D4326,Note,2024-10-30,1214,left vm
+31627,ACC-A954E,Email,2025-11-04,1060,see email
+31636,ACC-57301,Visit,2024-06-12,1244,left vm
+31640,ACC-57E41,Call,2025-06-10,1136,spoke to site mgr re delivery
+31643,ACC-207E8,Call,2025-02-24,1035,call back next wk
+31646,ACC-1DEF0,Call,2024-10-29,1217,new job starting
+31686,ACC-BBE83,Note,2024-11-18,1034,
+31688,ACC-891B6,Quote follow-up,2024-03-18,1240,left vm
+31704,ACC-391D6,Call,2025-05-13,1188,call back next wk
+31712,ACC-207E8,Quote follow-up,2024-10-10,1035,
+31726,ACC-6A410,Email,2025-04-14,1112,pricing query
+31728,ACC-2ADF1,Email,2024-07-10,1032,see email
+31739,ACC-8AD0C,Note,2024-07-26,1216,new job starting
+31749,ACC-675B6,Call,2025-01-10,1036,spoke to site mgr re delivery
+31750,ACC-34984,Call,2025-12-09,1214,
+31759,ACC-6D2B1,Note,2025-12-10,1269,
+31761,ACC-E7856,Visit,2025-10-02,1140,wants better price on blocks
+31762,ACC-AC62E,Call,2024-06-25,1088,see email
+31766,ACC-3A4C1,Call,2025-07-15,1244,spoke to site mgr re delivery
+31775,ACC-DB0D6,Note,2024-01-30,1110,see email
+31779,ACC-6BB91,Note,2024-03-13,1217,see email
+31782,ACC-9183F,Call,2025-08-04,1190,call back next wk
+31787,ACC-CF9D2,Visit,2025-11-21,1034,left vm
+31789,ACC-12A06,Call,2024-11-13,1189,see email
+31813,ACC-8213F,Call,2024-02-09,1166,wants better price on blocks
+31834,ACC-259D8,Quote follow-up,2025-02-12,1218,wants better price on blocks
+31835,ACC-2D597,Email,2024-03-02,1036,chase payment
+31844,ACC-9183F,Visit,2024-12-31,1190,
+31850,ACC-F171C,Call,2025-12-22,1113,left vm
+31857,ACC-D5A37,Visit,2024-06-13,1059,wants better price on blocks
+31864,ACC-AE751,Call,2024-09-04,1190,new job starting
+31875,ACC-C3EE4,Call,2024-10-07,1218,chase payment
+31886,ACC-F93CF,Call,2025-04-07,1136,
+31893,ACC-51540,Email,2024-10-04,1244,pricing query
+31901,ACC-F371B,Visit,2025-04-19,1188,wants better price on blocks
+31904,ACC-CD57A,Email,2024-09-27,1035,left vm
+31905,ACC-3A4C1,Email,2025-08-13,1244,pricing query
+31970,ACC-993E3,Call,2025-05-14,1269,call back next wk
+31973,ACC-E0CA5,Call,2025-04-30,1188,
+31983,ACC-D8C65,Visit,2025-12-29,1061,spoke to site mgr re delivery
+31988,ACC-338DA,Call,2024-02-08,1217,pricing query
+31995,ACC-5E9BF,Call,2024-06-27,1188,chase payment
+31999,ACC-65695,Call,2025-10-22,1088,new job starting
+32004,ACC-F8367,Visit,2025-06-16,1215,wants better price on blocks
+32008,ACC-73B2F,Quote follow-up,2025-01-23,1215,left vm
+32022,ACC-B7F9D,Email,2025-10-22,1034,new job starting
+32028,ACC-985C7,Call,2024-05-21,1140,
+32038,ACC-C6043,Call,2025-02-13,1215,wants better price on blocks
+32043,ACC-546C0,Visit,2025-03-13,1214,spoke to site mgr re delivery
+32047,ACC-A520C,Quote follow-up,2024-07-22,1268,left vm
+32061,ACC-7CA7B,Call,2025-05-01,1061,wants better price on blocks
+32069,ACC-EED28,Call,2025-06-26,1192,chase payment
+32076,ACC-E620D,Email,2025-05-12,1191,
+32092,ACC-E3A95,Email,2024-10-09,1190,
+32098,ACC-CC6AC,Email,2025-08-22,1010,
+32118,ACC-9B571,Call,2024-09-30,1244,new job starting
+32122,ACC-EED7C,Call,2024-12-14,1111,pricing query
+32131,ACC-217B8,Call,2024-05-17,1138,call back next wk
+32132,ACC-2FEEB,Visit,2025-08-27,1266,new job starting
+32148,ACC-6A298,Email,2024-02-09,1010,pricing query
+32177,ACC-45AA2,Note,2025-07-09,1192,see email
+32178,ACC-57441,Email,2025-08-11,1216,call back next wk
+32184,ACC-BC9EF,Visit,2024-11-15,1216,new job starting
+32196,ACC-C5620,Call,2024-10-15,1112,chase payment
+32202,ACC-89735,Call,2025-02-04,1060,chase payment
+32204,ACC-5409E,Call,2024-08-01,1166,new job starting
+32206,ACC-11AA1,Call,2025-03-21,1321,see email
+32216,ACC-F8367,Quote follow-up,2025-11-24,1215,pricing query
+32217,ACC-48D7F,Call,2024-03-18,1266,call back next wk
+32229,ACC-2ADF1,Note,2024-12-18,1032,
+32231,ACC-22C42,Visit,2024-01-31,1035,left vm
+32248,ACC-5C08C,Visit,2025-10-10,1086,spoke to site mgr re delivery
+32261,ACC-5C503,Visit,2024-07-18,1269,new job starting
+32268,ACC-944C9,Email,2024-07-15,1267,see email
+32274,ACC-F5F6B,Email,2025-03-19,1060,wants better price on blocks
+32277,ACC-F46D2,Call,2025-09-19,1010,pricing query
+32280,ACC-ACBA7,Quote follow-up,2025-11-13,1192,see email
+32283,ACC-51540,Call,2025-10-27,1244,pricing query
+32288,ACC-4B8B1,Note,2024-09-19,1058,chase payment
+32323,ACC-59A6E,Quote follow-up,2025-03-07,1111,spoke to site mgr re delivery
+32328,ACC-84A22,Note,2024-09-18,1032,new job starting
+32329,ACC-F04A0,Visit,2025-06-25,1032,new job starting
+32331,ACC-79C0F,Call,2024-09-06,1268,new job starting
+32352,ACC-8E49D,Quote follow-up,2025-04-04,1216,call back next wk
+32353,ACC-BF648,Call,2024-12-09,1215,
+32356,ACC-DF34D,Call,2025-03-04,1166,see email
+32359,ACC-A0AC5,Email,2024-10-09,1188,
+32371,ACC-639B3,Call,2024-11-05,1191,new job starting
+32375,ACC-C3783,Call,2025-12-31,1215,spoke to site mgr re delivery
+32379,ACC-2B45D,Note,2025-05-01,1059,spoke to site mgr re delivery
+32385,ACC-DF34D,Quote follow-up,2024-03-25,1166,call back next wk
+32397,ACC-8213F,Note,2024-12-27,1166,
+32407,ACC-41180,Call,2024-01-12,1244,call back next wk
+32408,ACC-3569A,Call,2024-11-27,1033,chase payment
+32417,ACC-7733B,Call,2025-11-08,1266,chase payment
+32456,ACC-CC044,Call,2024-01-05,1190,
+32466,ACC-1CE43,Note,2025-06-24,1088,new job starting
+32472,ACC-4481F,Call,2024-04-08,,left vm
+32498,ACC-3AC58,Quote follow-up,2025-06-04,1191,chase payment
+32501,ACC-8CCC4,Call,2024-09-13,1270,chase payment
+32512,ACC-7BABE,Email,2024-08-23,1192,spoke to site mgr re delivery
+32516,ACC-687AE,Call,2025-05-26,1111,
+32528,ACC-5BBE7,Call,2025-01-06,1110,spoke to site mgr re delivery
+32529,ACC-57441,Email,2024-07-15,1216,call back next wk
+32535,ACC-8AD0C,Email,2024-09-13,1216,new job starting

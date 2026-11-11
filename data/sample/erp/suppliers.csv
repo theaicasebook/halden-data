@@ -1,0 +1,321 @@
+supplier_id,supplier_name,payment_terms_days,edi_enabled
+1,Trademaster Building Products Ltd,90,False
+2,Westmoor Building Products Ltd,60,False
+3,Trademaster Plumbing Ltd,60,False
+4,Brindley Distribution Ltd,60,False
+5,Castleford Electrical Ltd,60,True
+6,Castleford Timber Ltd,90,True
+7,Halden Timber Ltd,45,False
+8,Granton Fixings Ltd,45,False
+9,Brickfield Distribution Ltd,30,False
+10,Holloway Timber Ltd,30,False
+11,Thornbury Timber Ltd,90,False
+12,Trademaster Distribution Ltd,60,False
+13,Thornbury Merchanting Supplies Ltd,30,False
+14,Copperline Distribution Ltd,60,False
+15,Fernley Distribution Ltd,45,False
+16,Marlstone Electrical Ltd,90,False
+17,Copperline Timber Ltd,45,False
+18,Calvert Merchanting Supplies Ltd,30,False
+19,Sparkwell Distribution Ltd,60,False
+20,Redbrook Manufacturing Ltd,90,False
+21,Castleford Distribution Ltd,60,False
+22,Calvert Electrical Ltd,60,False
+23,Westmoor Fixings Ltd,45,False
+24,Draycote Building Products Ltd,90,False
+25,Calvert Timber Ltd,45,False
+26,Holloway Electrical Ltd,60,True
+27,Holloway Distribution Ltd,90,False
+28,Kestrel Manufacturing Ltd,60,False
+29,Calvert Electrical Ltd,60,False
+30,Brickfield Plumbing Ltd,60,False
+31,Ironside Distribution Ltd,60,True
+32,Castleford Distribution Ltd,90,True
+33,Copperline Plumbing Ltd,90,False
+34,Northgate Fixings Ltd,90,False
+35,Ironside Merchanting Supplies Ltd,60,False
+36,Ashby Building Products Ltd,45,False
+37,Castleford Timber Ltd,60,False
+38,Trademaster Plumbing Ltd,45,False
+39,Northgate Electrical Ltd,30,False
+40,Ironside Manufacturing Ltd,60,False
+41,Halden Manufacturing Ltd,60,True
+42,Draycote Merchanting Supplies Ltd,60,False
+43,Pennine Building Products Ltd,60,False
+44,Sparkwell Manufacturing Ltd,60,False
+45,Copperline Fixings Ltd,45,False
+46,Calvert Merchanting Supplies Ltd,60,False
+47,Redbrook Distribution Ltd,30,False
+48,Marlstone Manufacturing Ltd,45,False
+49,Brindley Plumbing Ltd,30,False
+50,Pennine Merchanting Supplies Ltd,30,False
+51,Thornbury Building Products Ltd,90,True
+52,Ashby Building Products Ltd,90,False
+53,Redbrook Fixings Ltd,60,False
+54,Draycote Distribution Ltd,60,True
+55,Kestrel Building Products Ltd,60,False
+56,Calvert Timber Ltd,90,False
+57,Halden Timber Ltd,45,False
+58,Brickfield Building Products Ltd,60,False
+59,Pennine Merchanting Supplies Ltd,90,False
+60,Northgate Distribution Ltd,60,False
+61,Redbrook Plumbing Ltd,45,False
+62,Sparkwell Building Products Ltd,60,True
+63,Holloway Building Products Ltd,45,True
+64,Draycote Fixings Ltd,60,False
+65,Northgate Merchanting Supplies Ltd,30,False
+66,Brickfield Electrical Ltd,60,False
+67,Thornbury Timber Ltd,60,False
+68,Draycote Building Products Ltd,45,False
+69,Thornbury Building Products Ltd,60,False
+70,Halden Plumbing Ltd,60,False
+71,Thornbury Electrical Ltd,90,True
+72,Thornbury Electrical Ltd,45,False
+73,Trademaster Electrical Ltd,90,False
+74,Redbrook Electrical Ltd,90,True
+75,Fernley Plumbing Ltd,60,False
+76,Castleford Manufacturing Ltd,60,False
+77,Halden Manufacturing Ltd,30,False
+78,Fernley Distribution Ltd,90,False
+79,Brindley Timber Ltd,45,False
+80,Copperline Plumbing Ltd,60,False
+81,Kestrel Manufacturing Ltd,60,True
+82,Brindley Distribution Ltd,90,False
+83,Granton Electrical Ltd,60,False
+84,Granton Merchanting Supplies Ltd,30,False
+85,Marlstone Plumbing Ltd,90,False
+86,Draycote Plumbing Ltd,60,False
+87,Ironside Timber Ltd,90,False
+88,Copperline Timber Ltd,30,True
+89,Brickfield Timber Ltd,60,False
+90,Sparkwell Distribution Ltd,60,False
+91,Castleford Timber Ltd,45,False
+92,Holloway Distribution Ltd,60,False
+93,Thornbury Plumbing Ltd,90,False
+94,Brindley Merchanting Supplies Ltd,60,False
+95,Castleford Electrical Ltd,45,False
+96,Copperline Manufacturing Ltd,60,False
+97,Halden Building Products Ltd,45,False
+98,Holloway Timber Ltd,90,False
+99,Draycote Fixings Ltd,30,False
+100,Holloway Fixings Ltd,45,True
+101,Pennine Plumbing Ltd,90,False
+102,Ashby Fixings Ltd,45,False
+103,Thornbury Distribution Ltd,60,False
+104,Fernley Manufacturing Ltd,90,False
+105,Redbrook Fixings Ltd,60,False
+106,Halden Manufacturing Ltd,60,False
+107,Holloway Plumbing Ltd,90,False
+108,Kestrel Distribution Ltd,60,False
+109,Marlstone Merchanting Supplies Ltd,30,False
+110,Granton Distribution Ltd,30,False
+111,Ashby Plumbing Ltd,30,True
+112,Trademaster Fixings Ltd,90,False
+113,Copperline Merchanting Supplies Ltd,60,False
+114,Ashby Merchanting Supplies Ltd,90,False
+115,Ironside Manufacturing Ltd,45,False
+116,Ironside Building Products Ltd,60,True
+117,Calvert Distribution Ltd,30,False
+118,Castleford Distribution Ltd,60,False
+119,Brindley Distribution Ltd,90,False
+120,Holloway Distribution Ltd,45,False
+121,Castleford Building Products Ltd,90,True
+122,Thornbury Distribution Ltd,90,False
+123,Redbrook Timber Ltd,90,False
+124,Marlstone Manufacturing Ltd,60,True
+125,Pennine Distribution Ltd,45,False
+126,Thornbury Building Products Ltd,60,False
+127,Holloway Manufacturing Ltd,90,False
+128,Copperline Distribution Ltd,60,True
+129,Brindley Timber Ltd,90,True
+130,Westmoor Timber Ltd,30,False
+131,Brindley Distribution Ltd,90,False
+132,Castleford Plumbing Ltd,90,False
+133,Brickfield Plumbing Ltd,90,False
+134,Westmoor Timber Ltd,30,False
+135,Trademaster Electrical Ltd,60,False
+136,Calvert Fixings Ltd,90,False
+137,Draycote Fixings Ltd,45,False
+138,Draycote Fixings Ltd,60,False
+139,Holloway Distribution Ltd,60,False
+140,Ashby Plumbing Ltd,30,False
+141,Castleford Plumbing Ltd,90,False
+142,Brickfield Electrical Ltd,60,False
+143,Kestrel Merchanting Supplies Ltd,90,False
+144,Ashby Plumbing Ltd,30,False
+145,Ashby Merchanting Supplies Ltd,45,False
+146,Ashby Merchanting Supplies Ltd,60,True
+147,Kestrel Fixings Ltd,45,False
+148,Brickfield Manufacturing Ltd,90,False
+149,Holloway Plumbing Ltd,60,False
+150,Ashby Electrical Ltd,30,False
+151,Thornbury Electrical Ltd,45,False
+152,Calvert Distribution Ltd,60,True
+153,Sparkwell Electrical Ltd,30,False
+154,Brindley Distribution Ltd,60,False
+155,Draycote Building Products Ltd,90,False
+156,Redbrook Fixings Ltd,60,False
+157,Thornbury Merchanting Supplies Ltd,60,False
+158,Northgate Fixings Ltd,60,False
+159,Granton Building Products Ltd,45,False
+160,Holloway Timber Ltd,45,False
+161,Trademaster Building Products Ltd,90,False
+162,Granton Electrical Ltd,30,True
+163,Ashby Building Products Ltd,30,False
+164,Draycote Fixings Ltd,30,False
+165,Ashby Building Products Ltd,30,False
+166,Halden Plumbing Ltd,60,True
+167,Holloway Timber Ltd,60,False
+168,Westmoor Manufacturing Ltd,90,True
+169,Ironside Plumbing Ltd,45,False
+170,Copperline Distribution Ltd,60,True
+171,Pennine Electrical Ltd,30,False
+172,Halden Electrical Ltd,45,False
+173,Granton Manufacturing Ltd,60,False
+174,Trademaster Manufacturing Ltd,30,True
+175,Halden Timber Ltd,60,False
+176,Westmoor Electrical Ltd,90,False
+177,Thornbury Merchanting Supplies Ltd,90,False
+178,Holloway Distribution Ltd,45,False
+179,Draycote Timber Ltd,45,False
+180,Calvert Fixings Ltd,60,True
+181,Calvert Manufacturing Ltd,30,False
+182,Marlstone Timber Ltd,60,True
+183,Westmoor Timber Ltd,45,False
+184,Calvert Distribution Ltd,60,True
+185,Draycote Distribution Ltd,60,False
+186,Redbrook Plumbing Ltd,60,True
+187,Castleford Electrical Ltd,60,False
+188,Ironside Distribution Ltd,60,False
+189,Fernley Building Products Ltd,60,False
+190,Halden Fixings Ltd,60,True
+191,Marlstone Distribution Ltd,60,True
+192,Marlstone Fixings Ltd,45,False
+193,Sparkwell Distribution Ltd,60,False
+194,Sparkwell Plumbing Ltd,60,False
+195,Marlstone Manufacturing Ltd,60,False
+196,Redbrook Distribution Ltd,60,False
+197,Holloway Manufacturing Ltd,90,True
+198,Calvert Building Products Ltd,60,False
+199,Halden Fixings Ltd,60,False
+200,Thornbury Fixings Ltd,45,False
+201,Halden Merchanting Supplies Ltd,30,False
+202,Kestrel Fixings Ltd,30,True
+203,Holloway Fixings Ltd,45,False
+204,Westmoor Fixings Ltd,60,False
+205,Brindley Timber Ltd,30,False
+206,Ashby Distribution Ltd,90,True
+207,Halden Fixings Ltd,60,False
+208,Trademaster Merchanting Supplies Ltd,60,False
+209,Halden Merchanting Supplies Ltd,60,False
+210,Redbrook Building Products Ltd,30,False
+211,Pennine Building Products Ltd,60,False
+212,Halden Electrical Ltd,90,False
+213,Brickfield Merchanting Supplies Ltd,45,False
+214,Calvert Electrical Ltd,90,False
+215,Halden Plumbing Ltd,60,False
+216,Castleford Timber Ltd,60,False
+217,Thornbury Fixings Ltd,90,False
+218,Brickfield Distribution Ltd,45,False
+219,Thornbury Plumbing Ltd,30,False
+220,Sparkwell Timber Ltd,60,False
+221,Castleford Timber Ltd,90,False
+222,Castleford Electrical Ltd,90,False
+223,Pennine Electrical Ltd,30,False
+224,Fernley Timber Ltd,60,False
+225,Pennine Electrical Ltd,60,False
+226,Ashby Fixings Ltd,60,False
+227,Sparkwell Building Products Ltd,45,False
+228,Westmoor Manufacturing Ltd,60,False
+229,Draycote Manufacturing Ltd,90,False
+230,Northgate Merchanting Supplies Ltd,60,False
+231,Brickfield Plumbing Ltd,60,False
+232,Sparkwell Building Products Ltd,60,True
+233,Fernley Fixings Ltd,30,False
+234,Marlstone Fixings Ltd,30,False
+235,Marlstone Timber Ltd,60,False
+236,Thornbury Electrical Ltd,60,False
+237,Redbrook Plumbing Ltd,30,False
+238,Sparkwell Plumbing Ltd,60,False
+239,Redbrook Distribution Ltd,60,False
+240,Pennine Electrical Ltd,60,False
+241,Trademaster Fixings Ltd,60,False
+242,Thornbury Fixings Ltd,60,False
+243,Calvert Fixings Ltd,60,False
+244,Kestrel Electrical Ltd,60,False
+245,Trademaster Distribution Ltd,60,False
+246,Brindley Electrical Ltd,45,False
+247,Westmoor Fixings Ltd,30,False
+248,Pennine Fixings Ltd,45,False
+249,Thornbury Electrical Ltd,45,False
+250,Northgate Plumbing Ltd,60,True
+251,Trademaster Building Products Ltd,30,False
+252,Castleford Building Products Ltd,30,False
+253,Northgate Timber Ltd,45,False
+254,Ironside Fixings Ltd,30,False
+255,Pennine Manufacturing Ltd,60,False
+256,Thornbury Timber Ltd,30,True
+257,Pennine Distribution Ltd,90,False
+258,Kestrel Electrical Ltd,60,False
+259,Granton Distribution Ltd,60,False
+260,Granton Fixings Ltd,45,False
+261,Castleford Building Products Ltd,45,False
+262,Redbrook Distribution Ltd,60,False
+263,Marlstone Merchanting Supplies Ltd,45,False
+264,Marlstone Distribution Ltd,60,False
+265,Copperline Manufacturing Ltd,45,False
+266,Redbrook Merchanting Supplies Ltd,90,False
+267,Marlstone Fixings Ltd,90,False
+268,Holloway Manufacturing Ltd,45,False
+269,Kestrel Building Products Ltd,45,False
+270,Castleford Manufacturing Ltd,60,False
+271,Granton Fixings Ltd,90,True
+272,Northgate Distribution Ltd,60,False
+273,Copperline Fixings Ltd,90,False
+274,Kestrel Distribution Ltd,60,False
+275,Brickfield Fixings Ltd,60,False
+276,Granton Building Products Ltd,60,False
+277,Kestrel Electrical Ltd,30,False
+278,Granton Electrical Ltd,60,False
+279,Castleford Merchanting Supplies Ltd,90,False
+280,Ironside Distribution Ltd,45,True
+281,Calvert Timber Ltd,60,True
+282,Westmoor Timber Ltd,60,False
+283,Halden Merchanting Supplies Ltd,45,False
+284,Pennine Distribution Ltd,90,False
+285,Northgate Distribution Ltd,45,False
+286,Marlstone Plumbing Ltd,45,False
+287,Northgate Timber Ltd,30,False
+288,Sparkwell Building Products Ltd,30,False
+289,Brindley Electrical Ltd,45,False
+290,Kestrel Plumbing Ltd,60,False
+291,Fernley Electrical Ltd,45,False
+292,Westmoor Merchanting Supplies Ltd,30,False
+293,Northgate Timber Ltd,60,False
+294,Kestrel Merchanting Supplies Ltd,30,False
+295,Castleford Timber Ltd,60,False
+296,Redbrook Fixings Ltd,30,True
+297,Thornbury Manufacturing Ltd,60,False
+298,Copperline Merchanting Supplies Ltd,30,False
+299,Fernley Plumbing Ltd,60,False
+300,Holloway Electrical Ltd,90,False
+301,Draycote Plumbing Ltd,45,False
+302,Fernley Building Products Ltd,30,False
+303,Fernley Plumbing Ltd,45,False
+304,Draycote Building Products Ltd,60,True
+305,Redbrook Merchanting Supplies Ltd,30,True
+306,Fernley Timber Ltd,30,False
+307,Brickfield Manufacturing Ltd,60,False
+308,Granton Timber Ltd,45,False
+309,Castleford Manufacturing Ltd,30,True
+310,Granton Timber Ltd,60,False
+311,Kestrel Distribution Ltd,45,False
+312,Draycote Manufacturing Ltd,30,False
+313,Granton Electrical Ltd,30,True
+314,Draycote Plumbing Ltd,60,False
+315,Fernley Manufacturing Ltd,60,False
+316,Redbrook Fixings Ltd,45,False
+317,Pennine Manufacturing Ltd,60,False
+318,Ironside Merchanting Supplies Ltd,60,False
+319,Pennine Distribution Ltd,30,False
+320,Thornbury Electrical Ltd,30,False
